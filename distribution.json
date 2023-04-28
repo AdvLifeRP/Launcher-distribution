@@ -261,8 +261,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3244023,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/[1.12.2]+SecurityCraft+v1.9.5.jar",
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/optionaloff/[1.12.2]+SecurityCraft+v1.9.5.jar",
             "MD5": "37792e2fdd3de97405662d074ac1a88f"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
