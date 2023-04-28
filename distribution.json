@@ -10,7 +10,7 @@
     {
       "id": "AdventureLife-1.12.2",
       "name": "AdventureLife (RolePlay en 1.12.2)",
-      "description": "AdventureLife, Serveur RolePlay moddé.",
+      "description": "AdventureLife, Serveur RolePlay moddé",
       "icon": null,
       "version": "1.0.0",
       "address": "93.186.69.248:25501",
@@ -416,16 +416,6 @@
           }
         },
         {
-          "id": "com.lambda.client:lambda:3.3.0@jar",
-          "name": "Lambda",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 13284103,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/lambda-3.3.0.jar",
-            "MD5": "079edb5a7ed2b5c876a58431113ec2a5"
-          }
-        },
-        {
           "id": "net.malisis.blocks:malisisblocks:1.12.2-6.1.0@jar",
           "name": "Malisis Blocks",
           "type": "ForgeMod",
@@ -433,16 +423,6 @@
             "size": 156557,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/malisisblocks-1.12.2-6.1.0.jar",
             "MD5": "d5f2cc7c9859952dddcf9e03a2875041"
-          }
-        },
-        {
-          "id": "net.malisis.core:malisiscore:1.12.2-6.5.1-SNAPSHOT@jar",
-          "name": "MalisisCore",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1939783,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/malisiscore-1.12.2-6.5.1.jar",
-            "MD5": "ccc183a97d7b9688a49bf29b61343f49"
           }
         },
         {
@@ -553,6 +533,16 @@
             "size": 37104,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/Z-VoiceRange-1.12.2.jar",
             "MD5": "5f05d412de2e7760b3ef6463a6f6b24d"
+          }
+        },
+        {
+          "id": "generated.library:malisiscore:1.12.2-6.5.1@jar",
+          "name": "malisiscore",
+          "type": "Library",
+          "artifact": {
+            "size": 1939783,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/libraries/malisiscore-1.12.2-6.5.1.jar",
+            "MD5": "ccc183a97d7b9688a49bf29b61343f49"
           }
         }
       ]
