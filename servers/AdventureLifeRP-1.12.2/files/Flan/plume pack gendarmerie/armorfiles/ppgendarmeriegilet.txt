@@ -1,0 +1,9 @@
+Name ppgendarmeriegilet
+ShortName ppgendarmeriegilet
+ModelScale 1
+Icon ppgendarmeriegilet
+Type Boots
+Model PlumePack.ppgendarmeriegilet
+ArmorTexture skin_armor_ppgendarmeriegilet
+Defence 0.0
+SmokeProtection false

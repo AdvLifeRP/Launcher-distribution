@@ -1,0 +1,9 @@
+Name ppgendarmeriedmajor
+ShortName ppgendarmeriedmajor
+ModelScale 1
+Icon ppgendarmeriedmajor
+Type Boots
+Model PlumePack.ppgendarmeriemajor
+ArmorTexture skin_armor_ppgendarmeriedept
+Defence 0.0
+SmokeProtection false

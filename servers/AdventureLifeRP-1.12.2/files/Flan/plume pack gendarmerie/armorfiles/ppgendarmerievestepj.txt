@@ -1,0 +1,9 @@
+Name ppgendarmerievestepj
+ShortName ppgendarmerievestepj
+ModelScale 1
+Icon ppgendarmerievestepj
+Type Body
+Model PlumePack.ppgendarmerieveste
+ArmorTexture skin_armor_ppgendarmerievestepj
+Defence 0.0
+SmokeProtection false

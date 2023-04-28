@@ -1,0 +1,6 @@
+{
+	"Engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Engine" ]
+	}
+}

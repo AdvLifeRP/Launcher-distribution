@@ -1,0 +1,9 @@
+Name ppgendarmeriepoloshort
+ShortName ppgendarmeriepoloshort
+ModelScale 1
+Icon ppgendarmeriepoloshort
+Type Body
+Model PlumePack.ppgendarmeriepolocourt
+ArmorTexture skin_armor_ppgendarmeriepolo
+Defence 0.30
+SmokeProtection false

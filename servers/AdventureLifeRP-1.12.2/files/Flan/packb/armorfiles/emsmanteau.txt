@@ -1,0 +1,9 @@
+Name emsmanteau
+ShortName emsmanteau
+Icon emsmanteau
+Colour 255 255 255
+Type Body
+Model PlumePack.emsmanteau
+Defence 0.0
+ArmourTexture skin_armor_emsmanteau
+ModelScale 1.00

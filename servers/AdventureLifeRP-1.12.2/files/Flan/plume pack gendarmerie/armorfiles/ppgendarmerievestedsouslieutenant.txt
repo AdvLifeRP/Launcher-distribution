@@ -1,0 +1,9 @@
+Name ppgendarmerievestedsouslieutenant
+ShortName ppgendarmerievestedsouslieutenant
+ModelScale 1
+Icon ppgendarmerievestedsouslieutenant
+Type Boots
+Model PlumePack.ppgendarmerievestesouslieutenant
+ArmorTexture skin_armor_gradevestedp
+Defence 0.0
+SmokeProtection false

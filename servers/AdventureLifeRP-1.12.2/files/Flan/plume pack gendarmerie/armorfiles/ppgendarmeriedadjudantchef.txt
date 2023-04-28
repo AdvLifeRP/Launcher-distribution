@@ -1,0 +1,9 @@
+Name ppgendarmeriedadjudantchef
+ShortName ppgendarmeriedadjudantchef
+ModelScale 1
+Icon ppgendarmeriedadjudantchef
+Type Boots
+Model PlumePack.ppgendarmerieadjudant
+ArmorTexture skin_armor_ppgendarmeriedept
+Defence 0.0
+SmokeProtection false

@@ -1,0 +1,9 @@
+Name emspolo
+ShortName emspolo
+Icon emspolo
+Colour 255 255 255
+Type Legs
+Model PlumePack.emspolo
+Defence 0.0
+ArmourTexture skin_armor_emspolo
+ModelScale 1.00

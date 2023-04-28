@@ -1,0 +1,9 @@
+Name ppgendarmeriedcommandant
+ShortName ppgendarmeriedcommandant
+ModelScale 1
+Icon ppgendarmeriedcommandant
+Type Boots
+Model PlumePack.ppgendarmeriecommandant
+ArmorTexture skin_armor_ppgendarmeriedept
+Defence 0.0
+SmokeProtection false

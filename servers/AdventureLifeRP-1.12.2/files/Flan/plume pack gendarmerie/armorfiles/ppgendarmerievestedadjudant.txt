@@ -1,0 +1,9 @@
+Name ppgendarmerievestedadjudant
+ShortName ppgendarmerievestedadjudant
+ModelScale 1
+Icon ppgendarmerievestedadjudant
+Type Boots
+Model PlumePack.ppgendarmerievesteadjudant
+ArmorTexture skin_armor_gradevestedp
+Defence 0.0
+SmokeProtection false

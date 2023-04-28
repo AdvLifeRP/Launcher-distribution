@@ -1,0 +1,9 @@
+Name ppgendarmeriecalot
+ShortName ppgendarmeriecalot
+ModelScale 1
+Icon ppgendarmeriecalot
+Type Head
+Model PlumePack.ppgendarmeriecalot
+ArmorTexture skin_armor_ppgendarmeriecalot
+Defence 0.30
+SmokeProtection false

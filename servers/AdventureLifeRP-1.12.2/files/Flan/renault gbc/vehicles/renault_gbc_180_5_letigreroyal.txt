@@ -1,0 +1,71 @@
+﻿Name renault_gbc_180_5_letigreroyal
+ShortName renault_gbc_180_5_letigreroyal
+Description Renualt GBC 180 (leTIGREroyal (fini le 21/05/19))
+Model renault_gbc_180_1_letigreroyal
+ModelScale 0.3
+Icon renault_gbc_180_5_letigreroyal
+
+Model tigerpack.renault_gbc_180_1_letigreroyal
+ModelScale 0.3
+Texture renault_gbc_180_3_letigreroyal
+
+MaxThrottle 0.95
+MaxNegativeThrottle 0.5
+Drag 0.1
+
+HasSiren True
+
+NumWheels 4
+WheelPosition 0 -28 -8 -16
+WheelPosition 1 -28 -8 16
+WheelPosition 2 28 -8 16
+WheelPosition 3 28 -8 -16
+WheelRadius 1.0
+WheelSpringStrength 0.2
+
+ShootDelay 999
+
+Driver 19 14 -11
+Passengers 9
+Passenger 1 19 14 6 core
+Passenger 2 -3 17 -17 core -10 150 -50 50
+Passenger 3 -2 17 11 core -150 -10 -50 50
+Passenger 4 -20 17 -17 core -10 150 -50 50
+Passenger 5 -19 17 11 core -150 -10 -50 50
+Passenger 6 -36 17 11 core -150 -10 -50 50
+Passenger 7 -37 17 -17 core -10 150 -50 50
+Passenger 8 -54 17 -17 core -10 150 -50 50
+Passenger 9 -54 17 11 core -150 -10 -50 50
+
+CargoSlots 1
+ShellSlots 0
+FuelTankSize 1000
+
+SetupPart core 100 -53 -3 -20 100 16 40
+
+BulletDetection 5
+
+CameraDistance 8.0
+
+StartSound Engine
+StartSoundLength 20
+EngineSound Engine
+EngineSoundLength 20
+ShellSound shell
+
+RotateWheels true
+
+TurnLeftSpeed 1
+TurnRightSpeed 1
+FourWheelDrive True
+
+ShootDelay 999
+
+ShootSound mpackm1911Shoot
+ShellSound mpackm1911Shoot
+
+IsExplosionWhenDestroyed true
+
+----------------------------------------------------------------------------
+                       Model crée par leTIGREroyal
+----------------------------------------------------------------------------

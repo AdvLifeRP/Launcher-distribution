@@ -1,0 +1,91 @@
+﻿Name PVP Panhard du GIGN
+ShortName pvp_gign_letigreroyal
+Description PVP panhard fini par leTIGREroyal le 20/02/20
+Model tigerpack.pvp_gign_letigreroyal
+ModelScale 0.56
+Icon pvp_gign_letigreroyal
+
+Model tigerpack.pvp_gign_letigreroyal
+ModelScale 0.56
+Texture pvp_gign_letigreroyal
+
+MaxThrottle 1.0
+MaxNegativeThrottle 0.5
+Drag 0.1
+
+NumWheels 4
+WheelPosition 0 -41 -10.5 -14
+WheelPosition 1 -41 -10.5 14
+WheelPosition 2 15 -10.5 14
+WheelPosition 3 15 -10.5 -14
+WheelRadius 1.0
+WheelSpringStrength 0.2
+
+
+ShootDelay 999
+
+Driver -12 2 -8
+Passengers 3
+Passenger 1 -12 2 9 core
+Passenger 2 -22 2 11 core
+Passenger 3 -22 2 -11 core
+
+
+
+
+
+CargoSlots 6
+ShellSlots 0
+FuelTankSize 1000
+
+SetupPart core 100 -53 -3 -20 100 16 40
+
+BulletDetection 5
+
+CameraDistance 9.0
+
+StartSound Engine
+StartSoundLength 20
+EngineSound Engine
+EngineSoundLength 20
+ShellSound shell
+
+RotateWheels true
+
+TurnLeftSpeed 1
+TurnRightSpeed 1
+FourWheelDrive True
+
+ShootDelay 999
+
+ShootSound mpackm1911Shoot
+ShellSound mpackm1911Shoot
+
+IsExplosionWhenDestroyed true
+
+
+//Smoke
+//AddEmitter <type> <intensity> <position: [x,y,z]> <dispertion: [x,y,z]> <orientation: [x,y,z]> <throttle: mini, max, unknown> <unknown> <part>
+//Stage 1
+AddEmitter smoke 1 [-37,-3.8,11.5] [1,1,1] [-1,-0.2,0] 0.05 0.33 0 1 core
+AddEmitter smoke 1 [-37,-3.8,-11.5] [1,1,1] [-1,-0.2,0] 0.05 0.33 0 1 core
+//Stage 2 shift
+AddEmitter smoke 1 [-37,-3.8,11.5] [1,1,1] [-1,-0.2,0] 0.33 0.34 0 1 core
+AddEmitter smoke 1 [-37,-3.8,-11.5] [1,1,1] [-1,-0.2,0] 0.33 0.34 0 1 core
+AddEmitter largesmoke 1 [-37,-3.8,11.5] [3,3,3] [-1,-0.2,0] 0.33 0.34 0 1 core
+AddEmitter largesmoke 1 [-37,-3.8,-11.5] [3,3,3] [-1,-0.2,0] 0.33 0.34 0 1 core
+//Stage 2 shift
+AddEmitter smoke 1 [-37,-3.8,-11.5] [1,5,5] [-1,-0.2,0] 0.34 0.66 0 1 core
+AddEmitter smoke 1 [-37,-3.8,11.5] [1,5,5] [-1,-0.2,0] 0.34 0.66 0 1 core
+//Stage 3 shift
+AddEmitter smoke 1 [-37,-3.8,11.5] [1,1,1] [-1,-0.2,0] 0.66 0.67 0 1 core
+AddEmitter smoke 1 [-37,-3.8,-11.5] [1,1,1] [-1,-0.2,0] 0.66 0.67 0 1 core
+AddEmitter largesmoke 1 [-37,-3.8,11.5] [3,3,3] [-1,-0.2,0] 0.66 0.67 0 1 core
+AddEmitter largesmoke 1 [-37,-3.8,-11.5] [3,3,3] [-1,-0.2,0] 0.66 0.67 0 1 core
+//Stage 3 
+AddEmitter smoke 1 [-37,-3.8,-11.5] [1,5,5] [-3,0,0] 0.66 1.0 0 1 core
+AddEmitter smoke 1 [-37,-3.8,11.5] [1,5,5] [-3,0,0] 0.66 1.0 0 1 core
+
+----------------------------------------------------------------------------
+                       Model crée par leTIGREroyal
+----------------------------------------------------------------------------

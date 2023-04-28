@@ -1,0 +1,9 @@
+Name ppgendarmerievestedmarechaldeslogischef
+ShortName ppgendarmerievestedmarechaldeslogischef
+ModelScale 1
+Icon ppgendarmerievestedmarechaldeslogischef
+Type Boots
+Model PlumePack.ppgendarmerievestemarechaldeslogischef
+ArmorTexture skin_armor_gradevestedp
+Defence 0.0
+SmokeProtection false

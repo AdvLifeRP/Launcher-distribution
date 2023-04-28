@@ -1,0 +1,9 @@
+Name ppgendarmeriepantalon
+ShortName ppgendarmeriepantalon
+ModelScale 1
+Icon ppgendarmeriepantalon
+Type Legs
+Model PlumePack.ppgendarmeriepantalon
+ArmorTexture skin_armor_ppgendarmeriepantalon
+Defence 0.10
+SmokeProtection false

@@ -1,0 +1,9 @@
+Name ppcasquepsig
+ShortName ppcasquepsig
+ModelScale 1
+Icon ppgendarmeriecasquepsig
+Type Head
+Model PlumePack.ppcasquepsig
+ArmorTexture skin_armor_ppcasquepsig
+Defence 0.30
+SmokeProtection false
