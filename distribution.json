@@ -1,0 +1,561 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "AdventureLife-1.12.2",
+      "name": "AdventureLife (RolePlay en 1.12.2)",
+      "description": "AdventureLife, Serveur RolePlay moddé.",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "93.186.69.248:25501",
+      "minecraftVersion": "1.12.2",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860:universal",
+          "name": "Minecraft Forge",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 4466148,
+            "MD5": "2b5b6ccfa3c6ffcea9073d13d1ec5236",
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.12.2-14.23.5.2860",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 11799,
+                "MD5": "fdf65dd024faa5c9a51372e5fb975dfe",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/versions/1.12.2-forge-14.23.5.2860/1.12.2-forge-14.23.5.2860.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-debug-all:5.2@jar",
+              "name": "Minecraft Forge (asm-debug-all)",
+              "type": "Library",
+              "artifact": {
+                "size": 387903,
+                "MD5": "fe5f20404ccdee9769ef05dc4b47ba98",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/org/ow2/asm/asm-debug-all/5.2/asm-debug-all-5.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraft:launchwrapper:1.12@jar",
+              "name": "Minecraft Forge (launchwrapper)",
+              "type": "Library",
+              "artifact": {
+                "size": 32999,
+                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline:3.5.1@jar",
+              "name": "Minecraft Forge (jline)",
+              "type": "Library",
+              "artifact": {
+                "size": 614590,
+                "MD5": "4c20d2879ed2bd75a0771ce29e89f6b0",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/org/jline/jline/3.5.1/jline-3.5.1.jar"
+              }
+            },
+            {
+              "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar",
+              "name": "Minecraft Forge (akka-actor_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 2514991,
+                "MD5": "541440ca0819ebada47d6d1a8b3ee9e1",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar"
+              }
+            },
+            {
+              "id": "com.typesafe:config:1.2.1@jar",
+              "name": "Minecraft Forge (config)",
+              "type": "Library",
+              "artifact": {
+                "size": 219554,
+                "MD5": "3aaf3c6e76a68e732c17d4a7e9877d81",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/com/typesafe/config/1.2.1/config-1.2.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar",
+              "name": "Minecraft Forge (scala-actors-migration_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 58018,
+                "MD5": "f5e79398daa1806f8b17311a3c782723",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-compiler:2.11.1@jar",
+              "name": "Minecraft Forge (scala-compiler)",
+              "type": "Library",
+              "artifact": {
+                "size": 13449765,
+                "MD5": "06030143bf86ca896fb6ccfd679b5760",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2_mc@jar",
+              "name": "Minecraft Forge (scala-continuations-library_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 25365,
+                "MD5": "004d7007abbcee858d3ca2c3ccbcbaab",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2_mc/scala-continuations-library_2.11-1.0.2_mc.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2_mc@jar",
+              "name": "Minecraft Forge (scala-continuations-plugin_2.11.1)",
+              "type": "Library",
+              "artifact": {
+                "size": 206575,
+                "MD5": "359c4a6743a082c689039482eed78670",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2_mc/scala-continuations-plugin_2.11.1-1.0.2_mc.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-library:2.11.1@jar",
+              "name": "Minecraft Forge (scala-library)",
+              "type": "Library",
+              "artifact": {
+                "size": 5538130,
+                "MD5": "1d88f665219e6006c5dd82d71c525c0f",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-parser-combinators_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 419701,
+                "MD5": "4e694499c965af4a02599c99d4f0b196",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-reflect:2.11.1@jar",
+              "name": "Minecraft Forge (scala-reflect)",
+              "type": "Library",
+              "artifact": {
+                "size": 4372892,
+                "MD5": "7878fac044e4e4b576bb35a77ccc34fc",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-swing_2.11:1.0.1@jar",
+              "name": "Minecraft Forge (scala-swing_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 726500,
+                "MD5": "1009d69e4948045383f2a7a334348af5",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar"
+              }
+            },
+            {
+              "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar",
+              "name": "Minecraft Forge (scala-xml_2.11)",
+              "type": "Library",
+              "artifact": {
+                "size": 648679,
+                "MD5": "c2d7e66495afe14545c31b21e99879ef",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar"
+              }
+            },
+            {
+              "id": "lzma:lzma:0.0.1@jar",
+              "name": "Minecraft Forge (lzma)",
+              "type": "Library",
+              "artifact": {
+                "size": 5762,
+                "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/lzma/lzma/0.0.1/lzma-0.0.1.jar"
+              }
+            },
+            {
+              "id": "java3d:vecmath:1.5.2@jar",
+              "name": "Minecraft Forge (vecmath)",
+              "type": "Library",
+              "artifact": {
+                "size": 318956,
+                "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+              }
+            },
+            {
+              "id": "net.sf.trove4j:trove4j:3.0.3@jar",
+              "name": "Minecraft Forge (trove4j)",
+              "type": "Library",
+              "artifact": {
+                "size": 2523218,
+                "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.5.3@jar",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 54961,
+                "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar"
+              }
+            },
+            {
+              "id": "net.sf.jopt-simple:jopt-simple:5.0.3@jar",
+              "name": "Minecraft Forge (jopt-simple)",
+              "type": "Library",
+              "artifact": {
+                "size": 78175,
+                "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-api:2.15.0@jar",
+              "name": "Minecraft Forge (log4j-api)",
+              "type": "Library",
+              "artifact": {
+                "size": 301804,
+                "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-core:2.15.0@jar",
+              "name": "Minecraft Forge (log4j-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 1789769,
+                "MD5": "81e0433ae00602c0e4d00424d213b0ab",
+                "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "net.geforcemods:securitycraft:v1.9.5@jar",
+          "name": "SecurityCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3244023,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/[1.12.2]+SecurityCraft+v1.9.5.jar",
+            "MD5": "37792e2fdd3de97405662d074ac1a88f"
+          }
+        },
+        {
+          "id": "fr.aym:sqript:1.2.1-3@jar",
+          "name": "Sqript",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1078246,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/ACsGuis-1.2.1-3-all.jar",
+            "MD5": "44e5938b0af9e6d24dc334b91edebb07"
+          }
+        },
+        {
+          "id": "net.mcreator:adventurelifeicon:1.0.0@jar",
+          "name": "AdventureLife Icon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2739443,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/Adventurelife-Icon.jar",
+            "MD5": "616b423a917444c2bba6ed0a8e49e139"
+          }
+        },
+        {
+          "id": "net.mcreator:adventurelifebij:1.0.0@jar",
+          "name": "AdventureLifeBij",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2863418,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/AdventureLifeFruit.jar",
+            "MD5": "ac1de554fc07f65732a0ceb480234ceb"
+          }
+        },
+        {
+          "id": "net.mcreator:adventuremedkit:1.0.0@jar",
+          "name": "AdventureMedkit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 55965,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/AdventurelifeMods.jar",
+            "MD5": "b50c0dfc503d522a848d8f1a0e000d62"
+          }
+        },
+        {
+          "id": "net.kewane:drawmyliferoutes:1.0.0@jar",
+          "name": "DrawMyLife - Routes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 451041,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/AdventureLifeRP-Routes.jar",
+            "MD5": "a69bb71b8cfb1b6887cdf912911689e5"
+          }
+        },
+        {
+          "id": "net.sterwim.advtlife:adventurelife:1.0.0@jar",
+          "name": "AdventureLifeRP",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8534302,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/AdventureLifeRP.jar",
+            "MD5": "667309f690e38db4ba28cd0a6ef52d6b"
+          }
+        },
+        {
+          "id": "guichaguri.betterfps:betterfps:1.4.8@jar",
+          "name": "BetterFps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 155196,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/BetterFps-1.4.8.jar",
+            "MD5": "d36f4d3c0f96e99a9a1ad2e8eeda1fc4"
+          }
+        },
+        {
+          "id": "epicsquid.blockcraftery:blockcraftery:1.2.0@jar",
+          "name": "Blockcraftery",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 105052,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/Blockcraftery-1.12.2.jar",
+            "MD5": "03b28232d2a5f6c8d5e202c0f9fbb0b3"
+          }
+        },
+        {
+          "id": "noppes.npcs:customnpcs:1.12@jar",
+          "name": "CustomNPCs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10440159,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/CustomNPCs-1.12..jar",
+            "MD5": "e8f289624d99a67ee3b78c6524b96b45"
+          }
+        },
+        {
+          "id": "net.mcreator:cocaine:1.0.0@jar",
+          "name": "Cocaine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 171905,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/Drogue-1.12.2.jar",
+            "MD5": "1fb49fe2602009606fe1d540bcc6c773"
+          }
+        },
+        {
+          "id": "com.flansmod:flansmod:5.7.2@jar",
+          "name": "Flan's Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2259256,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/FlansMod-1.12.2-5.7.2-p4.jar",
+            "MD5": "a29651db29d891f7bfd6f3bd0a2f80fe"
+          }
+        },
+        {
+          "id": "com.silvaniastudios.cities.core:furenikuscities:1.0@jar",
+          "name": "Fureniku's Cities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11242708,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/FlenixCities-1.12.2.jar",
+            "MD5": "e18cfb60bb4d5b15b91e33122d1fa9b6"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture:cfm:6.3.1@jar",
+          "name": "MrCrayfish's Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2435626,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/Furniture-1.12.2.jar",
+            "MD5": "7e4f4d160032658e095eff8221977800"
+          }
+        },
+        {
+          "id": "me.maxish0t:hotlib:0.0.1@jar",
+          "name": "HotLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11751,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/HotLib-1.12.2.jar",
+            "MD5": "289c564e0382ddbdd5df573b402c5610"
+          }
+        },
+        {
+          "id": "team.creative.itemphysic:itemphysic:1.12.2@jar",
+          "name": "ItemPhysic",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 46484,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/ItemPhysic-1.12.2.jar",
+            "MD5": "4fb59dab136e73cd74eeb93479020693"
+          }
+        },
+        {
+          "id": "com.lambda.client:lambda:3.3.0@jar",
+          "name": "Lambda",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13284103,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/lambda-3.3.0.jar",
+            "MD5": "079edb5a7ed2b5c876a58431113ec2a5"
+          }
+        },
+        {
+          "id": "net.malisis.blocks:malisisblocks:1.12.2-6.1.0@jar",
+          "name": "Malisis Blocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 156557,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/malisisblocks-1.12.2-6.1.0.jar",
+            "MD5": "d5f2cc7c9859952dddcf9e03a2875041"
+          }
+        },
+        {
+          "id": "net.malisis.core:malisiscore:1.12.2-6.5.1-SNAPSHOT@jar",
+          "name": "MalisisCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1939783,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/malisiscore-1.12.2-6.5.1.jar",
+            "MD5": "ccc183a97d7b9688a49bf29b61343f49"
+          }
+        },
+        {
+          "id": "net.malisis.doors:malisisdoors:1.12.2-7.3.0@jar",
+          "name": "MalisisDoors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1741669,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/malisisdoors-1.12.2-7.3.0.jar",
+            "MD5": "6d0f129ff9a05f84add5b2209a6d0284"
+          }
+        },
+        {
+          "id": "net.malisis.switches:malisisswitches:1.12.2-5.1.0@jar",
+          "name": "Malisis Switches",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 95850,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/malisisswitches-1.12.2-5.1.0.jar",
+            "MD5": "d031af11c1d0a64f080d9a472f4c14c1"
+          }
+        },
+        {
+          "id": "com.modularmods:mcgltf:1.12.2-Forge-2.0.3.0@jar",
+          "name": "MCglTF",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 558870,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/MCglTF-1.12.2-Forge-2.0.3.0.jar",
+            "MD5": "11df7853ab718b7d63cc9c93475552f4"
+          }
+        },
+        {
+          "id": "fr.nathanael2611.modularvoicechat:modularvc:1.1.1@jar",
+          "name": "ModularVoiceChat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2807958,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/ModularVoiceChat-1.12.2.jar",
+            "MD5": "63cd7dc41f8adc1112de2c377433c5aa"
+          }
+        },
+        {
+          "id": "epicsquid.mysticallib:mysticallib:1.12.2-1.11.0@jar",
+          "name": "Mystical Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 425127,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/Mysticallib-1.12.2.jar",
+            "MD5": "34bbb00e2eae273e1935e419a8ec48b7"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
+          "name": "OptiFine 1.12.2_HD_U_G5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2457427,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/OptiFine-OptiFine-1.12.2_HD_U_G5.jar",
+            "MD5": "92a619d468d9576a531a7ca8908669e2"
+          }
+        },
+        {
+          "id": "derfl007.roads:df-roads:1.5.2-mc1.12.2@jar",
+          "name": "Derfl007's Road Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3099890,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/RealisticRoadMod-1.12.2-p1.jar",
+            "MD5": "618b4f656eca9435ba06e48f5d3610ab"
+          }
+        },
+        {
+          "id": "com.bear.rojiura:rojiuramod:1.12.2_0.1.4.a@jar",
+          "name": "Rojiura Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4072608,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/rojiuramod-1.12.2_0.1.4.a.jar",
+            "MD5": "5a2c5da4645273d8677ccd5109796d81"
+          }
+        },
+        {
+          "id": "com.kamesuta.mc:signpic:2.8.1@jar",
+          "name": "SignPicture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1086045,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/SignPicture-1.12.1-2.8.1-universal.jar",
+            "MD5": "194694802feeec670f11f40b36b2ec8a"
+          }
+        },
+        {
+          "id": "mariot7.xlfoodmod:xlfoodmod:1.9.2@jar",
+          "name": "XL Food Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 400208,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/XLFoodMod-1.12.2.jar",
+            "MD5": "99996774ced05042e9955d76ed8c8d19"
+          }
+        },
+        {
+          "id": "fr.zeevoker2vex.voicerange:z-voice-range:1.0.2@jar",
+          "name": "Z-VoiceRange",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37104,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/Z-VoiceRange-1.12.2.jar",
+            "MD5": "5f05d412de2e7760b3ef6463a6f6b24d"
+          }
+        }
+      ]
+    }
+  ]
+}
