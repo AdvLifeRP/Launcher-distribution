@@ -1,0 +1,67 @@
+﻿Name renault_master_ap_letigreroyal
+ShortName renault_master_ap_letigreroyal
+Description Renault Master ADMINISTRATION PENITENTIAIRE
+Model renault_master_crs_letigreroyal
+ModelScale 0.41
+Icon renault_master_ap_letigreroyal
+
+Model tigerpack.renault_master_ap_letigreroyal
+ModelScale 0.41
+Texture renault_master_ap_letigreroyal
+
+MaxThrottle 1.0
+MaxNegativeThrottle 0.5
+Drag 0.1
+
+NumWheels 4
+WheelPosition 0 -28 -9.85 -16
+WheelPosition 1 -28 -9.85 16
+WheelPosition 2 28 -9.85 16
+WheelPosition 3 28 -9.85 -16
+WheelRadius 1.0
+WheelSpringStrength 0.2
+
+ShootDelay 999
+
+Driver 10 5 -2
+Passengers 6
+Passenger 1 10 5 14 core
+Passenger 2 -27 5 15 core -150 -10 -50 50
+Passenger 3 -44 5 15 core -150 -10 -50 50
+Passenger 4 -44 5 -3 core -10 150 -50 50
+Passenger 5 -27 5 -3 core -10 150 -50 50
+Passenger 6 -10 5 -3 core -10 150 -50 50
+
+
+CargoSlots 1
+ShellSlots 0
+FuelTankSize 1000
+
+SetupPart core 100 -53 -3 -20 100 16 40
+
+BulletDetection 5
+
+CameraDistance 8.0
+
+StartSound Engine
+StartSoundLength 20
+EngineSound Engine
+EngineSoundLength 20
+ShellSound shell
+
+RotateWheels true
+
+TurnLeftSpeed 1
+TurnRightSpeed 1
+FourWheelDrive True
+
+ShootDelay 999
+
+ShootSound mpackm1911Shoot
+ShellSound mpackm1911Shoot
+
+IsExplosionWhenDestroyed true
+
+----------------------------------------------------------------------------
+                       Model crée par leTIGREroyal
+----------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+Name Ghillie Suit
+ShortName ghilliesuit
+ItemID 37305
+Icon mgc.iconghilliesuit
+Colour 255 255 255
+Type Legs
+Model mineZ.Ghillie
+ModelScale 1.08
+Defence 0
+ArmourTexture Ghillie

@@ -1,0 +1,9 @@
+Name giletpareballescommandomarine
+ShortName gilepareballcommmari
+Icon giletpareballescommandomarine
+Colour 255 255 255
+Type Body
+Model nowdek.giletpareballescommandomarine
+Defence 0.5
+ArmourTexture giletpareballescommandomarine
+ModelScale 1.00

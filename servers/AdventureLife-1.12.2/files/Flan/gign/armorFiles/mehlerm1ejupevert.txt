@@ -1,0 +1,9 @@
+Name MehlerM1EJupeVert
+ShortName MehlerM1EJupeVert
+Icon MehlerM1EJupeVert
+Colour 255 255 255
+Type Body
+Model GunPackGIGN.MehlerM1EJupeVert
+Defence 0.30
+ArmourTexture TextureGIGN
+ModelScale 1.00

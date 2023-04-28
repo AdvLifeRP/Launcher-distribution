@@ -1,0 +1,72 @@
+﻿-------------------------------------------------------------
+		       CIVIL PACK
+--------------------------------------------------------------
+
+Gang pack
+---------
+
+item.bandana_ballas_letigreroyal.name=Bandana tête violet
+item.bandana_grove_letigreroyal.name=Bandana tête Grove vert
+item.bandana_vagos_letigreroyal_2.name=Bandana tête jaune
+
+item.tshirt_ballas_letigreroyal.name=T-shirt Ballas (type 1)
+item.tshirt_ballas2_letigreroyal.name=T-shirt Ballas (type 2)
+item.tshirt_blanc_letigreroyal.name=T-shirt Blanc
+item.tshirt_grove_letigreroyal.name=T-shirt Grove Street (type 1)
+item.tshirt_jaune_letigreroyal.name=T-shirt Jaune
+item.tshirt_noir_letigreroyal.name=T-shirt Noir
+item.tshirt_vagos_letigreroyal.name=T-shirt Vagos (type 1)
+item.tshirt_vert_letigreroyal.name=T-shirt Vert
+item.tshirt_violet_letigreroyal.name=T-shirt Violet
+
+item.jean_1_bleu1_letigre_royal.name=Jean bleu/vert
+item.jean_1_bleu2_letigre_royal.name=Jean bleu/gris
+item.jean_1_bleu3_letigre_royal.name=Jean bleu clair
+item.jean_1_bleu4_letigre_royal.name=Jean bleu
+item.jean_1_gris_letigre_royal.name=Jean gris
+item.jean_1_noir1_letigre_royal.name=Jean noir
+
+item.jog_1_addidas_letigre_royal.name=Jogging Adidas
+item.jog_1_blanc_letigre_royal.name=Jogging blanc
+item.jog_1_bleu_letigre_royal.name=Jogging bleu
+item.jog_1_gris_letigre_royal.name=Jogging gris
+item.jog_1_jaune_letigre_royal.name=Jogging jaune
+item.jog_1_noir_letigre_royal.name=Jogging noir
+item.jog_1_noirtigre_letigre_royal.name=Jogging noir (Tigre)
+item.jog_1_orange_letigre_royal.name=Jogging orange
+item.jog_1_rose_letigre_royal.name=Jogging rose
+item.jog_1_vert_letigre_royal.name=Jogging vert
+item.jog_1_violet_letigre_royal.name=Jogging violet
+
+
+TEDDY
+-----
+
+item.veste-teddy_ballas_letigreroyal.name=Teddy Ballas (type 1)
+item.veste-teddy_grove_letigreroyal.name=Teddy Grove Street (type 1)
+item.veste-teddy_bancnoir2_letigreroyal_1.name=Teddy blanc Noir (type 2)
+item.veste-teddy_blanc_letigreroyal_1.name=Teddy blanc 
+item.veste-teddy_blancnoir_letigreroyal_1.name=Teddy blanc noir (type 1)
+item.veste-teddy_bleu1_letigreroyal_1.name=Teddy bleu
+item.veste-teddy_bleuclair_letigreroyal_1.name=Teddy bleu clair
+item.veste-teddy_bleufonce_letigreroyal_1.name=Teddy bleu foncé
+item.veste-teddy_bleuturquoise_letigreroyal_1.name=Teddy bleu turquoise
+item.veste-teddy_brun_letigreroyal_1.name=Teddy brun
+item.veste-teddy_gris_letigreroyal_1.name=Teddy gris
+item.veste-teddy_grisnoir_letigreroyal_1.name=Teddy gris noir
+item.veste-teddy_jaune_letigreroyal_1.name=Teddy jaune
+item.veste-teddy_noir1_letigreroyal_1.name=Teddy noir (type 1)
+item.veste-teddy_noir2_letigreroyal_1.name=Teddy noir (type 2)
+item.veste-teddy_noir3_letigreroyal_1.name=Teddy noir (type 3)
+item.veste-teddy_orange_letigreroyal_1.name=Teddy orange
+item.veste-teddy_orangenoir_letigreroyal_1.name=Teddy orange noir
+item.veste-teddy_ornoir_letigreroyal_1.name=Teddy  or noir
+item.veste-teddy_rose_letigreroyal_1.name=Teddy rose
+item.veste-teddy_rosenoir_letigreroyal_1.name=Teddy rose noir
+item.veste-teddy_rouge_letigreroyal_1.name=Teddy rouge 
+item.veste-teddy_rougeclair_letigreroyal_1.name=Teddy rouge clair
+item.veste-teddy_rougenoirletigreroyal_1.name=Teddy rouge noir
+item.veste-teddy_vert_letigreroyal_1.name=Teddy vert 
+item.veste-teddy_vertnoir_letigreroyal_1.name=Teddy vert noir
+item.veste-teddy_violet_letigreroyal_1.name=Teddy violet
+item.veste-teddy_violetnoir_letigreroyal_1.name=Teddy violet noir

@@ -1,0 +1,9 @@
+Name FlapNegoVert
+ShortName FlapNegoVert
+Icon FlapNegoVert
+Colour 255 255 255
+Type Boots
+Model GunPackGIGN.FlapNegoVert
+Defence 0.1
+ArmourTexture TextureFlap
+ModelScale 1.00

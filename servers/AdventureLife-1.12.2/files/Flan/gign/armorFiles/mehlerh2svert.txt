@@ -1,0 +1,9 @@
+Name MehlerH2SVert
+ShortName MehlerH2SVert
+Icon MehlerH2SVert
+Colour 255 255 255
+Type Head
+Model GunPackGIGN.MehlerH2SVert
+Defence 0.30
+ArmourTexture TextureGIGN
+ModelScale 1.00

@@ -1,0 +1,9 @@
+Name MehlerS5Epaule
+ShortName MehlerS5Epaule
+Icon MehlerS5Epaule
+Colour 255 255 255
+Type Body
+Model GunPackGIGN.MehlerS5Epaule
+Defence 0.30
+ArmourTexture TextureGIGN
+ModelScale 1.00

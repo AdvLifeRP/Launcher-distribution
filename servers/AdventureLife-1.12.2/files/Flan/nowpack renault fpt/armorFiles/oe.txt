@@ -1,0 +1,9 @@
+Name MSI Sordin
+ShortName sordinbrown
+ItemID 23885
+Icon SordinBrown
+Colour 255 255 255
+Type Hat
+Defence 0.00
+Model EFC.sordin
+ArmourTexture SordinBrown

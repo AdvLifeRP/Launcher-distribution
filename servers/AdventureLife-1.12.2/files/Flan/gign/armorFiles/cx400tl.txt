@@ -1,0 +1,9 @@
+Name CX400TL
+ShortName CX400TL
+Icon CX400TL
+Colour 255 255 255
+Type Boots
+Model GunPackGIGN.CX400TL
+Defence 0.1
+ArmourTexture TextureBouclier
+ModelScale 1.00

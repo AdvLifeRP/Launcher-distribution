@@ -1,0 +1,9 @@
+Name detainee
+ShortName detainee
+Icon detainee
+Colour 255 255 255
+Type Body
+Model PlumePack.detainee
+Defence 0.05
+ArmourTexture skin_armor_detainee
+ModelScale 1.00

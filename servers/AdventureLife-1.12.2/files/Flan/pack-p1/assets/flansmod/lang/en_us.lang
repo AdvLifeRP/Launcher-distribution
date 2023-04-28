@@ -1,0 +1,391 @@
+-----------------------------------------------
+		HONDA ATV 2006
+-----------------------------------------------
+item.honda_atv_2006_rouge_letigreroyal.name=Honda ATV 2006 Rouge
+item.honda_atv_2006_blanc_letigreroyal.name=Honda ATV 2006 Blanc
+item.honda_atv_2006_bleu_letigreroyal.name=Honda ATV 2006 Bleu
+item.honda_atv_2006_jaune_letigreroyal.name=Honda ATV 2006 Jaune
+item.honda_atv_2006_lime_letigreroyal.name=Honda ATV 2006 Lime
+item.honda_atv_2006_noir_letigreroyal.name=Honda ATV 2006 Noir
+item.honda_atv_2006_rose_letigreroyal.name=Honda ATV 2006 Rose
+item.honda_atv_2006_vert_letigreroyal.name=Honda ATV 2006 Vert
+item.honda_atv_2006_violet_letigreroyal.name=Honda ATV 2006 Violet
+
+item.honda_atv_2006_2_gendarmerie_letigreroyal.name=Honda ATV 2006 de la Gendarmerie
+item.honda_atv_2006_2_pn_letigreroyal.name=Honda ATV 2006 de la Police Nationale
+item.honda_atv_2006_2_pompier_letigreroyal.name=Honda ATV 2006 des Pompiers
+item.honda_atv_2006_2_millitaire_letigreroyal.name=Honda ATV 2006 Militaire
+
+
+item.honda_atv_2006_ap_letigreroyal.name=Honda ATV 2006 Post Apo 1
+item.honda_atv_2006_ap2_letigreroyal.name=Honda ATV 2006 Post Apo 2
+
+
+
+--------------------------------------------------------------------
+				BERET
+--------------------------------------------------------------------
+
+item.beret_bleu_clair_g_letigreroyal.name=Beret bleu clair (grand)
+item.beret_bleu_clair_letigreroyal.name=Beret bleu clair
+item.beret_bleu_g_letigreroyal.name=Beret bleu (grand)
+item.beret_bleu_letigreroyal.name=Beret bleu
+item.beret_exemple_letigreroyal.name=Beret Exemple
+item.beret_noir_g_letigreroyal.name=Beret noir (grand)
+item.beret_noir_letigreroyal.name=Beret noir
+item.beret_rouge_g_letigreroyal.name=Beret rouge (grand)
+item.beret_rouge_letigreroyal.name=Beret rouge
+item.beret_vert_g_letigreroyal.name=Beret vert (grand)
+item.beret_vert_letigreroyal.name=Beret vert
+
+
+
+--------------------------------------------------------------
+			CIVIL
+--------------------------------------------------------------
+item.blouse_letigreroyal.name=Blouse Blanche
+item.lunette_letigreroyal.name= Lunette
+
+
+
+-------------------------------------------------------
+			FBI ATF
+-------------------------------------------------------
+
+item.Chaussure_FBI_leTIGREroyal.name=Chaussures du FBI
+item.Lunette_leTIGREroyal.name=Lunettes
+item.Pantalon_FBI_leTIGREroyal.name=Pantalon du FBI
+item.Veste_FBI_leTIGREroyal.name=Veste du FBI
+
+item.Pantalon_ATF_leTIGREroyal.name=Pantalon de l'ATF
+item.Veste_ATF_leTIGREroyal.name=Veste de l'ATF
+
+
+--------------------------
+    RENAULT MEGANE RS
+--------------------------
+
+item.megane_rs_civil_blanc_letigreroyal.name=Renault Megane RS Blanche 
+item.megane_rs_civil_bleu_letigreroyal.name=Renault Megane RS Bleue
+item.megane_rs_civil_gris_letigreroyal.name=Renault Megane RS Grise
+item.megane_rs_civil_jaune_letigreroyal.name=Renault Megane RS Jaune
+item.megane_rs_civil_noir_letigreroyal.name=Renault Megane RS Noire
+item.megane_rs_civil_orange_letigreroyal.name=Renault Megane RS Orange
+item.megane_rs_civil_rose_letigreroyal.name=Renault Megane RS Rose
+item.megane_rs_civil_rouge_letigreroyal.name=Renault Megane RS Rouge
+item.megane_rs_civil_verte_letigreroyal.name=Renault Megane RS Verte
+item.megane_rs_civil_violet_letigreroyal.name=Renault Megane RS Violette
+
+item.megane_rs_gendarmerie_letigreroyal.name=Renault Megane RS de la Gendarmerie (Type 1)
+item.megane_rs_gendarmerie2_letigreroyal.name=Renault Megane RS de la Gendarmerie (Type 2)
+
+item.megane_rs_banalisee_bleu_letigreroyal.name=Megane RS Banalisée Bleue
+item.megane_rs_banalisee_grise_letigreroyal.name=Megane RS Banalisée Grise
+item.megane_rs_banalisee_noire_letigreroyal.name=Megane RS Banalisée Noire
+
+item.megane_rs_pn2_letigreroyal.name=Renault Megane RS de la Police Nationale (Type 2)
+item.megane_rs_pn_letigreroyal.name=Renault Megane RS de la Police Nationale (Type 1)
+
+
+
+
+--------------------------------------------------------
+		FORD CROWN VICTORIA
+--------------------------------------------------------
+			 POLICE
+
+item.FCV_Police_LA.name=Ford Crown Victoria de la Police de Los Angeles (Type 2)
+item.FCV_Police_LA_02.name=Ford Crown Victoria de la Police de Los Angeles (Type 3)
+item.FCV_Police_LA_03.name=Ford Crown Victoria de la Police de Los Angeles (Type 1)
+item.FCV_Police_LA_04.name=Ford Crown Victoria de la Police de Los Angeles (Type 4)
+
+item.FCV_Sheriff_1.name=Ford Crown Victoria du Sheriff (Type 1)
+item.FCV_Sheriff_2.name=Ford Crown Victoria du Sheriff (Type 2)
+			
+			BANALISEE
+
+item.FCV_Civil_Griseb.name=Ford Crown Victoria Grise (Banalisée)
+item.FCV_Civil_Blancb.name=Ford Crown Victoria Blanche (Banalisée)
+item.FCV_Civil_Bleub.name=Ford Crown Victoria Bleue (Banalisée)
+item.FCV_Civil_Brunb.name=Ford Crown Victoria Brune (Banalisée)
+item.FCV_Civil_Roseb.name=Ford Crown Victoria Rose (Banalisée)
+item.FCV_Civil_Noirb.name=Ford Crown Victoria Noire (Banalisée)
+item.FCV_Civil_Rougeb.name=Ford Crown Victoria Rouge (Banalisée)
+item.FCV_Civil_Vertb.name=Ford Crown Victoria Verte (Banalisée)
+item.FCV_Civil_Violetb.name=Ford Crown Victoria Violette (Banalisée)
+
+
+			CIVIL
+
+item.FCV_Civil_Grise.name=Ford Crown Victoria Grise
+item.FCV_Civil_Blanc.name=Ford Crown Victoria Blanche
+item.FCV_Civil_Bleu.name=Ford Crown Victoria Bleue
+item.FCV_Civil_Brun.name=Ford Crown Victoria Brune
+item.FCV_Civil_Rose.name=Ford Crown Victoria Rose
+item.FCV_Civil_Noir.name=Ford Crown Victoria Noire
+item.FCV_Civil_Rouge.name=Ford Crown Victoria Rouge
+item.FCV_Civil_Vert.name=Ford Crown Victoria Verte
+item.FCV_Civil_Violet.name=Ford Crown Victoria Violette
+
+
+
+
+Pompier
+item.ccf.name=CCF
+item.camion_pompier.name=Camion de Pompier
+
+
+-----------------------------------------------
+		RENAULT MASTER
+-----------------------------------------------
+
+CIVIL
+
+item.renault_master_gris_letigreroyal.name=Renault Master Gris (Civil)
+item.renault_master_blanc_letigreroyal.name=Renault Master Blanc (Civil)
+item.renault_master_bleu_letigreroyal.name=Renault Master Bleu (Civil)
+item.renault_master_jaune_letigreroyal.name=Renault Master Jaune (Civil)
+item.renault_master_orange_letigreroyal.name=Renault Master Orange (Civil)
+item.renault_master_rose_letigreroyal.name=Renault Master Rose (Civil)
+item.renault_master_rouge_letigreroyal.name=Renault Master Rouge (Civil)
+item.renault_master_vert_letigreroyal.name=Renault Master Vert (Civil)
+
+ENTREPRISE
+item.renault_master_et_letigreroyal.name=Renault Master leTIGREroyal (Entreprise)
+
+item.renault_master_entreprise_1_letigreroyal.name=Renault Master Entreprise 1 (PERSO)
+item.renault_master_entreprise_2_letigreroyal.name=Renault Master Entreprise 2 (PERSO)
+item.renault_master_entreprise_3_letigreroyal.name=Renault Master Entreprise 3 (PERSO)
+item.renault_master_entreprise_4_letigreroyal.name=Renault Master Entreprise 4 (PERSO)
+item.renault_master_entreprise_5_letigreroyal.name=Renault Master Entreprise 5 (PERSO)
+item.renault_master_entreprise_6_letigreroyal.name=Renault Master Entreprise 6 (PERSO)
+item.renault_master_entreprise_7_letigreroyal.name=Renault Master Entreprise 7 (PERSO)
+item.renault_master_entreprise_8_letigreroyal.name=Renault Master Entreprise 8 (PERSO)
+item.renault_master_entreprise_9_letigreroyal.name=Renault Master Entreprise 9 (PERSO)
+item.renault_master_entreprise_10_letigreroyal.name=Renault Master Entreprise 10 (PERSO)
+item.renault_master_entreprise_11_letigreroyal.name=Renault Master Entreprise 11 (PERSO)
+item.renault_master_entreprise_12_letigreroyal.name=Renault Master Entreprise 12 (PERSO)
+item.renault_master_entreprise_13_letigreroyal.name=Renault Master Entreprise 13 (PERSO)
+item.renault_master_entreprise_14_letigreroyal.name=Renault Master Entreprise 14 (PERSO)
+item.renault_master_entreprise_15_letigreroyal.name=Renault Master Entreprise 15 (PERSO)
+item.renault_master_entreprise_16_letigreroyal.name=Renault Master Entreprise 16 (PERSO)
+item.renault_master_entreprise_17_letigreroyal.name=Renault Master Entreprise 17 (PERSO)
+item.renault_master_entreprise_18_letigreroyal.name=Renault Master Entreprise 18 (PERSO)
+item.renault_master_entreprise_19_letigreroyal.name=Renault Master Entreprise 19 (PERSO)
+item.renault_master_entreprise_20_letigreroyal.name=Renault Master Entreprise 20 (PERSO)
+item.renault_master_entreprise_21_letigreroyal.name=Renault Master Entreprise 21 (PERSO)
+item.renault_master_entreprise_22_letigreroyal.name=Renault Master Entreprise 22 (PERSO)
+item.renault_master_entreprise_23_letigreroyal.name=Renault Master Entreprise 23 (PERSO)
+item.renault_master_entreprise_24_letigreroyal.name=Renault Master Entreprise 24 (PERSO)
+
+POLICE/GENDARME ETC...
+
+item.renault_master_gendarme_letigreroyal.name=Renault Master de la Gendarmerie (type 1)
+item.renault_master_gendarme2_letigreroyal.name=Renault Master de la Gendarmerie (type 2)
+item.renault_master_gendarme3_letigreroyal.name=Renault Master de la Gendarmerie (type 3)
+
+item.renault_master_crs_letigreroyal.name=Renault Master des CRS
+item.renault_master_ap_letigreroyal.name=Renault Master de l'Administration Pénitentiaire
+
+item.renault_master_pn1_letigreroyal.name=Renault Master de la Police Nationale
+
+item.renault_master_samu_letigreroyal.name=Renault Master du SAMU
+item.renault_master_pompiera_letigreroyal.name=Renault Master des Sapeurs Pompiers
+
+
+----------------------------------------------------------------
+			SKODA KAROQ
+----------------------------------------------------------------
+
+
+item.skoda_karoq_blanc_letigreroyal.name=Skoda Karoq Blanc
+item.skoda_karoq_bleu_letigreroyal.name=Skoda Karoq Bleu
+item.skoda_karoq_bri_letigreroyal.name=Skoda Karoq de la BRI
+item.skoda_karoq_cyan_letigreroyal.name=Skoda Karoq Cyan
+item.skoda_karoq_douane_letigreroyal.name=Skoda Karoq de la Douane
+item.skoda_karoq_gd_letigreroyal.name=Skoda Karoq de la Gendarmerie
+item.skoda_karoq_gris_letigreroyal.name=Skoda Karoq Gris
+item.skoda_karoq_jaune_letigreroyal.name=Skoda Karoq Jaune
+item.skoda_karoq_ng2_letigreroyal.name=Skoda Karoq Gouvernemental (type1)
+item.skoda_karoq_ng_letigreroyal.name=Skoda Karoq Gouvernemental (type1)
+item.skoda_karoq_noir_letigreroyal.name=Skoda Karoq Noir
+item.skoda_karoq_orange_letigreroyal.name=Skoda Karoq Orange
+item.skoda_karoq_pb_blanc_letigreroyal.name=Skoda Karoq Blanc (Banalise)
+item.skoda_karoq_pb_bleu_letigreroyal.name=Skoda Karoq Bleu (Banalise)
+item.skoda_karoq_pb_cyan_letigreroyal.name=Skoda Karoq Cyan (Banalise)
+item.skoda_karoq_pb_gris_letigreroyal.name=Skoda Karoq Gris (Banalise)
+item.skoda_karoq_pb_jaune_letigreroyal.name=Skoda Karoq Jaune (Banalise)
+item.skoda_karoq_pb_noir_letigreroyal.name=Skoda Karoq Noir (Banalise)
+item.skoda_karoq_pb_orange_letigreroyal.name=Skoda Karoq Orange (Banalise)
+item.skoda_karoq_pb_rose_letigreroyal.name=Skoda Karoq Rose (Banalise)
+item.skoda_karoq_pb_rouge_letigreroyal.name=Skoda Karoq Rouge (Banalise)
+item.skoda_karoq_pb_vert_letigreroyal.name=Skoda Karoq Vert (Banalise)
+item.skoda_karoq_pb_violet_letigreroyal.name=Skoda Karoq Violet (Banalise)
+item.skoda_karoq_pn_letigreroyal.name=Skoda Karoq de la Police Nationale
+item.skoda_karoq_pompier_letigreroyal.name=Skoda Karoq des Sapeurs Pompiers
+item.skoda_karoq_rose_letigreroyal.name=Skoda Karoq Rose
+item.skoda_karoq_rouge_letigreroyal.name=Skoda Karoq Rouge
+item.skoda_karoq_samu_letigreroyal.name=Skoda Karoq du SAMU
+item.skoda_karoq_taxi_blanc_letigreroyal.name=Skoda Karoq Taxi Blanc
+item.skoda_karoq_taxi_gris_letigreroyal.name=Skoda Karoq Taxi Gris
+item.skoda_karoq_taxi_noir_letigreroyal.name=Skoda Karoq Taxi Noir
+item.skoda_karoq_vert_letigreroyal.name=Skoda Karoq Vert
+item.skoda_karoq_violet_letigreroyal.name=Skoda Karoq Violet
+
+
+
+
+----------------------------------------------------
+	    Tenue Gendarmerie Mobile
+----------------------------------------------------
+
+item.gn_moto_casque_letigreroyal.name=Casque de la Gendarmerie Mobile (petit)
+item.gn_moto_casque2_letigreroyal.name=Casque de la Gendarmerie Mobile  (grand)
+item.gn_moto_gant_letigreroyal.name=Gants de moto de la Gendarmerie Mobile 
+item.gn_moto_tenue_letigreroyal.name=Tenue de la Gendarmerie Mobile 
+
+item.pn_moto_casque_letigreroyal.name=Casque de la Police Nationale (petit)
+item.pn_moto_casque2_letigreroyal.name=Casque de la Police Nationale (grand)
+item.pn_moto_gant_letigreroyal.name=Gants de moto de la Police Nationale
+item.pn_moto_tenue_letigreroyal.name=Tenue de la Police Nationale
+
+
+GRADE GENDARME
+--------------
+item.grade_gn_adjudant_moto_letigreroyal.name=Galon Adjudant (tenue GNM)
+item.grade_gn_adjudant_chef_moto_letigreroyal.name=Galon Adjudant Chef (tenue GNM)
+item.grade_gn_brigadier_moto_letigreroyal.name=Galon Brigadier (tenue GNM)
+item.grade_gn_brigadier_chef_moto_letigreroyal.name=Galon Brigadier Chef (tenue GNM)
+item.grade_gn_capitaine_moto_letigreroyal.name=Galon Capitaine (tenue GNM)
+item.grade_gn_commandant_moto_letigreroyal.name=Galon Commandant (tenue GNM)
+item.grade_gn_colonel_moto_letigreroyal.name=Galon Colonel (tenue GNM)
+item.grade_gn_general_armee_moto_letigreroyal.name=Galon Général (tenue GNM)
+item.grade_gn_general_de_corp_armee_moto_letigreroyal.name=Galon Général corps d'armée (tenue GNM)
+item.grade_gn_general_de_brigade_moto_letigreroyal.name=Galon Général de Drigade (tenue GNM)
+item.grade_gn_general_de_division_moto_letigreroyal.name=Galon Général de Division (tenue GNM)
+item.grade_gn_lieutenant_moto_letigreroyal.name=Galon Lieutenant (tenue GNM)
+item.grade_gn_lieutenant_colonel_moto_letigreroyal.name=Galon Lieutenant colonel (tenue GNM)
+item.grade_gn_mdl_moto_letigreroyal.name=Galon Mdl (tenue GNM)
+item.grade_gn_mdl_carriere_moto_letigreroyal.name=Galon Mdl Carrière (tenue GNM)
+item.grade_gn_mdl_chef_moto_letigreroyal.name=Galon Mdl Chef (tenue GIGN)
+item.grade_gn_sous_lieutenant_moto_letigreroyal.name=Galon Sous lieutenant (tenue GNM)
+item.grade_gn_1erclasse_moto_letigreroyal.name=Galon 1ère classe (tenue GNM)
+item.grade_gn_eleve_officier_moto_letigreroyal.name=Galon Eleve Officier (tenue GNM)
+item.grade_gn_mayor_moto_letigreroyal.name=Galon Major (tenue GNM)
+
+
+
+
+
+
+
+item.gilet_pare_balle1_gendarmerie_letigreroyal.name=Gilet pare Balle Gendarmerie (type 1)
+item.gilet_pare_balle2_gendarmerie_letigreroyal.name=Gilet pare Balle Gendarmerie (type 2)
+item.gilet_pare_balle3_gendarmerie_letigreroyal.name=Gilet pare Balle Gendarmerie (type 3)
+item.gilet_pare_balle4_gendarmerie_letigreroyal.name=Gilet pare Balle Gendarmerie (type 4)
+item.grade_gendarmeriem_adjudant_chef_letigreroyal.name=Grade Adjudant Chef Gendarmerie Mobile (galon+epaulettes)
+item.grade_gendarmeriem_adjudant_chef_letigreroyal_galon.name=Grade Adjudant Chef Gendarmerie Mobile (galon seul)
+item.grade_gendarmeriem_adjudant_letigreroyal.name=Grade Adjudant Gendarmerie Mobile (galon+epaulettes)
+item.grade_gendarmeriem_adjudant_letigreroyal_galon.name=Grade Adjudant Gendarmerie Mobile (galon seul)
+item.grade_gendarmeriem_capitaine_letigreroyal.name=Grade Capitaine Gendarmerie Mobile (galon+epaulettes)
+item.grade_gendarmeriem_capitaine_letigreroyal_galon.name=Grade Capitaine Gendarmerie Mobile (galon seul)
+item.grade_gendarmeriem_colonel_letigreroyal.name=Grade Colonel Gendarmerie Mobile (galon+epaulettes)
+item.grade_gendarmeriem_colonel_letigreroyal_galon.name=Grade Colonel Gendarmerie Mobile (galon seul)
+item.grade_gendarmeriem_commandant_letigreroyal.name=Grade Commandant Gendarmerie Mobile (galon+epaulettes)
+item.grade_gendarmeriem_commandant_letigreroyal_galon.name=Grade Commandant Gendarmerie Mobile (galon seul)
+item.grade_gendarmeriem_eleve_officier_letigreroyal.name=Grade Eleve Officier Gendarmerie Mobile (galon+epaulettes)
+item.grade_gendarmeriem_eleve_officier_letigreroyal_galon.name=Grade Eleve Officier Gendarmerie Mobile (galon seul)
+item.grade_gendarmeriem_lieutenant_colonel_letigreroyal.name=Grade Lieutenant Colonel Gendarmerie Mobile (galon+epaulettes)
+item.grade_gendarmeriem_lieutenant_colonel_letigreroyal_galon.name=Grade Lieutenant Colonel Gendarmerie Mobile (galon seul)
+item.grade_gendarmeriem_lieutenant_letigreroyal.name=Grade Lieutenant Gendarmerie Mobile (galon+epaulettes)
+item.grade_gendarmeriem_lieutenant_letigreroyal_galon.name=Grade Lieutenant Gendarmerie Mobile (galon seul)
+item.grade_gendarmeriem_major_letigreroyal.name=Grade Major Gendarmerie Mobile (galon+epaulettes)
+item.grade_gendarmeriem_major_letigreroyal_galon.name=Grade Major Gendarmerie Mobile (galon seul)
+item.grade_gendarmeriem_mdl_carriere_letigreroyal.name=Grade Mdl Carriere Gendarmerie Mobile (galon+epaulettes)
+item.grade_gendarmeriem_mdl_carriere_letigreroyal_galon.name=Grade Mdl Carriere Gendarmerie Mobile (galon seul)
+item.grade_gendarmeriem_mdl_chef_letigreroyal.name=Grade Mdl Chef Gendarmerie Mobile (galon+epaulettes)
+item.grade_gendarmeriem_mdl_chef_letigreroyal_galon.name=Grade Mdl Chef Gendarmerie Mobile (galon seul)
+item.grade_gendarmeriem_mdl_letigreroyal.name=Grade Mdl Gendarmerie Mobile (galon+epaulettes)
+item.grade_gendarmeriem_mdl_letigreroyal_galon.name=Grade Mdl Gendarmerie Mobile (galon seul)
+item.grade_gendarmeriem_sous_lieutenant_letigreroyal.name=Grade Sous Lieutenant Gendarmerie Mobile (galon+epaulettes)
+item.grade_gendarmeriem_sous_lieutenant_letigreroyal_galon.name=Grade Sous Lieutenant Gendarmerie Mobile (galon seul)
+item.grade_gendarmerie_1erclasse_letigreroyal.name=Grade 1er Classe Gendarmerie Departemntale (galon+epaulettes)
+item.grade_gendarmerie_1erclasse_letigreroyal_galon.name=Grade 1er Classe Gendarmerie Departemntale (galon seul)
+item.grade_gendarmerie_adjudant_chef_letigreroyal.name=Grade Adjudant Chef Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_adjudant_chef_letigreroyal_galon.name=Grade Adjudant Chef Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_adjudant_letigreroyal.name=Grade Adjudant Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_adjudant_letigreroyal_galon.name=Grade Adjudant Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_brigadier_chef_letigreroyal.name=Grade Brigadier Chef Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_brigadier_chef_letigreroyal_galon.name=Grade Brigadier Chef Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_brigadier_letigreroyal.name=Grade Brigadier Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_brigadier_letigreroyal_galon.name=Grade Brigadier Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_capitaine_letigreroyal.name=Grade Capitaine Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_capitaine_letigreroyal_galon.name=Grade Capitaine Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_colonel_letigreroyal.name=Grade Colonel Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_colonel_letigreroyal_galon.name=Grade Colonel Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_commandant_letigreroyal.name=Grade Commandant Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_commandant_letigreroyal_galon.name=Grade Commandant Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_eleve_officier_letigreroyal.name=Grade Eleve Officier Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_eleve_officier_letigreroyal_galon.name=Grade Eleve Officier Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_general_armee_letigreroyal.name=Grade General des Armees Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_general_armee_letigreroyal_galon.name=Grade General des Armees Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_general_brigade_letigreroyal.name=Grade General de Brigade Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_general_brigade_letigreroyal_galon.name=Grade General de Brigade Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_general_corp_armee_letigreroyal.name=Grade General du Corp d'Armee Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_general_corp_armee_letigreroyal_galon.name=Grade General du Corp d'Armee Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_general_division_letigreroyal.name=Grade General de Division Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_general_division_letigreroyal_galon.name=Grade General de Division Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_lieutenant_colonel_letigreroyal.name=Grade Lieutenant Colonel Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_lieutenant_colonel_letigreroyal_galon.name=Grade Lieutenant Colonel Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_lieutenant_letigreroyal.name=Grade Lieutenant Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_lieutenant_letigreroyal_galon.name=Grade Lieutenant Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_major_letigreroyal.name=Grade Major Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_major_letigreroyal_galon.name=Grade Major Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_mdl_carriere_letigreroyal.name=Grade Mdl Carriere Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_mdl_carriere_letigreroyal_galon.name=Grade Mdl Carriere Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_mdl_chef_letigreroyal.name=Grade Mdl Chef Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_mdl_chef_letigreroyal_galon.name=Grade Mdl Chef Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_mdl_letigreroyal.name=Grade Mdl Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_mdl_letigreroyal_galon.name=Grade Mdl Gendarmerie Departementale (galon seul)
+item.grade_gendarmerie_sous_lieutenant_letigreroyal.name=Grade Sous Lieutenant Gendarmerie Departementale (galon+epaulettes)
+item.grade_gendarmerie_sous_lieutenant_letigreroyal_galon.name=Grade Sous Lieutenant Gendarmerie Departementale (galon seul)
+item.kepig_gendarmeriem_ceremonie_letigreroyal.name=Kepi de ceremonie de la Gendarmerie Mobile (GRAND)
+item.kepig_gendarmerie_ceremonie_letigreroyal.name=Kepi de ceremonie de la Gendarmerie (GRAND)
+item.kepi_gendarmeriem_ceremonie_letigreroyal.name=Kepi de ceremonie de la Gendarmerie Mobile
+item.kepi_gendarmerie_ceremonie_letigreroyal.name=Kepi de ceremonie de la Gendarmerie
+item.medaille_gendarmerie_ceremonie_letigreroyal_courage_et_devouement.name=Medaille Du Courage et du Devouement
+item.medaille_gendarmerie_ceremonie_letigreroyal_croix_du_combattant.name=Medaille Croix du Combattant
+item.medaille_gendarmerie_ceremonie_letigreroyal_defense_nationale.name=Medaille de la Defense Nationale
+item.medaille_gendarmerie_ceremonie_letigreroyal_legion_d_honneur.name=Medaille Legion d'Honneur
+item.medaille_gendarmerie_ceremonie_letigreroyal_du_merite.name=Medaille du Merite
+item.medaille_gendarmerie_ceremonie_letigreroyal_de_la_gendarmerie.name=Medaille de la Gendarmerie
+item.tenue_gendarmeriem_ceremonie_letigreroyal.name=Tenue de ceremonie de la Gendarmerie Mobile
+item.tenue_gendarmerie_base01_letigreroyal.name=Tenue de la Gendarmerie (Polo court)
+item.tenue_gendarmerie_base02_letigreroyal.name=Tenue de la Gendarmerie (Polo long)
+item.tenue_gendarmerie_casque01g_letigreroyal.name=K?pi de la Gendarmerie (type 1)(GRAND)
+item.tenue_gendarmerie_casque01_letigreroyal.name=K?pi de la Gendarmerie (type 1)
+item.tenue_gendarmerie_casque02g_letigreroyal.name=casquette de la Gendarmerie (GRAND)
+item.tenue_gendarmerie_casque02_letigreroyal.name=casquette de la Gendarmerie
+item.tenue_gendarmerie_ceremonie_letigreroyal.name=Tenue de ceremonie de la Gendarmerie
+item.tenue_gendarmerie_gj01letigreroyal_2.name=Gilet Jaune de la Gendarmerie
+item.tenue_gendarmerie_veste01_1_letigreroyal.name=Veste de la Gendarmerie (foncée)
+item.tenue_gendarmerie_veste01_2_letigreroyal.name=Veste de la Gendarmerie (claire)
+
+
+
+item.moto_civile_blanc2_letigreroyal.name=Moto (Blanche et Bleue)
+item.moto_civile_jaune2_letigreroyal.name=Moto (Jaune et Brune)
+item.moto_civile_jaune_letigreroyal.name=Moto (Jaune)
+item.moto_civile_noire_blanche_letigreroyal.name=Moto (Noire et Blanche)
+item.moto_civile_noire_or_letigreroyal.name=Moto (Noire et Or)
+item.moto_civile_noire_rose_letigreroyal.name=Moto (Noire et Rose)
+item.moto_civile_orange_letigreroyal.name=Moto (Orange)
+item.moto_civile_rose_letigreroyal.name=Moto (Rose)
+item.moto_civile_rouge_letigreroyal.name=Moto (Rouge)
+item.moto_civile_verte_noire_letigreroyal.name=Moto (Noire et Verte)
+
+
+item.moto_gendarmerie_letigreroyal.name=Moto de la Gendarmerie
+item.moto_pn_letigreroyal.name=Moto de la Police Nationale
+
+

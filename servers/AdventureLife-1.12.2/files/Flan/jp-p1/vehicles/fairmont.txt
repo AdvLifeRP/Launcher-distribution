@@ -1,0 +1,50 @@
+﻿// Naming
+Name Fairmont
+ShortName Fairmont
+// Visuals
+Model JeanPierre.Fairmont
+ModelScale 1
+Icon Fairmont
+//Throttle
+MaxThrottle 0.421
+MaxNegativeThrottle 0.5
+//Drag
+Drag 1.0
+//Mass (In tons)
+Mass 1.2
+// Recipe
+//Misc
+//------------------------------------------------
+//---Driveables-----------------------------------
+//Visuals
+Texture Fairmont
+//Movement
+//Wheels
+NumWheels 4
+WheelPosition 0 -24 -8 -18
+WheelPosition 1 -24 -8 18
+WheelPosition 2 35 -8 18
+WheelPosition 3 35 -8 -18
+//Floating
+//Ammo
+//Weapons
+//Driver and Passengers
+Driver 3 -5 -6
+Passengers 4
+Passenger 1 3 -5 6 core
+Passenger 2 -15 -5 6 core
+Passenger 3 -15 -5 -6 core
+Passenger 4 0 0 0 core
+RotatedPassengerOffset 4 -30 -5 0
+//Inventory Slots
+//Recipe
+//Health and Collision
+//Misc
+//Sounds
+//------------------------------------------------
+//---Vehicle--------------------------------------
+//Visuals
+//Movement
+//Misc
+//Sound
+//------------------------------------------------

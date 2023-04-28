@@ -1,0 +1,9 @@
+Name gigncagoule
+ShortName gigncago
+Icon gigncagoule
+Colour 255 255 255
+Type Head
+Model nowdek.gigncagoule
+Defence 0.30
+ArmourTexture gigncombinaison
+ModelScale 1.00

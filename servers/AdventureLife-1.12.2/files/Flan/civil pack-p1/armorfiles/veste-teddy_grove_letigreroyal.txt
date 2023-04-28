@@ -1,0 +1,21 @@
+Name veste-teddy_grove_letigreroyal
+ShortName veste-teddy_grove_letigreroyal
+Icon veste-teddy_grove_letigreroyal
+Colour 255 255 255
+
+Type Body
+Model tigerpack_civil_pack.teddy_ballas_letigreroyal
+ModelScale 1.05
+Defence 0.1
+ArmourTexture veste-teddy_groove_letigreroyal
+MoveSpeedModifier 1.0
+KnockbackModifier 1.0
+
+Recipe A dwArmorCloth W cloth
+AWA
+W W
+W W
+
+-----------------------------------------------------
+		Par leTIGREroyal
+-----------------------------------------------------

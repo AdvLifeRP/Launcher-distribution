@@ -1,0 +1,9 @@
+Name beretcommandomarine
+ShortName berecommmari
+Icon beretcommandomarine
+Colour 255 255 255
+Type Head
+Model nowdek.beretcommandomarine
+Defence 0.00
+ArmourTexture beretcommandomarine
+ModelScale 1.00

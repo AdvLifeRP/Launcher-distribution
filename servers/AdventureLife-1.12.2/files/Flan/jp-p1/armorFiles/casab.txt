@@ -1,0 +1,8 @@
+Name CasaB
+ShortName CasaB
+Colour 255 255 255
+Type Pants
+Defence 0.2
+ArmourTexture CasaB
+Model coco.CasaB
+Icon casab

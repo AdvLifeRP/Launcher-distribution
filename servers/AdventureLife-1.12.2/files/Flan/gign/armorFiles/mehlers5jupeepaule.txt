@@ -1,0 +1,9 @@
+Name MehlerS5JupeEpaule
+ShortName MehlerS5JupeEpaule
+Icon MehlerS5JupeEpaule
+Colour 255 255 255
+Type Body
+Model GunPackGIGN.MehlerS5JupeEpaule
+Defence 0.30
+ArmourTexture TextureGIGN
+ModelScale 1.00

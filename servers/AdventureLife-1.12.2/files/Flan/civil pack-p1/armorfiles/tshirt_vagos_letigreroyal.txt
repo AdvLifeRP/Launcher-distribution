@@ -1,0 +1,21 @@
+Name tshirt_vagos_letigreroyal
+ShortName tshirt_vagos_letigreroyal
+Icon tshirt_vagos_letigreroyal
+Colour 255 255 255
+
+Type Boots
+Model tigerpack_civil_pack.tshirt_1_letigreroyal
+ModelScale 1.0
+Defence 0.1
+ArmourTexture tshirt_vagos_letigreroyal
+MoveSpeedModifier 1.0
+KnockbackModifier 1.0
+
+Recipe A dwArmorCloth W cloth
+AWA
+W W
+W W
+
+-----------------------------------------------------
+		Par leTIGREroyal
+-----------------------------------------------------

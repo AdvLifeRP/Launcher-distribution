@@ -1,0 +1,1006 @@
+﻿//List des voitures
+item.Sdr.name=sperazzoti speederossa
+item.Str.name=sperazzoti sestarossa
+item.FEnzo.name=Ferrari Enzo
+item.FXXEV.name=Ferrari FXX Evoluzione
+item.SSCUAXT.name=SSC Ultimate Aero XT
+item.mp412c.name=McLaren MP4-12C
+item.mp412cspider.name=McLaren MP4-12C Spider
+item.458Ic.name=Ferrari 458 Italia coupe
+item.458IS.name=Ferrari 458 Italia spider
+item.SestoEle.name=Lamborghini Sesto Elemento
+item.gallardo1.name=Lamborghini Gallardo 2004
+item.gallardospyder.name=Lamborghini Gallardo Spyder 2004
+item.California.name=Ferrari California
+item.360s.name=Ferrari 360 Modena spider
+item.360c.name=Ferrari 360 Modena coupe
+item.TBeast.name=Ford F-450 The Beast
+item.LaFerrariFXXK.name=Ferrari LaFerrari FXX-K
+item.LaFerrariFXXKrw.name=Ferrari LaFerrari FXX-K white red
+item.LaFerrariFXXKry.name=Ferrari LaFerrari FXX-K red yellow
+item.p1GTR.name=McLaren P1 GTR black
+item.corvettec7.name=Corvette Stingray 2015
+item.zondacinque.name=Pagani Zonda Cinque 2009
+item.zondacinqueroadster.name=Pagani Zonda Cinque Roadster
+item.miuraconcept.name=Lamborghini Miura concept
+item.430c.name=Ferrari F430 Scuderia coupé
+item.430s.name=Ferrari F430 Scuderia Spider
+item.fgtbsblu.name=Ferrari 488GTB blue spider
+item.fgtbblu.name=Ferrari 488GTB blue
+item.fgtbsred.name=Ferrari 488GTB red spider
+item.fgtbsgrey.name=Ferrari 488GTB grey spider
+item.fgtbsyel.name=Ferrari 488GTB yellow spider
+item.fgtbred.name=Ferrari 488GTB red
+item.fgtbyel.name=Ferrari 488GTB yellow
+item.fgtbgrey.name=Ferrari 488GTB grey
+item.gt2015.name=Ford GT 2015
+item.458Ispeciale.name=Ferrari 458 Italia speciale
+item.458Ia.name=Ferrari 458 Italia aperta
+item.ussnimitz.name=CVN 68 USS NIMITZ
+item.mc12.name=Maserati MC12
+item.mc12w.name=Maserati MC12 white
+item.st1.name=Zenvo ST1 orange
+item.st1grey.name=Zenvo ST1 grey
+item.st1green.name=Zenvo ST1 green
+item.st1white.name=Zenvo ST1 white
+item.Veyronbag.name=Bugatti Veyron 16.4 grey
+item.Veyronbar.name=Bugatti Veyron 16.4 red
+item.Veyronbaw.name=Bugatti Veyron 16.4 white
+item.Veyronb.name=Bugatti Veyron 16.4 black
+item.Veyronwhigs.name=Bugatti Veyron 16.4 white GS
+item.Veyronwhigso.name=Bugatti Veyron 16.4 white GS "Osprei"
+item.Veyronblagst.name=Bugatti Veyron 16.4 black "trust"
+item.Veyronredgs.name=Bugatti Veyron 16.4 red GS
+item.LotusElise.name=Lotus Elise S2 Grey
+item.GallardoPSW.name=Lamborghini Gallardo Performante white
+item.GallardoPSY.name=Lamborghini Gallardo Performante yellow
+item.GallardoPSG.name=Lamborghini Gallardo Performante grey
+item.GallardoPSR.name=Lamborghini Gallardo Performante red
+item.gaso.name=Gumpert apollo Sport orange
+item.gasb.name=Gumpert apollo Sport blue
+item.cx75ora.name=Jaguar C-X75 orange
+item.cx75blu.name=Jaguar C-X75 blue
+item.cx75red.name=Jaguar C-X75 red
+item.VBL.name=VBL
+item.FMb.name=Ford Mondeo Bleue
+item.FMblanche.name=Ford Mondeo Blanche
+item.FMnoire.name=Ford Mondeo Noire
+item.FMrouge.name=Ford Mondeo Rouge
+item.DayZ_Vehicle_ChevroletSuburban2010_1A.name=Chevrolet Suburban 2010 Noir
+item.DayZ_Vehicle_ChevroletSuburban2010_1B.name=Chevrolet Suburban 2010 Blanc
+item.Grizzly_ATV_Black.name=Quad ATV Grizzly Noir
+item.Grizzly_ATV_Grey.name=Quad ATV Grizzly Gris
+item.Grizzly_ATV_Red.name=Quad ATV Grizzly Rouge
+item.Kart.name=Kart Bleu
+item.Kartnoir.name=Kart Noir
+item.Kartrouge.name=Kart Rouge
+item.hvgtvert.name=Hennessey Venom GT green
+item.hvgtgrise.name=Hennessey Venom GT grey
+item.hvgtjaune.name=Hennessey Venom GT yellow
+item.hvgtrouge.name=Hennessey Venom GT red
+item.hvgtnoire.name=Hennessey Venom GT black
+item.NissanGTRBLUE.name=Nissan GT-R Blue
+item.NissanGTRWHITE.name=Nissan GT-R White
+item.NissanGTRRED.name=Nissan GT-R Red
+item.NissanGTRBLACK.name=Nissan GT-R Black
+item.Calvacade_Escalade_Rouge.name=Calvacade Escalade Rouge
+item.Calvacade_Escalade_Noire.name=Calvacade Escalade Noire
+item.Calvacade_Escalade_Bleue.name=Calvacade Escalade Bleue
+item.Calvacade_Escalade_Rebelle.name=Calvacade Escalade Beige
+item.Bravado_Gauntlet_Gris_foncer.name=Bravado Gauntlet Gris Foncé
+item.Bravado_Gauntlet_Gris.name=Bravado Gauntlet Gris
+item.Bravado_Gauntlet_Violet.name=Bravado Gauntlet Violet
+item.Bravado_Gauntlet_Blanche.name=Bravado Gauntlet Blanche
+item.Bravado_Gauntlet_Jaune.name=Bravado Gauntlet Jaune
+item.Citroen_C3.name=Citroën C3 Bleue
+item.Citroen_C3_Gris.name=Citroën C3 Grise
+item.Citroen_C3_Noir.name=Citroën C3 Noire
+item.Citroen_C5.name=Citroën C5
+item.Citroen_C8.name=Citroën C8
+item.Dodge_Charger_SRT.name=Dodge Chargeur Blanche
+item.Dodge_Charger_SRT_Rouge.name=Dodge Chargeur Rouge
+item.Dodge_Charger_SRT_Noire.name=Dodge Chargeur Noire
+item.Dodge_Charger_SRT_Bleue.name=Dodge Chargeur Bleue
+item.Dodge_Charger_SRT_Police.name=Dodge Chargeur Police
+item.fgtbgyel.name=Ferrarie Jaune
+item.Ford_Crown_Victoria_Blanc.name=Ford Crown Victoria Blanche
+item.Ford_Crown_Victoria_Bleue.name=Ford Crown Victoria Bleue
+item.Ford_Crown_Victoria_Rouge.name=Ford Crown Victoria Rouge
+item.Ford_Crown_Victoria_Noire.name=Ford Crown Victoria Noire
+item.Ford_Crown_Victoria_PoliceV2.name=Ford Crown Victoria Police
+item.Ford_Crown_Victoria_Taxi.name=Ford Crown Victoria Taxi
+item.Hilux_Offroad_Cover.name=Hilux Offroad Cover
+item.Hilux_Offroad_Monster.name=Monster Truck
+item.SAMU.name=Ambulance du SAMU
+item.Renault_Trafic_Blanc.name=Renault Trafic Blanc
+item.Dodge_Charger_SRT_Raik.name=Dodge Chargeur Raikave
+item.Ford_Crown_Victoria_Taxi2.name=Ford Crown Victoria Taxi 2
+item.Ford_Crown_Victoria_Police.name=Ford Crown Victoria Police
+item.FMPolice.name=Ford Mondo Police
+item.Veyronpolice.name=Bugatti Veyron 16.4 Police
+item.fgtbpolice.name=Ferrari Police
+item.revgrey.name=Lamborghini reventon coupe Grise
+item.revgreyr.name=Lamborghini reventon roadster Grise
+item.Renault.name=Véhicule d'intervention BRI
+item.Ford_deluxe_1947_Noir.name=Ford de Luxe 1947 Noire
+item.Ford_deluxe_1947_Police_Sirene.name=Ford de Luxe 1947 Police
+item.Insurgent_SWAT.name=Insurgent
+item.motolostnoir.name=Moto
+item.blurgrac.name=Koenigsegg Regera cabriolet bleu
+item.blurgra.name=Koenigsegg Regera bleu
+item.redgrac.name=Koenigsegg Regera cabriolet rouge
+item.redregerageneva.name=Koenigsegg Regera geneva
+item.redgra.name=Koenigsegg Regera rouge
+item.gregrac.name=Koenigsegg Regera cabriolet vert
+item.gregra.name=Koenigsegg Regera vert 
+item.whigrac.name=Koenigsegg Regera cabriolet blanc
+item.whigra.name=Koenigsegg Regera blanc
+item.redregerageneva.name=Koenigsegg Regera geneva
+item.whiplc.name=Koenigsegg Regera Police
+item.LincolnLimo.name=Lincoln Limousine Noire
+item.Hunter_Noir.name=Hunter Noir U.T.E
+item.Hunter_Millitaire=Hunter Armée Française
+item.Hunter_Beige.name=Hunter Beige U.T.E
+item.agerahh.name=Koenigsegg Agera HH
+item.ageraoman.name=Koenigsegg Agera R Oman
+item.ageraOneW.name=Koenigsegg One:1
+item.ageraOneB.name=Koenigsegg One:1
+item.ageraOne.name=Koenigsegg One:1
+item.ageraooo.name=Koenigsegg One of 1
+item.ageraRB.name=Koenigsegg Agera R
+item.ageraRD.name=Koenigsegg Agera R Dino
+item.ageraRT.name=Koenigsegg Agera R Tobey
+item.agera.name=Koenigsegg Agera
+item.agera2.name=Koenigsegg Agera
+item.agera3.name=Koenigsegg Agera
+item.ageraX.name=Koenigsegg Agera X
+item.ageraRP.name=Koenigsegg Agera R Pete
+item.ageraRR.name=Koenigsegg Agera R
+item.ageraR2.name=Koenigsegg Agera R
+item.ageraRB.name=Koenigsegg Agera R
+item.ageraRBl.name=Koenigsegg Agera R
+item.ageraRSO.name=Koenigsegg Agera RS
+item.agerarss.name=Koenigsegg Agera RS
+item.ageraRS3.name=Koenigsegg Agera RS
+item.ageraRS4.name=Koenigsegg Agera RS
+item.ageraRS.name=Koenigsegg Agera RS
+item.ageraRS5.name=Koenigsegg Agera RS
+item.ageraRST.name=Koenigsegg Agera RS
+item.ageraSG.name=Koenigsegg Agera S
+item.ageraSG2.name=Koenigsegg Agera S
+item.ageraSO.name=Koenigsegg Agera O
+item.ageraST.name=Koenigsegg Agera S
+item.ageraSB.name=Koenigsegg Agera S
+item.ageraSBl.name=Koenigsegg Agera S
+item.ageraSJ.name=Koenigsegg Agera S
+item.CC8SG.name=Koenigsegg CC8S
+item.CC8SO.name=koenigsegg CC8S
+item.CC8SN.name=koenigsegg CC8S
+item.CCR.name=koenigsegg CCR
+item.CCR2.name=koenigsegg CCR
+item.CCR3.name=koenigsegg CCR
+item.CCR4.name=koenigsegg CCR
+item.CCR5.name=koenigsegg CCR
+item.CCR9.name=koenigsegg CCR
+item.CCX.name=koenigsegg CCX
+item.CCX2.name=koenigsegg CCX
+item.CCX3.name=koenigsegg CCX
+item.CCX4.name=koenigsegg CCX
+item.CCXR6.name=koenigsegg CCXR
+item.CCXRE.name=koenigsegg CCXR Edition
+item.CCXRS.name=koenigsegg CCXR Special One
+item.CCXRT.name=koenigsegg CCXR Trevita
+item.CCXR.name=koenigsegg CCXR
+item.CCGT.name=koenigsegg CCGT
+item.gaso.name=Gumpert apollo Sport orange
+item.gasb.name=Gumpert apollo Sport blue
+item.gasred.name=Gumpert apollo Sport red
+item.aventyo.name=Lamborghini Aventador LP700-4 orange
+item.aventyr.name=Lamborghini Aventador LP700-4 rouge
+item.aventyv.name=Lamborghini Aventador LP700-4 verte
+item.aventyn.name=Lamborghini Aventador LP700-4 noire
+item.Aquila10Bl.name=Santioni Aquila 10
+item.Aquila10Blu.name=Santioni Aquila 10
+item.Aquila10G.name=Santioni Aquila 10
+item.Aquila10GT.name=Santioni Aquila GT
+item.Aquila10R.name=Santioni Aquila 10
+item.Aquila10Y.name=Santioni Aquila 10
+item.Aquila10T.name=Santioni Aquila 10
+item.Aquila10O.name=Santioni Aquila 10
+item.Aquila10U.name=Santioni Aquila 10
+item.Aquila10A.name=Santioni Aquila 10
+item.Aquila10B.name=Santioni Aquila 10
+item.Aquila10C.name=Santioni Aquila 10
+item.Aquila10D.name=Santioni Aquila 10
+item.Aquila10S.name=Santioni Aquila 10 Speciale
+
+//list des grenades
+item.dwFragSkymare.name= M214 Grenade Frag
+item.dwShockSkymare.name= Grenade Flash
+item.dwFragAmbircon.name= Grenade Dispersante
+item.dwFragLupine.name= MP75 Grenade Frag
+item.dwRocketLupine.name= Rocket RHA
+item.dwLupineC4.name= Pain de C4
+item.dwLupineRemote.name= Détonateur C4
+item.c4Remote.name=Détonateur C4
+item.c4.name=Pain de C4
+item.claymore.name=M18 Claymore
+
+
+
+
+
+//accessoirs armes
+item.mpackakgrip.name=Poignet AK
+item.mpackverticalgrip.name=Poignet verticale
+
+//Simple parts
+item.smallBomb.name=Small Bomb
+item.shell.name=Tank Shell
+item.napalm.name=Napalm
+item.largeBomb.name=Large Bomb
+item.metalPropeller.name=Metal Propeller
+item.metalTail.name=Metal Tail
+item.metalWingSection.name=Metal Wing Section
+item.metalWingSmall.name=Small Metal Wing
+item.passengerBay.name=Passenger Bay
+item.enginePiston.name=Engine Piston
+item.rotaryEngine.name=Rotary Engine
+item.vehicleSeat.name=Seat
+item.smallChassis.name=Small Car Chassis
+item.wheel.name=Small Wheel
+item.tankBarrel.name=Tank Barrel
+item.tankBody.name=Tank Body
+item.tankTurret.name=Tank Turret
+item.triplaneWing.name=Triplane Wing
+item.v4Engine.name=V4 Engine
+item.v6Engine.name=V6 Engine
+item.v8Engine.name=V8 Engine
+item.woodenCockpit.name=Wooden Cockpit
+item.woodenPropeller.name=Wooden Propeller
+item.woodenTail.name=Wooden Tail
+item.woodenWing.name=Wooden Wing
+item.aaBarrel.name=AA Gun Barrel
+item.biplaneWing.name=Biplane Wing
+item.bombBay.name=Bomb Bay
+item.catTrack.name=Caterpillar Track
+item.catTrackPiece.name=Caterpillar Track Piece
+item.fuelCan.name=Fuel Can
+item.largeWheel.name=Large Wheel
+item.metalCockpit.name=Metal Cockpit
+item.metalNose.name=Metal Nose
+item.blowTorch.name=Kit de réparation
+item.helicopterBlade.name=Helicopter Blade
+item.helicopterSkid.name=Helicopter Skid
+item.advancedMetalCockpit.name=Advanced Metal Cockpit
+item.advancedTankBody.name=Advanced Tank Body
+
+//minecraft smp parts
+item.SMP_Part_Bay_BombBay.name=Bomb Bay Frame
+item.SMP_Part_Bay_CargoBay.name=Cargo Transport Bay Frame
+item.SMP_Part_Bay_PassengerBay.name=Passenger Bay Frame
+item.SMP_Part_Chassis_APC.name=APC Chassis Frame
+item.SMP_Part_Chassis_Bike.name=Bike Chassis Frame
+item.SMP_Part_Chassis_Car.name=Car Chassis Frame
+item.SMP_Part_Chassis_Kart.name=Kart Chassis Frame
+item.SMP_Part_Chassis_Quad.name=Quad Chassis Frame
+item.SMP_Part_Chassis_Tank.name=Tank Chassis Frame
+item.SMP_Part_Chassis_Truck.name=Truck Chassis Frame
+item.SMP_Part_Chassis_Van.name=Van Chassis Frame
+item.SMP_Part_Cockpit_Civil.name=Civil Cockpit Frame
+item.SMP_Part_Cockpit_Heli.name=Helicopter Cockpit Frame
+item.SMP_Part_Cockpit_Jet.name=Jet Cockpit Frame
+item.SMP_Part_Cockpit_Large.name=Large Cockpit Frame
+item.SMP_Part_Engine_Civil.name=Civil Jet Engine
+item.SMP_Part_Engine_MilEngineMk1.name=Military Engine Mk. 1
+item.SMP_Part_Engine_MilEngineMk2.name=Military Engine Mk. 2
+item.SMP_Part_Engine_MilEngineMk3.name=Military Engine Mk. 3
+item.SMP_Part_Engine_SpaceEngine.name=Space Fitted Engine
+item.SMP_Part_Engine_TIEEngine.name=Twin Ion Engine
+item.SMP_Part_Engine_V4.name=V4 Engine
+item.SMP_Part_Engine_V6.name=V6 Engine
+item.SMP_Part_Engine_V8.name=V8 Engine
+item.SMP_Part_Engine_V12.name=V12 Engine
+item.SMP_Part_Fuel_FuelBarrel.name=Fuel Barrel
+item.SMP_Part_Fuel_FuelCan.name=Fuel Canister
+item.SMP_Part_Mat_Armor_Aluminium.name=Aluminium Armorplate
+item.SMP_Part_Mat_Armor_Carbon.name=Carbon Armorplate
+item.SMP_Part_Mat_Armor_DuraSteel.name=DuraSteel Armorplate
+item.SMP_Part_Mat_Armor_Gummi.name=Gummi Armorplate
+item.SMP_Part_Mat_Armor_PlaSteel.name=PlaSteel Armorplate
+item.SMP_Part_Mat_Armor_Plastic.name=Plastic Armorplate
+item.SMP_Part_Mat_Armor_Steel.name=Steel Armorplate
+item.SMP_Part_Mat_Armor_Titan.name=Titan Armorplate
+item.SMP_Part_Mat_Barrel_Oil.name=Oil Barrel
+item.SMP_Part_Mat_Block_Aluminium.name=Aluminium Ingot
+item.SMP_Part_Mat_Block_Carbon.name=Carbon Block
+item.SMP_Part_Mat_Block_DuraSteel.name=DuraSteel Ingot
+item.SMP_Part_Mat_Block_Gummi.name=Gummi Block
+item.SMP_Part_Mat_Block_PlaSteel.name=PlaSteel Block
+item.SMP_Part_Mat_Block_Plastic.name=Plastic Block
+item.SMP_Part_Mat_Block_Steel.name=Steel Ingot
+item.SMP_Part_Mat_Block_Titan.name=Titan Ingot
+item.SMP_Part_Mat_Plate_Aluminium.name=Aluminium Plate
+item.SMP_Part_Mat_Plate_Carbon.name=Carbon Plate
+item.SMP_Part_Mat_Plate_DuraSteel.name=DuraSteel Plate
+item.SMP_Part_Mat_Plate_Gummi.name=Gummi Plate
+item.SMP_Part_Mat_Plate_PlaSteel.name=PlaSteel Plate
+item.SMP_Part_Mat_Plate_Plastic.name=Plastic Plate
+item.SMP_Part_Mat_Plate_Steel.name=Steel Plate
+item.SMP_Part_Mat_Plate_Titan.name=Titan Plate
+item.SMP_Part_Mecha_MediumArmFrame.name=Medium Mecha Arm Frame
+item.SMP_Part_Mecha_MediumBodyFrame.name=Medium Mecha Body Frame
+item.SMP_Part_Mecha_MediumHipFrame.name=Medium Mecha Hip Frame
+item.SMP_Part_Mecha_MediumLegFrame.name=Medium Mecha Leg Frame
+item.SMP_Part_Misc_Ammo_BombBody.name=Bomb Body
+item.SMP_Part_Misc_Ammo_Fuse.name=Fuse
+item.SMP_Part_Misc_Ammo_Shell.name=Empty Shell
+item.SMP_Part_Misc_Barrel_AAGun.name=AA Gun Barrel
+item.SMP_Part_Misc_Barrel_Artillery.name=Artillery Barrel
+item.SMP_Part_Misc_Barrel_Tank.name=Tank Barrel
+item.SMP_Part_Misc_Computer.name=Computer
+item.SMP_Part_Misc_DropMechanism.name=Drop Mechanism
+item.SMP_Part_Misc_EngineIgnition.name=Engine Ignition
+item.SMP_Part_Misc_EngineMotorblock.name=Motorblock
+item.SMP_Part_Misc_EnginePiston.name=Engine Piston
+item.SMP_Part_Misc_Hydraulics.name=Mecha Hydraulics
+item.SMP_Part_Misc_Part_Electronic.name=Electronic Parts
+item.SMP_Part_Misc_Part_Mechanical.name=Mechanical Parts
+item.SMP_Part_Misc_Part_Tanktrack.name=Tanktrack Parts
+item.SMP_Part_Misc_Radar.name=Radar System
+item.SMP_Part_Misc_Seat_Car.name=Car Seat
+item.SMP_Part_Misc_Seat_Jet.name=Jet Seat
+item.SMP_Part_Misc_Seat_Passenger.name=Plane Passenger Seat
+item.SMP_Part_Misc_Seat_Plane.name=Plane Seat
+item.SMP_Part_Misc_Tent.name=Tent
+item.SMP_Part_Nose_Plane.name=Plane Nose Frame
+item.SMP_Part_Propeller_RotorHeli.name=Helicopter Rotor
+item.SMP_Part_Propeller_RotorPlane.name=Plane Propeller
+item.SMP_Part_Propeller_RotorTurbine.name=Turbine Blades
+item.SMP_Part_Propeller_TurbineCivil.name=Civil Turbine
+item.SMP_Part_Propeller_TurbineJet.name=Jet Turbine
+item.SMP_Part_Propeller_TurbineSpace.name=Spacefitted Turbine
+item.SMP_Part_Tail_Civil.name=Civil Tail Frame
+item.SMP_Part_Tail_Heli.name=Helicopter Tail Frame
+item.SMP_Part_Tail_Jet.name=Jet Tail Frame
+item.SMP_Part_Tail_Large.name=Large Tail Frame
+item.SMP_Part_Turret_APC.name=APC Turret Frame
+item.SMP_Part_Turret_Artillery.name=Artillery Turret Frame
+item.SMP_Part_Turret_Tank.name=Tank Turret Frame
+item.SMP_Part_Wheel_APC.name=APC Wheel
+item.SMP_Part_Wheel_Bike.name=Bike Wheel
+item.SMP_Part_Wheel_Car.name=Car Wheel
+item.SMP_Part_Wheel_Heli.name=Helicopter Skids
+item.SMP_Part_Wheel_Plane.name=Plane Wheel
+item.SMP_Part_Wheel_Tanktrack.name=Tanktrack
+item.SMP_Part_Wheel_Truck.name=Truck Wheel
+item.SMP_Part_Wing_Civil.name=Civil Wing Frame
+item.SMP_Part_Wing_Heli.name=Helicopter Wing Frame
+item.SMP_Part_Wing_Jet.name=Jet Wing Frame
+item.SMP_Part_Wing_Large.name=Large Wing Frame
+
+item.Renault.name=Véhicule d'intervention BRI
+item.Ford_deluxe_1947_Noir.name=Ford de Luxe 1947 Noire
+item.Ford_deluxe_1947_Police_Sirene.name=Ford de Luxe 1947 Police
+item.Insurgent_SWAT.name=Insurgent
+item.motolostnoir.name=Moto
+
+//list des grenades
+item.dwFragSkymare.name= M214 Grenade Frag
+item.dwShockSkymare.name= Grenade Flash
+item.dwFragAmbircon.name= Grenade Dispersante
+item.dwFragLupine.name= MP75 Grenade Frag
+item.dwRocketLupine.name= Rocket RHA
+item.dwLupineC4.name= Pain de C4
+item.dwLupineRemote.name= Détonateur C4
+item.c4Remote.name=Détonateur C4
+item.c4.name=Pain de C4
+item.claymore.name=M18 Claymore
+
+//accessoirs armes
+item.mpackakgrip.name=Poignet AK
+item.mpackverticalgrip.name=Poignet verticale
+
+
+//Simple parts
+item.smallBomb.name=Small Bomb
+item.shell.name=Tank Shell
+item.napalm.name=Napalm
+item.largeBomb.name=Large Bomb
+item.metalPropeller.name=Metal Propeller
+item.metalTail.name=Metal Tail
+item.metalWingSection.name=Metal Wing Section
+item.metalWingSmall.name=Small Metal Wing
+item.passengerBay.name=Passenger Bay
+item.enginePiston.name=Engine Piston
+item.rotaryEngine.name=Rotary Engine
+item.vehicleSeat.name=Seat
+item.smallChassis.name=Small Car Chassis
+item.wheel.name=Small Wheel
+item.tankBarrel.name=Tank Barrel
+item.tankBody.name=Tank Body
+item.tankTurret.name=Tank Turret
+item.triplaneWing.name=Triplane Wing
+item.v4Engine.name=V4 Engine
+item.v6Engine.name=V6 Engine
+item.v8Engine.name=V8 Engine
+item.woodenCockpit.name=Wooden Cockpit
+item.woodenPropeller.name=Wooden Propeller
+item.woodenTail.name=Wooden Tail
+item.woodenWing.name=Wooden Wing
+item.aaBarrel.name=AA Gun Barrel
+item.biplaneWing.name=Biplane Wing
+item.bombBay.name=Bomb Bay
+item.catTrack.name=Caterpillar Track
+item.catTrackPiece.name=Caterpillar Track Piece
+item.fuelCan.name=Fuel Can
+item.largeWheel.name=Large Wheel
+item.metalCockpit.name=Metal Cockpit
+item.metalNose.name=Metal Nose
+item.blowTorch.name=Kit de réparation
+item.helicopterBlade.name=Helicopter Blade
+item.helicopterSkid.name=Helicopter Skid
+item.advancedMetalCockpit.name=Advanced Metal Cockpit
+item.advancedTankBody.name=Advanced Tank Body
+
+//minecraft smp parts
+item.SMP_Part_Bay_BombBay.name=Bomb Bay Frame
+item.SMP_Part_Bay_CargoBay.name=Cargo Transport Bay Frame
+item.SMP_Part_Bay_PassengerBay.name=Passenger Bay Frame
+item.SMP_Part_Chassis_APC.name=APC Chassis Frame
+item.SMP_Part_Chassis_Bike.name=Bike Chassis Frame
+item.SMP_Part_Chassis_Car.name=Car Chassis Frame
+item.SMP_Part_Chassis_Kart.name=Kart Chassis Frame
+item.SMP_Part_Chassis_Quad.name=Quad Chassis Frame
+item.SMP_Part_Chassis_Tank.name=Tank Chassis Frame
+item.SMP_Part_Chassis_Truck.name=Truck Chassis Frame
+item.SMP_Part_Chassis_Van.name=Van Chassis Frame
+item.SMP_Part_Cockpit_Civil.name=Civil Cockpit Frame
+item.SMP_Part_Cockpit_Heli.name=Helicopter Cockpit Frame
+item.SMP_Part_Cockpit_Jet.name=Jet Cockpit Frame
+item.SMP_Part_Cockpit_Large.name=Large Cockpit Frame
+item.SMP_Part_Engine_Civil.name=Civil Jet Engine
+item.SMP_Part_Engine_MilEngineMk1.name=Military Engine Mk. 1
+item.SMP_Part_Engine_MilEngineMk2.name=Military Engine Mk. 2
+item.SMP_Part_Engine_MilEngineMk3.name=Military Engine Mk. 3
+item.SMP_Part_Engine_SpaceEngine.name=Space Fitted Engine
+item.SMP_Part_Engine_TIEEngine.name=Twin Ion Engine
+item.SMP_Part_Engine_V4.name=V4 Engine
+item.SMP_Part_Engine_V6.name=V6 Engine
+item.SMP_Part_Engine_V8.name=V8 Engine
+item.SMP_Part_Engine_V12.name=V12 Engine
+item.SMP_Part_Fuel_FuelBarrel.name=Fuel Barrel
+item.SMP_Part_Fuel_FuelCan.name=Fuel Canister
+item.SMP_Part_Mat_Armor_Aluminium.name=Aluminium Armorplate
+item.SMP_Part_Mat_Armor_Carbon.name=Carbon Armorplate
+item.SMP_Part_Mat_Armor_DuraSteel.name=DuraSteel Armorplate
+item.SMP_Part_Mat_Armor_Gummi.name=Gummi Armorplate
+item.SMP_Part_Mat_Armor_PlaSteel.name=PlaSteel Armorplate
+item.SMP_Part_Mat_Armor_Plastic.name=Plastic Armorplate
+item.SMP_Part_Mat_Armor_Steel.name=Steel Armorplate
+item.SMP_Part_Mat_Armor_Titan.name=Titan Armorplate
+item.SMP_Part_Mat_Barrel_Oil.name=Oil Barrel
+item.SMP_Part_Mat_Block_Aluminium.name=Aluminium Ingot
+item.SMP_Part_Mat_Block_Carbon.name=Carbon Block
+item.SMP_Part_Mat_Block_DuraSteel.name=DuraSteel Ingot
+item.SMP_Part_Mat_Block_Gummi.name=Gummi Block
+item.SMP_Part_Mat_Block_PlaSteel.name=PlaSteel Block
+item.SMP_Part_Mat_Block_Plastic.name=Plastic Block
+item.SMP_Part_Mat_Block_Steel.name=Steel Ingot
+item.SMP_Part_Mat_Block_Titan.name=Titan Ingot
+item.SMP_Part_Mat_Plate_Aluminium.name=Aluminium Plate
+item.SMP_Part_Mat_Plate_Carbon.name=Carbon Plate
+item.SMP_Part_Mat_Plate_DuraSteel.name=DuraSteel Plate
+item.SMP_Part_Mat_Plate_Gummi.name=Gummi Plate
+item.SMP_Part_Mat_Plate_PlaSteel.name=PlaSteel Plate
+item.SMP_Part_Mat_Plate_Plastic.name=Plastic Plate
+item.SMP_Part_Mat_Plate_Steel.name=Steel Plate
+item.SMP_Part_Mat_Plate_Titan.name=Titan Plate
+item.SMP_Part_Mecha_MediumArmFrame.name=Medium Mecha Arm Frame
+item.SMP_Part_Mecha_MediumBodyFrame.name=Medium Mecha Body Frame
+item.SMP_Part_Mecha_MediumHipFrame.name=Medium Mecha Hip Frame
+item.SMP_Part_Mecha_MediumLegFrame.name=Medium Mecha Leg Frame
+item.SMP_Part_Misc_Ammo_BombBody.name=Bomb Body
+item.SMP_Part_Misc_Ammo_Fuse.name=Fuse
+item.SMP_Part_Misc_Ammo_Shell.name=Empty Shell
+item.SMP_Part_Misc_Barrel_AAGun.name=AA Gun Barrel
+item.SMP_Part_Misc_Barrel_Artillery.name=Artillery Barrel
+item.SMP_Part_Misc_Barrel_Tank.name=Tank Barrel
+item.SMP_Part_Misc_Computer.name=Computer
+item.SMP_Part_Misc_DropMechanism.name=Drop Mechanism
+item.SMP_Part_Misc_EngineIgnition.name=Engine Ignition
+item.SMP_Part_Misc_EngineMotorblock.name=Motorblock
+item.SMP_Part_Misc_EnginePiston.name=Engine Piston
+item.SMP_Part_Misc_Hydraulics.name=Mecha Hydraulics
+item.SMP_Part_Misc_Part_Electronic.name=Electronic Parts
+item.SMP_Part_Misc_Part_Mechanical.name=Mechanical Parts
+item.SMP_Part_Misc_Part_Tanktrack.name=Tanktrack Parts
+item.SMP_Part_Misc_Radar.name=Radar System
+item.SMP_Part_Misc_Seat_Car.name=Car Seat
+item.SMP_Part_Misc_Seat_Jet.name=Jet Seat
+item.SMP_Part_Misc_Seat_Passenger.name=Plane Passenger Seat
+item.SMP_Part_Misc_Seat_Plane.name=Plane Seat
+item.SMP_Part_Misc_Tent.name=Tent
+item.SMP_Part_Nose_Plane.name=Plane Nose Frame
+item.SMP_Part_Propeller_RotorHeli.name=Helicopter Rotor
+item.SMP_Part_Propeller_RotorPlane.name=Plane Propeller
+item.SMP_Part_Propeller_RotorTurbine.name=Turbine Blades
+item.SMP_Part_Propeller_TurbineCivil.name=Civil Turbine
+item.SMP_Part_Propeller_TurbineJet.name=Jet Turbine
+item.SMP_Part_Propeller_TurbineSpace.name=Spacefitted Turbine
+item.SMP_Part_Tail_Civil.name=Civil Tail Frame
+item.SMP_Part_Tail_Heli.name=Helicopter Tail Frame
+item.SMP_Part_Tail_Jet.name=Jet Tail Frame
+item.SMP_Part_Tail_Large.name=Large Tail Frame
+item.SMP_Part_Turret_APC.name=APC Turret Frame
+item.SMP_Part_Turret_Artillery.name=Artillery Turret Frame
+item.SMP_Part_Turret_Tank.name=Tank Turret Frame
+item.SMP_Part_Wheel_APC.name=APC Wheel
+item.SMP_Part_Wheel_Bike.name=Bike Wheel
+item.SMP_Part_Wheel_Car.name=Car Wheel
+item.SMP_Part_Wheel_Heli.name=Helicopter Skids
+item.SMP_Part_Wheel_Plane.name=Plane Wheel
+item.SMP_Part_Wheel_Tanktrack.name=Tanktrack
+item.SMP_Part_Wheel_Truck.name=Truck Wheel
+item.SMP_Part_Wing_Civil.name=Civil Wing Frame
+item.SMP_Part_Wing_Heli.name=Helicopter Wing Frame
+item.SMP_Part_Wing_Jet.name=Jet Wing Frame
+item.SMP_Part_Wing_Large.name=Large Wing Frame
+
+item.Cadillac_341A_Town_Sedan.name=Cadillac 341A Town Sedan Verte
+item.Chemise01.name=Chemise blanche / Pantalon noir
+item.Bolero01.name=Bolero noir
+item.Cadillac_341A_Town_Sedan_limo_Al_Capone.name=Cadillac 341A Town Sedan Limo Tony Viccento
+item.Cadillac_test.name=Cadillac 04/07/15 (3ème model réalisé)
+item.Colt_M1917.name=Colt M1917
+item.Ford_Police_leTIGREroyal.name=Ford Police
+item.Ford_Taxi_leTIGREroyal.name=Ford Taxi
+item.Ford_Bleu_leTIGREroyal.name=Ford Bleu
+item.Ford_Brun_leTIGREroyal.name=Ford Brune
+item.Ford_Gris_leTIGREroyal.name=Ford Grise
+item.Ford_NB_leTIGREroyal.name=Ford Noir et Blanc
+item.Ford_Orange_leTIGREroyal.name=Ford Orange
+item.Ford_Rouge_leTIGREroyal.name=Ford Rouge
+item.Ford_Vert_leTIGREroyal.name=Ford Verte
+item.Ford_A_1931_leTIGREroyal_RiverCity.name=Ford A Noir
+item.Thompson M1928.name=ThompsonM1928
+item.Costume01.name=Costume rayé noir/gris
+item.Guitare_ESP.name=Guitare Hetfield
+item.Ford_A_1931_Hot_Rod_Noir_Flamme.name=Ford A Hot Rod (Noir Flamme)
+item.Chevry1957Hot_Rod_Grim.name=Chevy Grim Bastards
+item.Chevry1957Hot_Rod_Mayans.name=Chevy Mayans
+item.Chevry1957Hot_Rod_Sons.name=Chevy Sons Of Anarchy
+item.GMC_Panel_NoirFlamme.name=GMC PANEL Hot Rod (Noir Flamme)
+item.GMC_Panel_HotRod__Grim_leTIGREroyal.name=GMC PANEL Grim Bastards
+item.GMC_Panel_HotRod__Mayans_leTIGREroyal.name=GMC PANEL Mayans
+Item.GMC_Panel_HotRod__Sons_leTIGREroyal.name=GMC PANEL Sons Of Anarchy
+item.Harley_HotRod_Grim_leTIGREroyal.name=Harley Davidson Grim Bastards
+item.Harley_HotRod_Mayans_leTIGREroyal.name=Harley Davidson Mayans
+item.Harley_HotRod_millitaire_leTIGREroyal.name=Harley Davidson Millitaire
+item.Harley_HotRod_Sons_leTIGREroyal.name=Harley Davidson Sons Of Anarchy
+item.soa_CPTRoad.name=Veste Moto Sons Of Anarchy (Cpt de route **)
+item.soa_President.name=Veste Moto Sons Of Anarchy (Président ****)
+item.soa_Prospect.name=Veste Moto Sons Of Anarchy (Prospect)
+item.soa_SGTarme.name=Veste Moto Sons Of Anarchy (Sgt d'arme **)
+item.soa_VPresident.name=Veste Moto Sons Of Anarchy (V-Président ***)
+item.soa_Membre.name=Veste Moto Sons Of Anarchy (Membre * )
+item.Harley_Davidson_Road_King_soa.name=Road King Sons Of Anarchy
+item.CRS_Body.name=Gilet CRS
+item.CRS_C.name=Rangers CRS
+item.MIP.name=Gilet Tacttique Mercenaire
+item.MIP_C.name=Rangers Mercenaire
+item.MIP_P.name=Trellis Mercenaire
+item.CRS_Ca.name=Casque CRS
+item.CRS_P.name=Trellis CRS
+item.Humvee_Noir.name=Humvee Noir
+item.Humvee_Police.name=Humvee Police
+item.Veste_Moto_cpt.name=Grim Bastards capitaine de route
+item.Veste_Moto_Mayans_cpt.name=Mayans capitaine de route
+item.Veste_Moto_Mayans_memmbre.name=Mayans Membre
+item.Veste_Moto_M_SGT.name=Grim Bastards Membre
+item.Veste_Moto_GRIMB_President.name=Grim Bastards President MissHoudiny
+item.Veste_Moto_Mayans_President.name=Mayans President Willou
+item.Veste_Moto_Mayans_Prospect.name=Mayans Prospect
+item.Veste_Moto_GB_Prospect.name=Grim Bastards Prospect
+item.Veste_Moto_Mayans_SGT.name=Mayans SGT d'armes
+item.Veste_Moto_GB_SGT.name=Grim Bastards SGT d'armes
+item.Veste_Moto_Mayans_vp.name=Mayans Vice-President
+item.Veste_Moto_VP.name=Grim Bastards Vice-President
+item.LOST_CPTRoad.name=Lost Capitaine de route
+item.LOST_President.name=Lost President
+item.LOST_Prospect.name=Lost Prospect
+item.LOST_SGTarme.name=Lost SGT d'arme
+item.LOST_VPresident.name=Lost vice president
+item.Veste_Moto_Lost_memmbre.name=Lost Membre
+item.Slamvan_Mayans.name=Slamvan Mayans
+item.Slamvan_Grim_Bastard.name=Slamvan GRim Bastards
+item.2cv_ACDC.name= 2CV AC/DC 
+item.2cv_bleu.name=2cv Bleu
+item.2cv_orange.name=2cv Orange
+item.Harley_Davidson_Road_King_Police.name=Harley Police
+item.Harley_Mayans.name= Harley Mayans
+item.Harley_Grim.name=Harley Grim Bastards
+item.Police_Nationale.name=Chemise de la Police Nationale
+item.Police_Nationale_Pantalon.name=Pantalon de la Police Nationale
+item.Police_Nationale_Boots.name=Rangers de la Police Nationale
+item.RAID_1.name=Casque du RAID
+item.RAID_2.name=Gilet Tactique du RAID (bleu)
+item.RAID_3.name=Pantalon du RAID (bleu)
+item.RAID_4.name=Rangers du RAID 
+item.RAID_2n.name=Gilet Tactique du RAID (noir)
+item.RAID_3n.name=Pantalon du RAID (noir)
+item.RAID_2.name=Gilet Tactique du RAID (bleu)
+item.VBL_RAID.name=VBL du RAID
+item.Ambulance_Pompier.name=Ambulance Pompier
+item.InsurgentRAID.name=Insurgent du RAID
+item.CRS_Body.name=Gilet CRS
+item.CRS4.name=Rangers CRS
+item.CRS_Ca.name=Casque CRS
+item.CRS_P.name=Trellis CRS
+
+-----------
+Civil pack
+-----------
+
+item.Renault_Megane_Blanc_leTIGREroyal_CivilPack.name=Renault Mégane Blanche
+item.Renault_Megane_Bleu_leTIGREroyal_CivilPack.name=Renault Mégane Bleu
+item.Renault_Megane_BleuClair_leTIGREroyal_CivilPack.name=Renault Mégane Bleu Clair
+item.Renault_Megane_Jaune_leTIGREroyal_CivilPack.name=Renault Mégane Jaune
+item.Renault_Megane_Noir_leTIGREroyal_CivilPack.name=Renault Mégane Noir
+item.Renault_Megane_Orange_leTIGREroyal_CivilPack.name=Renault Mégane Orange
+item.Renault_Megane_Rose_leTIGREroyal_CivilPack.name=Renault Mégane Rose
+item.Renault_Megane_Verte_leTIGREroyal_CivilPack.name=Renault Mégane Verteitem.Renault_Megane_Gendarmerie_leTIGREroyal_CivilPack.name=Renault Mégane Gendarmerie
+item.Renault_Megane_Rouge_leTIGREroyal_CivilPack.name=Renault Mégane Rouge
+item.Renault_Megane_Beige_leTIGREroyal_CivilPack.name=Mégane Beige
+item.Renault_Megane_PN_leTIGREroyal_CivilPack.name=Renauld Megane de la Police Nationale
+item.Fourgon_Police.CRS.name=Fourgon des CRS
+item.Fourgon_Police.PN.name=Fourgon de la Police Nationale
+item.Fourgon_Police.Gendarmerie.name=Fourgon de la Gendarmerie
+
+FOURGON CIVIL
+
+item.Fourgon_Blanc.name=Fourgon Blanc
+item.Fourgon_Beige.name=Fourgon Beige
+item.Fourgon_Bleu.name=Fourgon Bleu
+item.Fourgon_Gris.name=Fourgon Gris
+item.Fourgon_Noir.name=Fourgon Noir
+item.Fourgon_Orange.name=Fourgon Orange
+item.Fourgon_Rose.name=Fourgon Rose
+item.Fourgon_Rouge.name=Fourgon Rouge
+
+
+
+
+
+Pompier
+item.CCF.name=CCF
+item.Camion_Pompier.name=Camion de Pompier
+
+GENDARME
+
+item.Tenue_Gendarmerie.name=Tenue de Gendarme
+item.veste_Gendarmerie.name=veste de Gendarme
+item.RK_Gendarmerie.name=Road King de la Gendarmerie
+
+GRADE
+
+item.Grade_Recrue.name=Grade Recrue (0)
+item.Grade_Brigadier.name=Grade Brigadier *(1)
+item.Grade_Brigadier-Chef.name=Grade Brigadier Chef **(2)
+item.Grade_Adjudant.name=Grade Adjudant ***(3)
+item.Grade_Adjudant-Chef.name=Grade Adjudant-Chef ****(4)
+item.Grade_Major.name=Grade Major *****(5)
+item.Grade_Sous-Lieutenant.name=Grade Sous-Lieutenant ******(6)
+item.Grade_Lieutenant.name=Grade Lieutenant *******(7)
+item.Grade_Capitaine.name=Grade Capitaine ********(8)
+item.Grade_Commandant.name=Grade Commandant *********(9)
+item.Grade_Lieutenant-Colonel.name=Grade Lieutenant-Colonel **********(10)
+item.Grade_Colonel.name=Grade Colonel ***********(11)
+item.Grade_General.name=Grade General ************(12)
+
+-------------
+ZENTORNOS
+-------------
+
+item.Zentornos01_violet_Noir.name=Zentornos (violet/Noir)
+item.Zentornos01_Bleu_Noir.name=Zentornos (Bleu/Noir)
+item.Zentornos01_Verte_Noir.name=Zentornos (Verte/Noir)
+item.Zentornos01_Verte.name=Zentornos (Verte)
+item.Zentornos01_Rouge_Noir.name=Zentornos (Rouge/Noir)
+item.Zentornos01_Rouge.name=Zentornos (Rouge)
+item.Zentornos01_Orange_Noir.name=Zentornos (Orange/Noir)
+item.Zentornos01_Orange.name=Zentornos (Orange)
+item.Zentornos01_Noire.name=Zentornos (Noir)
+item.Zentornos01_Noir_Trait_Rouge.name=Zentornos (Noir/Trait Rouge)
+item.Zentornos01_Jaune.name=Zentornos (Jaune)
+item.Zentornos01_Police_USA.name=Zentornos de la Police
+item.Zentornos01_Gendarme.name=Zentornos de la Gendarmerie
+
+
+TENUE POLICE NATIONALE 
+
+
+item.Tenue_PN.name=Tenue de la Police Nationale
+item.veste_PN.name=veste de la Police Nationale
+
+Tenue MILLITAIRE
+
+item.Casque_AFR.name=Casque de l'Armée Française
+item.Sac_AFR.name=Sac de l'Armée Française
+item.Tenue_Intervention_AFR.name=Tenue d'intervention de l'Armée Française
+
+
+RiverCity_1940
+
+item.Ford_Tudor_1940_Civil_leTIGREroyal_Noir.name=Ford Tudor 1940 (Noir)
+item.CamionPompierLaFrance_1940_leTIGREroyal.name=Camion Pompier LaFrance de RiverCity (1940)
+
+
+-----------------------------------------
+           Kawasaki Kx450f
+-----------------------------------------
+
+item.KAWASAKI_KX450F_verte.name=Kawasaki Kx450f (Vert)
+item.KAWASAKI_KX450F_Blanche.name=Kawasaki Kx450f (Blanc)
+item.KAWASAKI_KX450F_BleuC.name=Kawasaki Kx450f (Bleu clair)
+item.KAWASAKI_KX450F_BleuF.name=Kawasaki Kx450f (Bleu Foncé)
+item.KAWASAKI_KX450F_Cyan.name=Kawasaki Kx450f (Cyan)
+item.KAWASAKI_KX450F_Jaune.name=Kawasaki Kx450f (Jaune)
+item.KAWASAKI_KX450F_Noire.name=Kawasaki Kx450f (Noir)
+item.KAWASAKI_KX450F_Orange.name=Kawasaki Kx450f (Orange)
+item.KAWASAKI_KX450F_Rouge.name=Kawasaki Kx450f (Rouge)
+item.KAWASAKI_KX450F_VertF.name=Kawasaki Kx450f (Vert Foncé)
+item.KAWASAKI_KX450F_Violette.name=Kawasaki Kx450f (Violet)
+item.KAWASAKI_KX450F_Rose.name=Kawasaki Kx450f (Rose)
+
+
+-----------------------------------------------
+		mercenaire
+-----------------------------------------------
+item.MIP.name=Gilet MPI
+item.MIP_C.name=Rangers MPI
+item.MIP_P.name=treilli MPI
+item.MIP_Hunter.name=Hunter MPI
+item.Humvee_MPI.name=Humvee MPI
+
+
+-------------------------------------------------------
+		BLINDE GENDARMRIE / REBEL 
+-------------------------------------------------------
+item.blinde_gendarmrie_bleu1.name=Blindé de la Gendarmerie (Tourelle/canon)
+item.blinde_gendarmrie_noir.name= Blindé Noir (Tourelle/canon)
+item.blinde_gendarmrie_bleu1_eau.name=Blindé de la Gendarmerie (canon à eau)
+
+
+item.m601Ammo.name=Munition Blindé Gendarmerie
+item.Canon_Eau.name=Munition Canon à Eau
+
+-------------------------------------------------------
+			FBI ATF
+-------------------------------------------------------
+
+item.Chaussure_FBI_leTIGREroyal.name=Chaussures du FBI
+item.Lunette_leTIGREroyal.name=Lunettes
+item.Pantalon_FBI_leTIGREroyal.name=Pantalon du FBI
+item.Veste_FBI_leTIGREroyal.name=Veste du FBI
+
+item.Pantalon_ATF_leTIGREroyal.name=Pantalon de l'ATF
+item.Veste_ATF_leTIGREroyal.name=Veste de l'ATF
+
+
+--------------------------------------------------------
+			AMBULANCE USA
+--------------------------------------------------------
+item.Ambulance_USA_leTIGREroyal.name=Ambulance de Los Angeles (LAFD)
+item.Ambulance_USA_Rouge_leTIGREroyal.name=Ambulance de Los Angeles (LAFD Rouge)
+item.Ambulance_USA_hacker_leTIGREroyal.name=Camion des Hackers
+item.Ambulance_USA_Tacos_leTIGREroyal.name=Camion de Tacos
+item.Ambulance_USA_Samu_leTIGREroyal.name=Ambulance du Samu 
+item.Ambulance_USA_Police_leTIGREroyal.name=Camion d'investigation de la police
+
+
+
+--------------------------------------------------------
+		FORD CROWN VICTORIA
+--------------------------------------------------------
+			 POLICE
+
+item.FCV_Police_LA.name=Ford Crown Victoria de la Police de Los Angeles (Type 2)
+item.FCV_Police_LA_02.name=Ford Crown Victoria de la Police de Los Angeles (Type 3)
+item.FCV_Police_LA_03.name=Ford Crown Victoria de la Police de Los Angeles (Type 1)
+item.FCV_Police_LA_04.name=Ford Crown Victoria de la Police de Los Angeles (Type 4)
+
+item.FCV_Sheriff_1.name=Ford Crown Victoria du Sheriff (Type 1)
+item.FCV_Sheriff_2.name=Ford Crown Victoria du Sheriff (Type 2)
+			
+			BANALISEE
+
+item.FCV_Civil_Griseb.name=Ford Crown Victoria Grise (Banalisée)
+item.FCV_Civil_Blancb.name=Ford Crown Victoria Blanche (Banalisée)
+item.FCV_Civil_Bleub.name=Ford Crown Victoria Bleue (Banalisée)
+item.FCV_Civil_Brunb.name=Ford Crown Victoria Brune (Banalisée)
+item.FCV_Civil_Roseb.name=Ford Crown Victoria Rose (Banalisée)
+item.FCV_Civil_Noirb.name=Ford Crown Victoria Noire (Banalisée)
+item.FCV_Civil_Rougeb.name=Ford Crown Victoria Rouge (Banalisée)
+item.FCV_Civil_Vertb.name=Ford Crown Victoria Verte (Banalisée)
+item.FCV_Civil_Violetb.name=Ford Crown Victoria Violette (Banalisée)
+
+
+			CIVIL
+
+item.FCV_Civil_Grise.name=Ford Crown Victoria Grise
+item.FCV_Civil_Blanc.name=Ford Crown Victoria Blanche
+item.FCV_Civil_Bleu.name=Ford Crown Victoria Bleue
+item.FCV_Civil_Brun.name=Ford Crown Victoria Brune
+item.FCV_Civil_Rose.name=Ford Crown Victoria Rose
+item.FCV_Civil_Noir.name=Ford Crown Victoria Noire
+item.FCV_Civil_Rouge.name=Ford Crown Victoria Rouge
+item.FCV_Civil_Vert.name=Ford Crown Victoria Verte
+item.FCV_Civil_Violet.name=Ford Crown Victoria Violette
+
+--------------------------------------------------------
+	        AMBULANCIER/PARAMEDIC USA
+--------------------------------------------------------
+item.Chaussure_Paramedic_leTIGREroyal.name=Chaussures du Paramedic
+item.Chemise_Paramedicb_leTIGREroyal.name=Chemise du Paramedic (BLEU)
+item.Pantalon_Paramedicb_leTIGREroyal.name=Pantalon du Paramedic (BLEU)
+
+item.Chemise_Paramedicv_leTIGREroyal.name=Chemise du Paramedic (VERT)
+item.Pantalon_Paramedicv_leTIGREroyal.name=Pantalon du Paramedic (VERT)
+
+
+-----------------------------------------------
+		BLINDE SWAT/BANQUE ...
+-----------------------------------------------
+
+item.blinde_banque_letigreroyal.name=Blindé de la banque (Brinks)
+item.blinde_swat_letigreroyal.name=Blindé du SWAT
+item.blinde_noir_letigreroyal.name=Blindé Noir
+
+
+-----------------------------------------------
+		  HUMWEE USA
+-----------------------------------------------
+
+item.Humwee_USA_M_Marines.name=Humwee des Marines (Mitrailleuse)
+item.humwee_usa_r_letigreroyal.name=Humwee en mauvaise état (Mitrailleuse)
+
+
+--------------------------------------------------------------
+			NEXTER TITUS
+--------------------------------------------------------------
+
+item.titus_raid_letigreroyal.name=Nexter Titus du RAID
+item.titus_bri_letigreroyal.name=Nexter Titus de la BRI
+item.titus_postapo_letigreroyal.name=Nexter Titus PostApo
+item.titus_noir_letigreroyal.name=Nexter Titus Noir
+
+Spécial
+item.titus_postapobf_letigreroyal.name=Nexter Titus de la Confrérie de l'Acier
+
+
+
+--------------------------------------------------------------
+			ARMEE FR
+--------------------------------------------------------------
+
+GRADE
+
+item.grade_adjudant.name=Grade Adjudant
+item.grade_adjudantchef.name=Grade Adjudant Chef
+item.grade_aspirant.name=Grade Aspirant
+item.grade_caporalchef.name=Grade Caporal Chef
+item.grade_caporal.name=Grade Caporal
+item.grade_caporalchef1eclasse.name=Grad Caporal 1er Classe
+item.grade_sergent.name=Grade Sergent
+item.grade_capitaine.name=Grade Capitaine
+item.grade_colonel.name=Grade Colonel
+item.grade_commandant.name=Grade Commandant
+item.grade_generaldarmee.name=Grade Général d'armée
+item.grade_generaldebrigade.name=Grade Général de Brigade
+item.grade_generaldecorpdarmee.name=Grade Général du corp d'armée
+item.grade_generaldedivision.name=Grade Général de Division
+item.grade_lieutenant.name=Grade Lieutenant
+item.grade_lieutenantcolonel.name=Grade Lieutenant Colonel
+item.grade_sergent.name=Grade Sergent
+item.grade_sergentchef.name=Grade Sergent Chef
+item.grade_soldat.name=Grade Pas de grade
+item.grade_soldat1eclasse.name=Grade Soldat 1er Classe
+item.grade_souslieutenant.name=Grade Sous-Lieutenant
+
+TENUE
+item.armee_fr_casque_letigreroyal.name=Casque de l'armée Française (cheuveux épais)
+item.armee_fr_casque2_letigreroyal.name=Casque de l'armée Française (cheuveux cours)
+item.armee_fr_tenue_letigreroyal.name=Tenue de l'armée Française
+item.armee_fr_equipement_letigreroyal.name=Equipement de l'armée Française (sans sac)
+item.armee_fr_equipement2_letigreroyal.name=Equipement de l'armée Française (sans sac / sans gants)
+item.armee_fr_equipementetsac_letigreroyal.name=Equipement de l'armée Française (sac+gants)
+
+
+
+--------------------------------------------------------------
+		       RENAULT GBC 180
+--------------------------------------------------------------
+
+item.renault_gbc_180_1_letigreroyal.name=Renault GBC 180 (camo vert/logo/bache)
+item.renault_gbc_180_2_letigreroyal.name=Renault GBC 180 (camo vert/logo/sans bache)
+item.renault_gbc_180_3_letigreroyal.name=Renault GBC 180 (camo vert (bache)
+item.renault_gbc_180_4_letigreroyal.name=Renault GBC 180 (camo vert (sans bache)
+
+item.renault_gbc_180_5_letigreroyal.name=Renault GBC 180 (camo blanc/logo/bache)
+item.renault_gbc_180_6_letigreroyal.name=Renault GBC 180 (camo blanc/logo/sans bache)
+item.renault_gbc_180_7_letigreroyal.name=Renault GBC 180 (camo desert/bache)
+item.renault_gbc_180_8_letigreroyal.name=Renault GBC 180 (camo desert/sans bache)
+
+item.renault_gbc_180_9_letigreroyal.name=Renault GBC 180 (camo noir/logo/bache)
+item.renault_gbc_180_10_letigreroyal.name=Renault GBC 180 (camo noir/logo/sans bache)
+
+
+-----------------------------------------------
+		RENAULT MASTER
+-----------------------------------------------
+
+CIVIL
+
+item.renault_master_gris_letigreroyal.name=Renault Master Gris (Civil)
+item.renault_master_blanc_letigreroyal.name=Renault Master Blanc (Civil)
+item.renault_master_bleu_letigreroyal.name=Renault Master Bleu (Civil)
+item.renault_master_jaune_letigreroyal.name=Renault Master Jaune (Civil)
+item.renault_master_orange_letigreroyal.name=Renault Master Orange (Civil)
+item.renault_master_rose_letigreroyal.name=Renault Master Rose (Civil)
+item.renault_master_rouge_letigreroyal.name=Renault Master Rouge (Civil)
+item.renault_master_vert_letigreroyal.name=Renault Master Vert (Civil)
+
+ENTREPRISE
+item.renault_master_et_letigreroyal.name=Renault Master leTIGREroyal (Entreprise)
+
+item.renault_master_entreprise_1_letigreroyal.name=Renault Master Entreprise 1 (PERSO)
+item.renault_master_entreprise_2_letigreroyal.name=Renault Master Entreprise 2 (PERSO)
+item.renault_master_entreprise_3_letigreroyal.name=Renault Master Entreprise 3 (PERSO)
+item.renault_master_entreprise_4_letigreroyal.name=Renault Master Entreprise 4 (PERSO)
+item.renault_master_entreprise_5_letigreroyal.name=Renault Master Entreprise 5 (PERSO)
+item.renault_master_entreprise_6_letigreroyal.name=Renault Master Entreprise 6 (PERSO)
+item.renault_master_entreprise_7_letigreroyal.name=Renault Master Entreprise 7 (PERSO)
+item.renault_master_entreprise_8_letigreroyal.name=Renault Master Entreprise 8 (PERSO)
+item.renault_master_entreprise_9_letigreroyal.name=Renault Master Entreprise 9 (PERSO)
+item.renault_master_entreprise_10_letigreroyal.name=Renault Master Entreprise 10 (PERSO)
+item.renault_master_entreprise_11_letigreroyal.name=Renault Master Entreprise 11 (PERSO)
+item.renault_master_entreprise_12_letigreroyal.name=Renault Master Entreprise 12 (PERSO)
+item.renault_master_entreprise_13_letigreroyal.name=Renault Master Entreprise 13 (PERSO)
+item.renault_master_entreprise_14_letigreroyal.name=Renault Master Entreprise 14 (PERSO)
+item.renault_master_entreprise_15_letigreroyal.name=Renault Master Entreprise 15 (PERSO)
+item.renault_master_entreprise_16_letigreroyal.name=Renault Master Entreprise 16 (PERSO)
+item.renault_master_entreprise_17_letigreroyal.name=Renault Master Entreprise 17 (PERSO)
+item.renault_master_entreprise_18_letigreroyal.name=Renault Master Entreprise 18 (PERSO)
+item.renault_master_entreprise_19_letigreroyal.name=Renault Master Entreprise 19 (PERSO)
+item.renault_master_entreprise_20_letigreroyal.name=Renault Master Entreprise 20 (PERSO)
+item.renault_master_entreprise_21_letigreroyal.name=Renault Master Entreprise 21 (PERSO)
+item.renault_master_entreprise_22_letigreroyal.name=Renault Master Entreprise 22 (PERSO)
+item.renault_master_entreprise_23_letigreroyal.name=Renault Master Entreprise 23 (PERSO)
+item.renault_master_entreprise_24_letigreroyal.name=Renault Master Entreprise 24 (PERSO)
+
+POLICE/GENDARME ETC...
+
+item.renault_master_gendarme_letigreroyal.name=Renault Master de la Gendarmerie (type 1)
+item.renault_master_gendarme2_letigreroyal.name=Renault Master de la Gendarmerie (type 2)
+item.renault_master_gendarme3_letigreroyal.name=Renault Master de la Gendarmerie (type 3)
+
+item.renault_master_crs_letigreroyal.name=Renault Master des CRS
+item.renault_master_ap_letigreroyal.name=Renault Master de l'Administration Pénitentiaire
+
+item.renault_master_pn1_letigreroyal.name=Renault Master de la Police Nationale
+
+item.renault_master_samu_letigreroyal.name=Renault Master du SAMU
+item.renault_master_pompiera_letigreroyal.name=Renault Master des Sapeurs Pompiers
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+Name MehlerM1ELegeVert
+ShortName MehlerM1ELegeVert
+Icon MehlerM1ELegeVert
+Colour 255 255 255
+Type Body
+Model GunPackGIGN.MehlerM1ELegeVert
+Defence 0.30
+ArmourTexture TextureGIGN
+ModelScale 1.00

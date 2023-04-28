@@ -1,0 +1,9 @@
+Name uniformecamouflage
+ShortName unifcamo
+Icon uniformecommandomarine
+Colour 255 255 255
+Type Legs
+Model nowdek.uniformecommandomarine
+Defence 0.00
+ArmourTexture uniformecamouflage
+ModelScale 1.00

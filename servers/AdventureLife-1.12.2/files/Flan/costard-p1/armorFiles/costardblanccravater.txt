@@ -1,0 +1,9 @@
+Name CostardBlancCravateR
+ShortName CBCR
+Icon costarblanc
+Colour 255 255 255
+Type Body
+Model CostardPack.CostardBlancCravateR
+Defence 0.30
+ArmourTexture Skin_Armor_CostardRouge
+ModelScale 1.00

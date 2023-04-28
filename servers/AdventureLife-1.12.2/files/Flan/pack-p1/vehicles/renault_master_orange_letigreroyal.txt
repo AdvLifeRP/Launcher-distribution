@@ -1,0 +1,63 @@
+﻿Name renault_master_orange_letigreroyal
+ShortName renault_master_orange_letigreroyal
+Description Renault Master CIVIL
+Model renault_master_letigreroyal
+ModelScale 0.41
+Icon renault_master_orange_letigreroyal
+
+Model tigerpack.renault_master_letigreroyal
+ModelScale 0.41
+Texture renault_master_orange_letigreroyal
+
+MaxThrottle 1.0
+MaxNegativeThrottle 0.5
+Drag 0.1
+
+NumWheels 4
+WheelPosition 0 -28 -9.85 -16
+WheelPosition 1 -28 -9.85 16
+WheelPosition 2 28 -9.85 16
+WheelPosition 3 28 -9.85 -16
+WheelRadius 1.0
+WheelSpringStrength 0.2
+
+ShootDelay 999
+
+Driver 10 5 -2
+Passengers 3
+Passenger 1 10 5 14 core
+Passenger 2 -5 -1 5 core
+Passenger 3 -41 -1 10 core
+
+CargoSlots 1
+ShellSlots 0
+FuelTankSize 1000
+
+SetupPart core 100 -53 -3 -20 100 16 40
+
+BulletDetection 5
+
+CameraDistance 8.0
+
+StartSound Engine
+StartSoundLength 20
+EngineSound Engine
+EngineSoundLength 20
+ShellSound shell
+
+RotateWheels true
+
+TurnLeftSpeed 1
+TurnRightSpeed 1
+FourWheelDrive True
+
+ShootDelay 999
+
+ShootSound mpackm1911Shoot
+ShellSound mpackm1911Shoot
+
+IsExplosionWhenDestroyed true
+
+----------------------------------------------------------------------------
+                       Model crée par leTIGREroyal
+----------------------------------------------------------------------------

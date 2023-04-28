@@ -1,0 +1,9 @@
+Name G3 Bear (OD + Multicam)
+ShortName bear2odmulticam
+ItemID 23886
+Icon g3bearmulticam
+Colour 255 255 255
+Type Boots
+Model EFC.bear2
+ArmourTexture Bear2OdMulticam
+Defence 0.0

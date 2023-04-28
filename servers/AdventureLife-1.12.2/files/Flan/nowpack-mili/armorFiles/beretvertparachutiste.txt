@@ -1,0 +1,9 @@
+Name beretvertparachutiste
+ShortName berevertpara
+Icon beretvertparachutiste
+Colour 255 255 255
+Type Head
+Model nowdek.beretparachutiste
+Defence 0.00
+ArmourTexture beretvertparachutiste
+ModelScale 1.00

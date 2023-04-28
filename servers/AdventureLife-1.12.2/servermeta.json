@@ -1,20 +1,30 @@
 {
-  "$schema": "file:///D:/root/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///C:/Users/ULTRAPC/Dev/AdvLifeLauncher-distro/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "AdventureLife (RolePlay en 1.12.2)",
-    "description": "AdventureLife, Serveur RolePlay moddé.",
+    "description": "AdventureLife, Serveur RolePlay moddé",
     "address": "93.186.69.248:25501",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "908774399346360443",
+      "largeImageText": "AdventureLife",
+      "largeImageKey": "seal-circle"
     },
     "mainServer": true,
     "autoconnect": false
   },
   "forge": {
-    "version": "14.23.5.2860"
+    "version": "14.23.5.2859"
   },
-  "untrackedFiles": []
+  "untrackedFiles": [
+    {
+        "appliesTo": ["files"],
+        "patterns": [
+          "config/**/*",
+          "options.txt",
+          "optionsof.txt",
+          "servers.dat"
+        ]
+    }
+  ]
 }

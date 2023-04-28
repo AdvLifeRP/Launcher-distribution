@@ -1,0 +1,9 @@
+Name commandomarinehaut
+ShortName commmarihaut
+Icon commandomarinehaut
+Colour 255 255 255
+Type Body
+Model nowdek.commandomarinehaut
+Defence 0.30
+ArmourTexture commandomarine
+ModelScale 1.00

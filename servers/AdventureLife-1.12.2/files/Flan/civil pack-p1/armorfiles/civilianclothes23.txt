@@ -1,0 +1,9 @@
+Name civilianclothes23
+ShortName civilianclothes23
+Icon civilianclothes23
+Colour 255 255 255
+Type Body
+Model PlumePack.civilianclothes2
+Defence 0.0
+ArmourTexture skin_armor_civilianclothes23
+ModelScale 1.00

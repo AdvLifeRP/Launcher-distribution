@@ -1,0 +1,9 @@
+Name MehlerM1EEpauleVert
+ShortName MehlerM1EEpauleVert
+Icon MehlerM1EEpauleVert
+Colour 255 255 255
+Type Body
+Model GunPackGIGN.MehlerM1EEpauleVert
+Defence 0.30
+ArmourTexture TextureGIGN
+ModelScale 1.00

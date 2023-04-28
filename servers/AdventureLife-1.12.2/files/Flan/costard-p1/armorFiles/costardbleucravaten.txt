@@ -1,0 +1,9 @@
+Name CostardBleuCravateN
+ShortName CBleuCN
+Icon costarbleu
+Colour 255 255 255
+Type Body
+Model CostardPack.CostardBleuCravateN
+Defence 0.30
+ArmourTexture Skin_Armor_CostardBleuCravateN
+ModelScale 1.00

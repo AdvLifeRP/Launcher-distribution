@@ -1,0 +1,9 @@
+Name MehlerH2SVisiereVert
+ShortName MehlerH2SVisiereVert
+Icon MehlerH2SVisiereVert
+Colour 255 255 255
+Type Head
+Model GunPackGIGN.MehlerH2SVisiereVert
+Defence 0.30
+ArmourTexture TextureGIGN
+ModelScale 1.00

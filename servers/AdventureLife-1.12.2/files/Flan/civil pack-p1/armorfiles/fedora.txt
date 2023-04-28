@@ -1,0 +1,9 @@
+Name fedora
+ShortName fedora
+Icon fedora
+Colour 255 255 255
+Type Head
+Model PlumePack.fedora
+Defence 0.05
+ArmourTexture skin_armor_fedora
+ModelScale 1.00

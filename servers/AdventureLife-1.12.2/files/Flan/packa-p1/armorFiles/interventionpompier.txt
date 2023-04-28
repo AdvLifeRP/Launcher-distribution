@@ -1,0 +1,9 @@
+Name interventionpompier
+ShortName interventionpompier
+Icon interventionpompier
+Colour 255 255 255
+Type Body
+Model PlumePack.interventionpompier
+Defence 0.3
+ArmourTexture skin_armor_interventionpompier
+ModelScale 1.00

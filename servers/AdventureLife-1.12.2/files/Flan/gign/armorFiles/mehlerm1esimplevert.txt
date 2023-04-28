@@ -1,0 +1,9 @@
+Name MehlerM1ESimpleVert
+ShortName MehlerM1ESimpleVert
+Icon MehlerM1ESimpleVert
+Colour 255 255 255
+Type Body
+Model GunPackGIGN.MehlerM1ESimpleVert
+Defence 0.30
+ArmourTexture TextureGIGN
+ModelScale 1.00

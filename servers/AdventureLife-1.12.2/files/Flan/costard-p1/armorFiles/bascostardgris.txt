@@ -1,0 +1,9 @@
+Name bascostardgris
+ShortName bascostgris
+Icon bascostardgris
+Colour 255 255 255
+Type Legs
+Model nowdek.bascostard
+Defence 0.10
+ArmourTexture costardgris
+ModelScale 1.00

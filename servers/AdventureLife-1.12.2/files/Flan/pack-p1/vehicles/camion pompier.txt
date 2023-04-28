@@ -1,0 +1,70 @@
+﻿Name camion_pompier
+ShortName camion_pompier
+Model tigerpack.CCF
+ModelScale 1
+Icon pompier
+
+Model tigerpack.Camion_Pompier
+ModelScale 1
+Texture camion_pompier_tigre
+
+MaxThrottle 1.0
+MaxNegativeThrottle 0.5
+Drag 0.1
+
+NumWheels 4
+WheelPosition 0 -28 -9.95 -16
+WheelPosition 1 -28 -9.95 16
+WheelPosition 2 28 -9.95 16
+WheelPosition 3 28 -9.95 -16
+WheelRadius 1.0
+WheelSpringStrength 0.2
+
+ShootDelay 999
+
+Driver 28 13 -25
+Passengers 4
+Passenger 1 27 13 -6 core
+Passenger 2 0 15 -25 core
+Passenger 3 0 15 -6 core
+Passenger 4 20 15 -16 core
+
+
+CargoSlots 0
+ShellSlots 0
+FuelTankSize 1000
+
+SetupPart Hitbox 1 100 -46 -4 -19 73 40 40
+SetupPart core 100 -34 -3 -25 77 13 40
+SetupPart backLeftWheel 100 -20 -10 -16 8 8 2
+SetupPart backRightWheel 100 -20 -10 14 8 8 2
+SetupPart frontLeftWheel 100 12 -10 -16 8 8 2
+SetupPart frontRightWheel 100 12 -10 14 8 8 2
+BulletDetection 5
+
+CameraDistance 7.0
+
+StartSound Engine
+StartSoundLength 20
+EngineSound Engine
+EngineSoundLength 20
+ShellSound shell
+
+RotateWheels true
+
+TurnLeftSpeed 1
+TurnRightSpeed 1
+FourWheelDrive True
+
+ShootDelay 999
+
+StartSound lkw_start
+StartSoundLength 34
+EngineSound lkw_lauf
+EngineSoundLength 105
+
+IsExplosionWhenDestroyed true
+
+----------------------------------------------------------------------------
+                    Model developpé par leTIGREroyal
+----------------------------------------------------------------------------

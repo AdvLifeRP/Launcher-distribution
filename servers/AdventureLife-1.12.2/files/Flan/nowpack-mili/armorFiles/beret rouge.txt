@@ -1,0 +1,9 @@
+Name beretrouge
+ShortName bereroug
+Icon beretrouge
+Colour 255 255 255
+Type Head
+Model nowdek.beret
+Defence 0.00
+ArmourTexture beretrouge
+ModelScale 1.00

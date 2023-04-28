@@ -1,0 +1,13 @@
+Name Ana Tactical M2
+ShortName m2
+ItemID 23882
+Icon AnaM2
+Colour 255 255 255
+Type Chest
+Defence 0.30
+MoveSpeedModifier 0.95
+Model EFC.M2
+ArmourTexture M2
+Durability 144
+KnockbackModifier 1
+Description Classe de protection >> 4

@@ -1,0 +1,9 @@
+Name sishort
+ShortName sishort
+Icon sishort
+Colour 255 255 255
+Type Body
+Model PlumePack.sishort
+Defence 0.0
+ArmourTexture skin_armor_si
+ModelScale 1.00
