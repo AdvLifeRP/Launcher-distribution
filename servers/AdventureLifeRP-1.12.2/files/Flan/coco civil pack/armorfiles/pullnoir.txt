@@ -1,0 +1,8 @@
+Name PullNoir
+ShortName PullNoir
+Colour 255 255 255
+Type Chest 
+Defence 0.3
+ArmourTexture Skin_Armor_PullNoir
+Model coco.pull
+Icon PullNoir

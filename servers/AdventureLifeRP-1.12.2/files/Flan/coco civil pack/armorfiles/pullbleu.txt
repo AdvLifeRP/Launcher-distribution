@@ -1,0 +1,8 @@
+Name PullBleu
+ShortName PullBleu
+Colour 255 255 255
+Type Chest 
+Defence 0.3
+ArmourTexture Skin_Armor_PullBleu
+Model coco.pull
+Icon PullBleu

@@ -1,0 +1,8 @@
+Name tenuedir
+ShortName tenuedir
+Colour 255 255 255
+Type Legs
+Defence 0.7
+ArmourTexture tenuedir
+Model coco.tenuedir
+Icon tenuedir

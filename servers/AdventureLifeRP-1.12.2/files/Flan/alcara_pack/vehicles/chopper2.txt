@@ -1,0 +1,51 @@
+﻿// Naming
+Name Chopper
+ShortName chop2
+// Visuals
+Model Alcara_v1.Chopper
+ModelScale 0.50
+Icon chop2
+//Throttle
+MaxThrottle 1.140
+MaxNegativeThrottle 0.5
+//Drag
+Drag 4.0
+//Mass (In tons)
+Mass 0.8
+// Recipe
+//Misc
+//------------------------------------------------
+//---Driveables-----------------------------------
+//Visuals
+Texture chopper2
+//Movement
+//Wheels
+NumWheels 4
+WheelPosition 0 -22 -8 -14
+WheelPosition 1 -22 -8 14
+WheelPosition 2 22 -8 14
+WheelPosition 3 22 -8 -14
+//Floating
+//Ammo
+//Weapons
+//Driver and Passengers
+Driver -9 1 -1
+Passengers 0
+//Inventory Slots
+//Recipe
+//Health and Collision
+//Misc
+//Sounds
+StartSound Engine7SU
+StartSoundLength 10.54
+EngineSound Engine7SU
+EngineSoundLength 20
+ShootSound Engine7SU
+ShellSound Engine7SU
+//------------------------------------------------
+//---Vehicle--------------------------------------
+//Visuals
+//Movement
+//Misc
+//Sound
+//------------------------------------------------

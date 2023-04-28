@@ -1,0 +1,59 @@
+﻿// Naming
+Name Shelby GT500
+ShortName gt500
+// Visuals
+Model Alcara_v1.GT500
+ModelScale 0.61
+Icon gt500
+RotateWheels true
+//Throttle
+MaxThrottle 1.210
+MaxNegativeThrottle 0.5
+//Drag
+Drag 6.0
+//Mass (In tons)
+Mass 1.4
+// Recipe
+//Misc
+//------------------------------------------------
+//---Driveables-----------------------------------
+//Visuals
+Texture gt500
+//Movement
+//Wheels
+NumWheels 4
+WheelPosition 0 -42 -8 19
+WheelPosition 1 -42 -8 -19
+WheelPosition 2 36 -8 -19
+WheelPosition 3 36 -8 19
+//Floating
+//Ammo
+//Weapons
+//Driver and Passengers
+Driver -3 -6 -8
+Passengers 2
+Passenger 1 -3 -6 8 core
+Passenger 2 -17 -6 7 core
+//Inventory Slots
+CargoSlots 10
+ShellSlots 0
+//Recipe
+//Health and Collision
+//Misc
+
+
+//Sounds
+StartSound GT500
+StartSoundLength 40
+EngineSound GT500
+EngineSoundLength 80
+ShootSound
+ShellSound
+//------------------------------------------------
+
+//---Vehicle--------------------------------------
+//Visuals
+//Movement
+//Misc
+//Sound
+//------------------------------------------------

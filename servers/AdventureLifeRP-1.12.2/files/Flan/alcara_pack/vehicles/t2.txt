@@ -1,0 +1,56 @@
+﻿// Naming
+Name Ford T2 1926
+ShortName t2
+// Visuals
+Model Alcara_v1.FordT21926
+ModelScale 0.60
+Icon t2
+//Throttle
+MaxThrottle 0.690
+MaxNegativeThrottle 0.5
+//Drag
+Drag 4.0
+//Mass (In tons)
+Mass 0.8
+// Recipe
+//Misc
+//------------------------------------------------
+//---Driveables-----------------------------------
+//Visuals
+Texture fordt2
+//Movement
+//Wheels
+NumWheels 4
+WheelPosition 0 -42 -8 19
+WheelPosition 1 -42 -8 -19
+WheelPosition 2 36 -8 -19
+WheelPosition 3 36 -8 19
+//Floating
+//Ammo
+//Weapons
+//Driver and Passengers
+Driver -13 10 -8
+Passengers 3
+Passenger 1 -13 10 0 core
+Passenger 2 -36 10 -2 core
+Passenger 3 -36 10 -7 core
+//Inventory Slots
+CargoSlots 8
+ShellSlots 0
+//Recipe
+//Health and Collision
+//Misc
+//Sounds
+StartSound Engine7SU
+StartSoundLength 10.54
+EngineSound Engine7SU
+EngineSoundLength 20
+ShootSound Engine7SU
+ShellSound Engine7SU
+//------------------------------------------------
+//---Vehicle--------------------------------------
+//Visuals
+//Movement
+//Misc
+//Sound
+//------------------------------------------------

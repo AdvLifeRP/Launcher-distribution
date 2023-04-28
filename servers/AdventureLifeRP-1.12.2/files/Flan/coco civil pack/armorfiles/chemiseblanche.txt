@@ -1,0 +1,8 @@
+Name chemiseblanche
+ShortName chemiseblanche
+Colour 255 255 255
+Type Chest 
+Defence 0.3
+ArmourTexture Skin_Armor_chemiseblanche
+Model coco.chemiseblanche
+Icon chemiseblanche

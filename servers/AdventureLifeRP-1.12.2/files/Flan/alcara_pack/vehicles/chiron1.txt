@@ -1,0 +1,54 @@
+﻿// Naming
+Name Bugatti Chiron Alcara
+ShortName chiron
+// Visuals
+Model Alcara_v1.Chiron
+ModelScale 0.62
+Icon chiron
+//Throttle
+MaxThrottle 1.420
+MaxNegativeThrottle 0.5
+//Drag
+Drag 6.0
+//Mass (In tons)
+Mass 1.4
+// Recipe
+//Misc
+//------------------------------------------------
+//---Driveables-----------------------------------
+//Visuals
+Texture chiron
+//Movement
+//Wheels
+NumWheels 4
+WheelPosition 0 -42 -8 19
+WheelPosition 1 -42 -8 -19
+WheelPosition 2 36 -8 -19
+WheelPosition 3 36 -8 19
+//Floating
+//Ammo
+//Weapons
+//Driver and Passengers
+Driver -4 -8 -9
+Passengers 1
+Passenger 1 -4 -8 9 core
+//Inventory Slots
+CargoSlots 4
+ShellSlots 0
+//Recipe
+//Health and Collision
+//Misc
+//Sounds
+StartSound V8SU
+StartSoundLength 10.54
+EngineSound LamboIdle
+EngineSoundLength 20
+ShootSound LamboIdle
+ShellSound LamboIdle
+//------------------------------------------------
+//---Vehicle--------------------------------------
+//Visuals
+//Movement
+//Misc
+//Sound
+//------------------------------------------------

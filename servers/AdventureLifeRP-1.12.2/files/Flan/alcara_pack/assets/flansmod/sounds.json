@@ -1,0 +1,41 @@
+{
+	"cl65": {
+		"category" : "player",
+		"sounds" : [ "flansmod:cl65" ]
+	},
+	
+		"gt500": {
+		"category" : "player",
+		"sounds" : [ "flansmod:gt500" ]
+	},
+	
+		"911": {
+		"category" : "player",
+		"sounds" : [ "flansmod:911" ]
+	},
+	
+		"smart": {
+		"category" : "player",
+		"sounds" : [ "flansmod:smart" ]
+	},
+	
+		"gtr34": {
+		"category" : "player",
+		"sounds" : [ "flansmod:gtr34" ]
+	},
+		
+		"gts": {
+		"category" : "player",
+		"sounds" : [ "flansmod:gts" ]
+	},
+			
+		"gt4": {
+		"category" : "player",
+		"sounds" : [ "flansmod:gt4" ]
+	},
+
+	"hura": {
+		"category" : "player",
+		"sounds" : [ "flansmod:hura" ]
+	}
+}

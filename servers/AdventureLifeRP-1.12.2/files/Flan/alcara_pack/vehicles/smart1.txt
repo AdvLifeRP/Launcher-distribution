@@ -1,0 +1,55 @@
+﻿// Naming
+Name SMart ForTwo
+ShortName smart
+// Visuals
+Model Alcara_v1.Smart
+ModelScale 0.56
+Description Yellow
+Icon smart
+//Throttle
+MaxThrottle 1.175
+MaxNegativeThrottle 0.9
+//Drag
+Drag 6.0
+//Mass (In tons)
+Mass 1.4
+// Recipe
+//Misc
+//------------------------------------------------
+//---Driveables-----------------------------------
+//Visuals
+Texture smart_black_yellow
+//Movement
+//Wheels
+NumWheels 4
+WheelPosition 0 -23 -8 13
+WheelPosition 1 -23 -8 -13
+WheelPosition 2 23 -8 -12
+WheelPosition 3 23 -8 12
+//Floating
+//Ammo
+//Weapons
+//Driver and Passengers
+Driver 1 -3 -6
+Passengers 1
+Passenger 1 1 -3 6 core
+//Inventory Slots
+CargoSlots 6
+ShellSlots 0
+//Recipe
+//Health and Collision
+//Misc
+//Sounds
+StartSound smart
+StartSoundLength 40
+EngineSound smart
+EngineSoundLength 80
+ShootSound
+ShellSound
+//------------------------------------------------
+//---Vehicle--------------------------------------
+//Visuals
+//Movement
+//Misc
+//Sound
+//------------------------------------------------

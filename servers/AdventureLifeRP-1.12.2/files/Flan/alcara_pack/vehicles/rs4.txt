@@ -1,0 +1,60 @@
+﻿// Naming
+Name Audi RS4 Avant
+ShortName rs4
+// Visuals
+Model Alcara_v1.RS4
+ModelScale 0.62
+Icon rs4
+RotateWheels true
+//Throttle
+MaxThrottle 1.250
+MaxNegativeThrottle 0.5
+//Drag
+Drag 6.0
+//Mass (In tons)
+Mass 1.4
+// Recipe
+//Misc
+//------------------------------------------------
+//---Driveables-----------------------------------
+//Visuals
+Texture rs4
+//Movement
+//Wheels
+NumWheels 4
+WheelPosition 0 -42 -8 19
+WheelPosition 1 -42 -8 -19
+WheelPosition 2 36 -8 -19
+WheelPosition 3 36 -8 19
+//Floating
+//Ammo
+//Weapons
+//Driver and Passengers
+Driver 1 -5 -9
+Passengers 3
+Passenger 1 1 -5 9 core
+Passenger 2 -20 -5 9 core
+Passenger 3 -20 -5 -9 core
+//Inventory Slots
+CargoSlots 12
+ShellSlots 0
+//Recipe
+//Health and Collision
+//Misc
+
+
+//Sounds
+StartSound CL65
+StartSoundLength 40
+EngineSound CL65
+EngineSoundLength 80
+ShootSound 
+ShellSound 
+//------------------------------------------------
+
+//---Vehicle--------------------------------------
+//Visuals
+//Movement
+//Misc
+//Sound
+//------------------------------------------------

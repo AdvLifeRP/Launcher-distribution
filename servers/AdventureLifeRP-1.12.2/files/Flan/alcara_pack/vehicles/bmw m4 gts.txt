@@ -1,0 +1,55 @@
+﻿// Naming
+Name BMW M4 GTS
+ShortName bmwm4gts
+// Visuals
+Model Alcara_v1.BMWM4GTS
+ModelScale 0.58
+Icon bmwm4gts
+RotateWheels true
+//Throttle
+MaxThrottle 1.385
+MaxNegativeThrottle 0.5
+//Drag
+Drag 6.0
+//Mass (In tons)
+Mass 1.4
+// Recipe
+//Misc
+//------------------------------------------------
+//---Driveables-----------------------------------
+//Visuals
+Texture bmwm4gts
+//Movement
+//Wheels
+NumWheels 4
+WheelPosition 0 -42 -8 19
+WheelPosition 1 -42 -8 -19
+WheelPosition 2 36 -8 -19
+WheelPosition 3 36 -8 19
+//Floating
+//Ammo
+//Weapons
+//Driver and Passengers
+Driver 0 -4 -8
+Passengers 1
+Passenger 1 0 -4 8 core
+//Inventory Slots
+CargoSlots 4
+ShellSlots 0
+//Recipe
+//Health and Collision
+//Misc
+//Sounds
+StartSound hura
+StartSoundLength 40
+EngineSound hura
+EngineSoundLength 80
+ShootSound
+ShellSound 
+//------------------------------------------------
+//---Vehicle--------------------------------------
+//Visuals
+//Movement
+//Misc
+//Sound
+//------------------------------------------------

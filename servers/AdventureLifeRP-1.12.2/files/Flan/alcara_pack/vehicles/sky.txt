@@ -1,0 +1,55 @@
+﻿// Naming
+Name Nissan Skyline GT-R V Spec II
+ShortName sky
+// Visuals
+Model Alcara_v1.Skyline
+ModelScale 0.76
+Icon sky
+RotateWheels true
+//Throttle
+MaxThrottle 1.295
+MaxNegativeThrottle 0.5
+//Drag
+Drag 6.0
+//Mass (In tons)
+Mass 1.4
+// Recipe
+//Misc
+//------------------------------------------------
+//---Driveables-----------------------------------
+//Visuals
+Texture skyline
+//Movement
+//Wheels
+NumWheels 4
+WheelPosition 0 -42 -8 19
+WheelPosition 1 -42 -8 -19
+WheelPosition 2 36 -8 -19
+WheelPosition 3 36 -8 19
+//Floating
+//Ammo
+//Weapons
+//Driver and Passengers
+Driver -9 -7 7
+Passengers 1
+Passenger 1 -9 -7 -7 core
+//Inventory Slots
+CargoSlots 8
+ShellSlots 0
+//Recipe
+//Health and Collision
+//Misc
+//Sounds
+StartSound GTR34
+StartSoundLength 10
+EngineSound GTR34
+EngineSoundLength 100
+ShootSound
+ShellSound
+//------------------------------------------------
+//---Vehicle--------------------------------------
+//Visuals
+//Movement
+//Misc
+//Sound
+//------------------------------------------------

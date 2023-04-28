@@ -1,0 +1,56 @@
+﻿// Naming
+Name Rolls Royce Phantom 2
+ShortName roll
+// Visuals
+Model Alcara_v1.Rolly
+ModelScale 0.58
+Icon roll
+//Throttle
+MaxThrottle 1.210
+MaxNegativeThrottle 0.5
+//Drag
+Drag 6.0
+//Mass (In tons)
+Mass 1.4
+// Recipe
+//Misc
+//------------------------------------------------
+//---Driveables-----------------------------------
+//Visuals
+Texture rolly
+//Movement
+//Wheels
+NumWheels 4
+WheelPosition 0 -42 -8 19
+WheelPosition 1 -42 -8 -19
+WheelPosition 2 36 -8 -19
+WheelPosition 3 36 -8 19
+//Floating
+//Ammo
+//Weapons
+//Driver and Passengers
+Driver 4 -6 -9
+Passengers 3
+Passenger 1 4 -6 6 core
+Passenger 2 -20 -6 -9 core
+Passenger 3 -20 -6 6 core
+//Inventory Slots
+CargoSlots 12
+ShellSlots 0
+//Recipe
+//Health and Collision
+//Misc
+//Sounds
+StartSound V8SU
+StartSoundLength 10.54
+EngineSound Engine2idle
+EngineSoundLength 20
+ShootSound Engine2idle
+ShellSound Engine2idle
+//------------------------------------------------
+//---Vehicle--------------------------------------
+//Visuals
+//Movement
+//Misc
+//Sound
+//------------------------------------------------

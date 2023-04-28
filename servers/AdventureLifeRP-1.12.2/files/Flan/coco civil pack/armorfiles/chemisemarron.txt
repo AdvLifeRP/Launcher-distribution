@@ -1,0 +1,8 @@
+Name chemisemarron
+ShortName chemisemarron
+Colour 255 255 255
+Type Chest 
+Defence 0.3 
+ArmourTexture Skin_Armor_chemisemarron
+Model coco.chemiseblanche
+Icon chemisemarron

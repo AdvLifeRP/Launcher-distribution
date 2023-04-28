@@ -1,0 +1,55 @@
+﻿// Naming
+Name Mercedes SL 65 AMG
+ShortName sl65amg
+// Visuals
+Model Alcara_v1.SL65AMG
+ModelScale 0.61
+Icon sl65amg
+RotateWheels true
+//Throttle
+MaxThrottle 1.330
+MaxNegativeThrottle 0.5
+//Drag
+Drag 6.0
+//Mass (In tons)
+Mass 1.4
+// Recipe
+//Misc
+//------------------------------------------------
+//---Driveables-----------------------------------
+//Visuals
+Texture sl65amg
+//Movement
+//Wheels
+NumWheels 4
+WheelPosition 0 -42 -6 18
+WheelPosition 1 -42 -6 -18
+WheelPosition 2 36 -6 -18
+WheelPosition 3 36 -6 18
+//Floating
+//Ammo
+//Weapons
+//Driver and Passengers
+Driver 0 -5 -7
+Passengers 1
+Passenger 1 0 -5 7 core
+//Inventory Slots
+CargoSlots 4
+ShellSlots 0
+//Recipe
+//Health and Collision
+//Misc
+//Sounds
+StartSound hura
+StartSoundLength 40
+EngineSound hura
+EngineSoundLength 80
+ShootSound
+ShellSound 
+//------------------------------------------------
+//---Vehicle--------------------------------------
+//Visuals
+//Movement
+//Misc
+//Sound
+//------------------------------------------------

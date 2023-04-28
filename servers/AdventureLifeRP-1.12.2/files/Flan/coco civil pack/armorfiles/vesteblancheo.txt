@@ -1,0 +1,8 @@
+Name vesteblancheo
+ShortName vesteblancheo
+Colour 255 255 255
+Type Chest 
+Defence 0.3
+ArmourTexture Skin_Armor_vesteblanche
+Model coco.vestenoir
+Icon VesteBlancheO

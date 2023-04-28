@@ -1,0 +1,54 @@
+﻿// Naming
+name Porsche GT4 Clubsport
+ShortName gt4
+// Visuals
+Model Alcara_v1.GT4
+ModelScale 0.60
+Icon GT4
+Texture gt4
+RotateWheels true
+//Throttle
+MaxThrottle 1.330
+MaxNegativeThrottle 0.5
+//Drag
+Drag 6.0
+//Mass (In tons)
+Mass 1.4
+// Recipe
+//Misc
+//------------------------------------------------
+//---Driveables-----------------------------------
+//Movement
+//Wheels
+NumWheels 4
+WheelPosition 0 -42 -8 19
+WheelPosition 1 -42 -8 -19
+WheelPosition 2 36 -8 -19
+WheelPosition 3 36 -8 19
+//Floating
+//Ammo
+//Weapons
+//Driver and Passengers
+Driver -5 -7 -8
+Passengers 1
+Passenger 1 -7 -4 8 core
+//Inventory Slots
+CargoSlots 4
+ShellSlots 0
+//Recipe
+//Health and Collision
+//Misc
+//Sounds
+StartSound GT4
+StartSoundLength 40
+EngineSound GT4
+EngineSoundLength 80
+ShootSound
+ShellSound
+//------------------------------------------------
+//---Vehicle--------------------------------------
+//Visuals
+//Movement
+//Misc
+//Sound
+//------------------------------------------------
