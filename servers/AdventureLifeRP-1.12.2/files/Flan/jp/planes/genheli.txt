@@ -1,0 +1,100 @@
+// ------------------------------------------------------ Naming ------------------------------------------------------
+Name genheli
+ShortName genheli
+// ------------------------------------------------------ Visuals ------------------------------------------------------
+Icon Icongenheli
+Model usamw.uh72a
+Texture genheli
+//Third Person Camera Distance
+CameraDistance 16.0
+//Resting Pitch. Set this so the plane spawns level. It will fall onto its collision boxes automatically, but this lets you start it flat
+RestingPitch 0.0
+HasGear False
+// ------------------------------------------------------ Movement ------------------------------------------------------
+//Mode : One of Plane, Heli or VTOL. The VTOL has a toggle button that switches some model aesthetics and the flight mode
+Mode Heli
+//Throttle
+MaxThrottle 1.5
+MaxNegativeThrottle 0.0
+//Yaw modifiers
+TurnLeftSpeed 3.25
+TurnRightSpeed 3.25
+//Pitch modifiers
+LookUpSpeed 3.25
+LookDownSpeed 3.25
+//Roll modifiers
+RollLeftSpeed 3.25
+RollRightSpeed 3.25
+//Drag 1.0 is standard. Modify to make the plane / heli more or less sluggish
+Drag 0.75
+//Lift
+//Lift 2.5
+//Wheels (Fake wheels imitating skids)
+NumWheels 3
+WheelPosition 0 81 -12 0
+WheelPosition 1 -19 -12 34
+WheelPosition 2 -19 -12 -34
+WheelSpringStrength 0.125
+//Propeller <ID> <x> <y> <z> <planePart> <recipeItem>
+//Propeller Positions
+HeliPropeller 0 1 -50 -0,5 blades metalPropeller
+HeliPropeller 1 135 -49 -2 blades metalPropeller
+// ------------------------------------------------------ Weaponry ------------------------------------------------------
+//Weapon types. Options are Missile, Bomb, Gun, Shell, None
+Primary None
+Secondary None
+//Time between shots in 1/20ths of seconds
+ShootDelayPrimary 0
+ShootDelaySecondary 0
+//Whether to alternate or fire all together
+AlternatePrimary False
+AlternateSecondary False
+//Firing modes. One of SemiAuto, FullAuto or Minigun
+ModePrimary FullAuto
+ModeSecondary FullAuto
+//Add shoot origins. These are the points on your vehicle from which bullets / missiles / shells / bombs appear
+//ShootPointPrimary -13 7 -53 rightWing
+//ShootPointPrimary -13 7 53 leftWing
+// ------------------------------------------------------ Inventory ------------------------------------------------------
+CargoSlots 10
+BombSlots 0
+MissileSlots 0
+AllowAllAmmo False
+AddAmmo mk4Rocket
+//Fuel Tank Size (1 point of fuel will keep one propeller going with throttle at 1 for 1 tick)
+FuelTankSize 5000
+// ------------------------------------------------------ Passengers ------------------------------------------------------
+Pilot 88 13 13
+Passengers 10
+Passenger 1 88 13 -13 core
+Passenger 2 74 13 -13 core
+Passenger 3 74 13 13 core
+Passenger 4 74 13 0 core
+Passenger 5 49 13 -14 core
+Passenger 6 36 13 -14 core
+Passenger 7 23 13 -14 core
+Passenger 8 49 13 14 core
+Passenger 9 36 13 14 core
+Passenger 10 23 13 14 core
+// ------------------------------------------------------ Sounds ------------------------------------------------------
+StartSound HelicopterStart
+StartSoundLength 100
+PropSound heloJ
+PropSoundLength 30
+//ShootSoundPrimary RocketFire1
+//ShootSoundSecondary None
+// ------------------------------------------------------ Recipe ------------------------------------------------------
+//Each section of the plane may have many parts
+//The sections are tailWheel, tail, bay, topWing, leftWingWheel, leftWing, rightWingWheel,
+//rightWing, nose, turret, coreWheel, core
+AddRecipeParts core 3 passengerBay
+AddRecipeParts nose 1 advancedMetalCockpit
+AddRecipeParts coreWheel 4 wheel
+AddRecipeParts blades 6 helicopterBlade
+AddRecipeParts tail 1 metalTail
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+AddDye 16 green
+// ------------------------------------------------------ Health and hitboxes ------------------------------------------------------
+SetupPart core 180 -63 0 -23 111 53 46
+BulletDetection 24
+IsExplosionWhenDestroyed true

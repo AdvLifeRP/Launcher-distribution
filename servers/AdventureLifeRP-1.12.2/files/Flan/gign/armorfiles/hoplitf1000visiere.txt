@@ -1,0 +1,9 @@
+Name HoplitF1000Visiere
+ShortName HoplitF1000Visiere
+Icon HoplitF1000Visiere
+Colour 255 255 255
+Type Head
+Model GunPackGIGN.HoplitF1000Visiere
+Defence 0.30
+ArmourTexture TextureGIGN
+ModelScale 1.00

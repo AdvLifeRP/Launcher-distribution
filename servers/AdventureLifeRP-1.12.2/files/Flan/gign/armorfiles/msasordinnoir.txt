@@ -1,0 +1,9 @@
+Name MSASordinNoir
+ShortName MSASordinNoir
+Icon MSASordinNoir
+Colour 255 255 255
+Type Head
+Model GunPackGIGN.MSASordinNoir
+Defence 0.30
+ArmourTexture MSASordinNoir
+ModelScale 1.00

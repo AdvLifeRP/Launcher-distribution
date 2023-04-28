@@ -1,0 +1,9 @@
+Name commandomarinebas
+ShortName commmaribas
+Icon commandomarinebas
+Colour 255 255 255
+Type Legs
+Model nowdek.commandomarinebas
+Defence 0.1
+ArmourTexture commandomarine
+ModelScale 1.00

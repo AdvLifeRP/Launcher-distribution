@@ -1,0 +1,9 @@
+Name beretfusiliermarin
+ShortName berefusimari
+Icon beretfusiliermarin
+Colour 255 255 255
+Type Head
+Model nowdek.beretfusiliermarin
+Defence 0.00
+ArmourTexture beretfusiliermarin
+ModelScale 1.00

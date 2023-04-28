@@ -1,0 +1,9 @@
+Name uniformecommandomarine
+ShortName unifcommmari
+Icon uniformecommandomarine
+Colour 255 255 255
+Type Legs
+Model nowdek.uniformecommandomarine
+Defence 0.00
+ArmourTexture uniformecommandomarine
+ModelScale 1.00

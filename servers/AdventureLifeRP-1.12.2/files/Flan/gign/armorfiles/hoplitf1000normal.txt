@@ -1,0 +1,9 @@
+Name HoplitF1000Normal
+ShortName HoplitF1000Normal
+Icon HoplitF1000Normal
+Colour 255 255 255
+Type Head
+Model GunPackGIGN.HoplitF1000Normal
+Defence 0.30
+ArmourTexture TextureGIGN
+ModelScale 1.00

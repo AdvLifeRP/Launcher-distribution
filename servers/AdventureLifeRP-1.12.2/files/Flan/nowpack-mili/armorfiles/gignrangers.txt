@@ -1,0 +1,42 @@
+﻿//---Standard Armor Config for Flans Mod----------
+//Created by Minecraft-SMP Toolbox 2.2.1.1
+
+
+//---Standard-------------------------------------
+// Naming
+Name gignrangers
+ShortName gignrang
+Icon gignrangers
+
+// Visuals
+Model nowdek.gignrangers
+ModelScale 1
+Colour 255 255 255
+
+
+// Recipe
+
+//Misc
+
+//------------------------------------------------
+
+//---Armor----------------------------------------
+//Type
+Type Boots
+
+
+//Visuals
+Model nowdek.gignrangers
+ArmourTexture gigncombinaison
+
+
+//Armor Settings
+Defence 0.00
+MoveSpeedModifier 1.0
+KnockbackModifier 1.0
+
+
+//Helmet Settings
+
+//------------------------------------------------
+         Model créé par leTIGREroyal

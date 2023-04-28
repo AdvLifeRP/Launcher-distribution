@@ -1,0 +1,9 @@
+Name brassard
+ShortName brassard
+Icon brassard
+Colour 255 255 255
+Type Boots
+Model PlumePack.brassard
+Defence 0.0
+ArmourTexture skin_armor_brassard
+ModelScale 1.00

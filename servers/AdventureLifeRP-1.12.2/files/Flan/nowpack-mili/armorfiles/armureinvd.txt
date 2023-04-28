@@ -1,0 +1,9 @@
+Name armureinvd
+ShortName armureinv
+Icon armureinv
+Colour 255 255 255
+Type Boots
+Model nowdek.uniformecommandomarine
+Defence 0.40
+ArmourTexture armureinv
+ModelScale 1.00

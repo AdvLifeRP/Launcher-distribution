@@ -1,0 +1,9 @@
+Name beretblanc
+ShortName bereblan
+Icon beretblanc
+Colour 255 255 255
+Type Head
+Model nowdek.beret
+Defence 0.00
+ArmourTexture beretblanc
+ModelScale 1.00

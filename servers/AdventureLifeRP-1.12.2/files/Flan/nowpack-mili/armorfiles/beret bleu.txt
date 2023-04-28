@@ -1,0 +1,9 @@
+Name beretbleu
+ShortName berebleu
+Icon beretbleu
+Colour 255 255 255
+Type Head
+Model nowdek.beret
+Defence 0.00
+ArmourTexture beretbleu
+ModelScale 1.00

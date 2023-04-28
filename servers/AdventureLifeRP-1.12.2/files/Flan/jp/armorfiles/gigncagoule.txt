@@ -1,0 +1,9 @@
+Name rebellecagoule
+ShortName rebellecago
+Icon gigncagoule
+Colour 255 255 255
+Type Legs
+Model nowdek.gigncagoule
+Defence 0.05
+ArmourTexture gigncombinaison
+ModelScale 1.00

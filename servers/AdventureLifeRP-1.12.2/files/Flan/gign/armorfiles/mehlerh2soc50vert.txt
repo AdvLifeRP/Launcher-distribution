@@ -1,0 +1,9 @@
+Name MehlerH2SOC50Vert
+ShortName MehlerH2SOC50Vert
+Icon MehlerH2SOC50Vert
+Colour 255 255 255
+Type Head
+Model GunPackGIGN.MehlerH2SOC50Vert
+Defence 0.30
+ArmourTexture TextureGIGN
+ModelScale 1.00

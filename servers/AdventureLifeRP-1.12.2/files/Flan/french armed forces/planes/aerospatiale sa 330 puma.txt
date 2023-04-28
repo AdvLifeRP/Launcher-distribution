@@ -1,0 +1,103 @@
+// ------------------------------------------------------ Naming ------------------------------------------------------
+Name Aerospatiale SA 330 Puma
+ShortName Puma
+// ------------------------------------------------------ Visuals ------------------------------------------------------
+Icon iconpuma
+Model faf.puma
+Texture puma_french
+//Third Person Camera Distance
+CameraDistance 20.0
+//Resting Pitch. Set this so the plane spawns level. It will fall onto its collision boxes automatically, but this lets you start it flat
+RestingPitch 0.0
+HasGear True
+// ------------------------------------------------------ Movement ------------------------------------------------------
+//Mode : One of Plane, Heli or VTOL. The VTOL has a toggle button that switches some model aesthetics and the flight mode
+Mode Heli
+//Throttle
+MaxThrottle 6.5
+MaxNegativeThrottle 0.0
+//Yaw modifiers
+TurnLeftSpeed 1.25
+TurnRightSpeed 1.25
+//Pitch modifiers
+LookUpSpeed 1.25
+LookDownSpeed 1.25
+//Roll modifiers
+RollLeftSpeed 1.25
+RollRightSpeed 1.25
+//Drag 1.0 is standard. Modify to make the plane / heli more or less sluggish
+Drag 1.0
+//Lift
+//Lift 2.5
+//Wheels (Fake wheels imitating skids)
+NumWheels 3
+WheelPosition 0 81 -10 0
+WheelPosition 1 -19 -10 34
+WheelPosition 2 -19 -10 -34
+WheelSpringStrength 0.125
+//Propeller <ID> <x> <y> <z> <planePart> <recipeItem>
+//Propeller Positions
+HeliPropeller 0 1 -50 -0,5 blades metalPropeller
+HeliPropeller 1 135 -49 -2 blades metalPropeller
+// ------------------------------------------------------ Weaponry ------------------------------------------------------
+//Weapon types. Options are Missile, Bomb, Gun, Shell, None
+Primary None
+Secondary None
+//Time between shots in 1/20ths of seconds
+ShootDelayPrimary 0
+ShootDelaySecondary 0
+//Whether to alternate or fire all together
+AlternatePrimary False
+AlternateSecondary False
+//Firing modes. One of SemiAuto, FullAuto or Minigun
+ModePrimary FullAuto
+ModeSecondary FullAuto
+//Add shoot origins. These are the points on your vehicle from which bullets / missiles / shells / bombs appear
+//ShootPointPrimary -13 7 -53 rightWing
+//ShootPointPrimary -13 7 53 leftWing
+// ------------------------------------------------------ Inventory ------------------------------------------------------
+CargoSlots 10
+BombSlots 0
+MissileSlots 0
+AllowAllAmmo False
+AddAmmo mk4Rocket
+//Fuel Tank Size (1 point of fuel will keep one propeller going with throttle at 1 for 1 tick)
+FuelTankSize 5000
+// ------------------------------------------------------ Passengers ------------------------------------------------------
+//Driver and Passengers
+Pilot 126 22 16
+Passengers 7
+Passenger 1 126 22 -16 core
+Passenger 2 17 22 -3 core
+Passenger 3 33 22 -3 core
+Passenger 4 102 22 25 core
+Passenger 5 102 22 -25 core
+Passenger 6 17 22 3 core
+Passenger 7 33 22 3 core
+// ------------------------------------------------------ Sounds ------------------------------------------------------
+StartSound HelicopterStart
+StartSoundLength 100
+PropSound heloB
+PropSoundLength 30
+//ShootSoundPrimary RocketFire1
+//ShootSoundSecondary None
+// ------------------------------------------------------ Recipe ------------------------------------------------------
+//Each section of the plane may have many parts
+//The sections are tailWheel, tail, bay, topWing, leftWingWheel, leftWing, rightWingWheel,
+//rightWing, nose, turret, coreWheel, core
+AddRecipeParts core 3 passengerBay
+AddRecipeParts nose 1 advancedMetalCockpit
+AddRecipeParts coreWheel 4 wheel
+AddRecipeParts blades 6 helicopterBlade
+AddRecipeParts tail 1 metalTail
+//Dye colours are "black", "red", "green", "brown", "blue", "purple", "cyan", "silver", "gray", "pink", "lime", "yellow", "lightBlue", "magenta", "orange", "white"
+AddDye 16 green
+// ------------------------------------------------------ Health and hitboxes ------------------------------------------------------
+SetupPart core 4000 -63 0 -28 107 50 56
+SetupPart nose 3000 44 0 -28 50 43 56
+SetupPart tail 2000 -222 11 -45 47 54 90
+SetupPart tail 2000 -174 7 -15 112 35 30
+SetupPart blades 1000 -164 59 -163 328 4 328
+BulletDetection 8
+IsExplosionWhenDestroyed true
+SpinWithoutTail true

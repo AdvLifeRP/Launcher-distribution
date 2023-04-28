@@ -1,0 +1,10 @@
+Name brassardr
+ShortName brassardr
+Icon brassardr
+Colour 255 255 255
+Type Boots
+Model PlumePack.brassard
+Defence 0.0
+ArmourTexture skin_armor_brassardr
+ModelScale 1.00
+KnockbackModifier 4.0

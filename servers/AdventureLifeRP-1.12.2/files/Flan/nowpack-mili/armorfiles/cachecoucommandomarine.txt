@@ -1,0 +1,9 @@
+Name cachecoucommandomarine
+ShortName cachcoucommmari
+Icon cachecoucommandomarine
+Colour 255 255 255
+Type Boots
+Model nowdek.cachecoucommandomarine
+Defence 0.00
+ArmourTexture uniformecommandomarine
+ModelScale 1.00

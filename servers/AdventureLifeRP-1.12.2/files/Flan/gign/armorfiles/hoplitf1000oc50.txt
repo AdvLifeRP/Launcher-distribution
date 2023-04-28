@@ -1,0 +1,9 @@
+Name HoplitF1000OC50
+ShortName HoplitF1000OC50
+Icon HoplitF1000OC50
+Colour 255 255 255
+Type Head
+Model GunPackGIGN.HoplitF1000OC50
+Defence 0.30
+ArmourTexture TextureGIGN
+ModelScale 1.00

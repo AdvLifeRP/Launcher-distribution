@@ -1,0 +1,9 @@
+Name brassardjaune
+ShortName brasjaun
+Icon brassardjaune
+Colour 255 255 255
+Type Boots
+Model nowdek.brassardjaune
+Defence 0.00
+ArmourTexture brassardjaune
+ModelScale 1.05

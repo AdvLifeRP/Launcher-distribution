@@ -1,0 +1,13 @@
+Name ACH
+ShortName achrailblackh
+ItemID 23885
+Icon AchBlack
+Colour 255 255 255
+Type Hat
+Defence 0.25
+MoveSpeedModifier 0.99
+Model EFC.achrailh
+ArmourTexture ACHBlack
+Durability 59
+Description Classe de protection >> 4
+KnockbackModifier 2

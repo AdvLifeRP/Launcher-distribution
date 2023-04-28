@@ -1,0 +1,9 @@
+Name CombinaisonGIGNCombatVertGilet
+ShortName CombinaisonGIGNCombatVertGilet
+Icon CombinaisonGIGNCombatVert
+Colour 255 255 255
+Type Legs
+Model GunPackGIGN.CombinaisonGIGNCombatVertGilet
+Defence 0.0
+ArmourTexture TextureCombinaison
+ModelScale 1.00

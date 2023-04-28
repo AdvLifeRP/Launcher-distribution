@@ -1,0 +1,9 @@
+Name beretvert
+ShortName berevert
+Icon beretvert
+Colour 255 255 255
+Type Head
+Model nowdek.beret
+Defence 0.00
+ArmourTexture beretvert
+ModelScale 1.00

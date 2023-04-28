@@ -1,0 +1,9 @@
+Name MehlerS5Lege
+ShortName MehlerS5Lege
+Icon MehlerS5Lege
+Colour 255 255 255
+Type Body
+Model GunPackGIGN.MehlerS5Lege
+Defence 0.30
+ArmourTexture TextureGIGN
+ModelScale 1.00

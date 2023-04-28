@@ -1,0 +1,9 @@
+Name MSASordinVert
+ShortName MSASordinVert
+Icon MSASordinVert
+Colour 255 255 255
+Type Head
+Model GunPackGIGN.MSASordinVert
+Defence 0.30
+ArmourTexture MSASordinVert
+ModelScale 1.00
