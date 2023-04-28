@@ -406,16 +406,6 @@
           }
         },
         {
-          "id": "team.creative.itemphysic:itemphysic:1.12.2@jar",
-          "name": "ItemPhysic",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 46484,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/ItemPhysic-1.12.2.jar",
-            "MD5": "4fb59dab136e73cd74eeb93479020693"
-          }
-        },
-        {
           "id": "net.malisis.blocks:malisisblocks:1.12.2-6.1.0@jar",
           "name": "Malisis Blocks",
           "type": "ForgeMod",
