@@ -411,12 +411,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 156557,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionaloff/malisisblocks-1.12.2-6.1.0.jar",
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/required/malisisblocks-1.12.2-6.1.0.jar",
             "MD5": "d5f2cc7c9859952dddcf9e03a2875041"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -425,12 +421,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1741669,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionaloff/malisisdoors-1.12.2-7.3.0.jar",
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/required/malisisdoors-1.12.2-7.3.0.jar",
             "MD5": "6d0f129ff9a05f84add5b2209a6d0284"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -439,12 +431,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 95850,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionaloff/malisisswitches-1.12.2-5.1.0.jar",
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/required/malisisswitches-1.12.2-5.1.0.jar",
             "MD5": "d031af11c1d0a64f080d9a472f4c14c1"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -483,12 +471,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2457427,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionaloff/OptiFine-OptiFine-1.12.2_HD_U_G5.jar",
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/required/OptiFine-OptiFine-1.12.2_HD_U_G5.jar",
             "MD5": "92a619d468d9576a531a7ca8908669e2"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -517,12 +501,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3244023,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionaloff/securitycraft+v1.9.5.jar",
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/required/securitycraft+v1.9.5.jar",
             "MD5": "37792e2fdd3de97405662d074ac1a88f"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
