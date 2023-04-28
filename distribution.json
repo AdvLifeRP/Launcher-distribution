@@ -13,7 +13,7 @@
       "description": "AdventureLife, Serveur RolePlay moddé",
       "icon": null,
       "version": "1.0.0",
-      "address": "93.186.69.248:25501",
+      "address": "https://adventureliferp.com/",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -483,8 +483,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2457427,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/OptiFine-OptiFine-1.12.2_HD_U_G5.jar",
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/forgemods/optionaloff/OptiFine-OptiFine-1.12.2_HD_U_G5.jar",
             "MD5": "92a619d468d9576a531a7ca8908669e2"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
