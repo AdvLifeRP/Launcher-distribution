@@ -420,6 +420,20 @@
           }
         },
         {
+          "id": "net.malisis.core:malisiscore:1.12.2-6.4.1-SNAPSHOT@jar",
+          "name": "MalisisCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 947032,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionaloff/malisiscore-1.12.2-6.4.1-p1.jar",
+            "MD5": "eaf39ac4a119b1a1627601f40a672450"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "net.malisis.doors:malisisdoors:1.12.2-7.3.0@jar",
           "name": "MalisisDoors",
           "type": "ForgeMod",
@@ -553,16 +567,6 @@
             "size": 37104,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/required/Z-VoiceRange-1.12.2.jar",
             "MD5": "5f05d412de2e7760b3ef6463a6f6b24d"
-          }
-        },
-        {
-          "id": "generated.library:malisiscore:1.12.2-6.4.1-p1@jar",
-          "name": "malisiscore",
-          "type": "Library",
-          "artifact": {
-            "size": 947032,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/libraries/malisiscore-1.12.2-6.4.1-p1.jar",
-            "MD5": "eaf39ac4a119b1a1627601f40a672450"
           }
         }
       ]
