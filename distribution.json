@@ -542,12 +542,12 @@
           }
         },
         {
-          "id": "generated.library:malisiscore:1.12.2-6.5.1@jar",
-          "name": "malisiscore",
+          "id": "generated.library:zzzzzzzzzzmalisiscore:1.12.2-6.5.1@jar",
+          "name": "zzzzzzzzzzmalisiscore",
           "type": "Library",
           "artifact": {
             "size": 1939783,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/libraries/malisiscore-1.12.2-6.5.1.jar",
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLife-1.12.2/libraries/zzzzzzzzzzmalisiscore-1.12.2-6.5.1.jar",
             "MD5": "ccc183a97d7b9688a49bf29b61343f49"
           }
         }
