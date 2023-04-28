@@ -556,13 +556,13 @@
           }
         },
         {
-          "id": "generated.library:malisiscore:1.12.2-6.5.1-p1@jar",
+          "id": "generated.library:malisiscore:1.12.2-6.4.1-SNAPSHOT@jar",
           "name": "malisiscore",
           "type": "Library",
           "artifact": {
-            "size": 1007527,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/libraries/malisiscore-1.12.2-6.5.1-p1.jar",
-            "MD5": "c405cd6d8b79b8b458dba90451e3ab78"
+            "size": 1879864,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/libraries/malisiscore-1.12.2-6.4.1-SNAPSHOT.jar",
+            "MD5": "fdbe401ea0d23419003344f0ac48c227"
           }
         }
       ]
