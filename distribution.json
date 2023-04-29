@@ -685,16 +685,6 @@
           }
         },
         {
-          "id": "generated.library:BetterFps:1.4.8@jar",
-          "name": "BetterFps",
-          "type": "Library",
-          "artifact": {
-            "size": 155196,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/libraries/BetterFps-1.4.8.jar",
-            "MD5": "d36f4d3c0f96e99a9a1ad2e8eeda1fc4"
-          }
-        },
-        {
           "id": "en_us.lang",
           "name": "en_us.lang",
           "type": "File",
