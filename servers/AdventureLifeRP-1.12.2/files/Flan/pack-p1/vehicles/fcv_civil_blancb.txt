@@ -1,0 +1,62 @@
+﻿Name FCV_Civil_Blancb
+ShortName FCV_Civil_Blancb
+Model tigerpack.FCV2_leTIGREroyal
+ModelScale 0.55
+Icon FCV_Civil_Blancb
+
+Model tigerpack.FCV2_leTIGREroyal
+ModelScale 0.52
+Texture FCV_Civil_Blancb
+
+MaxThrottle 1.0
+MaxNegativeThrottle 0.5
+Drag 0.1
+
+NumWheels 4
+WheelPosition 0 -28 -8 -16
+WheelPosition 1 -28 -8 16
+WheelPosition 2 28 -8 16
+WheelPosition 3 28 -8 -16
+WheelRadius 1.0
+WheelSpringStrength 0.2
+
+ShootDelay 999
+
+Driver 4 -1 -10
+Passengers 3
+Passenger 1 4 -1 8 core
+Passenger 2 -15 -1 -10 core
+Passenger 3 -15 -1 7 core
+
+CargoSlots 3
+ShellSlots 0
+FuelTankSize 1000
+
+SetupPart core 100 -53 -3 -20 100 16 40
+
+BulletDetection 5
+
+CameraDistance 7.0
+
+StartSound Engine
+StartSoundLength 20
+EngineSound Engine
+EngineSoundLength 20
+ShellSound shell
+
+RotateWheels true
+
+TurnLeftSpeed 1
+TurnRightSpeed 1
+FourWheelDrive True
+
+ShootDelay 999
+
+ShootSound mpackm1911Shoot
+ShellSound mpackm1911Shoot
+
+IsExplosionWhenDestroyed true
+
+----------------------------------------------------------------------------
+                       Model crée par leTIGREroyal
+----------------------------------------------------------------------------

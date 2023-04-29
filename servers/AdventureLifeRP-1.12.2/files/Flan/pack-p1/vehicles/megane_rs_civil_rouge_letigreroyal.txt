@@ -1,0 +1,66 @@
+﻿Name Megane Rs Rouge
+ShortName megane_rs_civil_rouge_letigreroyal
+Description Faite par leTIGREroyal le 28/03/2020
+Model tigerpack.megane_rs_civil_bleu_letigreroyal
+ModelScale 0.485
+Icon megane_rs_civil_rouge_letigreroyal
+
+Model tigerpack.megane_rs_civil_bleu_letigreroyal
+ModelScale 0.485
+Texture megane_rs_civil_rouge_letigreroyal
+
+MaxThrottle 1.4
+MaxNegativeThrottle 0.5
+Drag 0.1
+
+NumWheels 4
+WheelPosition 0 -28 -9.85 -16
+WheelPosition 1 -28 -9.85 16
+WheelPosition 2 28 -9.85 16
+WheelPosition 3 28 -9.85 -16
+WheelRadius 1.0
+WheelSpringStrength 0.2
+
+ShootDelay 999
+
+
+Driver -13 -3 -4
+Passengers 3
+Passenger 1 -13 -3 12 core
+Passenger 2 -28 -3 -4 core
+Passenger 3 -28 -3 12 core
+
+
+
+CargoSlots 3
+ShellSlots 0
+FuelTankSize 1000
+
+SetupPart core 100 -53 -3 -20 100 16 40
+
+BulletDetection 5
+
+CameraDistance 8.0
+
+StartSound Engine
+StartSoundLength 20
+EngineSound Engine
+EngineSoundLength 20
+ShellSound shell
+
+RotateWheels true
+
+TurnLeftSpeed 1
+TurnRightSpeed 1
+FourWheelDrive True
+
+ShootDelay 999
+
+ShootSound mpackm1911Shoot
+ShellSound mpackm1911Shoot
+
+IsExplosionWhenDestroyed true
+
+----------------------------------------------------------------------------
+                       Model crée par leTIGREroyal
+----------------------------------------------------------------------------

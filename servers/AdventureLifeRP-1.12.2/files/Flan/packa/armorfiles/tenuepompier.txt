@@ -1,9 +1,0 @@
-Name tenuepompier
-ShortName tenuepompier
-Icon tenuepompier
-Colour 255 255 255
-Type Body
-Model PlumePack.tenuepompier
-Defence 0.1
-ArmourTexture skin_armor_tenuepompier
-ModelScale 1.00

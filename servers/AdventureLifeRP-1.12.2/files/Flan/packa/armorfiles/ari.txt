@@ -1,9 +1,0 @@
-Name ari
-ShortName ari
-Icon ari
-Colour 255 255 255
-Type Head
-Model PlumePack.ari
-Defence 0.0
-ArmourTexture skin_armor_ari
-ModelScale 1.00
