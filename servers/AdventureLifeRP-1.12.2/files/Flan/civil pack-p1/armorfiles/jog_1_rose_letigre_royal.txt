@@ -1,0 +1,21 @@
+Name jog_1_rose_letigre_royal
+ShortName jog_1_rose_letigre_royal
+Icon jog_1_rose_letigre_royal
+Colour 255 255 255
+
+Type Legs
+Model tigerpack_civil_pack.jean_jog_1_letigreroyal
+ModelScale 1.0
+Defence 0.1
+ArmourTexture jog_1_rose_letigre_royal
+MoveSpeedModifier 1.0
+KnockbackModifier 1.0
+
+Recipe A dwArmorCloth W cloth
+AWA
+W W
+W W
+
+-----------------------------------------------------
+		Par leTIGREroyal
+-----------------------------------------------------

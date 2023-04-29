@@ -1,0 +1,9 @@
+Name fancycivi1var1
+ShortName fancycivi1var1
+Icon fancycivi1var1
+Colour 255 255 255
+Type Body
+Model PlumePack.fancycivi1
+Defence 0.0
+ArmourTexture skin_armor_fancycivi1var3
+ModelScale 1.00
