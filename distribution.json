@@ -266,19 +266,6 @@
           ]
         },
         {
-          "id": "io.github.notstirred:mixincompat:1.0-SNAPSHOT@jar",
-          "name": "Mixin Compatibility",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 867296,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionalon/___MixinCompat-0.8.jar",
-            "MD5": "91038ed983e0a9748923896520465c31"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "zone.rong.mixinbooter:MixinBooter:7.1@jar",
           "name": "_MixinBooter",
           "type": "ForgeMod",
@@ -286,19 +273,6 @@
             "size": 1064048,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionalon/_MixinBooter-7.1.jar",
             "MD5": "155679fd173ce643b6c4d0a248c028c7"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "org.spongepowered.asm.launch:_mixinbootstrap:1.1.0@jar",
-          "name": "_MixinBootstrap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1119478,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionalon/_MixinBootstrap-1.1.0.jar",
-            "MD5": "9df0dc628ebcd787270f487fbbf8157a"
           },
           "required": {
             "value": false
@@ -368,19 +342,6 @@
           }
         },
         {
-          "id": "guichaguri.betterfps:betterfps:1.4.8@jar",
-          "name": "BetterFps",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 155196,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionalon/BetterFps-1.4.8.jar",
-            "MD5": "d36f4d3c0f96e99a9a1ad2e8eeda1fc4"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "epicsquid.blockcraftery:blockcraftery:1.2.0@jar",
           "name": "Blockcraftery",
           "type": "ForgeMod",
@@ -429,12 +390,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 65897,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionaloff/EntityCulling-1.12.2-6.3.1.jar",
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionalon/EntityCulling-1.12.2-6.3.1.jar",
             "MD5": "ff8cf4a3a5387c2467c04d6b4554d1dc"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -630,19 +590,6 @@
           }
         },
         {
-          "id": "net.darkhax:surge:2.0.79@jar",
-          "name": "Surge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 957330,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionalon/Surge-1.12.2-2.0.79.jar",
-            "MD5": "9f495709f961117c7823827ca10df0c8"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "mod.acgaming:universaltweaks:1.12.2-1.5.0@jar",
           "name": "Universal Tweaks",
           "type": "ForgeMod",
@@ -704,6 +651,16 @@
           }
         },
         {
+          "id": "generated.library:BetterFps:1.4.8@jar",
+          "name": "BetterFps",
+          "type": "Library",
+          "artifact": {
+            "size": 155196,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/libraries/BetterFps-1.4.8.jar",
+            "MD5": "d36f4d3c0f96e99a9a1ad2e8eeda1fc4"
+          }
+        },
+        {
           "id": "generated.library:OptiFine:OptiFine-1.12.2_HD_U_G5@jar",
           "name": "OptiFine",
           "type": "Library",
@@ -711,6 +668,26 @@
             "size": 2457427,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/libraries/OptiFine-OptiFine-1.12.2_HD_U_G5.jar",
             "MD5": "92a619d468d9576a531a7ca8908669e2"
+          }
+        },
+        {
+          "id": "generated.library:_MixinBootstrap:1.1.0@jar",
+          "name": "_MixinBootstrap",
+          "type": "Library",
+          "artifact": {
+            "size": 1119478,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/libraries/_MixinBootstrap-1.1.0.jar",
+            "MD5": "9df0dc628ebcd787270f487fbbf8157a"
+          }
+        },
+        {
+          "id": "generated.library:___MixinCompat:0.8@jar",
+          "name": "___MixinCompat",
+          "type": "Library",
+          "artifact": {
+            "size": 867296,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/libraries/___MixinCompat-0.8.jar",
+            "MD5": "91038ed983e0a9748923896520465c31"
           }
         },
         {
