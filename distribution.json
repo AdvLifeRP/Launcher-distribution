@@ -695,16 +695,6 @@
           }
         },
         {
-          "id": "generated.library:OptiFine:OptiFine-1.12.2_HD_U_G5@jar",
-          "name": "OptiFine",
-          "type": "Library",
-          "artifact": {
-            "size": 2457427,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/libraries/OptiFine-OptiFine-1.12.2_HD_U_G5.jar",
-            "MD5": "92a619d468d9576a531a7ca8908669e2"
-          }
-        },
-        {
           "id": "en_us.lang",
           "name": "en_us.lang",
           "type": "File",
