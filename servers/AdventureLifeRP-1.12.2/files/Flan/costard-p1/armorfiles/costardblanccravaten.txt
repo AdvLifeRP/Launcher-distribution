@@ -1,0 +1,9 @@
+Name CostardBlancCravateN
+ShortName CBCN
+Icon costarblanc
+Colour 255 255 255
+Type Body
+Model CostardPack.CostardBlancCravateN
+Defence 0.30
+ArmourTexture Skin_Armor_CostardBlanc
+ModelScale 1.00

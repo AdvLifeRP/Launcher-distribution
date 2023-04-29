@@ -1,0 +1,3321 @@
+item.tenuedir.name= Tenue de la DIR
+
+##Vehicles
+
+item.Hunter_Millitaire.name=§7[§2Militaire§7] §2 Hunter Militaireg
+item.browningbps.name=§4§lReserver a MrAnthony
+item.browningbpsammo.name=§4§lBalle Anthony
+
+
+item.bltberet.name=§9[§bDouane§9] §fBeret
+item.bltcap.name=§9[§bDouane§9] §fCasquette
+item.gilethautevisibilite.name=§9[§bDouane§k§9] §fGilet jaune
+item.blthelmet.name=§9[§bDouane§9] §fCasque
+item.bltlegs.name=§9[§bDouane§9] §fPantalon
+item.bltoperator.name=§9[§bDouane§9] §fT-shirt agent
+item.bltup.name=§9[§bDouane§9] §fVeste grade Recrue
+item.bltup1.name=§9[§bDouane§9] §fVeste grade Agent de terrain
+item.bltup2.name=§9[§bDouane§9] §fVeste grade Agent de 2e classe
+item.bltup3.name=§9[§bDouane§9] §fVeste grade Agent de 1re classe
+item.bltup4.name=§9[§bDouane§9] §fVeste grade Controleur
+item.bltup5.name=§9[§bDouane§9] §fVeste grade Controleur principal
+item.bltup6.name=§9[§bDouane§9] §fVeste grade Superviseur
+item.bltup7.name=§9[§bDouane§9] §fVeste grade Directeur des services
+item.bltvest.name=§9[§bDouane§9] §fGilet pare-balle
+item.skoda_karoq_douane_letigreroyal.name= §9[§bDouane§9] §eSkoda Karoq de la Douane
+
+item.calotg_douane_letigreroyal.name= §9[§bDouane§9] §fGros calot Douane
+item.calot_douane_letigreroyal.name= §9[§bDouane§9] §fCalot Douane
+item.casquetteg_douane_letigreroyal.name= §9[§bDouane§9] §fGrosse casquette Douane
+item.casquette_douane_letigreroyal.name= §9[§bDouane§9] §fCasquette Douane
+item.gj_douane_letigreroyal.name= §9[§bDouane§9] §fGilet Jaune Douane
+item.douane_gilet_par_balle.name= §9[§bDouane§9] §fGilet pare balle Douane
+item.tenue_douane_polo_courte_letigreroyal.name= §9[§bDouane§9] §fPolo court Douane
+item.tenue_douane_polo_longue_letigreroyal.name= §9[§bDouane§9] §fPolo long Douane
+item.veste_douane_letigreroyal.name= §9[§bDouane§9] §fVeste Douane
+
+#Corvair 95
+item.btcivil_emergencyvehicle_chevy_corvair95_1963_police.name=§61963 Chevrolet Corvair (Police)
+item.btcivil_vehicle_chevy_corvair95_1963_hazmat.name=§61963 Chevrolet Corvair (Hazmat)
+description.btcivil_emergencyvehicle_chevy_corvair95_1963=REQUIRES: UNU Seat-P3 Corvair Engine ACCEPTS: UNU Wheel-3R5 UNU Crate-12 UNU Lightbar-1
+description.btcivil_vehicle_chevy_corvair95_1963=REQUIRES: UNU Seat-P3 Corvair Engine ACCEPTS: UNU Wheel-3R5 UNU Crate-12
+
+#Corvair Greenbrier
+item.btcivil_emergencyvehicle_chevy_corvairgreenbrier_1963_ambulance.name=§61963 Chevrolet Corvair Greenbrier (Ambulance)
+description.btcivil_emergencyvehicle_chevy_corvairgreenbrier_1963_ambulance=REQUIRES: UNU Seat-P3 Corvair Engine ACCEPTS: UNU Wheel-3R5 UNU Crate-12 UNU Lightbar-1 Ambulance Conversion
+
+#Corvair Rampside
+item.btcivil_vehicle_chevy_corvairrampside_1963_moving.name=§61963 Chevrolet Corvair Rampside (Moving)
+description.btcivil_vehicle_chevy_corvairrampside_1963=REQUIRES: UNU Seat-P3 Corvair Engine ACCEPTS: UNU Wheel-3R5 UNU Crate-12
+
+#TB-313-MCC
+item.btcivil_emergencyvehicle_unu_tb313mcc_2084_firetruck.name=§3UNU TB-313-MCC
+description.btcivil_emergencyvehicle_unu_tb313mcc_2084_firetruck=REQUIRES: UNU Seat-T1 UNU Engine-V8H ACCEPTS: UNU Wheel-4D17 UNU Siren
+
+#Corvair
+item.btcivil_emergencyvehicle_chevy_corvair_1963_police.name=§2[§l§aDOUANE§k§2]§61963 Chevrolet Corvair §b(§fPolice§4)
+
+item.btcivil_emergencyvehicle_chevy_corvair_1963_black.name=§61963 Chevrolet Corvair (Undercover Police)
+item.btcivil_vehicle_chevy_corvair_1963_black.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair §5(Black)
+item.btcivil_vehicle_chevy_corvair_1963_red.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair §4(Red)
+item.btcivil_vehicle_chevy_corvair_1963_green.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair §2(Green)
+item.btcivil_vehicle_chevy_corvair_1963_brown.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair §f(Brown)
+item.btcivil_vehicle_chevy_corvair_1963_blue.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair §9(Blue)
+item.btcivil_vehicle_chevy_corvair_1963_purple.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair §5(Purple)
+item.btcivil_vehicle_chevy_corvair_1963_cyan.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair §3(Cyan)
+item.btcivil_vehicle_chevy_corvair_1963_silver.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair §7(Light Gray)
+item.btcivil_vehicle_chevy_corvair_1963_grey.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair §8(Grey)
+item.btcivil_vehicle_chevy_corvair_1963_pink.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair §d(Pink)
+item.btcivil_vehicle_chevy_corvair_1963_lime.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair §a(Lime)
+item.btcivil_vehicle_chevy_corvair_1963_yellow.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair §e(Yellow)
+item.btcivil_vehicle_chevy_corvair_1963_lightblue.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair §b(Light Blue)
+item.btcivil_vehicle_chevy_corvair_1963_magenta.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Magenta)
+item.btcivil_vehicle_chevy_corvair_1963_orange.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair §6(Orange)
+item.btcivil_vehicle_chevy_corvair_1963_white.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (White)
+description.btcivil_emergencyvehicle_chevy_corvair_1963=§4REQUIRES§7: UNU Seat-P1 Corvair Engine §aACCEPTS§7: §cUNU Wheel-3D10 UNU Crate-12 UNU Lightbar-1
+description.btcivil_vehicle_chevy_corvair_1963=§4REQUIRES§7: UNU Seat-P1 Corvair Engine §aACCEPTS§7: §cUNU Wheel-3D10 UNU Crate-12
+
+#Vespa Piaggio
+item.btcivil_vehicle_vespa_piaggio_1963_black.name=§7[§3Véhicule§7] §81963 Vespa Piaggio §5(Black)
+item.btcivil_vehicle_vespa_piaggio_1963_red.name=§7[§3Véhicule§7] §81963 Vespa Piaggio §4(Red)
+item.btcivil_vehicle_vespa_piaggio_1963_green.name=§7[§3Véhicule§7] §81963 Vespa Piaggio §2(Green)
+item.btcivil_vehicle_vespa_piaggio_1963_brown.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Brown)
+item.btcivil_vehicle_vespa_piaggio_1963_blue.name=§7[§3Véhicule§7] §81963 Vespa Piaggio §9(Blue)
+item.btcivil_vehicle_vespa_piaggio_1963_purple.name=§7[§3Véhicule§7] §81963 Vespa Piaggio §5(Purple)
+item.btcivil_vehicle_vespa_piaggio_1963_cyan.name=§7[§3Véhicule§7] §81963 Vespa Piaggio §3(Cyan)
+item.btcivil_vehicle_vespa_piaggio_1963_silver.name=§7[§3Véhicule§7] §81963 Vespa Piaggio §7(Light Gray)
+item.btcivil_vehicle_vespa_piaggio_1963_grey.name=§7[§3Véhicule§7]v §81963 Vespa Piaggio §8(Grey)
+item.btcivil_vehicle_vespa_piaggio_1963_pink.name=§7[§3Véhicule§7] §81963 Vespa Piaggio §d(Pink)
+item.btcivil_vehicle_vespa_piaggio_1963_lime.name=§7[§3Véhicule§7] §81963 Vespa Piaggio §a(Lime)
+item.btcivil_vehicle_vespa_piaggio_1963_yellow.name=§7[§3Véhicule§7] §81963 Vespa Piaggio §e(Yellow)
+item.btcivil_vehicle_vespa_piaggio_1963_lightblue.name=§7[§3Véhicule§7] §81963 Vespa Piaggio §b(Light Blue)
+item.btcivil_vehicle_vespa_piaggio_1963_magenta.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Magenta)
+item.btcivil_vehicle_vespa_piaggio_1963_orange.name=§7[§3Véhicule§7] §81963 Vespa Piaggio §6(Orange)
+item.btcivil_vehicle_vespa_piaggio_1963_white.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (White)
+#description.btcivil_vehicle_vespa_piaggio_1963=§4REQUIRES§7: §cUNU Seat-P3 VW Engine §aACCEPTS§7: §cUNU Wheel-3D12 UNU Crate-12
+
+#VW Type 1
+item.btcivil_vehicle_vw_type1_1969_black.name=§7[§3Véhicule§7] 1969 VW Type 1 §5(Noir)
+item.btcivil_vehicle_vw_type1_1969_red.name=§7[§3Véhicule§7] 1969 VW Type 1 §4(Rouge)
+item.btcivil_vehicle_vw_type1_1969_green.name=§7[§3Véhicule§7] 1969 VW Type 1 §2(Vert)
+item.btcivil_vehicle_vw_type1_1969_brown.name=§7[§3Véhicule§7] 1969 VW Type 1 (Marron)
+item.btcivil_vehicle_vw_type1_1969_blue.name=§7[§3Véhicule§7] 1969 VW Type 1 §9(Bleu)
+item.btcivil_vehicle_vw_type1_1969_purple.name=§7[§3Véhicule§7] 1969 VW Type 1 §5(Violet)
+item.btcivil_vehicle_vw_type1_1969_cyan.name=§7[§3Véhicule§7] 1969 VW Type 1 §3(Cyan)
+item.btcivil_vehicle_vw_type1_1969_silver.name=§7[§3Véhicule§7] 1969 VW Type 1 §7(Gris clair)
+
+item.GMV.name=§7[§2Militaire§7] §2HMMWV GMV
+item.M1025.name=§7[§2Militaire§7] §2HMMWV M1025
+item.M1035.name=§7[§2Militaire§7] §2HMMWV M1035
+item.M1109.name=§7[§2Militaire§7] §2HMMWV M1109
+item.M998A1.name=§7[§2Militaire§7] §2HMMWV M998A1
+item.M1A2.name=§7[§2Militaire§7] §2M1A2 Abrams
+item.A-4M.name=§7[§3Véhicule§7] §2McDonnell Douglas A-4M Skyhawk
+item.AH-1Z.name=§7[§3Véhicule§7] Bell AH-1Z Viper
+item.CH-46E.name=§7[§3Véhicule§7] CH-46E Sea Knight
+item.CH-53.name=§7[§3Véhicule§7] Sikorsky CH-53 Sea Stallion
+item.CH-53K.name=§7[§3Véhicule§7] Sikorsky CH-53K Sea Stallion
+item.F-35B.name=§7[§3Véhicule§7] Lockheed Martin F-35B Lightning II
+item.F-35F.name=§7[§3Véhicule§7] Lockheed Martin F-35F Super Lightning II
+item.F/A-18C.name=§7[§3Véhicule§7] McDonnell Douglas F/A-18C Hornet
+item.F/A-18D.name=§7[§3Véhicule§7] McDonnell Douglas F/A-18D Hornet
+item.UH-1Y.name=§7[§3Véhicule§7] Bell UH-1Y Venom
+item.V-22.name=§7[§3Véhicule§7] Bell V-22 Ospery
+item.VH-3D.name=§7[§3Véhicule§7] Sikorsky VH-3D Sea King
+item.VH-46F.name=§7[§3Véhicule§7] VH-46F Sea Knight
+item.VH-60N.name=§7[§3Véhicule§7] Sikorsky VH-60N White Hawk
+
+ctmbox.name=ctm+ Weapons Box
+item.5steelctm.name=5 Steel (I5:3C)
+item.ironcoal.name=Iron and coal
+item.largewideWheel.name=Large Wide Wheel
+item.snowctm.name=snow texture
+item.steelctm.name=Steel (I5:3C)
+item.ctmBody.name=ctm.A.S.I Bodyarmour
+item.ctmBoots.name=ctm.A.S.I Boots
+item.ctmHelmet.name=ctm.A.S.I Helmet
+item.ctmPants.name=ctm.A.S.I Trousers
+item.ctmBodys.name=ctm.A.S.I Bodyarmour (snow)
+item.ctmBootss.name=ctm.A.S.I Boots (snow)
+item.ctmHelmets.name=ctm.A.S.I Helmet (snow)
+item.ctmPantss.name=ctm.A.S.I Trousers (snow)
+item.ctmBodyb.name=ctm.A.S.I Bodyarmour (blue)
+item.ctmBootsb.name=ctm.A.S.I Boots (blue)
+item.ctmHelmetb.name=ctm.A.S.I Helmet (blue)
+item.ctmPantsb.name=ctm.A.S.I Trousers (blue)
+item.ctmBodydes.name=ctm.A.S.I Bodyarmour (des)
+item.ctmBootsdes.name=ctm.A.S.I Boots (des)
+item.ctmHelmetdes.name=ctm.A.S.I Helmet (des)
+item.ctmPantsdes.name=ctm.A.S.I Trousers (des)
+item.ctmBodyforw.name=ctm.A.S.I Bodyarmour (forw)
+item.ctmBootsforw.name=ctm.A.S.I Boots (forw)
+item.ctmHelmetforw.name=ctm.A.S.I Helmet (forw)
+item.ctmPantsforw.name=ctm.A.S.I Trousers (forw)
+item.ctmBodyg.name=ctm.A.S.I Bodyarmour (g)
+item.ctmBootsg.name=ctm.A.S.I Boots (g)
+item.ctmHelmetg.name=ctm.A.S.I Helmet (g)
+item.ctmPantsg.name=ctm.A.S.I Trousers (g)
+item.ctmBodywl.name=ctm.A.S.I Bodyarmour (wl)
+item.ctmBootswl.name=ctm.A.S.I Boots (wl)
+item.ctmHelmetwl.name=ctm.A.S.I Helmet (wl)
+item.ctmPantswl.name=ctm.A.S.I Trousers (wl)
+item.aek471ctm.name=AEK471
+item.ak103.name=AK103
+item.ak103Ammo.name=AK103 Ammo
+item.desertEaglebl.name=Desert Eagle(Blank)
+item.i37ctm.name=Ithaca 37
+item.12Ammo.name=12.0 Ammo(1round)
+item.12r6Ammo.name=12.0 Ammo(6 rounds)
+item.12r6exAmmo.name=12.ctm Ammo(10 rounds)
+item.lightstblue.name=Lightstaber blue
+item.m4a2.name=M4a2
+item.m4a2s.name=M4a2 snow
+item.m4a2Ammo.name=5.56x45mm NATO(30 rounds)
+item.m9ctm.name=M92FS
+item.m9rctm.name=M93R
+item.m16ctm.name=M16a1
+item.m16ctmsf.name=M16a1 SF
+item.m16ctmAmmo.name=5.56x45mm NATO(20 round)
+item.m93bmg.name=Zastava M93 (12.7¡Ñ99mm NATO)
+item.m93bmgs.name=Zastava M93 (12.7¡Ñ99mm NATO)(snow)
+item.5r50bmgAmmo.name=5Rounds 12.7x99mmAmmo(.50BMG)
+item.5r50bmgm1Ammo.name=5Rounds 12.7x99mmAmmo M1 (.50BMG)
+item.5r50bmgm21.name=5Rounds 12.7x99mmAmmo M21 (.50BMG)
+item.m93ra.name=Zastava M93 (12.7¡Ñ108mm)
+item.m93ras.name=Zastava M93 (12.7¡Ñ108mm)(snow)
+item.5r50ruAmmo.name=12.7¡Ñ108mmAmmo
+item.m98bctm.name=M98B
+item.10r338lAmmo.name=10Rounds 8.6x70mmAmmo(.338 Lapua Magnum)
+item.mp7ctm.name=MP7a1
+item.mp7sfctm.name=MP7-SF
+item.mp7ctm40Ammo.name=MP7 Ammo (40rounds)
+item.mp7ctmAmmo.name=MP7 Ammo (20rounds)
+item.mp443ctm.name=MP443
+item.mp443ctmAmmo.name=MP443 Ammo
+item.omg.name=OMG-ctm
+item.omgAmmo.name=OMG Ammo
+item.rpgctm.name=RPG-ctm CL
+item.rpgctmAmmo.name=RPG-ctm CL Ammo(high explosion)(fire)
+item.svdctm.name=SVD
+item.svdctmAmmo.name=SVD Ammo
+item.xm8ctm.name=XM8
+item.xm8ctmAmmo.name=XM8 Ammo
+item.m60ectm.name=M60
+item.minigunctm.name=Minigun
+item.500r50bmgAmmo.name=500Rounds 12.7x99mmAmmo(.50BMG)
+item.u100ctm.name=Ultimax 100
+item.u100ctmAmmo.name=Ultimax 100 Ammo
+item.uspmactm.name=HK USP Match
+item.uspmctmAmmo.name=USP Match Ammo
+item.cobow.name=Little Crossbow
+item.bowket.name=little Crossbow Bolt 
+item.pgmiictm.name=PGM Hecate II
+item.7r50bmgAmmo.name=7Rounds PGM Ammo(.50BMG)
+item.7r50bmgxmAmmo.name=7Rounds XM Ammo(.50BMG)
+item.mp5ctm.name=MP5
+item.mp5boxctm.name=MP5 (box--)
+item.mp5unctm.name=MP5 (with box)
+item.mp5CMagctmAmmo.name=MP5 C-Mag Ammo
+item.os8x.name=Optical sight (8X)
+item.saoproj.name=Milspec Scope(SCROME LTE J10 F1) (10X)
+item.pso1ctm.name=PSO 1 (4X)
+item.vctmgrip.name=V shape grip
+item.ygripctm.name=Y shape grip
+item.bastctm.name=Basis Stock
+item.wosnstctm.name=Wooden Sniper Stock
+item.bibectm.name=The Bigger The Better Suppressor
+item.atrtctm.name=AT-RT walker
+item.shielctm.name=FBI Shield (LEFT HAND)
+item.shielrhctm.name=FBI Shield (RIGTH HAND)
+item.oh58ct.name= §f[§6Hélicoptère§7] §2Bell OH-58 Kiowa
+item.oh58amct.name=Bell OH-58 Kiowa (with arms)
+item.mk4Rocketctm.name=Mk. 4 FFAR "Mighty Mouse" Rocket(FOR CTM PACKAGE ONLY!!!)
+item.ctm610helmet.name=ctm610's Helmet
+item.bulldobctm.name=Bulldozer Bobyarmour
+item.bulldohelmetctm.name=Bulldozer Helmet
+item.bulldolctm.name=Bulldozer Trousers
+item.bulldosctm.name=Bulldozer Boots
+item.vestctmb.name=Police Vest(blue)
+item.vestctmfbi.name=FBI Vest
+item.vestctmgr.name=Police Vest(gray)
+
+----------------------------------------------------
+	    Tenue Gendarmerie Mobile
+----------------------------------------------------
+
+item.gn_moto_casque_letigreroyal.name=§7[§bGendarmerie§7] §bCasque de la Gendarmerie Mobile (petit)
+item.gn_moto_casque2_letigreroyal.name=§7[§bGendarmerie§7] §bCasque de la Gendarmerie Mobile  (grand)
+item.gn_moto_gant_letigreroyal.name=§7[§bGendarmerie§7] §bGants de moto de la Gendarmerie Mobile 
+item.gn_moto_tenue_letigreroyal.name=§7[§bGendarmerie§7] §bTenue de la Gendarmerie Mobile 
+
+item.pn_moto_casque_letigreroyal.name=§7[§bPolice§7] §bCasque de la Police Nationale (petit)
+item.pn_moto_casque2_letigreroyal.name=§7[§bPolice§7] §bCasque de la Police Nationale (grand)
+item.pn_moto_gant_letigreroyal.name=§7[§bPolice§7] §bGants de moto de la Police Nationale
+item.pn_moto_tenue_letigreroyal.name=§7[§bPolice§7] §bTenue de la Police Nationale
+
+
+GRADE GENDARME
+--------------
+item.grade_gn_adjudant_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Adjudant (tenue GNM)
+item.grade_gn_adjudant_chef_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Adjudant Chef (tenue GNM)
+item.grade_gn_brigadier_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Brigadier (tenue GNM)
+item.grade_gn_brigadier_chef_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Brigadier Chef (tenue GNM)
+item.grade_gn_capitaine_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Capitaine (tenue GNM)
+item.grade_gn_commandant_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Commandant (tenue GNM)
+item.grade_gn_colonel_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Colonel (tenue GNM)
+item.grade_gn_general_armee_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Général (tenue GNM)
+item.grade_gn_general_de_corp_armee_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Général corps d'armée (tenue GNM)
+item.grade_gn_general_de_brigade_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Général de Drigade (tenue GNM)
+item.grade_gn_general_de_division_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Général de Division (tenue GNM)
+item.grade_gn_lieutenant_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Lieutenant (tenue GNM)
+item.grade_gn_lieutenant_colonel_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Lieutenant colonel (tenue GNM)
+item.grade_gn_mdl_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Mdl (tenue GNM)
+item.grade_gn_mdl_carriere_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Mdl Carrière (tenue GNM)
+item.grade_gn_mdl_chef_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Mdl Chef (tenue GIGN)
+item.grade_gn_sous_lieutenant_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Sous lieutenant (tenue GNM)
+item.grade_gn_1erclasse_moto_letigreroyal.name=§7[§bPolice§7] §bGalon 1ère classe (tenue GNM)
+item.grade_gn_eleve_officier_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Eleve Officier (tenue GNM)
+item.grade_gn_mayor_moto_letigreroyal.name=§7[§bPolice§7] §bGalon Major (tenue GNM)
+
+
+item.smallBomb.name=Small Bomb
+item.shell.name=Tank Shell
+item.napalm.name=Napalm
+item.largeBomb.name=Large Bomb
+item.metalPropeller.name=Metal Propeller
+item.metalTail.name=Metal Tail
+item.metalWingSection.name=Metal Wing Section
+item.metalWingSmall.name=Small Metal Wing
+item.passengerBay.name=Passenger Bay
+item.enginePiston.name=Engine Piston
+item.rotaryEngine.name=Rotary Engine
+item.vehicleSeat.name=Seat
+item.smallChassis.name=Small Car Chassis
+item.wheel.name=Small Wheel
+item.tankBarrel.name=Tank Barrel
+item.tankBody.name=Tank Body
+item.tankTurret.name=Tank Turret
+item.triplaneWing.name=Triplane Wing
+item.v4Engine.name=V4 Engine
+item.v6Engine.name=V6 Engine
+item.v8Engine.name=V8 Engine
+item.woodenCockpit.name=Wooden Cockpit
+item.woodenPropeller.name=Wooden Propeller
+item.woodenTail.name=Wooden Tail
+item.woodenWing.name=Wooden Wing
+item.aaBarrel.name=AA Gun Barrel
+item.biplaneWing.name=Biplane Wing
+item.bombBay.name=Bomb Bay
+item.catTrack.name=Caterpillar Track
+item.catTrackPiece.name=Caterpillar Track Piece
+item.fuelCan.name=Fuel Can
+item.largeWheel.name=Large Wheel
+item.metalCockpit.name=Metal Cockpit
+item.metalNose.name=Metal Nose
+item.blowTorch.name=Blow Torch
+item.helicopterBlade.name=Helicopter Blade
+item.helicopterSkid.name=Helicopter Skid
+item.advancedMetalCockpit.name=Advanced Metal Cockpit
+item.advancedTankBody.name=Advanced Tank Body
+-----------------------------------------
+           Kawasaki Kx450f
+-----------------------------------------
+
+item.KAWASAKI_KX450F_verte.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Vert)
+item.KAWASAKI_KX450F_Blanche.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Blanc)
+item.KAWASAKI_KX450F_BleuC.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Bleu clair)
+item.KAWASAKI_KX450F_BleuF.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Bleu Foncé)
+item.KAWASAKI_KX450F_Cyan.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Cyan)
+item.KAWASAKI_KX450F_Jaune.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Jaune)
+item.KAWASAKI_KX450F_Noire.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Noir)
+item.KAWASAKI_KX450F_Orange.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Orange)
+item.KAWASAKI_KX450F_Rouge.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Rouge)
+item.KAWASAKI_KX450F_VertF.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Vert Foncé)
+item.KAWASAKI_KX450F_Violette.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Violet)
+item.KAWASAKI_KX450F_Rose.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Rose)
+
+
+item.Katana.name= Katana
+item.CD1.name=§f[§f§6 Tenue de Classe-D§k§f]
+item.CD2.name=§f[§f§4 Tenue de Classe-D Dangereuse§k§f]
+
+item.Chercheur1.name=§f[§f§5 Chercheur d'accréditation n°1 §k§f]
+item.Chercheur2.name=§f[§f§9 Chercheur d'accréditation n°2 §k§f]
+item.Chercheur3.name=§f[§f§2 Chercheur d'accréditation n°3 §k§f]
+item.Chercheur4.name=§f[§f§6 Chercheur d'accréditation n°4 §k§f]
+item.Chercheur5.name=§f[§f§4 Chercheur d'accréditation n°5 §k§f]
+
+item.O5.name= §f[§f§8 Tenue O5 §k§f]
+
+item.Pants1.name= §f[§f§7 Pantalon Noir §k§f]
+item.Pants2.name= §f[§f§7 Pantalon Gris §k§f]
+item.Pants3.name= §f[§f§7 Pantalon Gris Sombre §k§f]
+
+item.PantsSC1.name= §f[§f§7 Pantalon Noir Sans Ceinture §k§f]
+item.PantsSC2.name= §f[§f§7 Pantalon Gris Sans Ceinture  §k§f]
+item.PantsSC3.name= §f[§f§7 Pantalon Gris Sombre Sans Ceinture  §k§f]
+
+item.VesteAdmin.name= §f[§f§8 Veste d'Administrateur §k§f]
+item.VesteDirecteur.name= §f[§f§8 Veste de Directeur §k§f]
+
+item.dcnfocus3rs.name=§7[§bPolice§7] §bFord Focus RS 
+item.brlgplc.name=§7[§bPolice§7] §bCitroën Berlingo 
+item.peugeot308police.name=§7[§bPolice§7] §bPeugeot 308 
+item.mdopn.name=§7[§bPolice§7] §bFord Mondeo 
+item.brlgmncpl.name=§7[§bPolice§7] §bCitroën Berlingo 
+item.dstrbl.name=§7[§3Véhicule§7] §fDacia Duster Bleu
+item.dstrpm.name=§7[§bPolice§7] §bDacia Duster
+item.t4blc.name=§7[§3Véhicule§7] §fVolkswagen T4 Blanc
+item.dstrbnls.name=§7[§3Véhicule§7] §fDacia Duster Banalisé
+item.dstrblc.name=§7[§3Véhicule§7] §fDacia Duster Blanc
+item.dstrrg.name=§7[§3Véhicule§7] §fDacia Duster Rouge
+item.dstrorg.name=§7[§3Véhicule§7] §fDacia Duster Orange
+item.dstrnr.name=§7[§3Véhicule§7] §fDacia Duster Noir
+item.dstrgdm.name=§7[§bGendarmerie§7] §bDacia Duster
+item.t4bl.name=§7[§3Véhicule§7] §fVolkswagen T4 Bleu
+item.t4nr.name=§7[§3Véhicule§7] §fVolkswagen T4 Noir
+item.t4jn.name=§7[§3Véhicule§7] §fVolkswagen T4 Jaune
+item.P911GT3O.name=§7[§3Véhicule§7] §3Porsche 911GT3O GT3
+item.P911GT3W.name=§7[§3Véhicule§7] §3Porsche 911GT3W GT3
+item.P911GT3NB.name=§7[§3Véhicule§7] §3Porsche 911GT3NB GT3
+item.P911GT3G.name=§7[§3Véhicule§7] §3Porsche 911GT3G GT3
+item.P911CW.name=§7[§3Véhicule§7] §3Porsche 911CW Carrera
+item.P911CB.name=§7[§3Véhicule§7] §3Porsche 911CB Carrera
+item.P911CR.name=§7[§3Véhicule§7] §3Porsche 911CR Carrera
+item.P911CBl.name=§7[§3Véhicule§7] §3Porsche 911CBl Carrera
+item.P911CS.name=§7[§3Véhicule§7] §3Porsche 911CS Carrera
+item.P9114GTSW.name=§7[§3Véhicule§7] §3Porsche 9114GTSW Carrera 4GTS
+item.P9114GTSB.name=§7[§3Véhicule§7] §3Porsche 9114GTSB Carrera 4GTS
+item.P9114GTSR.name=§7[§3Véhicule§7] §3Porsche 9114GTSR Carrera 4GTS
+item.P9114GTSY.name=§7[§3Véhicule§7] §3Porsche 9114GTSY Carrera 4GTS
+item.P9114GTSNB.name=§7[§3Véhicule§7] §3Porsche 9114GTSNB Carrera 4GTS
+item.P9114GTSS.name=§7[§3Véhicule§7] §3Porsche 9114GTSS Carrera 4GTS
+
+item.BandanaCrips.name= §7[§4Crips§7] §4Bandana
+item.ChemiseCrips.name= §7[§4Crips§7] §4Chemise Bleu
+item.ChemiseCripsB.name= §7[§4Crips§7] §4Chemise Blanche
+item.PantalonCrips.name= §7[§4Crips§7] §4Jean 
+item.ChemiseBloodz.name= §7[§9Bloodz§7] §9Chemise
+item.BandanaBloodz.name= §7[§9Bloodz§7] §9Bandana 
+
+
+item.artifice.name= §7Munition de mortier
+item.Barriere.name= §8Barrière 1
+item.Barriere2.name= §8Barrière 2
+item.Colis.name= §4Colis piégé 
+item.Herse.name= Herse
+item.Paver.name= §7Pavé (meurtrier)
+item.Plot.name= §6Plot
+item.Rubalise.name= §cRubalise
+
+item.DrapeauCGT.name= §cDrapeau de la CGT
+item.DrapeauCommuniste.name= §4Drapeau Communiste
+item.LBD.name= §7LBD
+item.mortier.name= §cMortier
+
+item.smallBomb.name=Small Bomb
+item.shell.name=Tank Shell
+item.napalm.name=Napalm
+item.largeBomb.name=Large Bomb
+item.metalPropeller.name=Metal Propeller
+item.metalTail.name=Metal Tail
+item.metalWingSection.name=Metal Wing Section
+item.metalWingSmall.name=Small Metal Wing
+item.passengerBay.name=Passenger Bay
+item.enginePiston.name=Engine Piston
+item.rotaryEngine.name=Rotary Engine
+item.vehicleSeat.name=Seat
+item.smallChassis.name=Small Car Chassis
+item.wheel.name=Small Wheel
+item.tankBarrel.name=Tank Barrel
+item.tankBody.name=Tank Body
+item.tankTurret.name=Tank Turret
+item.triplaneWing.name=Triplane Wing
+item.v4Engine.name=V4 Engine
+item.v6Engine.name=V6 Engine
+item.v8Engine.name=V8 Engine
+item.woodenCockpit.name=Wooden Cockpit
+item.woodenPropeller.name=Wooden Propeller
+item.woodenTail.name=Wooden Tail
+item.woodenWing.name=Wooden Wing
+item.aaBarrel.name=AA Gun Barrel
+item.biplaneWing.name=Biplane Wing
+item.bombBay.name=Bomb Bay
+item.catTrack.name=Caterpillar Track
+item.catTrackPiece.name=Caterpillar Track Piece
+item.fuelCan.name=Fuel Can
+item.largeWheel.name=Large Wheel
+item.metalCockpit.name=Metal Cockpit
+item.metalNose.name=Metal Nose
+item.blowTorch.name=Blow Torch
+item.helicopterBlade.name=Helicopter Blade
+item.helicopterSkid.name=Helicopter Skid
+item.advancedMetalCockpit.name=Advanced Metal Cockpit
+item.advancedTankBody.name=Advanced Tank Body
+-----------------------------------------
+           §3Kawasaki Kx450f
+-----------------------------------------
+
+item.KAWASAKI_KX450F_verte.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Vert)
+item.KAWASAKI_KX450F_Blanche.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Blanc)
+item.KAWASAKI_KX450F_BleuC.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Bleu clair)
+item.KAWASAKI_KX450F_BleuF.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Bleu Foncé)
+item.KAWASAKI_KX450F_Cyan.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Cyan)
+item.KAWASAKI_KX450F_Jaune.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Jaune)
+item.KAWASAKI_KX450F_Noire.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Noir)
+item.KAWASAKI_KX450F_Orange.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Orange)
+item.KAWASAKI_KX450F_Rouge.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Rouge)
+item.KAWASAKI_KX450F_VertF.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Vert Foncé)
+item.KAWASAKI_KX450F_Violette.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Violet)
+item.KAWASAKI_KX450F_Rose.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Rose)
+
+item.SMP_Part_Bay_BombBay.name=Bomb Bay Frame
+item.SMP_Part_Bay_CargoBay.name=Cargo Transport Bay Frame
+item.SMP_Part_Bay_PassengerBay.name=Passenger Bay Frame
+item.SMP_Part_Chassis_APC.name=APC Chassis Frame
+item.SMP_Part_Chassis_Bike.name=Bike Chassis Frame
+item.SMP_Part_Chassis_Car.name=Car Chassis Frame
+item.SMP_Part_Chassis_Kart.name=Kart Chassis Frame
+item.SMP_Part_Chassis_Quad.name=Quad Chassis Frame
+item.SMP_Part_Chassis_Tank.name=Tank Chassis Frame
+item.SMP_Part_Chassis_Truck.name=Truck Chassis Frame
+item.SMP_Part_Chassis_Van.name=Van Chassis Frame
+item.SMP_Part_Cockpit_Civil.name=Civil Cockpit Frame
+item.SMP_Part_Cockpit_Heli.name=Helicopter Cockpit Frame
+item.SMP_Part_Cockpit_Jet.name=Jet Cockpit Frame
+item.SMP_Part_Cockpit_Large.name=Large Cockpit Frame
+item.SMP_Part_Engine_Civil.name=Civil Jet Engine
+item.SMP_Part_Engine_MilEngineMk1.name=Military Engine Mk. 1
+item.SMP_Part_Engine_MilEngineMk2.name=Military Engine Mk. 2
+item.SMP_Part_Engine_MilEngineMk3.name=Military Engine Mk. 3
+item.SMP_Part_Engine_SpaceEngine.name=Space Fitted Engine
+item.SMP_Part_Engine_TIEEngine.name=Twin Ion Engine
+item.SMP_Part_Engine_V4.name=V4 Engine
+item.SMP_Part_Engine_V6.name=V6 Engine
+item.SMP_Part_Engine_V8.name=V8 Engine
+item.SMP_Part_Engine_V12.name=V12 Engine
+item.SMP_Part_Fuel_FuelBarrel.name=Fuel Barrel
+item.SMP_Part_Fuel_FuelCan.name=Fuel Canister
+item.SMP_Part_Mat_Armor_Aluminium.name=Aluminium Armorplate
+item.SMP_Part_Mat_Armor_Carbon.name=Carbon Armorplate
+item.SMP_Part_Mat_Armor_DuraSteel.name=DuraSteel Armorplate
+item.SMP_Part_Mat_Armor_Gummi.name=Gummi Armorplate
+item.SMP_Part_Mat_Armor_PlaSteel.name=PlaSteel Armorplate
+item.SMP_Part_Mat_Armor_Plastic.name=Plastic Armorplate
+item.SMP_Part_Mat_Armor_Steel.name=Steel Armorplate
+item.SMP_Part_Mat_Armor_Titan.name=Titan Armorplate
+item.SMP_Part_Mat_Barrel_Oil.name=Oil Barrel
+item.SMP_Part_Mat_Block_Aluminium.name=Aluminium Ingot
+item.SMP_Part_Mat_Block_Carbon.name=Carbon Block
+item.SMP_Part_Mat_Block_DuraSteel.name=DuraSteel Ingot
+item.SMP_Part_Mat_Block_Gummi.name=Gummi Block
+item.SMP_Part_Mat_Block_PlaSteel.name=PlaSteel Block
+item.SMP_Part_Mat_Block_Plastic.name=Plastic Block
+item.SMP_Part_Mat_Block_Steel.name=Steel Ingot
+item.SMP_Part_Mat_Block_Titan.name=Titan Ingot
+item.SMP_Part_Mat_Plate_Aluminium.name=Aluminium Plate
+item.SMP_Part_Mat_Plate_Carbon.name=Carbon Plate
+item.SMP_Part_Mat_Plate_DuraSteel.name=DuraSteel Plate
+item.SMP_Part_Mat_Plate_Gummi.name=Gummi Plate
+item.SMP_Part_Mat_Plate_PlaSteel.name=PlaSteel Plate
+item.SMP_Part_Mat_Plate_Plastic.name=Plastic Plate
+item.SMP_Part_Mat_Plate_Steel.name=Steel Plate
+item.SMP_Part_Mat_Plate_Titan.name=Titan Plate
+item.SMP_Part_Mecha_MediumArmFrame.name=Medium Mecha Arm Frame
+item.SMP_Part_Mecha_MediumBodyFrame.name=Medium Mecha Body Frame
+item.SMP_Part_Mecha_MediumHipFrame.name=Medium Mecha Hip Frame
+item.SMP_Part_Mecha_MediumLegFrame.name=Medium Mecha Leg Frame
+item.SMP_Part_Misc_Ammo_BombBody.name=Bomb Body
+item.SMP_Part_Misc_Ammo_Fuse.name=Fuse
+item.SMP_Part_Misc_Ammo_Shell.name=Empty Shell
+item.SMP_Part_Misc_Barrel_AAGun.name=AA Gun Barrel
+item.SMP_Part_Misc_Barrel_Artillery.name=Artillery Barrel
+item.SMP_Part_Misc_Barrel_Tank.name=Tank Barrel
+item.SMP_Part_Misc_Computer.name=Computer
+item.SMP_Part_Misc_DropMechanism.name=Drop Mechanism
+item.SMP_Part_Misc_EngineIgnition.name=Engine Ignition
+item.SMP_Part_Misc_EngineMotorblock.name=Motorblock
+item.SMP_Part_Misc_EnginePiston.name=Engine Piston
+item.SMP_Part_Misc_Hydraulics.name=Mecha Hydraulics
+item.SMP_Part_Misc_Part_Electronic.name=Electronic Parts
+item.SMP_Part_Misc_Part_Mechanical.name=Mechanical Parts
+item.SMP_Part_Misc_Part_Tanktrack.name=Tanktrack Parts
+item.SMP_Part_Misc_Radar.name=Radar System
+item.SMP_Part_Misc_Seat_Car.name=Car Seat
+item.SMP_Part_Misc_Seat_Jet.name=Jet Seat
+item.SMP_Part_Misc_Seat_Passenger.name=Plane Passenger Seat
+item.SMP_Part_Misc_Seat_Plane.name=Plane Seat
+item.SMP_Part_Misc_Tent.name=Tent
+item.SMP_Part_Nose_Plane.name=Plane Nose Frame
+item.SMP_Part_Propeller_RotorHeli.name=Helicopter Rotor
+item.SMP_Part_Propeller_RotorPlane.name=Plane Propeller
+item.SMP_Part_Propeller_RotorTurbine.name=Turbine Blades
+item.SMP_Part_Propeller_TurbineCivil.name=Civil Turbine
+item.SMP_Part_Propeller_TurbineJet.name=Jet Turbine
+item.SMP_Part_Propeller_TurbineSpace.name=Spacefitted Turbine
+item.SMP_Part_Tail_Civil.name=Civil Tail Frame
+item.SMP_Part_Tail_Heli.name=Helicopter Tail Frame
+item.SMP_Part_Tail_Jet.name=Jet Tail Frame
+item.SMP_Part_Tail_Large.name=Large Tail Frame
+item.SMP_Part_Turret_APC.name=APC Turret Frame
+item.SMP_Part_Turret_Artillery.name=Artillery Turret Frame
+item.SMP_Part_Turret_Tank.name=Tank Turret Frame
+item.SMP_Part_Wheel_APC.name=APC Wheel
+item.SMP_Part_Wheel_Bike.name=Bike Wheel
+item.SMP_Part_Wheel_Car.name=Car Wheel
+item.SMP_Part_Wheel_Heli.name=Helicopter Skids
+item.SMP_Part_Wheel_Plane.name=Plane Wheel
+item.SMP_Part_Wheel_Tanktrack.name=Tanktrack
+item.SMP_Part_Wheel_Truck.name=Truck Wheel
+item.SMP_Part_Wing_Civil.name=Civil Wing Frame
+item.SMP_Part_Wing_Heli.name=Helicopter Wing Frame
+item.SMP_Part_Wing_Jet.name=Jet Wing Frame
+item.SMP_Part_Wing_Large.name=Large Wing Frame
+
+item.bsbdt.name=§7[§fCivil§7] §9Bas Bleu de travail
+item.bssmkg.name=§7[§fCivil§7] §7Bas Smoking
+item.bbblc.name=§7[§fCivil§7] §fBob Blanc
+item.bbgr.name=§7[§fCivil§7] §8Bob Gris
+item.bbnr.name=§7[§fCivil§7] §5Bob Noir
+item.bmbbl.name=§7[§fCivil§7] §9Bombers Bleu
+item.bmbgr.name=§7[§fCivil§7] §8Bombers Gris
+item.bmbnr.name=§7[§fCivil§7] §5Bombers Noir
+item.bmbrg.name=§7[§fCivil§7] §4Bombers Rouge
+item.bnblc.name=§7[§fCivil§7] Bonnet Blanc
+item.bngr.name=§7[§fCivil§7] §8Bonnet Gris
+item.bnnr.name=§7[§fCivil§7] §5Bonnet Noir
+item.csqtblc.name=§7[§fCivil§7] Casquette Blanche
+item.csqtgr.name=§7[§fCivil§7] §8Casquette Grise
+item.csqtnr.name=§7[§fCivil§7] §5Casquette Noir
+item.chsrblc.name=§7[§fCivil§7] Chaussure Blanche
+item.chsrgr.name=§7[§fCivil§7] §8Chaussure Grise
+item.chsrnr.name=§7[§fCivil§7] §5Chaussure Noir
+item.chsrbdt.name=§7[§fCivil§7] §9Chaussure Bleu de travail
+item.chsrsmkg.name=§7[§fCivil§7] §7Chaussure Smoking
+item.ddnbl.name=§7[§fCivil§7] §9Doudoune Bleu
+item.ddngr.name=§7[§fCivil§7] §8Doudoune Grise
+item.ddnnr.name=§7[§fCivil§7] §5Doudoune Noir
+item.ddnrg.name=§7[§fCivil§7] §4Doudoune Rouge
+item.htbdt.name=§7[§fCivil§7] §9Haut Bleu de travail
+item.htsmkg.name=§7[§fCivil§7] §7Haut Smoking
+item.jnbdbg.name=§7[§fCivil§7] Pantalon à bandes Beige
+item.jnbdblc.name=§7[§fCivil§7] Pantalon à bandes Blanc
+item.jnbdbl.name=§7[§fCivil§7] §9Pantalon à bandes Bleu
+item.jnbdgr.name=§7[§fCivil§7] §8Pantalon à bandes Gris
+item.jnbdnr.name=§7[§fCivil§7] §5Pantalon à bandes Noir
+item.jnbg.name=§7[§fCivil§7] Pantalon Beige
+item.jnblc.name=§7[§fCivil§7] Pantalon Blanc
+item.jnbl.name=§7[§fCivil§7] §9Pantalon Bleu
+item.jngr.name=§7[§fCivil§7] §8Pantalon Gris
+item.jnnr.name=§7[§fCivil§7] §5Pantalon Noir
+item.mtbg.name=§7[§fCivil§7] Manteau Beige
+item.mtgr.name=§7[§fCivil§7] §8Manteau Gris
+item.mtnr.name=§7[§fCivil§7] §5Manteau Noir
+item.msqclwn.name=§7[§fCivil§7] Masque Clown
+item.msqgz.name=§7[§fCivil§7] Masque à Gaz
+item.msqjsn.name=§7[§fCivil§7] Masque Jason
+item.msqusa.name=§7[§fCivil§7] Masque USA
+item.msqwlf.name=§7[§fCivil§7] Masque Wolf
+item.plblc.name=§7[§fCivil§7] Polo Blanc
+item.plbl.name=§7[§fCivil§7] §9Polo Bleu
+item.plrg.name=§7[§fCivil§7] §4Polo Rouge
+item.plnr.name=§7[§fCivil§7] §5Polo Noir
+item.plgr.name=§7[§fCivil§7] §8Polo Gris
+item.shrtbdbg.name=§7[§fCivil§7] Short à bandes Beige
+item.shrtbdblc.name=§7[§fCivil§7] Short à bandes Blanc
+item.shrtbdbl.name=§7[§fCivil§7] §9Short à bandes Bleu
+item.shrtbdgr.name=§7[§fCivil§7] §8Short à bandes Gris
+item.shrtbdnr.name=§7[§fCivil§7] §5Short à bandes Noir
+item.shrtbg.name=§7[§fCivil§7] Short Beige
+item.shrtblc.name=§7[§fCivil§7] Short Blanc
+item.shrtbl.name=§7[§fCivil§7] §9Short Bleu
+item.shrtgr.name=§7[§fCivil§7] §8Short Gris
+item.shrtnr.name=§7[§fCivil§7] §5Short Noir
+item.swtbddsblc.name=§7[§fCivil§7] Sweat à bandes Blanc DOS
+item.swtbddsbl.name=§7[§fCivil§7] §9Sweat à bandes Bleu DOS
+item.swtbddsgr.name=§7[§fCivil§7] §8Sweat à bandes Gris DOS
+item.swtbddsnr.name=§7[§fCivil§7] §5Sweat à bandes Noir DOS
+item.swtbddsrg.name=§7[§fCivil§7] §4Sweat à bandes Rouge DOS
+item.swtdsblc.name=§7[§fCivil§7] Sweat Blanc DOS
+item.swtdsbl.name=§7[§fCivil§7] §9Sweat Bleu DOS
+item.swtdsgr.name=§7[§fCivil§7] §8Sweat Gris DOS
+item.swtdsnr.name=§7[§fCivil§7] §5Sweat Noir DOS
+item.swtdsrg.name=§7[§fCivil§7] §4Sweat Rouge DOS
+item.swtbdttblc.name=§7[§fCivil§7] Sweat à bandes Blanc TETE
+item.swtbdttbl.name=§7[§fCivil§7] §9Sweat à bandes Bleu TETE
+item.swtbdttgr.name=§7[§fCivil§7] §8Sweat à bandes Gris TETE
+item.swtbdttnr.name=§7[§fCivil§7] §5Sweat à bandes Noir TETE
+item.swtbdttrg.name=§7[§fCivil§7] §4Sweat à bandes Rouge TETE
+item.swtttblc.name=§7[§fCivil§7] Sweat Blanc TETE
+item.swtttbl.name=§7[§fCivil§7] §9Sweat Bleu TETE
+item.swtttgr.name=§7[§fCivil§7] §8Sweat Gris TETE
+item.swtttnr.name=§7[§fCivil§7] §5Sweat Noir TETE
+item.swtttrg.name=§7[§fCivil§7] §4Sweat Rouge TETE
+item.swtshrtbdblc.name=§7[§fCivil§7] Sweatshirt à bandes Blanc
+item.swtshrtbdbl.name=§7[§fCivil§7] §9Sweatshirt à bandes Bleu
+item.swtshrtbdgr.name=§7[§fCivil§7] §8Sweatshirt à bandes Gris
+item.swtshrtbdnr.name=§7[§fCivil§7] §5Sweatshirt à bandes Noir
+item.swtshrtbdrg.name=§7[§fCivil§7] §4Sweatshirt à bandes Rouge
+item.swtshrtblc.name=§7[§fCivil§7] Sweatshirt Blanc
+item.swtshrtbl.name=§7[§fCivil§7] §9Sweatshirt Bleu
+item.swtshrtgr.name=§7[§fCivil§7] §8Sweatshirt Gris
+item.swtshrtnr.name=§7[§fCivil§7] §5Sweatshirt Noir
+item.swtshrtrg.name=§7[§fCivil§7] §4Sweatshirt Rouge
+item.tsbdblc.name=§7[§fCivil§7] Tee Shirt à bandes Blanc
+item.tsbdbl.name=§7[§fCivil§7] §9Tee Shirt à bandes Bleu
+item.tsbdgr.name=§7[§fCivil§7] §8Tee Shirt à bandes Gris
+item.tsbdnr.name=§7[§fCivil§7] §5Tee Shirt à bandes Noir
+item.tsbdrg.name=§7[§fCivil§7] §4Tee Shirt à bandes Rouge
+item.tsryrblc.name=§7[§fCivil§7] Tee Shirt à rayure Blanc
+item.tsryrbl.name=§7[§fCivil§7] §9Tee Shirt à rayure Bleu
+item.tsryrgr.name=§7[§fCivil§7] §8Tee Shirt à rayure Gris
+item.tsryrnr.name=§7[§fCivil§7] §5Tee Shirt à rayure Noir
+item.tsryrrg.name=§7[§fCivil§7] §4Tee Shirt à rayure Rouge
+item.tssplblc.name=§7[§fCivil§7] Tee Shirt Blanc
+item.tssplbl.name=§7[§fCivil§7] §9Tee Shirt Bleu
+item.tssplgr.name=§7[§fCivil§7] §8Tee Shirt Gris
+item.tssplnr.name=§7[§fCivil§7] §5Tee Shirt Noir
+item.tssplrg.name=§7[§fCivil§7] §4Tee Shirt Rouge
+item.chsrrbl.name=Chaussure Rebelle
+item.bsrbl.name=Bas Rebelle
+item.htrbl.name=Haut Rebelle
+item.cglrbl.name=Cagoule Rebelle
+item.prddrctgnrl.name=Chemise d'apparat Directeur général
+item.prddrctsrvactf.name=Chemise d'apparat Directeur des services actifs
+item.prdispctgnrldrct.name=Chemise d'apparat Inspecteur général et directeur
+item.prdctrlgnrl.name=Chemise d'apparat Contrôle général
+item.prdchsr.name=Chaussure d'apparat
+item.prdbs.name=Pantalon d'apparat
+item.prdcsqt.name=Casquette d'apparat
+item.chsrpm.name=Chaussures Police Municipale
+item.ptlpm.name=Pantalon Police Municipale
+item.csqtpm.name=Casquette Police Municipale
+item.htstgpm.name=Haut Stagiaire Police Municipale
+item.htttlpm.name=Haut Titulaire Police Municipale
+item.htbrgdpm.name=Haut Brigadier Police Municipale
+item.htbrgdchfpm.name=Haut Brigadier-Chef Police Municipale
+item.htchfsrvstgpm.name=Haut Chef de service stagiaire Police Municipale
+item.htchfsrvnrmlpm.name=Haut Chef de service classe normale Police Municipale
+item.htchfsrvsprpm.name=Haut Chef de service classe supérrieure Police Municipale
+item.htchfsrvexptpm.name=Haut Chef de service classe exceptionelle Police Municipale
+item.htdrctpm.name=Haut Directeur Police Municipale
+
+-------------------------------------------------------------
+		       PS BSPP
+-------------------------------------------------------------
+
+item.ps1_letigreroyal.name=§7[§aPompier§7] §aPS des Sapeurs Pompiers
+
+--------------------------
+     §eRenault CLIO II
+--------------------------
+
+item.clio_ii_civil_blanc_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Blanche
+item.clio_ii_civil_bleu2_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Bleue
+item.clio_ii_civil_bleu_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Bleue Claire
+item.clio_ii_civil_gris_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Grise
+item.clio_ii_civil_jaune_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Jaune
+item.clio_ii_civil_noire_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Noire
+item.clio_ii_civil_orange_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Orange
+item.clio_ii_civil_rose_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Rose
+item.clio_ii_civil_rouge_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Rouge
+item.clio_ii_civil_vert_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Verte
+item.clio_ii_civil_violet_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Violette
+item.clio_ii_custom10_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Custom 10
+item.clio_ii_custom1_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Custom 1
+item.clio_ii_custom2_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Custom 2
+item.clio_ii_custom3_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Custom 3
+item.clio_ii_custom4_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Custom 4
+item.clio_ii_custom5_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Custom 5
+item.clio_ii_custom6_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Custom 6
+item.clio_ii_custom7_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Custom 7
+item.clio_ii_custom8_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Custom 8
+item.clio_ii_custom9_letigreroyal.name=§7[§3Véhicule§7] §eRenault Clio II Custom 9
+item.clio_ii_douane_letigreroyal.name=§7[§2Douane§7] §eRenault Clio II de la Douane
+item.clio_ii_gd_letigreroyal.name=§7[§bGendarmerie§7] §eRenault Clio II
+item.clio_ii_pn_petit_gyro_letigreroyal.name=§7[§bPolice§7] §eRenault Clio II (petit gyro)
+item.clio_ii_pn_rampe_letigreroyal.name=§7[§bPolice§7] §eRenault Clio II (ranpe)
+item.clio_ii_pompier_letigreroyal.name=§7[§aPompier§7] §eRenault Clio II
+
+
+
+-----------------------------------------------
+		§eRenault MEGANE
+-----------------------------------------------
+
+item.Renault_megane_blanc_letigreroyal_civilpack.name=§7[§3Véhicule§7] §eRenault Mégane Blanche
+item.Renault_megane_bleu_letigreroyal_civilpack.name=§7[§3Véhicule§7] §eRenault Mégane Bleu
+item.Renault_megane_bleuClair_letigreroyal_civilpack.name=§7[§3Véhicule§7] §eRenault Mégane Bleu Clair
+item.Renault_megane_jaune_letigreroyal_civilpack.name=§7[§3Véhicule§7] §eRenault Mégane Jaune
+item.Renault_megane_noir_letigreroyal_civilpack.name=§7[§3Véhicule§7] §eRenault Mégane Noir
+item.Renault_megane_orange_letigreroyal_civilpack.name=§7[§3Véhicule§7] §eRenault Mégane Orange
+item.Renault_megane_rose_letigreroyal_civilpack.name=§7[§3Véhicule§7] §eRenault Mégane Rose
+item.Renault_megane_verte_letigreroyal_civilpack.name=§7[§3Véhicule§7] §eRenault Mégane Beige
+item.Renault_megane_rouge_letigreroyal_civilpack.name=§7[§3Véhicule§7] §eRenault Mégane Rouge
+item.Renault_megane_beige_letigreroyal_civilpack.name=§7[§3Véhicule§7] §eRenault Mégane Beige
+item.Renault_megane_gendarmerie_letigreroyal_civilpack.name=§7[§bGendarmerie§7] §eRenault Mégane 
+item.Renault_megane_pc_letigreroyal_civilpack.name=§7[§bPolice§7] §eRenault Megane
+item.Renault_megane_letigreroyal_pompier_letigreroyal_civilpack.name=§7[§aPompier§7] §eRenault Megane
+
+-----------------------------------------------
+		§aHonda ATV 2006
+-----------------------------------------------
+item.Honda_atv_2006_rouge_letigreroyal.name=§7[§3Véhicule§7] §aHonda ATV 2006 Rouge
+item.Honda_atv_2006_blanc_letigreroyal.name=§7[§3Véhicule§7] §aHonda ATV 2006 Blanc
+item.Honda_atv_2006_bleu_letigreroyal.name=§7[§3Véhicule§7] §aHonda ATV 2006 Bleu
+item.Honda_atv_2006_jaune_letigreroyal.name=§7[§3Véhicule§7] §aHonda ATV 2006 Jaune
+item.Honda_atv_2006_lime_letigreroyal.name=§7[§3Véhicule§7] §aHonda ATV 2006 Lime
+item.Honda_atv_2006_noir_letigreroyal.name=§7[§3Véhicule§7] §aHonda ATV 2006 Noir
+item.Honda_atv_2006_rose_letigreroyal.name=§7[§3Véhicule§7] §aHonda ATV 2006 Rose
+item.Honda_atv_2006_vert_letigreroyal.name=§7[§3Véhicule§7] §aHonda ATV 2006 Vert
+item.Honda_atv_2006_violet_letigreroyal.name=§7[§3Véhicule§7] §aHonda ATV 2006 Violet
+
+item.Honda_atv_2006_2_gendarmerie_letigreroyal.name=§7[§3Véhicule§7] §aHonda ATV 2006 de la Gendarmerie
+item.Honda_atv_2006_2_pn_letigreroyal.name=§7[§bPolice§7] §aHonda ATV 2006
+item.Honda_atv_2006_2_pompier_letigreroyal.name=§7[§bPolice§7] §aHonda ATV 2006 des Pompiers
+item.Honda_atv_2006_2_millitaire_letigreroyal.name=§7[§2Militaire§7] §aHonda ATV 2006 Militaire
+
+
+item.Honda_atv_2006_ap_letigreroyal.name=§7[§3Véhicule§7] §aHonda ATV 2006 Post Apo 1
+item.Honda_atv_2006_ap2_letigreroyal.name=§7[§3Véhicule§7] §aHonda ATV 2006 Post Apo 2
+
+
+
+item.fpt1_letigreroyal.name=§7[§aPompier§7] §aFPT des Sapeurs Pompiers
+
+
+----------------------------------------------------------------
+			SKODA KAROQ
+----------------------------------------------------------------
+
+
+----------------------------------------------------
+	    Tenue Gendarmerie Mobile
+----------------------------------------------------
+
+item.gn_moto_casque_letigreroyal.name=Casque de la Gendarmerie Mobile (petit)
+item.gn_moto_casque2_letigreroyal.name=Casque de la Gendarmerie Mobile  (grand)
+item.gn_moto_gant_letigreroyal.name=Gants de moto de la Gendarmerie Mobile 
+item.gn_moto_tenue_letigreroyal.name=Tenue de la Gendarmerie Mobile 
+
+item.pn_moto_casque_letigreroyal.name=Casque de la Police Nationale (petit)
+item.pn_moto_casque2_letigreroyal.name=Casque de la Police Nationale (grand)
+item.pn_moto_gant_letigreroyal.name=Gants de moto de la Police Nationale
+item.pn_moto_tenue_letigreroyal.name=Tenue de la Police Nationale
+
+
+item.AH-6S.name=§7[§6Hélicoptère§7] §2MD Helicopters AH-6S Little Bird
+item.CH-47D.name=§7[§6Hélicoptère§7] §2Boeing CH-47D Chinook
+item.CH-47F.name=§7[§6Hélicoptère§7] §2Boeing CH-47F Chinook
+item.MH-47E.name=§7[§6Hélicoptère§7] §2Boeing MH-47E Special Operations Aviation Chinook
+item.MH-47G.name=§7[§6Hélicoptère§7] §2Boeing MH-47G Special Operations Aviation Chinook
+item.MH-60K.name=§7[§6Hélicoptère§7] §2Sikorsky MH-60K Black Hawk
+item.MH-60L.name=§7[§6Hélicoptère§7] §2Sikorsky MH-60L Battle Hawk
+item.MH-60M.name=§7[§6Hélicoptère§7] §2Sikorsky MH-60M Black Hawk
+item.MXH-60S.name=§7[§6Hélicoptère§7] §2Sikorsky MXH-60S Silent Hawk
+item.MH-6E.name=§7[§6Hélicoptère§7] §2MD Helicopters MH-6E Little Bird
+item.MV-280M.name=§7[§6Hélicoptère§7] §2Bell MV-280M Special Operation Valor
+item.OH-58D.name=§7[§6Hélicoptère§7] §2Bell OH-58D Kiowa
+item.OV-280D.name=§7[§6Hélicoptère§7] §2Bell OV-280D Observation Valor
+item.UH-60A.name=§7[§6Hélicoptère§7] §2Sikorsky UH-60A Black Hawk
+item.UH-60L.name=§7[§6Hélicoptère§7] §2Sikorsky UH-60L Black Hawk
+item.UH-60Q.name=§7[§6Hélicoptère§7] §2Sikorsky UH-60Q Black Hawk
+item.UH-72A.name=§7[§6Hélicoptère§7] §2Eurocopter UH-72A Lakota
+item.UH-72SC.name=§7[§6Hélicoptère§7] §2Eurocopter UH-72SC Lakota
+item.UH-72H.name=§7[§6Hélicoptère§7] §2Eurocopter UH-72H Lakota
+item.UH-97A.name=§7[§6Hélicoptère§7] §2Sikorsky UH-97A Raider
+item.V-280A.name=§7[§6Hélicoptère§7] §2Bell V-280A Valor
+item.V-280Q.name=§7[§6Hélicoptère§7] §2Bell V-280Q Savior Valor
+item.GFS_Ka60BRI.name= §7[§6Hélicoptère§7] §9GFS K60 BRI
+
+item.Civil_Vehicle_F1_1A.name=§7[§3Véhicule§7] §4Red Formula 1 Racer
+item.Civil_Vehicle_F1_1B.name=§7[§3Véhicule§7] §9Blue Formula 1 Racer
+item.Civil_Vehicle_F1_1C.name=§7[§3Véhicule§7] §2Green Formula 1 Racer
+item.Civil_Vehicle_F1_1D.name=§7[§3Véhicule§7] §eYellow Formula 1 Racer
+item.Civil_Vehicle_F1_1E.name=§7[§3Véhicule§7] §6Orange Formula 1 Racer
+item.Civil_Vehicle_F1_1F.name=§7[§3Véhicule§7] §fWhite Formula 1 Racer
+
+item.Civil_Vehicle_Taxi_1A.name=§7[§3Véhicule§7] §eTaxi Car
+
+item.blouse.name=§7[§fCivil§7] §fBlouse
+item.tshirtsupreme.name=§7[§fCivil§7] §fT shirt Supreme
+item.tshirtgucci.name=§7[§fCivil§7] §fT shirt Gucci
+
+item.giletterro.name=Gilet terroriste
+
+item.tshirp.name=§7[§8Prison§7] §6T-shirt Prisonnier
+item.pantalonp.name=§7[§8Prison§7] §6Pantalon Prisonnier
+item.pantalonprisonnier.name=§7[§8Prison§7] §6Pantalon Prisonnier
+
+
+item.bretelle.name=§7[§fCivil§7] §fBretelles
+
+item.botteagriculteur.name=§7[§fCivil§7] §aBotte Agriculteur
+item.chapeauagriculteur.name=§7[§fCivil§7] §aChapeau Agriculteur
+item.pantalonagriculteur.name=§7[§fCivil§7] §aPantalon Agriculteur Vert
+item.pantalonagriculteurbleu.name=§7[§fCivil§7] §aPantalon Agriculteur Bleu
+item.pantalonagriculteurgris.name=§7[§fCivil§7] §aPantalon Agriculteur Gris
+item.vesteagriculteur.name=§7[§fCivil§7] §aVeste Agriculteur Vert
+item.vesteagriculteurbleu.name=§7[§fCivil§7] §aVeste Agriculteur Bleu
+item.vesteagriculteurgris.name=§7[§fCivil§7] §aVeste Agriculteur Gris
+
+item.tshirtfila.name=§7[§fCivil§7] §fT Shirt Fila
+item.tshirtpuma.name=§7[§fCivil§7] §fT Shirt Puma
+
+item.chaussurenikebleu.name=§7[§fCivil§7] §fChaussures Nike Bleues
+item.chaussurenikegris.name=§7[§fCivil§7] §fChaussures Nike Grise
+item.chaussurenikerouge.name=§7[§fCivil§7] §fChaussures Nike Rouges
+item.chaussurenikevert.name=§7[§fCivil§7] §fChaussures Nike Vertes
+item.chaussurenikeorange.name=§7[§fCivil§7] §fChaussures Nike Oranges
+item.chaussurenikeblanc.name=§7[§fCivil§7] §fChaussures Nike Blanches
+item.chaussurenikenoir.name=§7[§fCivil§7] §fChaussures Nike Noires
+item.chaussurenikemagenta.name=§7[§fCivil§7] §fChaussures Nike Magentas
+
+item.joggingnikeblanc.name=§7[§fCivil§7] §fJogging Nike Blanc
+item.joggingnikenoir.name=§7[§fCivil§7] §fJogging Nike Noir
+item.joggingnikebleu.name=§7[§fCivil§7] §fJogging Nike Bleu
+item.joggingnikevert.name=§7[§fCivil§7] §fJogging Nike Vert
+item.joggingnikeorange.name=§7[§fCivil§7] §fJogging Nike Orange
+item.joggingnikemagenta.name=§7[§fCivil§7] §fJogging Nike Magenta
+item.joggingnikerouge.name=§7[§fCivil§7] §fJogging Nike Rouge
+item.joggingnikegris.name=§7[§fCivil§7] §fJogging Nike Gris
+
+
+item.V1.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 V1
+item.V2.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 V2
+item.V3.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 V3
+item.V4.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 V4
+item.V6.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 V6
+item.LaFW1.name=§7[§3Véhicule§7] §4Ferrari FW1
+item.LaFW2.name=§7[§3Véhicule§7] §4Ferrari Aperta FW2
+item.LaFBl.name=§7[§3Véhicule§7] §4Ferrari FBl
+item.LaFBl2.name=§7[§3Véhicule§7] §4Ferrari Aperta FBl2
+item.LaFJ1.name=§7[§3Véhicule§7] §4Ferrari FJ1
+item.LaFJ2.name=§7[§3Véhicule§7] §4Ferrari Aperta FJ2
+item.LaFB.name=§7[§3Véhicule§7] §4Ferrari FB
+item.LaFB2.name=§7[§3Véhicule§7] §4Ferrari Aperta FB2
+item.LaFR1.name=§7[§3Véhicule§7] §4Ferrari FR1
+item.LaFR2.name=§7[§3Véhicule§7] §4Ferrari Aperta FR2
+item.LaFV.name=§7[§3Véhicule§7] §4Ferrari FV
+item.LaFV2.name=§7[§3Véhicule§7] §4Ferrari Aperta FV2
+item.458black.name=§7[§3Véhicule§7] §4Ferrari 458black Italia
+item.458gold.name=§7[§3Véhicule§7] §4Ferrari 458gold Italia
+item.458grey.name=§7[§3Véhicule§7] §4Ferrari 458grey Italia
+item.458red.name=§7[§3Véhicule§7] §4Ferrari 458red Italia
+item.458white.name=§7[§3Véhicule§7] §4Ferrari 458white Italia
+item.458yellow.name=§7[§3Véhicule§7] §4Ferrari 458yellow Italia
+item.488BLACK.name=§7[§3Véhicule§7] §4Ferrari 488BLACK GTB
+item.488YEL.name=§7[§3Véhicule§7] §4Ferrari 488YEL GTB
+item.488WHITE.name=§7[§3Véhicule§7] §4Ferrari 488WHITE GTB
+item.488RED.name=§7[§3Véhicule§7] §4Ferrari 488RED GTB
+item.488GREY.name=§7[§3Véhicule§7] §4Ferrari 488GREY GTB
+item.488BLU.name=§7[§3Véhicule§7] §4Ferrari 488BLU GTB
+item.F12B.name=§7[§3Véhicule§7] §4Ferrari F12B
+item.F12G1.name=§7[§3Véhicule§7] §4Ferrari F12G1
+item.F12G2.name=§7[§3Véhicule§7] §4Ferrari F12G2
+item.F12R.name=§7[§3Véhicule§7] §4Ferrari F12R
+item.F12W.name=§7[§3Véhicule§7] §4Ferrari F12W
+item.F12Y.name=§7[§3Véhicule§7] §4Ferrari F12Y
+
+item.S1.name=§7[§3Véhicule§7] §8Shelby GT500 S1
+item.S2.name=§7[§3Véhicule§7] §8Shelby GT500 S2
+item.S3.name=§7[§3Véhicule§7] §8Shelby GT500 S3
+item.S4.name=§7[§3Véhicule§7] §8Shelby GT500 S4
+item.S5.name=§7[§3Véhicule§7] §8Shelby GT500 S5
+
+item.H1.name=§7[§3Véhicule§7] §bFord Mustang GT Hero1
+item.H2.name=§7[§3Véhicule§7] §bFord Mustang GT Hero2
+item.H3.name=§7[§3Véhicule§7] §bFord Mustang GT Hero3
+
+item.S1C.name=§7[§3Véhicule§7] §8Shelby GT500 CabrioletS1
+item.S2C.name=§7[§3Véhicule§7] §8Shelby GT500 CabrioletS2
+item.S3C.name=§7[§3Véhicule§7] §8Shelby GT500 CabrioletS3
+item.S4C.name=§7[§3Véhicule§7] §8Shelby GT500 CabrioletS4
+item.S5C.name=§7[§3Véhicule§7] §8Shelby GT500 CabrioletS5
+item.ST.name=§7[§3Véhicule§7] §8Shelby GT500 CabrioletST
+
+item.R8R.name=§7[§3Véhicule§7] §9Audi R8R V10
+item.R8B.name=§7[§3Véhicule§7] §9Audi R8B V10
+item.R8Bl.name=§7[§3Véhicule§7] §9Audi R8Bl V10
+item.R8C.name=§7[§3Véhicule§7] §9Audi R8C V10
+item.R8G.name=§7[§3Véhicule§7] §9Audi R8G V10
+item.R8N.name=§7[§3Véhicule§7] §9Audi R8N V10
+item.R8CR.name=§7[§3Véhicule§7] §9Audi R8CR Spyder
+item.R8CB.name=§7[§3Véhicule§7] §9Audi R8CB Spyder
+item.R8CBl.name=§7[§3Véhicule§7] §9Audi R8CBl Spyder
+item.R8CG.name=§7[§3Véhicule§7] §9Audi R8CG Spyder
+item.R8CN.name=§7[§3Véhicule§7] §9Audi R8CN Spyder
+
+
+item.blousongendarmesouscontrat.name=§7[§bGendarme§7] §bTenue blouson de gendarme sous contrat
+item.blousongendarme.name=§7[§bGendarme§7] §bTenue blouson de gendarme
+item.blousongendarmeadjoint.name=§7[§bGendarme§7] §bTenue blouson de gendarme adjoint
+item.blousonbrigadier.name=§7[§bGendarme§7] §bTenue blouson de brigadier
+item.blousonbrigadierchef.name=§7[§bGendarme§7] §bTenue blouson de brigadier chef
+item.blousongeneraldebrigade.name=§7[§bGendarme§7] §bTenue blouson de general de brigade
+item.blousongeneraldedivision.name=§7[§bGendarme§7] §bTenue blouson de general de division
+item.blousonmarechaldeslogischef.name=§7[§bGendarme§7] §bTenue blouson de marechal des logis chef
+item.blousonadjudant.name=§7[§bGendarme§7] §bTenue blouson d'adjudant
+item.blousonadjudantchef.name=§7[§bGendarme§7] §bTenue blouson d'adjudant chef
+item.blousonmajor.name=§7[§bGendarme§7] §bTenue blouson de major
+item.blousonlieutenantstagiaire.name=§7[§bGendarme§7] §bTenue blouson de sous lieutenant
+item.blousonlieutenant.name=§7[§bGendarme§7] §bTenue blouson de lieutenant
+item.blousoncapitaine.name=§7[§bGendarme§7] §bTenue blouson de capitaine
+item.blousoncommandant.name=§7[§bGendarme§7] §bTenue blouson de commandant
+item.blousonlieutenantcolonel.name=§7[§bGendarme§7] §bTenue blouson de lieutenant colonel
+item.blousoncolonel.name=§7[§bGendarme§7] §bTenue blouson de colonel
+item.pologendarmesouscontrat.name=§7[§bGendarme§7] §bTenue polo de gendarme sous contrat
+item.pologendarme.name=§7[§bGendarme§7] §bTenue polo de gendarme
+item.pologendarmeadjoint.name=§7[§bGendarme§7] §bTenue polo de gendarme adjoint
+item.polobrigadier.name=§7[§bGendarme§7] §bTenue polo de brigadier
+item.polobrigadierchef.name=§7[§bGendarme§7] §bTenue polo de brigadier chef
+item.polomarechaldeslogischef.name=§7[§bGendarme§7] §bTenue polo de marechal des logis chef
+item.poloadjudant.name=§7[§bGendarme§7] §bTenue polo d'adjudant
+item.poloadjudantchef.name=§7[§bGendarme§7] §bTenue polo d'adjudant chef
+item.polomajor.name=§7[§bGendarme§7] §bTenue polo de major
+item.pololieutenantstagiaire.name=§7[§bGendarme§7] §bTenue polo de sous lieutenant
+item.pololieutenant.name=§7[§bGendarme§7] §bTenue polo de lieutenant
+item.polocapitaine.name=§7[§bGendarme§7] §bTenue polo de capitaine
+item.polocommandant.name=§7[§bGendarme§7] §bTenue polo de commandant
+item.pololieutenantcolonel.name=§7[§bGendarme§7] §bTenue polo de lieutenant colonel
+item.polocolonel.name=§7[§bGendarme§7] §bTenue polo de colonel
+item.kepi1.name=§7[§bGendarme§7] §bKepi de gendarmerie 1
+item.kepi2.name=§7[§bGendarme§7] §bKepi de gendarmerie 2
+item.kepi3.name=§7[§bGendarme§7] §bKepi de gendarmerie 3
+item.giletpareballegendarmesouscontrat.name=§7[§bGendarme§7] §bGilet pare-balle de gendarme sous contrat
+item.giletpareballegendarme.name=§7[§bGendarme§7] §bGilet pare-balle de gendarme
+item.giletpareballegendarmeadjoint.name=§7[§bGendarme§7] §bGilet pare-balle de gendarme adjoint
+item.giletpareballebrigadier.name=§7[§bGendarme§7] §bGilet pare-balle de brigadier
+item.giletpareballebrigadierchef.name=§7[§bGendarme§7] §bGilet pare-balle de brigadier chef
+item.giletpareballemarechaldeslogischef.name=§7[§bGendarme§7] §bGilet pare-balle de marechal des logis chef
+item.giletpareballeadjudant.name=§7[§bGendarme§7] §bGilet pare-balle d'adjudant
+item.giletpareballeadjudantchef.name=§7[§bGendarme§7] §bGilet pare-balle d'adjudant chef
+item.giletpareballemajor.name=§7[§bGendarme§7] §bGilet pare-balle de major
+item.giletpareballesouslieutenant.name=§7[§bGendarme§7] §bGilet pare-balle de sous lieutenant
+item.giletpareballelieutenant.name=§7[§bGendarme§7] §bGilet pare-balle de lieutenant
+item.giletpareballecapitaine.name=§7[§bGendarme§7] §bGilet pare-balle de capitaine
+item.giletpareballecommandant.name=§7[§bGendarme§7] §bGilet pare-balle de commandant
+item.giletpareballelieutenantcolonel.name=§7[§bGendarme§7] §bGilet pare-balle de lieutenant colonel
+item.giletpareballecolonel.name=§7[§bGendarme§7] §bGilet pare-balle de colonel
+item.gendarmeriebrassard.name=§7[§bGendarme§7] §bBrassard de gendarmerie
+item.gilethautevisibilite.name=§7[§bGendarme§7] §bGilet de gendarmerie a haute visibilite
+item.kepishark.name=§2Kepi de general de division
+item.cagoule.name=§8Cagoule deux trous
+item.cagoule2.name=§8Cagoule trois trous
+item.knife.name=§cCouteau de combat
+item.matraque.name=§7Matraque telescopique
+item.shield.name=§8Bouclier balistique
+item.antiemeute.name=§bBouclier anti émeute
+item.batoncirculation.name=Baton lumineux de circulation
+item.gendarmeriemobile.name=Tenue de la gendarmerie mobile
+item.psig1.name=Tenue d'intervention du PSIG
+item.psig2.name=Tenue d'intervention lourde du PSIG
+item.psig3.name=Tenue d'intervention légère du PSIG
+item.casquette.name=Casquette de gendarmerie departementale
+item.giletchefdagres.name=Gilet orange de chef d'agres
+item.giletsp.name=Gilet orange de sapeur pompier
+item.tenuepompier.name=Tenue F1 de sapeur pompier
+item.sishort.name=Uniforme de la securite incendie (Manches courtes)
+item.silong.name=Uniforme de la securite incendie (Manches courtes)
+item.ari.name=Masque ARI
+item.interventionpompier.name=Tenue d'intervention de sapeur pompier
+item.casquepompier.name=Casque de sapeur pompier
+item.tenuepompiershort.name=Tenue F1 à manches courtes
+item.sassuit.name=Uniforme miliataire
+item.sasvest.name=Gilet pare balle
+item.universcasque.name=Casque militaire
+item.plumecagoule.name=Cagoule
+item.pi2g.name=Tenue d intervention du PI2G
+item.pi2gcamo1.name=Tenue d'intervention du PI2G camo forestier
+item.pi2gcamo2.name=Tenue d'intervention du PI2G camo hivernal
+
+//List des voitures
+item.Sdr.name=§7[§3Véhicule§7] sperazzoti speederossa
+item.Str.name=§7[§3Véhicule§7] sperazzoti sestarossa
+item.FEnzo.name=§7[§3Véhicule§7] §4Ferrari Enzo
+item.FXXEV.name=§7[§3Véhicule§7] §4Ferrari FXX Evoluzione
+item.SSCUAXT.name=§7[§3Véhicule§7] SSC Ultimate Aero XT
+item.mp412c.name=§7[§3Véhicule§7] §6McLaren MP4-12C
+item.mp412cspider.name=§7[§3Véhicule§7] §6McLaren MP4-12C Spider
+item.458Ic.name=§7[§3Véhicule§7] §4Ferrari 458 Italia coupe
+item.458IS.name=§7[§3Véhicule§7] §4Ferrari 458 Italia spider
+item.SestoEle.name=§7[§3Véhicule§7] §6Lamborghini Sesto Elemento
+item.gallardo1.name=§7[§3Véhicule§7] §6Lamborghini Gallardo 2004
+item.gallardospyder.name=§7[§3Véhicule§7] §6Lamborghini Gallardo Spyder 2004
+item.California.name=§7[§3Véhicule§7] §4Ferrari California
+item.360s.name=§7[§3Véhicule§7] §4Ferrari 360 Modena spider
+item.360c.name=§7[§3Véhicule§7] §4Ferrari 360 Modena coupe
+item.TBeast.name=§7[§3Véhicule§7] §bFord F-450 The Beast
+item.La§4FerrariFXXK.name=§7[§3Véhicule§7] §4Ferrari La§4Ferrari FXX-K
+item.La§4FerrariFXXKrw.name=§7[§3Véhicule§7] §4Ferrari La§4Ferrari FXX-K white red
+item.La§4FerrariFXXKry.name=§7[§3Véhicule§7] §4Ferrari La§4Ferrari FXX-K red yellow
+item.p1GTR.name=§7[§3Véhicule§7] §6McLaren P1 GTR black
+item.Corvettec7.name=§7[§3Véhicule§7] §bCorvette Stingray 2015
+item.zondacinque.name=§7[§3Véhicule§7] §1Pagani Zonda Cinque 2009
+item.zondacinqueroadster.name=§7[§3Véhicule§7] §1Pagani Zonda Cinque Roadster
+item.miuraconcept.name=§7[§3Véhicule§7] §6Lamborghini Miura concept
+item.430c.name=§7[§3Véhicule§7] §4Ferrari F430 Scuderia coupé
+item.430s.name=§7[§3Véhicule§7] §4Ferrari F430 Scuderia Spider
+item.fgtbsblu.name=§7[§3Véhicule§7] §4Ferrari 488GTB blue spider
+item.fgtbblu.name=§7[§3Véhicule§7] §4Ferrari 488GTB blue
+item.fgtbsred.name=§7[§3Véhicule§7] §4Ferrari 488GTB red spider
+item.fgtbsgrey.name=§7[§3Véhicule§7] §4Ferrari 488GTB grey spider
+item.fgtbsyel.name=§7[§3Véhicule§7]§4Ferrari 488GTB yellow spider
+item.fgtbred.name=§7[§3Véhicule§7] §4Ferrari 488GTB red
+item.fgtbyel.name=§7[§3Véhicule§7] §4Ferrari 488GTB yellow
+item.fgtbgrey.name=§7[§3Véhicule§7] §4Ferrari 488GTB grey
+item.gt2015.name=§7[§3Véhicule§7] §bFord GT 2015
+item.458Ispeciale.name=§7[§3Véhicule§7] §4Ferrari 458 Italia speciale
+item.458Ia.name=§7[§3Véhicule§7] §4Ferrari 458 Italia aperta
+item.ussnimitz.name=§7[§3Véhicule§7] CVN 68 USS NIMITZ
+item.mc12.name=§7[§3Véhicule§7] Maserati MC12
+item.mc12w.name=§7[§3Véhicule§7] Maserati MC12 white
+item.st1.name=§7[§3Véhicule§7] §5Zenvo ST1 orange
+item.st1grey.name=§7[§3Véhicule§7] §5Zenvo ST1 grey
+item.st1green.name=§7[§3Véhicule§7] §5Zenvo ST1 green
+item.st1white.name=§7[§3Véhicule§7] §5Zenvo ST1 white
+item.Veyronbag.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 grey
+item.Veyronbar.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 red
+item.Veyronbaw.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 white
+item.Veyronb.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 black
+item.Veyronwhigs.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 white GS
+item.Veyronwhigso.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 white GS "Osprei"
+item.Veyronblagst.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 black "trust"
+item.Veyronredgs.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 red GS
+item.VBL.name=§7[§3Véhicule§7] VBL
+item.FMb.name=§7[§3Véhicule§7] §bFord Mondeo Bleue
+item.FMblanche.name=§7[§3Véhicule§7] §bFord Mondeo Blanche
+item.FMnoire.name=§7[§3Véhicule§7] §bFord Mondeo Noire
+item.FMrouge.name=§7[§3Véhicule§7] §bFord Mondeo Rouge
+item.DayZ_Vehicle_ChevroletSuburban2010_1A.name=§7[§3Véhicule§7] Chevrolet Suburban 2010 Noir
+item.DayZ_Vehicle_ChevroletSuburban2010_1B.name=§7[§3Véhicule§7] Chevrolet Suburban 2010 Blanc
+item.Grizzly_ATV_Black.name=§7[§3Véhicule§7] Quad ATV Grizzly Noir
+item.Grizzly_ATV_Grey.name=§7[§3Véhicule§7] Quad ATV Grizzly Gris
+item.Grizzly_ATV_Red.name=§7[§3Véhicule§7] Quad ATV Grizzly Rouge
+item.Kart.name=§7[§3Véhicule§7] Kart Bleu
+item.Kartnoir.name=§7[§3Véhicule§7] Kart Noir
+item.Kartrouge.name=§7[§3Véhicule§7] Kart Rouge
+item.Bravado_Gauntlet_Gris_foncer.name=§7[§3Véhicule§7] Bravado Gauntlet Gris Foncé
+item.Bravado_Gauntlet_Gris.name=§7[§3Véhicule§7] Bravado Gauntlet Gris
+item.Bravado_Gauntlet_Violet.name=§7[§3Véhicule§7] Bravado Gauntlet Violet
+item.Bravado_Gauntlet_Blanche.name=§7[§3Véhicule§7] Bravado Gauntlet Blanche
+item.Bravado_Gauntlet_Jaune.name=§7[§3Véhicule§7] Bravado Gauntlet Jaune
+item.Citroen_C3.name=§7[§3Véhicule§7] §eCitroën C3 Bleue
+item.Citroen_C3_Gris.name=§7[§3Véhicule§7] §eCitroën C3 Grise
+item.Citroen_C3_Noir.name=§7[§3Véhicule§7] §eCitroën C3 Noire
+item.Citroen_C5.name=§7[§3Véhicule§7] §eCitroën C5
+item.Citroen_C8.name=§7[§3Véhicule§7] §eCitroën C8
+item.Dodge_Charger_SRT.name=§7[§3Véhicule§7] §fDodge Chargeur Blanche
+item.Dodge_Charger_SRT_Rouge.name=§7[§3Véhicule§7] §4Dodge Chargeur Rouge
+item.Dodge_Charger_SRT_Noire.name=§7[§3Véhicule§7] §5Dodge Chargeur Noire
+item.Dodge_Charger_SRT_Bleue.name=§7[§3Véhicule§7] §9Dodge Chargeur Bleue
+item.Dodge_Charger_SRT_Police.name=§7[§bPolice§7] §bDodge Chargeur Police
+item.fgtbgyel.name=§7[§3Véhicule§7] §4Ferrarie Jaune
+item.Ford_Crown_Victoria_Blanc.name=§7[§3Véhicule§7] §bFord Crown Victoria Blanche
+item.Ford_Crown_Victoria_Bleue.name=§7[§3Véhicule§7] §bFord Crown Victoria Bleue
+item.Ford_Crown_Victoria_Rouge.name=§7[§3Véhicule§7] §bFord Crown Victoria Rouge
+item.Ford_Crown_Victoria_Noire.name=§7[§3Véhicule§7] §bFord Crown Victoria Noire
+item.Ford_Crown_Victoria_PoliceV2.name=§7[§bPolice§7] §bFord Crown Victoria Police
+item.Ford_Crown_Victoria_Taxi.name=§7[§eTaxi§7] §bFord Crown Victoria Taxi
+item.Hilux_Offroad_Cover.name=§7[§3Véhicule§7] Hilux Offroad Cover
+item.Hilux_Offroad_Monster.name=§7[§3Véhicule§7] Monster Truck
+item.SAMU.name=§7[§3Véhicule§7] Ambulance du SAMU
+item.Renault_Trafic_Blanc.name=§7[§3Véhicule§7] §eRenault Trafic Blanc
+item.Dodge_Charger_SRT_Raik.name=§7[§3Véhicule§7] Dodge Chargeur Raikave
+item.Ford_Crown_Victoria_Taxi2.name=§bFord Crown Victoria Taxi 2
+item.Ford_Crown_Victoria_Police.name=§bFord Crown Victoria Police
+item.FMPolice.name=§7[§3Véhicule§7] §bFord Mondo Police
+item.Veyronpolice.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 Police
+item.fgtbpolice.name=§7[§3Véhicule§7] §4Ferrari Police
+item.revgrey.name=§7[§3Véhicule§7] §eLamborghini reventon coupe Grise
+item.revgreyr.name=§7[§3Véhicule§7] §eLamborghini reventon roadster Grise
+item.Renault.name=§7[§3Véhicule§7] §1Véhicule d'intervention BRI
+item.Ford_deluxe_1947_Noir.name=§7[§3Véhicule§7] §bFord de Luxe 1947 Noire
+item.Ford_deluxe_1947_Police_Sirene.name=§7[§3Véhicule§7] §bFord de Luxe 1947 Police
+item.Insurgent_SWAT.name=§7[§3Véhicule§7] Insurgent
+item.motolostnoir.name=§7[§3Véhicule§7] §5Moto
+item.Hunter_Noir.name=§7[§3Véhicule§7] §5Hunter Noir U.T.E
+item.Hunter_Millitaire=§7[§3Véhicule§7] §2Hunter Armée Française
+item.Hunter_Beige.name=§7[§3Véhicule§7] §fHunter Beige U.T.E
+item.aventyo.name=§7[§3Véhicule§7] §eLamborghini Aventador LP700-4 orange
+item.aventyr.name=§7[§3Véhicule§7] §eLamborghini Aventador LP700-4 rouge
+item.aventyv.name=§7[§3Véhicule§7] §eLamborghini Aventador LP700-4 verte
+item.aventyn.name=§7[§3Véhicule§7] §eLamborghini Aventador LP700-4 noire
+
+//list des grenades
+item.dwFragSkymare.name=§7[§8Explosif§7] M214 Grenade Frag
+item.dwShockSkymare.name=§7[§8Explosif§7] Grenade Flash
+item.dwFragAmbircon.name=§7[§8Explosif§7] Grenade Dispersante
+item.dwFragLupine.name=§7[§8Explosif§7] MP75 Grenade Frag
+item.dwRocketLupine.name=§7[§8Explosif§7] Rocket RHA
+item.dwLupineC4.name§7[§8Explosif§7] Pain de C4
+item.dwLupineRemote.name§7[§8Explosif§7] Détonateur C4
+item.c4Remote.name=§7[§8Explosif§7] Détonateur C4
+item.c4.name=§7[§8Explosif§7] Pain de C4
+item.claymore.name=§7[§8Explosif§7] M18 Claymore
+
+//accessoirs armes
+item.mpackakgrip.name=Poignet AK
+item.mpackverticalgrip.name=Poignet verticale
+
+//Simple parts
+item.smallBomb.name=§7[§8Explosif§7] Small Bomb
+item.shell.name=§7[§8Explosif§7] Tank Shell
+item.napalm.name=§7[§8Explosif§7] Napalm
+item.largeBomb.name=§7[§8Explosif§7] Large Bomb
+item.metalPropeller.name=Metal Propeller
+item.metalTail.name=Metal Tail
+item.metalWingSection.name=Metal Wing Section
+item.metalWingSmall.name=Small Metal Wing
+item.passengerBay.name=Passenger Bay
+item.enginePiston.name=Engine Piston
+item.rotaryEngine.name=Rotary Engine
+item.vehicleSeat.name=Seat
+item.smallChassis.name=Small Car Chassis
+item.wheel.name=Small Wheel
+item.tankBarrel.name=Tank Barrel
+item.tankBody.name=Tank Body
+item.tankTurret.name=Tank Turret
+item.triplaneWing.name=Triplane Wing
+item.v4Engine.name=V4 Engine
+item.v6Engine.name=V6 Engine
+item.v8Engine.name=V8 Engine
+item.woodenCockpit.name=Wooden Cockpit
+item.woodenPropeller.name=Wooden Propeller
+item.woodenTail.name=Wooden Tail
+item.woodenWing.name=Wooden Wing
+item.aaBarrel.name=AA Gun Barrel
+item.biplaneWing.name=Biplane Wing
+item.bombBay.name=Bomb Bay
+item.catTrack.name=Caterpillar Track
+item.catTrackPiece.name=Caterpillar Track Piece
+item.fuelCan.name=Fuel Can
+item.largeWheel.name=Large Wheel
+item.metalCockpit.name=Metal Cockpit
+item.metalNose.name=Metal Nose
+item.blowTorch.name=Kit de réparation
+item.helicopterBlade.name=Helicopter Blade
+item.helicopterSkid.name=Helicopter Skid
+item.advancedMetalCockpit.name=Advanced Metal Cockpit
+item.advancedTankBody.name=Advanced Tank Body
+
+//minecraft smp parts
+item.SMP_Part_Bay_BombBay.name=Bomb Bay Frame
+item.SMP_Part_Bay_CargoBay.name=Cargo Transport Bay Frame
+item.SMP_Part_Bay_PassengerBay.name=Passenger Bay Frame
+item.SMP_Part_Chassis_APC.name=APC Chassis Frame
+item.SMP_Part_Chassis_Bike.name=Bike Chassis Frame
+item.SMP_Part_Chassis_Car.name=Car Chassis Frame
+item.SMP_Part_Chassis_Kart.name=Kart Chassis Frame
+item.SMP_Part_Chassis_Quad.name=Quad Chassis Frame
+item.SMP_Part_Chassis_Tank.name=Tank Chassis Frame
+item.SMP_Part_Chassis_Truck.name=Truck Chassis Frame
+item.SMP_Part_Chassis_Van.name=Van Chassis Frame
+item.SMP_Part_Cockpit_Civil.name=Civil Cockpit Frame
+item.SMP_Part_Cockpit_Heli.name=Helicopter Cockpit Frame
+item.SMP_Part_Cockpit_Jet.name=Jet Cockpit Frame
+item.SMP_Part_Cockpit_Large.name=Large Cockpit Frame
+item.SMP_Part_Engine_Civil.name=Civil Jet Engine
+item.SMP_Part_Engine_MilEngineMk1.name=Military Engine Mk. 1
+item.SMP_Part_Engine_MilEngineMk2.name=Military Engine Mk. 2
+item.SMP_Part_Engine_MilEngineMk3.name=Military Engine Mk. 3
+item.SMP_Part_Engine_SpaceEngine.name=Space Fitted Engine
+item.SMP_Part_Engine_TIEEngine.name=Twin Ion Engine
+item.SMP_Part_Engine_V4.name=V4 Engine
+item.SMP_Part_Engine_V6.name=V6 Engine
+item.SMP_Part_Engine_V8.name=V8 Engine
+item.SMP_Part_Engine_V12.name=V12 Engine
+item.SMP_Part_Fuel_FuelBarrel.name=Fuel Barrel
+item.SMP_Part_Fuel_FuelCan.name=Fuel Canister
+item.SMP_Part_Mat_Armor_Aluminium.name=Aluminium Armorplate
+item.SMP_Part_Mat_Armor_Carbon.name=Carbon Armorplate
+item.SMP_Part_Mat_Armor_DuraSteel.name=DuraSteel Armorplate
+item.SMP_Part_Mat_Armor_Gummi.name=Gummi Armorplate
+item.SMP_Part_Mat_Armor_PlaSteel.name=PlaSteel Armorplate
+item.SMP_Part_Mat_Armor_Plastic.name=Plastic Armorplate
+item.SMP_Part_Mat_Armor_Steel.name=Steel Armorplate
+item.SMP_Part_Mat_Armor_Titan.name=Titan Armorplate
+item.SMP_Part_Mat_Barrel_Oil.name=Oil Barrel
+item.SMP_Part_Mat_Block_Aluminium.name=Aluminium Ingot
+item.SMP_Part_Mat_Block_Carbon.name=Carbon Block
+item.SMP_Part_Mat_Block_DuraSteel.name=DuraSteel Ingot
+item.SMP_Part_Mat_Block_Gummi.name=Gummi Block
+item.SMP_Part_Mat_Block_PlaSteel.name=PlaSteel Block
+item.SMP_Part_Mat_Block_Plastic.name=Plastic Block
+item.SMP_Part_Mat_Block_Steel.name=Steel Ingot
+item.SMP_Part_Mat_Block_Titan.name=Titan Ingot
+item.SMP_Part_Mat_Plate_Aluminium.name=Aluminium Plate
+item.SMP_Part_Mat_Plate_Carbon.name=Carbon Plate
+item.SMP_Part_Mat_Plate_DuraSteel.name=DuraSteel Plate
+item.SMP_Part_Mat_Plate_Gummi.name=Gummi Plate
+item.SMP_Part_Mat_Plate_PlaSteel.name=PlaSteel Plate
+item.SMP_Part_Mat_Plate_Plastic.name=Plastic Plate
+item.SMP_Part_Mat_Plate_Steel.name=Steel Plate
+item.SMP_Part_Mat_Plate_Titan.name=Titan Plate
+item.SMP_Part_Mecha_MediumArmFrame.name=Medium Mecha Arm Frame
+item.SMP_Part_Mecha_MediumBodyFrame.name=Medium Mecha Body Frame
+item.SMP_Part_Mecha_MediumHipFrame.name=Medium Mecha Hip Frame
+item.SMP_Part_Mecha_MediumLegFrame.name=Medium Mecha Leg Frame
+item.SMP_Part_Misc_Ammo_BombBody.name=Bomb Body
+item.SMP_Part_Misc_Ammo_Fuse.name=Fuse
+item.SMP_Part_Misc_Ammo_Shell.name=Empty Shell
+item.SMP_Part_Misc_Barrel_AAGun.name=AA Gun Barrel
+item.SMP_Part_Misc_Barrel_Artillery.name=Artillery Barrel
+item.SMP_Part_Misc_Barrel_Tank.name=Tank Barrel
+item.SMP_Part_Misc_Computer.name=Computer
+item.SMP_Part_Misc_DropMechanism.name=Drop Mechanism
+item.SMP_Part_Misc_EngineIgnition.name=Engine Ignition
+item.SMP_Part_Misc_EngineMotorblock.name=Motorblock
+item.SMP_Part_Misc_EnginePiston.name=Engine Piston
+item.SMP_Part_Misc_Hydraulics.name=Mecha Hydraulics
+item.SMP_Part_Misc_Part_Electronic.name=Electronic Parts
+item.SMP_Part_Misc_Part_Mechanical.name=Mechanical Parts
+item.SMP_Part_Misc_Part_Tanktrack.name=Tanktrack Parts
+item.SMP_Part_Misc_Radar.name=Radar System
+item.SMP_Part_Misc_Seat_Car.name=Car Seat
+item.SMP_Part_Misc_Seat_Jet.name=Jet Seat
+item.SMP_Part_Misc_Seat_Passenger.name=Plane Passenger Seat
+item.SMP_Part_Misc_Seat_Plane.name=Plane Seat
+item.SMP_Part_Misc_Tent.name=Tent
+item.SMP_Part_Nose_Plane.name=Plane Nose Frame
+item.SMP_Part_Propeller_RotorHeli.name=Helicopter Rotor
+item.SMP_Part_Propeller_RotorPlane.name=Plane Propeller
+item.SMP_Part_Propeller_RotorTurbine.name=Turbine Blades
+item.SMP_Part_Propeller_TurbineCivil.name=Civil Turbine
+item.SMP_Part_Propeller_TurbineJet.name=Jet Turbine
+item.SMP_Part_Propeller_TurbineSpace.name=Spacefitted Turbine
+item.SMP_Part_Tail_Civil.name=Civil Tail Frame
+item.SMP_Part_Tail_Heli.name=Helicopter Tail Frame
+item.SMP_Part_Tail_Jet.name=Jet Tail Frame
+item.SMP_Part_Tail_Large.name=Large Tail Frame
+item.SMP_Part_Turret_APC.name=APC Turret Frame
+item.SMP_Part_Turret_Artillery.name=Artillery Turret Frame
+item.SMP_Part_Turret_Tank.name=Tank Turret Frame
+item.SMP_Part_Wheel_APC.name=APC Wheel
+item.SMP_Part_Wheel_Bike.name=Bike Wheel
+item.SMP_Part_Wheel_Car.name=Car Wheel
+item.SMP_Part_Wheel_Heli.name=Helicopter Skids
+item.SMP_Part_Wheel_Plane.name=Plane Wheel
+item.SMP_Part_Wheel_Tanktrack.name=Tanktrack
+item.SMP_Part_Wheel_Truck.name=Truck Wheel
+item.SMP_Part_Wing_Civil.name=Civil Wing Frame
+item.SMP_Part_Wing_Heli.name=Helicopter Wing Frame
+item.SMP_Part_Wing_Jet.name=Jet Wing Frame
+item.SMP_Part_Wing_Large.name=Large Wing Frame
+
+item.Ford_deluxe_1947_Noir.name=§bFord de Luxe 1947 Noire
+item.Ford_deluxe_1947_Police_Sirene.name=§bFord de Luxe 1947 Police
+item.Insurgent_SWAT.name=Insurgent
+
+//accessoirs armes
+item.mpackakgrip.name=Poignet AK
+item.mpackverticalgrip.name=Poignet verticale
+
+item.Cadillac_341A_Town_Sedan.name=§7[§3Véhicule§7] §dCadillac 341A Town Sedan Verte
+item.Chemise01.name=§7[§fCivil§7] §fChemise blanche / Pantalon noir
+item.Bolero01.name=§7[§fCivil§7] !fBolero noir
+item.Cadillac_341A_Town_Sedan_limo_Al_Capone.name=§7[§3Véhicule§7] §dCadillac 341A Town Sedan Limo Tony Viccento
+item.Cadillac_test.name=§7[§3Véhicule§7] §dCadillac 04/07/15 (3ème model réalisé)
+item.Colt_M1917.name=§7[§4Arme§7] §fColt M1917
+item.Ford_Police_leTIGREroyal.name=§7[§3Véhicule§7] §f §bFord Police
+item.Ford_Taxi_leTIGREroyal.name=§7[§3Véhicule§7] §bFord Taxi
+item.Ford_Bleu_leTIGREroyal.name=§7[§3Véhicule§7] §bFord Bleu
+item.Ford_Brun_leTIGREroyal.name=§7[§3Véhicule§7] §bFord Brune
+item.Ford_Gris_leTIGREroyal.name=§7[§3Véhicule§7] §bFord Grise
+item.Ford_NB_leTIGREroyal.name=§7[§3Véhicule§7] §bFord Noir et Blanc
+item.Ford_Orange_leTIGREroyal.name=§7[§3Véhicule§7] §bFord Orange
+item.Ford_Rouge_leTIGREroyal.name=§7[§3Véhicule§7] §bFord Rouge
+item.Ford_Vert_leTIGREroyal.name=§7[§3Véhicule§7] §bFord Verte
+item.Ford_A_1931_leTIGREroyal_RiverCity.name=§7[§3Véhicule§7] §bFord A Noir
+item.CRS_Body.name=§7[§bPolice§7] §fGilet CRS
+item.CRS_C.name=§7[§bPolice§7] §fRangers CRS
+item.MIP.name=§7[§6Rebelle§7] §fGilet Tactique Mercenaire
+item.MIP_C.name=§7[§6Rebelle§7] §fRangers Mercenaire
+item.MIP_P.name=§7[§6Rebelle§7] §fTrellis Mercenaire
+item.CRS_Ca.name=§7[§bPolice§7] §fCasque CRS
+item.CRS_P.name=§7[§bPolice§7] §fTrellis CRS
+item.Humvee_Noir.name=§7[§3Véhicule§7] §5Humvee Noir
+item.Humvee_Police.name=§7[§bPolice§7] Humvee Police
+item.Police_Nationale.name=§7[§bPolice§7] Chemise de la Police Nationale
+item.Police_Nationale_Pantalon.name=§7[§bPolice§7] Pantalon de la Police Nationale
+item.Police_Nationale_Boots.name=§7[§bPolice§7] §fRangers de la Police Nationale
+item.RAID_1.name=§7[§1RAID§7] §fCasque du RAID
+item.RAID_2.name=§7[§1RAID§7] §fGilet Tactique du RAID (bleu)
+item.RAID_3.name=§7[§1RAID§7] §fPantalon du RAID (bleu)
+item.RAID_4.name=§7[§1RAID§7] §fRangers du RAID 
+item.RAID_2n.name=§7[§1RAID§7] §fGilet Tactique du RAID (noir)
+item.RAID_3n.name=§7[§1RAID§7] §fPantalon du RAID (noir)
+item.RAID_2.name=§7[§1RAID§7] §fGilet Tactique du RAID (bleu)
+item.VBL_RAID.name=§7[§1RAID§7] §fVBL du RAID
+item.Ambulance_Pompier.name=§7[§aPompier§7] §aAmbulance Pompier
+item.InsurgentRAID.name=§7[§1RAID§7] §fInsurgent du RAID
+item.CRS_Body.name=§7[§bPolice§7] §fGilet CRS
+item.CRS4.name=§7[§bPolice§7] §fRangers CRS
+item.CRS_Ca.name=§7[§bPolice§7] §fCasque CRS
+item.CRS_P.name=§7[§bPolice§7] §fTrellis CRS
+
+-----------
+Civil pack
+-----------
+
+item.Renault_Megane_Blanc_leTIGREroyal_CivilPack.name=§7[§3Véhicule§7] §eRenault Mégane Blanche
+item.Renault_Megane_Bleu_leTIGREroyal_CivilPack.name=§7[§3Véhicule§7] §eRenault Mégane Bleu
+item.Renault_Megane_BleuClair_leTIGREroyal_CivilPack.name=§7[§3Véhicule§7] §eRenault Mégane Bleu Clair
+item.Renault_Megane_Jaune_leTIGREroyal_CivilPack.name=§7[§3Véhicule§7] §eRenault Mégane Jaune
+item.Renault_Megane_Noir_leTIGREroyal_CivilPack.name=§7[§3Véhicule§7] §eRenault Mégane Noir
+item.Renault_Megane_Orange_leTIGREroyal_CivilPack.name=§7[§3Véhicule§7] §eRenault Mégane Orange
+item.Renault_Megane_Rose_leTIGREroyal_CivilPack.name=§7[§3Véhicule§7] §eRenault Mégane Rose
+item.Renault_Megane_Verte_leTIGREroyal_CivilPack.name=§7[§3Véhicule§7] §eRenault Mégane Verte
+item.Renault_Megane_Gendarmerie_leTIGREroyal_CivilPack.name=§7[§bGendarmerie§7] §eRenault Mégane Gendarmerie
+item.Renault_Megane_Rouge_leTIGREroyal_CivilPack.name=§7[§3Véhicule§7] §eRenault Mégane Rouge
+item.Renault_Megane_Beige_leTIGREroyal_CivilPack.name=§7[§3Véhicule§7] §eMégane Beige
+item.Renault_Megane_PN_leTIGREroyal_CivilPack.name=§7[§bPolice§7] §eRenauld Megane de la Police Nationale
+item.Fourgon_Police.CRS.name=§7[§bPolice§7] §8Fourgon des CRS
+item.Fourgon_Police.PN.name=§7[§bPolice§7] §8Fourgon de la Police Nationale
+item.Fourgon_Police.Gendarmerie.name=§7[§bGendarmerie§7] §8Fourgon de la Gendarmerie
+
+FOURGON CIVIL
+
+item.Fourgon_Blanc.name=§7[§3Véhicule§7] §fFourgon Blanc
+item.Fourgon_Beige.name=§7[§3Véhicule§7] §fFourgon Beige
+item.Fourgon_Bleu.name=§7[§3Véhicule§7] §fFourgon Bleu
+item.Fourgon_Gris.name=§7[§3Véhicule§7] §fFourgon Gris
+item.Fourgon_Noir.name=§7[§3Véhicule§7] §fFourgon Noir
+item.Fourgon_Orange.name=§7[§3Véhicule§7] §fFourgon Orange
+item.Fourgon_Rose.name=§7[§3Véhicule§7] §fFourgon Rose
+item.Fourgon_Rouge.name=§7[§3Véhicule§7] §fFourgon Rouge
+
+Pompier
+item.CCF.name=§7[§aPompier§7] §aCCF
+item.Camion_Pompier.name=§7[§aPompier§7] Camion de Pompier
+
+GENDARME
+
+item.Tenue_Gendarmerie.name=§7[§bGendarmerie§7] §bTenue de Gendarme
+item.veste_Gendarmerie.name=§7[§bGendarmerie§7] §bveste de Gendarme
+item.RK_Gendarmerie.name=§7[§bGendarmerie§7] §bRoad King de la Gendarmerie
+
+-------------
+ZENTORNOS
+-------------
+
+item.Zentornos01_violet_Noir.name=§7[§3Véhicule§7] §6Zentorno (violet/Noir)
+item.Zentornos01_Bleu_Noir.name=§7[§3Véhicule§7] §6Zentorno (Bleu/Noir)
+item.Zentornos01_Verte_Noir.name=§7[§3Véhicule§7] §6Zentorno (Verte/Noir)
+item.Zentornos01_Verte.name=§7[§3Véhicule§7] §6Zentorno (Verte)
+item.Zentornos01_Rouge_Noir.name=§7[§3Véhicule§7] §6Zentorno (Rouge/Noir)
+item.Zentornos01_Rouge.name=§7[§3Véhicule§7] §6Zentorno (Rouge)
+item.Zentornos01_Orange_Noir.name=§7[§3Véhicule§7] §6Zentorno (Orange/Noir)
+item.Zentornos01_Orange.name=§7[§3Véhicule§7] §6Zentorno (Orange)
+item.Zentornos01_Noire.name=§7[§3Véhicule§7] §6Zentorno (Noir)
+item.Zentornos01_Noir_Trait_Rouge.name=§7[§3Véhicule§7] §6Zentornos (Noir/Trait Rouge)
+item.Zentornos01_Jaune.name=§7[§3Véhicule§7] §6Zentorno (Jaune)
+item.Zentornos01_Police_USA.name=§7[§bPolice§7] §bZentorno de la Police
+item.Zentornos01_Gendarme.name=§7[§bGendarmerie§7] §bZentorno de la Gendarmerie
+
+
+TENUE POLICE NATIONALE 
+
+
+item.Tenue_PN.name=§7[§bPolice§7] §bTenue de la Police Nationale
+item.veste_PN.name=§7[§bPolice§7] §bveste de la Police Nationale
+
+
+##Vehicles
+
+#Corvair 95
+item.btcivil_emergencyvehicle_chevy_corvair95_1963_police.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Police)
+item.btcivil_vehicle_chevy_corvair95_1963_hazmat.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Hazmat)
+description.btcivil_emergencyvehicle_chevy_corvair95_1963=REQUIRES: UNU Seat-P3 Corvair Engine ACCEPTS: UNU Wheel-3R5 UNU Crate-12 UNU Lightbar-1
+description.btcivil_vehicle_chevy_corvair95_1963=REQUIRES: UNU Seat-P3 Corvair Engine ACCEPTS: UNU Wheel-3R5 UNU Crate-12
+
+#Corvair Greenbrier
+item.btcivil_emergencyvehicle_chevy_corvairgreenbrier_1963_ambulance.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair Greenbrier (Ambulance)
+description.btcivil_emergencyvehicle_chevy_corvairgreenbrier_1963_ambulance=REQUIRES: UNU Seat-P3 Corvair Engine ACCEPTS: UNU Wheel-3R5 UNU Crate-12 UNU Lightbar-1 Ambulance Conversion
+
+#Corvair Rampside
+item.btcivil_vehicle_chevy_corvairrampside_1963_moving.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair Rampside (Moving)
+description.btcivil_vehicle_chevy_corvairrampside_1963=REQUIRES: UNU Seat-P3 Corvair Engine ACCEPTS: UNU Wheel-3R5 UNU Crate-12
+
+#TB-313-MCC
+item.btcivil_emergencyvehicle_unu_tb313mcc_2084_firetruck.name=§7[§3Véhicule§7] §3UNU TB-313-MCC
+description.btcivil_emergencyvehicle_unu_tb313mcc_2084_firetruck=REQUIRES: UNU Seat-T1 UNU Engine-V8H ACCEPTS: UNU Wheel-4D17 UNU Siren
+
+#Corvair
+item.btcivil_emergencyvehicle_chevy_corvair_1963_police.name=§7[§bPolice§7] §61963 Chevrolet Corvair (Police)
+item.btcivil_emergencyvehicle_chevy_corvair_1963_black.name=§7[§bPolice§7] §61963 Chevrolet Corvair (Undercover Police)
+item.btcivil_vehicle_chevy_corvair_1963_black.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Black)
+item.btcivil_vehicle_chevy_corvair_1963_red.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Red)
+item.btcivil_vehicle_chevy_corvair_1963_green.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Green)
+item.btcivil_vehicle_chevy_corvair_1963_brown.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Brown)
+item.btcivil_vehicle_chevy_corvair_1963_blue.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Blue)
+item.btcivil_vehicle_chevy_corvair_1963_purple.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Purple)
+item.btcivil_vehicle_chevy_corvair_1963_cyan.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Cyan)
+item.btcivil_vehicle_chevy_corvair_1963_silver.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Light Gray)
+item.btcivil_vehicle_chevy_corvair_1963_grey.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Grey)
+item.btcivil_vehicle_chevy_corvair_1963_pink.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Pink)
+item.btcivil_vehicle_chevy_corvair_1963_lime.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Lime)
+item.btcivil_vehicle_chevy_corvair_1963_yellow.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Yellow)
+item.btcivil_vehicle_chevy_corvair_1963_lightblue.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Light Blue)
+item.btcivil_vehicle_chevy_corvair_1963_magenta.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Magenta)
+item.btcivil_vehicle_chevy_corvair_1963_orange.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (Orange)
+item.btcivil_vehicle_chevy_corvair_1963_white.name=§7[§3Véhicule§7] §61963 Chevrolet Corvair (White)
+description.btcivil_emergencyvehicle_chevy_corvair_1963=REQUIRES: UNU Seat-P1 Corvair Engine ACCEPTS: UNU Wheel-3D10 UNU Crate-12 UNU Lightbar-1
+description.btcivil_vehicle_chevy_corvair_1963=REQUIRES: UNU Seat-P1 Corvair Engine ACCEPTS: UNU Wheel-3D10 UNU Crate-12
+
+#Vespa Piaggio
+item.btcivil_vehicle_vespa_piaggio_1963_black.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Black)
+item.btcivil_vehicle_vespa_piaggio_1963_red.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Red)
+item.btcivil_vehicle_vespa_piaggio_1963_green.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Green)
+item.btcivil_vehicle_vespa_piaggio_1963_brown.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Brown)
+item.btcivil_vehicle_vespa_piaggio_1963_blue.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Blue)
+item.btcivil_vehicle_vespa_piaggio_1963_purple.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Purple)
+item.btcivil_vehicle_vespa_piaggio_1963_cyan.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Cyan)
+item.btcivil_vehicle_vespa_piaggio_1963_silver.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Light Gray)
+item.btcivil_vehicle_vespa_piaggio_1963_grey.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Grey)
+item.btcivil_vehicle_vespa_piaggio_1963_pink.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Pink)
+item.btcivil_vehicle_vespa_piaggio_1963_lime.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Lime)
+item.btcivil_vehicle_vespa_piaggio_1963_yellow.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Yellow)
+item.btcivil_vehicle_vespa_piaggio_1963_lightblue.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Light Blue)
+item.btcivil_vehicle_vespa_piaggio_1963_magenta.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Magenta)
+item.btcivil_vehicle_vespa_piaggio_1963_orange.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (Orange)
+item.btcivil_vehicle_vespa_piaggio_1963_white.name=§7[§3Véhicule§7] §81963 Vespa Piaggio (White)
+#description.btcivil_vehicle_vespa_piaggio_1963=REQUIRES: UNU Seat-P3 VW Engine ACCEPTS: UNU Wheel-3D12 UNU Crate-12
+
+#VW Type 1
+item.btcivil_vehicle_vw_type1_1969_black.name=§7[§3Véhicule§7] §11969 VW Type 1 (Noir)
+item.btcivil_vehicle_vw_type1_1969_red.name=§7[§3Véhicule§7] §11969 VW Type 1 (Rouge)
+item.btcivil_vehicle_vw_type1_1969_green.name=§7[§3Véhicule§7] §11969 VW Type 1 (Vert)
+item.btcivil_vehicle_vw_type1_1969_brown.name=§7[§3Véhicule§7] §11969 VW Type 1 (Marron)
+item.btcivil_vehicle_vw_type1_1969_blue.name=§7[§3Véhicule§7] §11969 VW Type 1 (Bleu)
+item.btcivil_vehicle_vw_type1_1969_purple.name=§7[§3Véhicule§7] §11969 VW Type 1 (Violet)
+item.btcivil_vehicle_vw_type1_1969_cyan.name=§7[§3Véhicule§7] §11969 VW Type 1 (Cyan)
+item.btcivil_vehicle_vw_type1_1969_silver.name=§7[§3Véhicule§7] §11969 VW Type 1 (Gris clair)
+item.btcivil_vehicle_vw_type1_1969_grey.name=§7[§3Véhicule§7] §11969 VW Type 1 (Gris)
+item.btcivil_vehicle_vw_type1_1969_pink.name=§7[§3Véhicule§7] §11969 VW Type 1 (Rose)
+item.btcivil_vehicle_vw_type1_1969_lime.name=§7[§3Véhicule§7] §11969 VW Type 1 (Vert Citron)
+item.btcivil_vehicle_vw_type1_1969_yellow.name=§7[§3Véhicule§7] §11969 VW Type 1 (Jaune)
+item.btcivil_vehicle_vw_type1_1969_lightblue.name=§7[§3Véhicule§7] §11969 VW Type 1 (Bleu clair)
+item.btcivil_vehicle_vw_type1_1969_magenta.name=§7[§3Véhicule§7] §11969 VW Type 1 (Magenta)
+item.btcivil_vehicle_vw_type1_1969_orange.name=§7[§3Véhicule§7] §11969 VW Type 1 (Orange)
+item.btcivil_vehicle_vw_type1_1969_white.name=§7[§3Véhicule§7] §11969 VW Type 1 (Blanc)
+description.btcivil_vehicle_vw_type1_1969=REQUIRES: UNU Seat-P3 VW Engine ACCEPTS: UNU Wheel-3D12 UNU Crate-12
+
+#UNU CP-497-LTC
+item.btcivil_vehicle_unu_cp497ltc_2089_sedan.name=§7[§3Véhicule§7] §3UNU CP-497-LTC
+item.btcivil_vehicle_unu_cp497ltc_2089_sedan_tungsten.name=§7[§3Véhicule§7] §3UNU CP-497-LTC
+item.btcivil_vehicle_unu_cp497ltc_2089_sedan_ivory.name=§7[§3Véhicule§7] §3UNU CP-497-LTC
+item.btcivil_vehicle_unu_cp497ltc_2089_sedan_manilla.name=§7[§3Véhicule§7] §3UNU CP-497-LTC
+item.btcivil_vehicle_unu_cp497ltc_2089_sedan_mint.name=§7[§3Véhicule§7] §3UNU CP-497-LTC
+item.btcivil_vehicle_unu_cp497ltc_2089_sedan_goldenrod.name=§7[§3Véhicule§7] §3UNU CP-497-LTC
+item.btcivil_vehicle_unu_cp497ltc_2089_sedan_perfection.name=§7[§3Véhicule§7] §3UNU CP-497-LTC
+item.btcivil_vehicle_unu_cp497ltc_2089_sedan_plum.name=§7[§3Véhicule§7] §3UNU CP-497-LTC
+item.btcivil_vehicle_unu_cp497ltc_2089_sedan_taxi.name=§7[§3Véhicule§7] §3UNU CP-497-LTC
+description.btcivil_vehicle_unu_cp497ltc_2089_sedan=REQUIRES: UNU Seat-P3 UNU Engine-H6 ACCEPTS: UNU Wheel-3D12 UNU Crate-12
+
+item.btcivil_emergencyvehicle_unu_cp497ltc_2089_sedan_police.name=§7[§bPolice§7] §bUNU CP-497-LTC-P
+description.btcivil_emergencyvehicle_unu_cp497ltc_2089_sedan=REQUIRES: UNU Seat-P3 UNU Engine-V8 ACCEPTS: UNU Wheel-3D12 UNU Crate-12
+
+item.btcivil_emergencyvehicle_unu_cp497ltc_2089_wagon_police.name=§7[§bPolice§7] §bUNU CP-497-LTC-P
+description.btcivil_emergencyvehicle_unu_cp497ltc_2089_wagon=REQUIRES: UNU Seat-P3 UNU Engine-V8 ACCEPTS: UNU Wheel-3D12 UNU Crate-12
+
+#UNU DD-228-HTC
+item.btcivil_vehicle_unu_dd228htc_2085.name=§7[§3Véhicule§7] §3UNU DD-228-HTC
+description.btcivil_vehicle_unu_dd228htc_2085=REQUIRES: UNU Seat-T1 UNU Seat-B1 UNU Engine-V8H ACCEPTS: UNU Wheel-4D17 Bus Destination Sign Bus Advert
+
+#UNU DG-930-MTC
+item.btcivil_vehicle_unu_dg930mtc_2083.name=§7[§3Véhicule§7] §3UNU DG-930-MTC
+description.btcivil_vehicle_unu_dg930mtc_2083=REQUIRES: UNU Seat-T1 UNU Seat-B1 UNU Engine-V8H ACCEPTS: UNU Wheel-4D17 Bus Destination Sign Bus Advert
+
+#UNU LZ-129-HCA
+item.btcivil_vehicle_unu_lz129hca_2096.name=§7[§3Véhicule§7] §4UNU LZ-129-HCA
+description.btcivil_vehicle_unu_lz129hca_2096=A work in progress
+
+#UNU RJ-618-LCC
+item.btcivil_vehicle_unu_rj618lcc_2089_truck.name=§7[§3Véhicule§7] §fUNU RJ-618-LCC
+description.btcivil_vehicle_unu_rj618lcc_2089_truck=REQUIRES: UNU Seat-P3 UNU Engine-H6 ACCEPTS: UNU Wheel-3D12 UNU Crate-12
+
+item.btcivil_vehicle_unu_rj618lcc_2089_van.name=§7[§3Véhicule§7] §3UNU RJ-618-LCC
+item.btcivil_vehicle_unu_rj618lcc_2089_van_publichealth.name=§7[§3Véhicule§7] §3UNU RJ-618-LCC
+item.btcivil_vehicle_unu_rj618lcc_2089_van_mmm.name=§7[§3Véhicule§7] §3UNU RJ-618-LCC
+item.btcivil_vehicle_unu_rj618lcc_2089_van_flowers.name=§7[§3Véhicule§7] §3UNU RJ-618-LCC
+item.btcivil_vehicle_unu_rj618lcc_2089_van_nirt.name=§7[§3Véhicule§7] §3UNU RJ-618-LCC
+item.btcivil_vehicle_unu_rj618lcc_2089_van_dvc.name=§7[§3Véhicule§7] §3UNU RJ-618-LCC
+item.btcivil_vehicle_unu_rj618lcc_2089_van_unuparts.name=§7[§3Véhicule§7] §3UNU RJ-618-LCC
+description.btcivil_vehicle_unu_rj618lcc_2089_van=REQUIRES: UNU Seat-P3 UNU Engine-H6 ACCEPTS: UNU Wheel-3D12 UNU Crate-12
+
+#UNU SV-313-MCC
+item.btcivil_vehicle_unu_sv313mcc_2084.name=§7[§3Véhicule§7] §3UNU SV-313-MCC
+item.btcivil_vehicle_unu_sv313mcc_2084_btutilities.name=§7[§3Véhicule§7] §3UNU SV-313-MCC
+item.btcivil_vehicle_unu_sv313mcc_2084_unu.name=§7[§3Véhicule§7] §3UNU SV-313-MCC
+item.btcivil_vehicle_unu_sv313mcc_2084_mtssignallingco.name=§7[§3Véhicule§7] §3UNU SV-313-MCC
+item.btcivil_vehicle_unu_sv313mcc_2084_gramadosbank.name=§7[§3Véhicule§7] §3UNU SV-313-MCC
+description.btcivil_vehicle_unu_sv313mcc_2084=REQUIRES: UNU Seat-T1 UNU Engine-V8H ACCEPTS: UNU Wheel-4D17
+item.btcivil_vehicle_unu_sv313mcc_2084_rail_mtssignallingco.name=§7[§3Véhicule§7] §3UNU SV-313-MCC
+description.btcivil_vehicle_unu_sv313mcc_2084_rail=REQUIRES: UNU Seat-T1 UNU Engine-V8H ACCEPTS: UNU Wheel-4D17
+
+#UNU GM-600-LTC
+item.btcivil_vehicle_unu_gm600ltc_2095_black.name=§7[§3Véhicule§7] §3UNU GM-600-LTC
+item.btcivil_vehicle_unu_gm600ltc_2095_name=§7[§3Véhicule§7] §3UNU GM-600-LTC
+item.btcivil_vehicle_unu_gm600ltc_2095_unu.name=§7[§3Véhicule§7] §3UNU GM-600-LTC
+item.btcivil_vehicle_unu_gm600ltc_2095_moonspire.name=§7[§3Véhicule§7] §3UNU GM-600-LTC
+description.btcivil_vehicle_unu_gm600ltc_2095=REQUIRES: UNU Seat-P1-L UNU Engine-V8 ACCEPTS: UNU Wheel-4D14
+
+#TB-313-MCC
+item.btcivil_vehicle_unu_tb313mcc_2084.name=§7[§3Véhicule§7] §3UNU TB-313-MCC
+description.btcivil_vehicle_unu_tb313mcc_2084=REQUIRES: UNU Seat-T1 UNU Engine-V8H ACCEPTS: UNU Wheel-4D17
+
+#UNU ZF-174-MCG
+item.btmilitary_vehicle_unu_zf174mcg_2085.name=§7[§3Véhicule§7] §3UNU ZF-174-MCG
+item.btmilitary_vehicle_unu_zf174mcg_2085_desert.name=§7[§3Véhicule§7] §3UNU ZF-174-MCG
+item.btmilitary_vehicle_unu_zf174mcg_2085_forrest.name=§7[§3Véhicule§7] §3UNU ZF-174-MCG
+item.btmilitary_vehicle_unu_zf174mcg_2085_winter.name=§7[§3Véhicule§7] §3UNU ZF-174-MCG
+description.btmilitary_vehicle_unu_zf174mcg_2085=REQUIRES: UNU Seat-T1 UNU Engine-V10H UNU RearAxle-ZF174MCG ACCEPTS: UNU Wheel-4D17 UNU Bed-ZF174MCG
+
+item.btmilitary_trailer_unu_zf174mcg_2085.name=§7[§3Véhicule§7] §4UNU ZF-174-MCG Trailer
+
+#UNU NR-490-LTG
+item.btmilitary_vehicle_unu_nr490ltg_2080.name=§7[§3Véhicule§7] §3UNU NR-490-LTG
+item.btmilitary_vehicle_unu_nr490ltg_2080_desert.name=§7[§3Véhicule§7] §3UNU NR-490-LTG
+item.btmilitary_vehicle_unu_nr490ltg_2080_forrest.name=§7[§3Véhicule§7] §3UNU NR-490-LTG
+item.btmilitary_vehicle_unu_nr490ltg_2080_winter.name=§7[§3Véhicule§7] §3UNU NR-490-LTG
+description.btmilitary_vehicle_unu_nr490ltg_2080=REQUIRES: UNU Seat-P1 UNU Engine-V8 ACCEPTS: UNU Engine-V6 UNU Wheel-3D14 UNU Crate-12
+item.AB7BTA.name=§7[§3Véhicule§7] §9BMW Alpina
+item.BMW750LiB.name=§7[§3Véhicule§7] §9BMW 750LiB xDrive
+item.BMW750LiG.name=§7[§3Véhicule§7] §9BMW 750LiG xDrive
+item.BMW750LiW.name=§7[§3Véhicule§7] §9BMW 750LiW xDrive
+item.BMW750LiBPRE.name=§7[§3Véhicule§7] §9BMW 750LiBPRE Présidentielle
+item.ambulancier.name=Ensemble d'ambulancier
+item.TSTBLACK.name=§7[§3Véhicule§7] §5Toyota Supra Mk.IV Turbo
+item.TSTWHITE.name=§7[§3Véhicule§7] §5Toyota Supra Mk.IV Turbo
+item.TSTRED.name=§7[§3Véhicule§7] §5Toyota Supra Mk.IV Turbo
+item.TSTGREY.name=§7[§3Véhicule§7] §5Toyota Supra Mk.IV Turbo
+item.TSTBLUE.name=§7[§3Véhicule§7] §5Toyota Supra Mk.IV Turbo
+item.vaz2106Classic(Black).name=§7[§3Véhicule§7] §fClassic VAZ 2106 (Black)
+item.vaz2106Classic(Blue).name=§7[§3Véhicule§7] §fClassic VAZ 2106 (Blue)
+item.vaz2106Classic(Lime).name=§7[§3Véhicule§7] §fClassic VAZ 2106 (Lime)
+item.vaz2106Classic(Red).name=§7[§3Véhicule§7] §fClassic VAZ 2106 (Red)
+item.vaz2106Classic(White).name=§7[§3Véhicule§7] §fClassic VAZ 2106 (White)
+item.vaz2106ClassicLow(Black).name=§7[§3Véhicule§7] §3Lowered Classic VAZ 2106 (Black)
+item.vaz2106ClassicLow(Blue).name=§7[§3Véhicule§7] §3Lowered Classic VAZ 2106 (Blue)
+item.vaz2106ClassicLow(LightBlue).name=§7[§3Véhicule§7] §3Lowered Classic VAZ 2106 (Light Blue)
+item.vaz2106ClassicLow(White).name=§7[§3Véhicule§7] §3Lowered Classic VAZ 2106 (White)
+item.akumableu.name=§7[§3Véhicule§7] §6Akuma Bleu
+item.akumaorange.name=§7[§3Véhicule§7] §6Akuma Orange
+item.akumavert.name=§7[§3Véhicule§7] §0Akuma Verte
+item.akumanoir.name=§7[§3Véhicule§7] §5Akuma Noire
+item.mulesuperu.name=§7[§3Véhicule§7] §4Mule SuperU
+item.muleups.name=§7[§3Véhicule§7] §6Mule UPS
+item.muleleclerc.name=§7[§3Véhicule§7] §9Mule E.Leclerc
+item.CTLTblack.name=§7[§3Véhicule§7] §6Chevrolet Tahoe LTblack 2017
+item.CTLTgrey.name=§7[§3Véhicule§7] §6Chevrolet Tahoe LTgrey 2017
+item.CTLTwhite.name=§7[§3Véhicule§7] §6Chevrolet Tahoe LTwhite 2017
+item.CTLTblackBAN.name=§7[§3Véhicule§7] §6Chevrolet Tahoe LTblackBAN 2017
+item.CTLTgen.name=§7[§3Véhicule§7] §6Chevrolet Tahoe LTgen 2017
+item.CTLTblackGIGN.name=§7[§3Véhicule§7] §6 Chevrolet Tahoe LTblackGIGN 2017
+item.MercoA180.name=§7[§3Véhicule§7] §fMercedes A180 CDI
+item.MercoA180wh.name=§7[§3Véhicule§7] §fMercedes A180wh CDI
+item.MercoA180bl.name=§7[§3Véhicule§7] §fMercedes A180bl CDI
+item.MercoA45amgRED.name=§7[§3Véhicule§7] §fMercedes A45 AMG RED
+item.MercoA45amgGR.name=§7[§3Véhicule§7] §fMercedes A45 AMG GR
+item.MercoA45amgGREEN.name=§7[§3Véhicule§7] §fMercedes A45 AMG Green
+item.MercoA45amgBL.name=§7[§3Véhicule§7] §fMercedes A45 AMG BL
+item.MercoA45amgWH.name=§7[§3Véhicule§7] §fMercedes A45 AMG WH
+item.MercoCLA250wh.name=§7[§3Véhicule§7] §fMercedes CLA250wh CDI
+item.MercoCLA250bl.name=§7[§3Véhicule§7] §fMercedes CLA250bl CDI
+item.MercoCLA250gr.name=§7[§3Véhicule§7] §fMercedes CLA250gr CDI
+item.MercoCLA45red.name=§7[§3Véhicule§7] §fMercedes CLA45red AMG
+item.MercoCLA45gr.name=§7[§3Véhicule§7] §fMercedes CLA45gr AMG
+item.MercoCLA45wh.name=§7[§3Véhicule§7] §fMercedes CLA45wh AMG
+item.MercoGLA250wh.name=§7[§3Véhicule§7] §fMercedes GLA250wh CDI
+item.MercoGLA250bl.name=§7[§3Véhicule§7] §fMercedes GLA250bl CDI
+item.MercoGLA250gr.name=§7[§3Véhicule§7] §fMercedes GLA250gr CDI
+item.MercoC250wh.name=§7[§3Véhicule§7] §fMercedes C250wh CDI
+item.MercoC250black.name=§7[§3Véhicule§7] §fMercedes C250black CDI
+item.MercoC250gr.name=§7[§3Véhicule§7] §fMercedes C250gr CDI
+item.MercoC63sAMGblack.name=§7[§3Véhicule§7] §fMercedes C63sAMGblack AMG
+item.MercoC63sAMGwh.name=§7[§3Véhicule§7] §fMercedes C63sAMGwh AMG
+item.MercoC63sAMGgr.name=§7[§3Véhicule§7] §fMercedes C63sAMGgr AMG
+item.MercoCLS350gr.name=§7[§3Véhicule§7] §fMercedes CLS350gr CDI
+item.MercoCLS350wh.name=§7[§3Véhicule§7] §fMercedes CLS350wh CDI
+item.MercoCLS350bl.name=§7[§3Véhicule§7] §fMercedes CLS350bl CDI
+item.MercoCLS350re.name=§7[§3Véhicule§7] §fMercedes CLS350re CDI
+item.MercoCLS350GENbla.name=§7[§3Véhicule§7] §fMercedes CLS350 CDI gendarmerie
+item.MercoCLS350bro.name=§7[§3Véhicule§7] §fMercedes CLS350bro CDI
+item.MercoCLS350blue.name=§7[§3Véhicule§7] §fMercedes CLS350blue CDI
+item.MercoCLS63Lgr.name=§7[§3Véhicule§7] §fMercedes CLS63Lgr AMG
+item.MercoCLS63gr.name=§7[§3Véhicule§7] §fMercedes CLS63gr AMG
+item.MercoCLS63red.name=§7[§3Véhicule§7] §fMercedes CLS63red AMG
+item.MercoC63sAMGwhTita.name=§7[§3Véhicule§7] §fMercedes C63s AMG titano
+item.MercoC63sAMGbluosprei.name=§7[§3Véhicule§7] §fMercedes C63s AMG osprei
+item.MercoC63sAMGApex.name=§7[§3Véhicule§7] §fMercedes C63s AMG apex
+item.titus_raid_letigreroyal.name=§7[§1RAID§7] §fNexter Titus du RAID
+item.titus_bri_letigreroyal.name=§7[§9BRI§7] §fNexter Titus de la BRI
+item.skoda_karoq_bri_letigreroyal.name= §7[§9BRI§7] §fSkoda Karoq BRI
+item.volkswagenharasbri.name= §7[§9BRI§7] §9Volkswagen Haras BRI
+item.volkswagenharasraid.name= §7[§1BRI§7] §1Volkswagen Haras RAID
+item.titus_postapo_letigreroyal.name=§7[§3Véhicule§7] §fNexter Titus PostApo
+item.titus_noir_letigreroyal.name=§7[§3Véhicule§7] §fNexter Titus Noir
+item.titus_postapobf_letigreroyal.name=§7[§3Véhicule§7] §8Nexter Titus de la Confrérie de l'Acier
+item.AntibiotiquesKit.name=&cAntibiotiques
+item.Antibiotiques2Kit.name=&cAntibiotiques 2
+item.Antibiotiques3Kit.name=&cAntibiotiques 3
+item.Antibiotiques4Kit.name=&cAntibiotiques 4
+item.Antibiotiques5Kit.name=&cAntibiotiques 5
+item.Antibiotiques7Kit.name=&cAntibiotiques 7
+
+item.CBCN.name=§7[§fCivil§7] §fCostard Blanc Cravate N
+item.CBCR.name=§7[§fCivil§7] §fCostard Blanc Cravate R
+item.CBleuCN.name=§7[§fCivil§7] §fCostard Bleu Cravate N
+item.CBleuCR.name=§7[§fCivil§7] §fCostard Bleu Cravate R
+item.CPCB.name=§7[§fCivil§7] §fCostard Presidentielle Cravate B
+item.CPCR.name=§7[§fCivil§7] §fCostard Presidentielle Cravate R
+item.CMCN.name=§7[§fCivil§7] §fCostard Marron Cravate N
+item.CMCR.name=§7[§fCivil§7] §fCostard Marron Cravate R
+item.CNCB.name=§7[§fCivil§7] §fCostard Noir Cravate B
+item.CNCR.name=§7[§fCivil§7] §fCostard Noir Cravate R
+item.CRCN.name=§7[§fCivil§7] §fCostard Rose Cravate N
+item.CRCR.name=§7[§fCivil§7] §fCostard Rose Cravate R
+item.PR.name=§7[§fCivil§7] §fPantalon Rose
+item.PM.name=§7[§fCivil§7] §fPantalon Marron
+item.PB.name=§7[§fCivil§7] §fPantalon Bleu
+item.PBlanc.name=§7[§fCivil§7] §fPantalon Blanc
+item.PN.name=§7[§fCivil§7] §fPantalon Noir
+
+item.gendarmerie.name=§7[§bGendarmerie§7] §bTenue gendarme
+item.gendarmerie_veste.name=§7[§bGendarmerie§7] §bVeste gendarme
+item.gendarmerie_casquette.name=§7[§bGendarmerie§7] §bCasquette gendarme
+item.gendarmerie_gilet_par_balle.name=§7[§bGendarmerie§7] §bGilet par balle gendarme
+item.gendarmerie_gilet_jaune.name=§7[§bGendarmerie§7] §bGilet jaune gendarme
+
+item.CostMafiaAB.name=§7[§cMafia§7] §fCostard Mafia avec Drapeau (Noir)
+item.CostMafiaDR.name=§7[§cMafia§7] §fCostard Mafia avec Drapeau (Rouge)
+item.CostMafiaN.name=§7[§cMafia§7] §fCostard Mafia sans Drapeau (Noir)
+item.CostMafiaR.name=§7[§cMafia§7] §fCostard Mafia sans Drapeau (Rouge)
+
+--------------------------
+    §eRenault MEGANE RS
+--------------------------
+
+item.megane_rs_civil_blanc_letigreroyal.name=§7[§3Véhicule§7] §eRenault Megane RS Blanche 
+item.megane_rs_civil_bleu_letigreroyal.name=§7[§3Véhicule§7] §eRenault Megane RS Bleue
+item.megane_rs_civil_gris_letigreroyal.name=§7[§3Véhicule§7] §eRenault Megane RS Grise
+item.megane_rs_civil_jaune_letigreroyal.name=§7[§3Véhicule§7] §eRenault Megane RS Jaune
+item.megane_rs_civil_noir_letigreroyal.name=§7[§3Véhicule§7] §eRenault Megane RS Noire
+item.megane_rs_civil_orange_letigreroyal.name=§7[§3Véhicule§7] §eRenault Megane RS Orange
+item.megane_rs_civil_rose_letigreroyal.name=§7[§3Véhicule§7] §eRenault Megane RS Rose
+item.megane_rs_civil_rouge_letigreroyal.name=§7[§3Véhicule§7] §eRenault Megane RS Rouge
+item.megane_rs_civil_verte_letigreroyal.name=§7[§3Véhicule§7] §eRenault Megane RS Verte
+item.megane_rs_civil_violet_letigreroyal.name=§7[§3Véhicule§7] §eRenault Megane RS Violette
+
+item.megane_rs_gendarmerie_letigreroyal.name=§7[§bGendarmerie§7] §eRenault Megane RS de la Gendarmerie (Type 1)
+item.megane_rs_gendarmerie2_letigreroyal.name=§7[§bGendarmerie§7] §eRenault Megane RS de la Gendarmerie (Type 2)
+
+item.megane_rs_banalisee_bleu_letigreroyal.name=§7[§3Véhicule§7] §eMegane RS Banalisée Bleue
+item.megane_rs_banalisee_grise_letigreroyal.name=§7[§3Véhicule§7] §eMegane RS Banalisée Grise
+item.megane_rs_banalisee_noire_letigreroyal.name=§7[§3Véhicule§7] §eMegane RS Banalisée Noire
+
+item.megane_rs_pn2_letigreroyal.name=§7[§bPolice§7] §eRenault Megane RS de la Police Nationale (Type 2)
+item.megane_rs_pn_letigreroyal.name=§7[§bPolice§7] §eRenault Megane RS de la Police Nationale (Type 1)
+
+ROBE
+
+item.farwest_robe1_blanc_letigreroyal.name=§7[§fCivil§7] Robe Blanche/Noire (Type 1)
+item.farwest_robe1_blanc2_letigreroyal.name=§7[§fCivil§7] Robe Blanche/Or (Type 1)
+item.farwest_robe1_bleu_letigreroyal.name=§7[§fCivil§7] Robe Bleue (Type 1)
+item.farwest_robe1_rouge_letigreroyal.name=§7[§fCivil§7] Robe Rouge (Type 1)
+item.farwest_robe1_vert_letigreroyal.name=§7[§fCivil§7] Robe Verte (Type 1)
+item.farwest_robe1_vert2_letigreroyal.name=§7[§fCivil§7] Robe Verte Claire (Type 1)
+item.farwest_robe1_violet_letigreroyal.name=§7[§fCivil§7] Robe Violette (Type 1)
+item.farwest_robe1_noir_letigreroyal.name=§7[§fCivil§7] Robe Noire (Type 1)
+item.farwest_robe1_rose_letigreroyal.name=§7[§fCivil§7] Robe Rose (Type 1)
+
+item.Grizzly_ATV_Black.name=§7[§3Véhicule§7] §8Quad ATV Grizzly Noir
+item.Grizzly_ATV_Grey.name=§7[§3Véhicule§7] §8Quad ATV Grizzly Gris
+item.Grizzly_ATV_Red.name=§7[§3Véhicule§7] §8Quad ATV Grizzly Rouge
+
+item.Renault.name=§7[§9BRI§7] §9Véhicule d'intervention BRI
+item.Ford_deluxe_1947_Noir.name=§7[§3Véhicule§7] §bFord de Luxe 1947 Noire
+item.Ford_deluxe_1947_Police_Sirene.name=§7[§3Véhicule§7] §bFord de Luxe 1947 Police
+item.Insurgent_SWAT.name=§7[§3Véhicule§7] §fInsurgent
+item.motolostnoir.name=§7[§3Véhicule§7] §fMoto
+
+
+item.Cadillac_341A_Town_Sedan.name=§7[§3Véhicule§7] §dCadillac 341A Town Sedan Verte
+item.Chemise01.name=Chemise blanche / Pantalon noir
+item.Bolero01.name=Bolero noir
+item.Cadillac_341A_Town_Sedan_limo_Al_Capone.name=§dCadillac 341A Town Sedan Limo Tony Viccento
+item.Cadillac_test.name=§dCadillac 04/07/15 (3ème model réalisé)
+item.Colt_M1917.name=Colt M1917
+item.Ford_Police_leTIGREroyal.name=§7[§bPolice§7] §f§bFord Police
+item.Ford_Taxi_leTIGREroyal.name=§7[§3Véhicule§7] §f§bFord Taxi
+item.Ford_Bleu_leTIGREroyal.name=§7[§3Véhicule§7] §f§bFord Bleu
+item.Ford_Brun_leTIGREroyal.name=§7[§3Véhicule§7] §f§bFord Brune
+item.Ford_Gris_leTIGREroyal.name=§7[§3Véhicule§7] §f§bFord Grise
+item.Ford_NB_leTIGREroyal.name=§7[§3Véhicule§7] §f§bFord Noir et Blanc
+item.Ford_Orange_leTIGREroyal.name=§7[§3Véhicule§7] §f§bFord Orange
+item.Ford_Rouge_leTIGREroyal.name=§7[§3Véhicule§7] §f§bFord Rouge
+item.Ford_Vert_leTIGREroyal.name=§7[§3Véhicule§7] §f§bFord Verte
+item.Ford_A_1931_leTIGREroyal_RiverCity.name=§7[§3Véhicule§7] §f§bFord A Noir
+item.Thompson M1928.name=ThompsonM1928
+item.Costume01.name=Costume rayé noir/gris
+item.Guitare_ESP.name=Guitare Hetfield
+item.Ford_A_1931_Hot_Rod_Noir_Flamme.name=§bFord A Hot Rod (Noir Flamme)
+item.Chevry1957Hot_Rod_Grim.name=Chevy Grim Bastards
+item.Chevry1957Hot_Rod_Mayans.name=Chevy Mayans
+item.Chevry1957Hot_Rod_Sons.name=Chevy Sons Of Anarchy
+item.GMC_Panel_NoirFlamme.name=GMC PANEL Hot Rod (Noir Flamme)
+item.GMC_Panel_HotRod__Grim_leTIGREroyal.name=GMC PANEL Grim Bastards
+item.GMC_Panel_HotRod__Mayans_leTIGREroyal.name=GMC PANEL Mayans
+Item.GMC_Panel_HotRod__Sons_leTIGREroyal.name=GMC PANEL Sons Of Anarchy
+item.Harley_HotRod_Grim_leTIGREroyal.name=Harley Davidson Grim Bastards
+item.Harley_HotRod_Mayans_leTIGREroyal.name=Harley Davidson Mayans
+item.Harley_HotRod_millitaire_leTIGREroyal.name=§7[§3Véhicule§7] §fHarley Davidson Millitaire
+item.Harley_HotRod_Sons_leTIGREroyal.name=§7[§3Véhicule§7] §fHarley Davidson Sons Of Anarchy
+item.soa_CPTRoad.name=Veste Moto Sons Of Anarchy (Cpt de route **)
+item.soa_President.name=Veste Moto Sons Of Anarchy (Président ****)
+item.soa_Prospect.name=Veste Moto Sons Of Anarchy (Prospect)
+item.soa_SGTarme.name=Veste Moto Sons Of Anarchy (Sgt d'arme **)
+item.soa_VPresident.name=Veste Moto Sons Of Anarchy (V-Président ***)
+item.soa_Membre.name=Veste Moto Sons Of Anarchy (Membre * )
+item.Harley_Davidson_Road_King_soa.name=§7[§3Véhicule§7] §fRoad King Sons Of Anarchy
+item.CRS_Body.name=Gilet CRS
+item.CRS_C.name=Rangers CRS
+item.MIP.name=Gilet Tacttique Mercenaire
+item.MIP_C.name=Rangers Mercenaire
+item.MIP_P.name=Trellis Mercenaire
+item.CRS_Ca.name=Casque CRS
+item.CRS_P.name=Trellis CRS
+item.Humvee_Noir.name=Humvee Noir
+item.Humvee_Police.name=Humvee Police
+item.Veste_Moto_cpt.name=Grim Bastards capitaine de route
+item.Veste_Moto_Mayans_cpt.name=Mayans capitaine de route
+item.Veste_Moto_Mayans_memmbre.name=Mayans Membre
+item.Veste_Moto_M_SGT.name=Grim Bastards Membre
+item.Veste_Moto_GRIMB_President.name=Grim Bastards President MissHoudiny
+item.Veste_Moto_Mayans_President.name=Mayans President Willou
+item.Veste_Moto_Mayans_Prospect.name=Mayans Prospect
+item.Veste_Moto_GB_Prospect.name=Grim Bastards Prospect
+item.Veste_Moto_Mayans_SGT.name=Mayans SGT d'armes
+item.Veste_Moto_GB_SGT.name=Grim Bastards SGT d'armes
+item.Veste_Moto_Mayans_vp.name=Mayans Vice-President
+item.Veste_Moto_VP.name=Grim Bastards Vice-President
+item.LOST_CPTRoad.name=Lost Capitaine de route
+item.LOST_President.name=Lost President
+item.LOST_Prospect.name=Lost Prospect
+item.LOST_SGTarme.name=Lost SGT d'arme
+item.LOST_VPresident.name=Lost vice president
+item.Veste_Moto_Lost_memmbre.name=Lost Membre
+item.Slamvan_Mayans.name=Slamvan Mayans
+item.Slamvan_Grim_Bastard.name=Slamvan GRim Bastards
+item.2cv_ACDC.name= 2CV AC/DC 
+item.2cv_bleu.name=2cv Bleu
+item.2cv_orange.name=2cv Orange
+item.Harley_Davidson_Road_King_Police.name=§7[§bPolice§7] §bHarley Police
+item.Harley_Mayans.name= Harley Mayans
+item.Harley_Grim.name=Harley Grim Bastards
+item.Police_Nationale.name=Chemise de la Police Nationale
+item.Police_Nationale_Pantalon.name=Pantalon de la Police Nationale
+item.Police_Nationale_Boots.name=Rangers de la Police Nationale
+item.RAID_1.name=Casque du RAID
+item.RAID_2.name=Gilet Tactique du RAID (bleu)
+item.RAID_3.name=Pantalon du RAID (bleu)
+item.RAID_4.name=Rangers du RAID 
+item.RAID_2n.name=Gilet Tactique du RAID (noir)
+item.RAID_3n.name=Pantalon du RAID (noir)
+item.RAID_2.name=Gilet Tactique du RAID (bleu)
+item.VBL_RAID.name=VBL du RAID
+item.Ambulance_Pompier.name=Ambulance Pompier
+item.InsurgentRAID.name=Insurgent du RAID
+item.CRS_Body.name=Gilet CRS
+item.CRS4.name=Rangers CRS
+item.CRS_Ca.name=Casque CRS
+item.CRS_P.name=Trellis CRS
+
+
+Tenue MILLITAIRE
+
+item.Casque_AFR.name=§7[§2Militaire§7] Casque de l'Armée Française
+item.Sac_AFR.name=§7[§2Militaire§7] Sac de l'Armée Française
+item.Tenue_Intervention_AFR.name=§7[§2Militaire§7] Tenue d'intervention de l'Armée Française
+
+
+RiverCity_1940
+
+item.Ford_Tudor_1940_Civil_leTIGREroyal_Noir.name=§7[§3Véhicule§7] §bFord Tudor 1940 (Noir)
+item.CamionPompierLaFrance_1940_leTIGREroyal.name=§7[§3Véhicule§7] §fCamion Pompier LaFrance de RiverCity (1940)
+
+
+-----------------------------------------
+           §3Kawasaki Kx450f
+-----------------------------------------
+
+item.KAWASAKI_KX450F_verte.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Vert)
+item.KAWASAKI_KX450F_Blanche.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Blanc)
+item.KAWASAKI_KX450F_BleuC.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Bleu clair)
+item.KAWASAKI_KX450F_BleuF.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Bleu Foncé)
+item.KAWASAKI_KX450F_Cyan.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Cyan)
+item.KAWASAKI_KX450F_Jaune.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Jaune)
+item.KAWASAKI_KX450F_Noire.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Noir)
+item.KAWASAKI_KX450F_Orange.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Orange)
+item.KAWASAKI_KX450F_Rouge.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Rouge)
+item.KAWASAKI_KX450F_VertF.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Vert Foncé)
+item.KAWASAKI_KX450F_Violette.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Violet)
+item.KAWASAKI_KX450F_Rose.name=§7[§3Véhicule§7] §3Kawasaki Kx450f (Rose)
+
+
+-----------------------------------------------
+		mercenaire
+-----------------------------------------------
+item.MIP.name=Gilet MPI
+item.MIP_C.name=Rangers MPI
+item.MIP_P.name=treilli MPI
+item.MIP_Hunter.name=Hunter MPI
+item.Humvee_MPI.name=Humvee MPI
+
+
+-------------------------------------------------------
+		BLINDE GENDARMRIE / REBEL 
+-------------------------------------------------------
+item.blinde_gendarmrie_bleu1.name=§7[§bGendarmerie§7] §bBlindé de la Gendarmerie (Tourelle/canon)
+item.blinde_gendarmrie_noir.name=§7[§3Véhicule§7] §5Blindé Noir (Tourelle/canon)
+item.blinde_gendarmrie_bleu1_eau.name=§7[§bGendarmerie§7] §bBlindé de la Gendarmerie (canon à eau)
+
+
+item.m601Ammo.name=§7[§bGendarmerie§7] §bMunition Blindé Gendarmerie
+item.Canon_Eau.name=§7[§bGendarmerie§7] §bMunition Canon à Eau
+
+-------------------------------------------------------
+			FBI ATF
+-------------------------------------------------------
+
+item.Chaussure_FBI_leTIGREroyal.name=Chaussures du FBI
+item.Lunette_leTIGREroyal.name=Lunettes
+item.Pantalon_FBI_leTIGREroyal.name=Pantalon du FBI
+item.Veste_FBI_leTIGREroyal.name=Veste du FBI
+
+item.Pantalon_ATF_leTIGREroyal.name=Pantalon de l'ATF
+item.Veste_ATF_leTIGREroyal.name=Veste de l'ATF
+
+
+--------------------------------------------------------
+			AMBULANCE USA
+--------------------------------------------------------
+item.Ambulance_USA_leTIGREroyal.name=Ambulance de Los Angeles (LAFD)
+item.Ambulance_USA_Rouge_leTIGREroyal.name=Ambulance de Los Angeles (LAFD Rouge)
+item.Ambulance_USA_hacker_leTIGREroyal.name=Camion des Hackers
+item.Ambulance_USA_Tacos_leTIGREroyal.name=Camion de Tacos
+item.Ambulance_USA_Samu_leTIGREroyal.name=Ambulance du Samu 
+item.Ambulance_USA_Police_leTIGREroyal.name=Camion d'investigation de la police
+
+
+
+--------------------------------------------------------
+		§bFord CROWN VICTORIA
+--------------------------------------------------------
+			 POLICE
+
+item.FCV_Police_LA.name=§7[§3Véhicule§7] §bFord Crown Victoria de la Police de Los Angeles (Type 2)
+item.FCV_Police_LA_02.name=§7[§3Véhicule§7] §bFord Crown Victoria de la Police de Los Angeles (Type 3)
+item.FCV_Police_LA_03.name=§7[§3Véhicule§7] §bFord Crown Victoria de la Police de Los Angeles (Type 1)
+item.FCV_Police_LA_04.name=§7[§3Véhicule§7] §bFord Crown Victoria de la Police de Los Angeles (Type 4)
+
+item.FCV_Sheriff_1.name=§7[§3Véhicule§7] §bFord Crown Victoria du Sheriff (Type 1)
+item.FCV_Sheriff_2.name=§7[§3Véhicule§7] §bFord Crown Victoria du Sheriff (Type 2)
+			
+			BANALISEE
+
+item.FCV_Civil_Griseb.name=§7[§3Véhicule§7] §bFord Crown Victoria Grise (Banalisée)
+item.FCV_Civil_Blancb.name=§7[§3Véhicule§7] §bFord Crown Victoria Blanche (Banalisée)
+item.FCV_Civil_Bleub.name=§7[§3Véhicule§7] §bFord Crown Victoria Bleue (Banalisée)
+item.FCV_Civil_Brunb.name=§7[§3Véhicule§7] §bFord Crown Victoria Brune (Banalisée)
+item.FCV_Civil_Roseb.name=§7[§3Véhicule§7] §bFord Crown Victoria Rose (Banalisée)
+item.FCV_Civil_Noirb.name=§7[§3Véhicule§7] §bFord Crown Victoria Noire (Banalisée)
+item.FCV_Civil_Rougeb.name=§7[§3Véhicule§7] §bFord Crown Victoria Rouge (Banalisée)
+item.FCV_Civil_Vertb.name=§7[§3Véhicule§7] §bFord Crown Victoria Verte (Banalisée)
+item.FCV_Civil_Violetb.name=§7[§3Véhicule§7] §bFord Crown Victoria Violette (Banalisée)
+
+
+			CIVIL
+
+item.FCV_Civil_Grise.name=§7[§3Véhicule§7] §bFord Crown Victoria Grise
+item.FCV_Civil_Blanc.name=§7[§3Véhicule§7] §bFord Crown Victoria Blanche
+item.FCV_Civil_Bleu.name=§7[§3Véhicule§7] §bFord Crown Victoria Bleue
+item.FCV_Civil_Brun.name=§7[§3Véhicule§7] §bFord Crown Victoria Brune
+item.FCV_Civil_Rose.name=§7[§3Véhicule§7] §bFord Crown Victoria Rose
+item.FCV_Civil_Noir.name=§7[§3Véhicule§7] §bFord Crown Victoria Noire
+item.FCV_Civil_Rouge.name=§7[§3Véhicule§7] §bFord Crown Victoria Rouge
+item.FCV_Civil_Vert.name=§7[§3Véhicule§7] §bFord Crown Victoria Verte
+item.FCV_Civil_Violet.name=§7[§3Véhicule§7] §bFord Crown Victoria Violette
+
+--------------------------------------------------------
+	        AMBULANCIER/PARAMEDIC USA
+--------------------------------------------------------
+item.Chaussure_Paramedic_leTIGREroyal.name=Chaussures du Paramedic
+item.Chemise_Paramedicb_leTIGREroyal.name=Chemise du Paramedic (BLEU)
+item.Pantalon_Paramedicb_leTIGREroyal.name=Pantalon du Paramedic (BLEU)
+
+item.Chemise_Paramedicv_leTIGREroyal.name=Chemise du Paramedic (VERT)
+item.Pantalon_Paramedicv_leTIGREroyal.name=Pantalon du Paramedic (VERT)
+
+
+-----------------------------------------------
+		BLINDE SWAT/BANQUE ...
+-----------------------------------------------
+
+item.blinde_banque_letigreroyal.name=Blindé de la banque (Brinks)
+item.blinde_swat_letigreroyal.name=Blindé du SWAT
+item.blinde_noir_letigreroyal.name=Blindé Noir
+
+
+-----------------------------------------------
+		  HUMWEE USA
+-----------------------------------------------
+
+item.Humwee_USA_M_Marines.name=Humwee des Marines (Mitrailleuse)
+item.humwee_usa_r_letigreroyal.name=Humwee en mauvaise état (Mitrailleuse)
+
+
+-----------------------------------------------
+		§eRenault MASTER
+-----------------------------------------------
+
+CIVIL
+
+item.Renault_master_gris_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Gris (Civil)
+item.Renault_master_blanc_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Blanc (Civil)
+item.Renault_master_bleu_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Bleu (Civil)
+item.Renault_master_jaune_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Jaune (Civil)
+item.Renault_master_orange_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Orange (Civil)
+item.Renault_master_rose_letigreroyal.name= 7[§3Véhicule§7] §eRenault Master Rose (Civil)
+item.renault_master_rouge_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Rouge (Civil)
+item.Renault_master_vert_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Vert (Civil)
+
+ENTREPRISE
+item.Renault_master_et_letigreroyal.name=§eRenault Master leTIGREroyal (Entreprise)
+
+item.renault_master_entreprise_1_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 1 (PERSO)
+item.Renault_master_entreprise_2_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 2 (PERSO)
+item.Renault_master_entreprise_3_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 3 (PERSO)
+item.Renault_master_entreprise_4_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 4 (PERSO)
+item.Renault_master_entreprise_5_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 5 (PERSO)
+item.Renault_master_entreprise_6_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 6 (PERSO)
+item.Renault_master_entreprise_7_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 7 (PERSO)
+item.Renault_master_entreprise_8_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 8 (PERSO)
+item.Renault_master_entreprise_9_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 9 (PERSO)
+item.Renault_master_entreprise_10_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 10 (PERSO)
+item.Renault_master_entreprise_11_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 11 (PERSO)
+item.Renault_master_entreprise_12_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 12 (PERSO)
+item.Renault_master_entreprise_13_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 13 (PERSO)
+item.Renault_master_entreprise_14_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 14 (PERSO)
+item.Renault_master_entreprise_15_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 15 (PERSO)
+item.Renault_master_entreprise_16_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 16 (PERSO)
+item.Renault_master_entreprise_17_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 17 (PERSO)
+item.Renault_master_entreprise_18_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 18 (PERSO)
+item.Renault_master_entreprise_19_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 19 (PERSO)
+item.Renault_master_entreprise_20_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 20 (PERSO)
+item.Renault_master_entreprise_21_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 21 (PERSO)
+item.Renault_master_entreprise_22_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 22 (PERSO)
+item.Renault_master_entreprise_23_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 23 (PERSO)
+item.Renault_master_entreprise_24_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 24 (PERSO)
+
+POLICE/GENDARME ETC...
+
+item.Renault_master_gendarme_letigreroyal.name=§7[§3Véhicule§7] §eRenault Master de la Gendarmerie (type 1)
+item.Renault_master_gendarme2_letigreroyal.name=§7[§3Véhicule§7] §eRenault Master de la Gendarmerie (type 2)
+item.Renault_master_gendarme3_letigreroyal.name=§7[§3Véhicule§7] §eRenault Master de la Gendarmerie (type 3)
+
+item.Renault_master_crs_letigreroyal.name=§7[§bPolice§7] §eRenault Master des CRS
+item.Renault_master_ap_letigreroyal.name=§7[§3Véhicule§7] §eRenault Master de l'Administration Pénitentiaire
+
+item.Renault_master_pn1_letigreroyal.name=§7[§bPolice§7] §eRenault Master de la Police Nationale
+
+item.Renault_master_samu_letigreroyal.name=§7[§aPompier§7] §eRenault Master du SAMU
+item.Renault_master_pompiera_letigreroyal.name=§7[§aPompier§7] §eRenault Master des Sapeurs Pompiers
+
+item.BrassardBACRayZOF.name=§7[§bPolice§7] §bBrassard Police
+item.BrassardSecuRayZoF.name=§7[§aPompier§7] §aBrassard Pompier
+item.RayZoFBrassard.name=§7[§6Sécurité§7] §6Brassard Securite
+item.BrassardDouaneRayZoF.name=§9[§bDouane§9] §bBrassard Douane
+item.BrassardGendarmerieRayZoF.name=§7[§bGendarmerie§7] §bBrassard Gendarmerie
+
+Ajouts Coco 24/06/2020
+
+item.Altis-Of-Life.name=§7[§3Véhicule§7] §fChevrolet Suburban Beige
+item.Altis-Of-Life_Bac.name=§7[§3Véhicule§7] §f Chevrolet Suburban Police
+item.SpinoCrownVictoria3.name=§7[§3Véhicule§7] §f Crown Victoria
+item.moke.name= Golfette
+item.ChevroletSuburban2010_Pompier.name=§7[§3Véhicule§7] §f Chevrolet Suburban Rouge
+item.MH-6E.name= §7[§6Hélicoptère§7] §2MH-6E
+item.AH-6S.name= §7[§6Hélicoptère§7] §2AH-6S
+item.OH-58D.name= §7[§6Hélicoptère§7] §2OH-58D
+item.GFS_UH1Y.name= §7[§6Hélicoptère§7] §2GFS_UH1Y
+item.Renault_gbc_180_3_letigreroyal.name=§7[§3Véhicule§7] §f §eRenault GBC Couvert Camo Jungle
+item.Renault_gbc_180_4_letigreroyal.name=§7[§3Véhicule§7] §f §eRenault GBC Ouvert Camo Jungle
+item.Renault_gbc_180_2_letigreroyal.name=§7[§3Véhicule§7] §f §eRenault GBC Ouvert Camo Jungle
+item.Renault_gbc_180_8_letigreroyal.name=§7[§3Véhicule§7] §f §eRenault GBC Ouvert Camo Desert
+item.Renault_gbc_180_7_letigreroyal.name= §7[§3Véhicule§7] §f §eRenault GBC Couvert Camo Desert
+item.Renault_gbc_180_9_letigreroyal.name= §7[§3Véhicule§7] §f §eRenault GBC Couvert Camo Nuit
+item.Renault_gbc_180_1_letigreroyal.name= §7[§3Véhicule§7] §f §eRenault GBC Couvert Camo Jungle
+item.Renault_gbc_180_10_letigreroyal.name= §7[§3Véhicule§7] §f §eRenault GBC Ouvert Camo Nuit
+item.Renault_gbc_180_6_letigreroyal.name= §7[§3Véhicule§7] §f eRenault GBC Ouvert Camo Artic
+item.Renault_gbc_180_5_letigreroyal.name= §7[§3Véhicule§7] §f §eRenault GBC Ouvert Camo Artic
+item.Piaggo_black.name= §7[§3Véhicule§7] §f§81963 Vespa Piaggio (Noir)
+item.vespa_noir.name= §7[§3Véhicule§7] §fScooter Vespa Noir
+item.vespa_pizza.name= §7[§3Véhicule§7] §fScooter Vespa Pizzeria
+item.vespa_orange.name= §7[§3Véhicule§7] §fScooter Vespa Orange
+item.vespa_rouge.name= §7[§3Véhicule§7] §fScooter Vespa Rouge
+item.vespa_italien.name= §7[§3Véhicule§7]§f Scooter Vespa Italien
+item.vespa_blanc.name= §7[§3Véhicule§7] §fScooter Vespa Blanc
+item.vespa_jaune.name= §7[§3Véhicule§7] §fScooter Vespa Jaune
+item.vespa_gris.name= §7[§3Véhicule§7] §fScooter Vespa gris
+item.vespa_noir.name= §7[§3Véhicule§7] §fScooter Vespa Noir
+item.vespa_noir.name= §7[§3Véhicule§7] §fScooter Vespa Noir
+item.CTLTBlackRAID.name= §7[§1RAID§7] §1Chevrolet Tahoe Banalisé RAID
+item.volkamarnoir.name=§7[§3Véhicule§7] §fVolkswagen Amarok Noir
+item.volkamargris.name=§7[§3Véhicule§7] §fVolkswagen Amarok Gris
+item.volkamarblan.name=§7[§3Véhicule§7] §fVolkswagen Amarok Blanc
+item.volkamarroug.name=§7[§3Véhicule§7] §fVolkswagen Amarok Rouge
+item.volkamarbleu.name=§7[§3Véhicule§7] §fVolkswagen Amarok Bleu
+item.volkamarbri.name=§7[§9BRI§7] §9Volkswagen Amarok BRI
+item.volkamargign.name=§7[§9GIGN§7] §9Volkswagen Amarok GIGN
+item.volkamarraid.name=§7[§1RAID§7] §1Volkswagen Amarok RAID
+item.volkamarsamu.name=§7[§aPompier§7] §aVolkswagen Amarok Samu
+
+item.vbci_vert.name= §7[§3Véhicule§7] §fChar léger Noir
+item.vbci_noir.name= §7[§3Véhicule§7] §fChar léger Vert
+item.moto_civile_verte_noir_letigreroyal.name= §7[§3Véhicule§7] §fMoto Noir et Verte
+item.moto_civile_noir_or_letigreroyal.name= §7[§3Véhicule§7] §fMoto Noir et Or
+item.moto_civile_orange_letigreroyal.name= §7[§3Véhicule§7] §fMoto Orange
+item.moto_civile_jaune_letigreroyal.name= §7[§3Véhicule§7] §fMoto Jaune
+item.moto_gendarmerie_letigreroyal.name= §7[§bGendarmerie§7] §bMoto de la gendarmerie
+item.moto_civile_noir_blanche_letigreroyal.name= §7[§3Véhicule§7] §fMoto Noir et Blanche
+item.moto_civile_jaune2_letigreroyal.name= §7[§3Véhicule§7] §fMoto Jaune Deuxième Génération
+item.moto_civile_noire_rose_letigreroyal.name= §7[§3Véhicule§7] §fMoto Noir et rose
+item.moto_civile_rouge_letigreroyal.name= §7[§3Véhicule§7] §fMoto Rouge
+item.moto_pn_letigreroyal.name= §7[§bPolice§7] §bMoto de la Police National
+item.moto_civile_rose_letigreroyal.name= §7[§3Véhicule§7]§f Moto Rose
+item.3M.name= Gilet Par Balle Noir Léger
+item.6b13.name= Gilet Par Balle Beige Léger
+item.6b13flora.name=Gilet Par Balle Camouflage Jungle
+item.6b13vsr.name= Gilet Par Balle Camouflage Militaire
+item.6b23.name= Gilet Par Balle Vert
+item.6b232.name= Gilet Par Balle Camouflage Forêt
+item.6b3.name= Gilet Par Balle Ultra-Léger Vert
+item.6b43.name= Gilet Par Balle Ultra-Léger Noir
+item.6b43a.name= Gilet Par Balle Lourd Noir
+item6b43f.name= Gilet Par Balle Ultra-Lourd Noir
+item.6b43m.name= Gilet Ultra-Léger Vert
+item.6b5.name= Gilet Ultra-Léger Beige
+item.BanditBoots.name= Bottes
+item.BanditChest.name= Veste Rembourée
+item.BanditHat.name= Cagoule
+item.Dres1.name= §7[§fCivil§7] §fPantalon Rayé Noir
+item.Dres2.name= §7[§fCivil§7] §fPantalon Rayé Bleu
+item.Dres3.name= §7[§fCivil§7] §fPantalon Rayé Blanc
+item.Dres4.name= §7[§fCivil§7] §fPantalon Blanc
+item.PokerCoat1.name= §7[§fCivil§7] §fTenue Manteau Noir
+item.PokerGlasses1.name= §7[§fCivil§7] §fLunettes de soleil
+item.PokerOutfit1.name= §7[§fCivil§7] §fTenue Pull Noir
+item.PokerOutfit2.name= §7[§fCivil§7] §fTenue Pull Gris
+item.Jeans1.name= §7[§fCivil§7] §fJeans Bleu 
+item.Jeans2.name= §7[§fCivil§7] §fJeans Bleu Claire
+item.Jeans3.name= §7[§fCivil§7] §fJeans Noir
+item.TShirt1.name= §7[§fCivil§7] §fT-Shirt Blanc Simple
+item.TShirt2.name= §7[§fCivil§7] §fT-Shirt Noir Simple
+item.TShirt3.name= §7[§fCivil§7] §fT-Shirt Rouge Simple
+item.TShirt4.name= §7[§fCivil§7] §fT-Shirt Rouge "F40"
+item.TShirt5.name= §7[§fCivil§7] §fT-Shirt Blanc Majong
+item.TShirt6.name= §7[§fCivil§7] §fT-Shirt Jaune Majong
+item.anpvs14.name= §7[§fCivil§7] §fLunette de visée nocture
+item.anpvs14s.name= Double Lunette de visée nocturne
+item.brassardmedicale.name= Brassard Médicale
+item.brassardpolice.name= Brassard de la Police
+item.brassardsecu.name= Brassard de la Sécurité
+item.brassardsecuinc.name= Brassard de la Sécurité Incendie
+item.bsclwn.name= Bas de Clown
+item.bssqlt.name= Bas de Squelettes
+item.Pompier01_1.name= §7[§aPompier§7] §aLunette Pompier
+item.Pompier03_1.name= §7[§aPompier§7] §aCasque Pompier Fermé
+item.Pompier03_1_2.name= §7[§aPompier§7] §aCasque Pompier Ouvert
+item.Pompier01_4.name= §7[§aPompier§7] §aBottes Pompier
+item.Pompier01_3.name= §7[§aPompier§7] §aPantalon Pompier Rayure Blanche
+item.Pompier01_2.name= §7[§aPompier§7] §aVeste Pompier avec Sac de Secours
+item.Pompier02_1.name= §7[§aPompier§7] §aVeste Pompier Rayure Blanche
+item.Pompier03_3.name= §7[§aPompier§7] §aPantalon Ignifugé Pompier
+item.Pompier03_2.name= §7[§aPompier§7] §aVeste Ignifugé Pompier
+item.GiletPareBallePJ.name=§7[§bPolice§7] §bGilet Par Balle de la Police Judiciaire
+item.HautPoliceJudiciaire.name= §7[§bPolice§7] §bVeste de la Police Judiciaire
+item.PantalonPoliceJudiciaire.name= §7[§bPolice§7] §bPantalon de la Police Judiciaire
+item.PantalonPompierCoco.name= §7[§aPompier§7]Pantalon des Pompiers
+item.Hatzmat.name= Tenue Hazmat
+item.HautPompier.name= §7[§aPompier§7]Pull Pompier
+item.vestecitoyen01.name=§7[§fCivil§7] §f Maillot De Sport Noir
+item.vestecitoyen02.name= §7[§fCivil§7] §fMaillot De Sport Blanc
+item.vestecitoyen03.name= §7[§fCivil§7] §fMaillot De Sport Rouge
+item.pentaloncitoyen1.name= §7[§fCivil§7] §fSurvetement de Sport Noir
+item.pentaloncitoyen2.name= §7[§fCivil§7] §fSurvetement de Sport Blanc
+item.pentaloncitoyen3.name= §7[§fCivil§7] §fSurvetement de Sport Rouge
+item.ghost.name= Masque tête de mort
+item.MasqueDali.name= Masque Dali
+item.HVNT1B.name= §7[§fCivil§7] §fT-Shirt Manche Courte Noir HVNT
+item.HVNT2B.name= §7[§fCivil§7] §fT-Shirt Manche Longue Noir HVNT
+item.HVNT1R.name= §7[§fCivil§7] §fT-Shirt Manche Courte Rouge HVNT
+item.HVNT2R.name= §7[§fCivil§7] §fT-Shirt Manche Longue Rouge HVNT
+item.HVNT1BL.name= §7[§fCivil§7] §fT-Shirt Manche Courte Bleu HVNT
+item.HVNT2BL.name= §7[§fCivil§7] §fT-Shirt Manche Longue Bleu HVNT
+item.HVNT1W.name= §7[§fCivil§7] §fT-Shirt Manche Courte Blanc HVNT
+item.HVNT2W.name= §7[§fCivil§7] §fT-Shirt Manche Longue Blanc HVNT
+item.HVNT1Y.name= §7[§fCivil§7] §fT-Shirt Manche Courte Jaune HVNT
+item.HVNT2W.name= §7[§fCivil§7] §fT-Shirt Manche Longue Blanc HVNT
+item.HVNT2Y.name= §7[§fCivil§7] §fT-Shirt Manche Courte Jaune HVNT
+item.EzoyOutfit1.name= Tenue Cagoulée bleu
+item.EzoyOutfit2.name= Tenue Cagoulée rouge
+item.BearOperator.name= Cagoule et Casque Noir
+item.GJ.name= §7[§fCivil§7] §fGilet Jaune
+item.reshala.name= §7[§fCivil§7] §fTenue Pull Marron et Pantalon Camouflage
+item.reshalagay1.name= §7[§fCivil§7] §fTenue Pull à capuche  Gris et Pantalon Bleu
+item.reshalagay2.name= §7[§fCivil§7] §fTenue Pull Gris et Pantalon Bleu
+item.BanditPants.name= §7[§fCivil§7] §fPantalon Rembourée
+item.BikerOutfit1.name= §7[§fCivil§7] §fTenue De Motar
+item.CasaB.name= Bas de costume de la Casa De Papel
+item.CasaH.name= Haut de costume de la Casa De Papel
+item.PantalonPompierRayure.name= §7[§aPompier§7] §fPantalon Pompier a Rayure
+item.6b43f.name= Gilet Par Balle Ultra-Lourd Vert
+item.gigncago.name= §7[§9GIGN§7] §fCagoule GIGN
+item.gigncasq.name= §7[§9GIGN§7] §fCasque GIGN
+item.gigncomb.name= §7[§9GIGN§7] §fCombinaison GIGN
+item.gigncombadju.name= §7[§9GIGN§7] §fCombinaison GIGN Adjudant
+item.gigncombadjuchef.name= §7[§9GIGN§7] §fCombinaison GIGN Adjudant-Chef
+item.gigncombbrig.name= §7[§9GIGN§7] §fCombinaison GIGN Brigadier
+item.gigncombbrigchef.name= §7[§9GIGN§7] §fCombinaison GIGN Brigadier-Chef
+item.gigncombcapi.name= §7[§9GIGN§7] §fCombinaison GIGN Capitaine
+item.gigncombcolo.name= §7[§9GIGN§7] §fCombinaison GIGN Colonel
+item.gigncombcomm.name= §7[§9GIGN§7] §f Combinaison GIGN Commandant
+item.gigncombelevoffi.name= §7[§9GIGN§7] §f Combinaison GIGN élève officier
+item.gigncombgend.name= §7[§9GIGN§7] §f Combinaison GIGN Gendarme
+item.gigncomblieu.name= §7[§9GIGN§7] §f Combinaison GIGN Lieutenant
+item.gigncomblieucolo.name= §7[§9GIGN§7] §fCombinaison GIGN Lieutenant-Colonel
+item.gigncombmajo.name= §7[§9GIGN§7] §f Combinaison GIGN Major
+item.gigncombmaredeslogichef.name= §7[§9GIGN§7] §fCombinaison GIGN Maréchal des Logis Chef
+item.gigncombpremclas.name= §7[§9GIGN§7] §fCombinaison GIGN Première Classe
+item.gigncombsouslieu.name= §7[§9GIGN§7] §fCombinaison GIGN Sous-Lieutenant
+item.gignprotbali.name= P§7[§9GIGN§7] §fProtection Balistique GIGN
+item.gignrang.name= §7[§9GIGN§7] §f RangerGIGN
+item.grade_adjudant.name= §7[§bGalon§7] §fGalon Adjudant
+item.grade_adjudantchef.name= §7[§bGalon§7] §fGalon Adjudant Chef
+item.grade_capitaine.name= §7[§bGalon§7] §fGalon Capitaine
+item.grade_caporal.name= §7[§bGalon§7] §fGalon Caporal
+item.grade_caporalchef1eclasse.name= §7[§bGalon§7] §fGalon Caporal-Chef
+item.grade_caporalchef1eclasse.name= §7[§bGalon§7] §fGalon Caporal-Chef 1eclasse
+item.grade_colonel.name= §7[§bGalon§7] §fGalon Colonel
+item.grade_commandant.name= §7[§bGalon§7] §fGalon Commandant
+item.grade_generaldarmee.name= §7[§bGalon§7] §fGalon Général D'Armée
+item.grade_generaldebrigade.name= §7[§bGalon§7] §fGalon Général de Brigade
+item.grade_generaldecorpdarmee.name= §7[§bGalon§7] §fGalon Général de Corp D'Armée
+item.grade_generaldedivision.name= §7[§bGalon§7] §fGalon Commandant
+item.grade_lieutenant.name= §7[§bGalon§7] §fGalon Lieutenant
+item.grade_lieutenantcolonel.name= §7[§bGalon§7] §fGalon Lieutenant Colonel
+item.grade_sergent.name= §7[§bGalon§7] §fGalon Sergent
+item.grade_sergent.name= §7[§bGalon§7] §fGalon Sergent-Chef
+item.grade_soldat.name= §7[§bGalon§7] §fGalon Soldat
+item.grade_soldat1eclasse.name= §7[§bGalon§7] §fGalon Soldat 1ère Classe
+item.grade_souslieutenant.name= §7[§bGalon§7] §fGalon Sous-Lieutenant
+item.grade_aspirant.name= §7[§bGalon§7] §fGalon Aspirant
+item.htclwn.name= Haut Clown
+item.htsqlt.name= Haut Squelettes
+item.gzhelk.name= Gilet Par Balle Noir Simple
+item.maillotadidasargent.name= §7[§fCivil§7] §fMaillot Adidas Argent
+item.maillotadidasasbeige.name= §7[§fCivil§7] §fMaillot Adidas Beige
+item.maillotadidasjaune.name= §7[§fCivil§7] §fMaillot Adidas Jaune
+item.maillotadidasblanc.name= §7[§fCivil§7] §fMaillot Adidas Blanc
+item.maillotadidasbleu.name= §7[§fCivil§7] §fMaillot Adidas Bleu
+item.maillotadidasmarron.name= §7[§fCivil§7] §fMaillot Adidas Marron
+item.maillotadidasorange.name= §7[§fCivil§7] §fMaillot Adidas Orange
+item.maillotadidasrose.name= §7[§fCivil§7] §fMaillot Adidas Rose
+item.maillotadidasrouge.name= §7[§fCivil§7] §fMaillot Adidas Rouge
+item.maillotadidasvert.name= §7[§fCivil§7] §fMaillot Adidas Vert
+item.maillotadidasviolet.name= §7[§fCivil§7] §fMaillot Adidas Violet
+item.shortadidasargent.name= §7[§fCivil§7] §fShort Adidas Argent
+item.shortadidasbeige.name= §7[§fCivil§7] §fShort Adidas Beige
+item.shortadidasblanc.name= §7[§fCivil§7] §fShort Adidas Blanc
+item.shortadidasjaune.name= §7[§fCivil§7] §fShort Adidas Jaune
+item.shortadidasmarron.name= §7[§fCivil§7] §fShort Adidas Marron
+item.shortadidasorange.name= §7[§fCivil§7] §fShort Adidas Orange
+item.shortadidasrose.name= §7[§fCivil§7] §fShort Adidas Rose
+item.shortadidasrouge.name= §7[§fCivil§7] §fShort Adidas Rouge
+item.shortadidasvert.name= §7[§fCivil§7] §fShort Adidas Vert
+item.shortadidasviolet.name= §7[§fCivil§7] §fShort Adidas Violet
+item.survetadidasblanc.name= §7[§fCivil§7] §fSurvetement Adidas Blanc
+item.survetadidasnoir.name= §7[§fCivil§7] §fSurvetement Adidas Noir
+item.survetadidasrose.name= §7[§fCivil§7] §fSurvetement Adidas Rose
+item.survetadidasrouge.name= §7[§fCivil§7] §fSurvetement Adidas Rouge
+item.survetadidasvert.name= §7[§fCivil§7] §fSurvetement Adidas Vert
+item.BrassardSecurite.name= §7[§7Sécurité§7] §6Brassard de la sécurité
+item.armee_fr_casque2_letigreroyal.name= §7[§2Militaire§7] §2Casque de l'armée
+item.armee_fr_casque_letigreroyal.name= §7[§2Militaire§7] §2Casque de l'armée
+item.armee_fr_equipement2_letigreroyal.name= §7[§2Militaire§7] §2équipement militaire 2
+item.armee_fr_equipement_letigreroyal.name= §7[§2Militaire§7] §2équipement militaire
+item.armee_fr_equipementetsac_letigreroyal.name= §7[§2Militaire§7] §2équipement avec sac militaire
+item.avs.name= Gilet Par Balle Tactique Beige
+item.avstan.name= Gilet Par Balle Radio Beige
+item.avsusec.name= Gilet Par Balle Tactique Noir
+item.balaklava.name= Cagoule Noir
+item.balaklava2.name= Cagoule Noir (Ouverture Bouche)
+item.balaklava2od.name= Cagoule Verte (Ouverture Bouche)
+item.balaklavaod.name= Cagoule Verte 
+item.SpecOpsBoots.name= §7[§6Rebelle§7] §6 Chaussures Mercenaire
+item.SpecOpsChest.name= §7[§6Rebelle§7] §6 Veste balistique Mercenaire
+item.SpecOpsChestBR.name= §7[§6Rebelle§7] §6 Veste balistique Mercenaire BR
+item.Shoes1.name= §7[§fCivil§7] §fChaussures Blanche
+item.Shoes2.name= §7[§fCivil§7] §fChaussures Grises
+item.Shoes3.name= §7[§fCivil§7] §fChaussures Blanche et bleu
+item.Shoes4.name= §7[§fCivil§7] §fChaussures Bleu
+item.Shoes5.name= §7[§fCivil§7] §fChaussures Noir et Blanche
+item.bricago.name= §7[§9BRI§7] §9Cagoule BRI
+item.bricasq.name= §7[§9BRI§7] §9Casque BRI
+item.bricomb.name= §7[§9BRI§7] §9Combinaison BRI
+item.briprotbali.name= §7[§9BRI§7] §9Balistique BRI
+item.brirang.name= §7[§9BRI§7] §9Ranger BRI
+item.chemiseRblanche.name= §7[§fCivil§7] §fChemise Blanche Manche Retroussée
+item.chemiseblanche.name= §7[§fCivil§7] §fChemise Blanche
+item.chemisebleu.name= §7[§fCivil§7] §fChemise Bleu
+item.chemisemarron.name= §7[§fCivil§7] §fChemise Marron
+item.chemisenoir.name= §7[§fCivil§7] §fChemise Noir
+item.chemiserose.name= §7[§fCivil§7] §fChemise Rose
+item.chemiserouge.name= §7[§fCivil§7] §fChemise Rouge
+item.chemiseverte.name= §7[§fCivil§7] §fChemise Verte
+item.vesteblanche.name= §7[§fCivil§7] §fVeste Blanche
+item.vestenoir.name= §7[§fCivil§7] §fVeste Noir
+item.PullBlanc.name= §7[§fCivil§7] §fPull Blanc
+item.PullBleu.name= §7[§fCivil§7] §fPull Bleu
+item.PullMarron.name= §7[§fCivil§7] §fPull Marron
+item.PullNoir.name= §7[§fCivil§7] §fPull Noir
+item.PullViolet.name= §7[§fCivil§7] §fPull Violet
+item.SpecOpsChestUS.name= §7[§6Rebelle§7] §6Veste Balistique Mercenaire US
+item.SpecOpsHat.name= §7[§6Rebelle§7] §6Cagoule Mercenaire
+item.SpecOpsPants.name= §7[§6Rebelle§7] §6Pantalon Mercenaire
+item.UsecOperator.name= §7[§6Rebelle§7] §6Cagoule D'Opérateur
+item.beretblanc.name= §7[§5Béret§7] §fBeret Blanc
+item.beretbleu.name= §7[§5Béret§7] §9Beret Bleu
+item.beretgris.name= §7[§5Béret§7] §8Beret Gris
+item.beretnoir.name= §7[§5Béret§7] §0Beret Noir
+item.beretrouge.name= §7[§5Béret§7] §4Beret Rouge
+item.beretvert.name= §7[§5Béret§7] §2Beret Vert
+item.beretviolet.name= §7[§5Béret§7] §5Beret Violet
+item.britAdmiralCapDark.name= Casquette D'Amiral
+item.chsrclwn.name= Chaussure Clown
+item.chsrsqlt.name= Chaussure Squelette
+item.msqclwn.name= Masque de Clown
+item.msqsqlt.name= Masque de Squelette
+item.fancyTopHat.name= Chapeau Haut déguisement
+item.fancyTrenchCoat.name= §7[§fCivil§7] §fCostume Noir Long
+item.vestecitoyen1.name= §7[§fCivil§7] §fMaillot Noir
+item.vestecitoyen2.name= §7[§fCivil§7] §fMaillot Blanc
+item.vestecitoyen3.name= §7[§fCivil§7] §fMaillot Rouge
+item.mc.name= §7[§fCivil§7] §fMasque Chirurgical
+
+
+item.giletdesauvetage.name=Gilet de sauvetage
+item.gendarmeriemaritime.name=Haut de la gendarmerie maritime
+item.marinspompiers.name=Tenue de marin pompier
+item.beretmilitaire.name=Beret militaire vert
+item.beretvertparachutiste.name=Beret vert de parachutiste
+item.beretrougeparachutiste.name=Beret rouge de parachutiste
+item.marin.name=Uniforme traditionnel de la Marine nationale
+item.marine.name=Uniforme operationnel de la Marine nationale
+
+
+## Coco
+
+item.GalonCSCmd.name=§7[§aGalon§7] §fGalon Cadre de Santé Commandant Pompier
+item.GalonCSCpt.name= §7[§aGalon§7] §fGalon Cadre de Santé Capitaine Pompier
+item.GalonCSlntCl.name= §7[§aGalon§7] §fGalon Cadre de Santé Lieutenant Colonel Pompier
+
+item.GalonEAux.name= §7[§aGalon§7] §fGalon Expert Auxiliaire
+item.GalonEEPsy.name= §7[§aGalon§7] §fGalon Expert Psychologue
+item.GalonEEx.name= §7[§aGalon§7] §fGalon Expert 
+item.GalonESSM.name= §7[§aGalon§7] §fGalon Expert SSM
+
+item.GalonG1cl.name= §7[§aGalon§7] §fGalon 1ère Classe Pompier
+item.GalonGAdju.name= §7[§aGalon§7] §fGalon Adjudant Pompier
+item.GalonGAdjuChef.name= §7[§aGalon§7] §fGalon Adjudant Chef Pompier
+item.GalonGCapo.name= §7[§aGalon§7] §fGalon Caporal Pompier
+item.GalonGCapoChef.name= §7[§aGalon§7] §fGalon Caporal Chef Pompier
+item.GalonGCln.name= §7[§aGalon§7] §fGalon Colonel Pompier
+item.GalonGCmd.name= §7[§aGalon§7] §fGalon Commandant Pompier
+item.GalonGCntrGn.name= §7[§aGalon§7] §fGalon Controleur Général Pompier
+item.GalonGCpt.name= §7[§aGalon§7] §fGalon Capitaine Pompier
+item.GalonGLtn.name= §7[§aGalon§7] §fGalon Lieutenant Pompier
+item.GalonGLtnCl.name= §7[§aGalon§7] §fGalon Lieutenant Colonel Pompier
+item.GalonGSrgnt.name= §7[§aGalon§7] §fGalon Sergent Pompier
+item.GalonGSrgntChef.name= §7[§aGalon§7] §fGalon Sergent Chef Pompier
+
+item.GalonInfCpt.name= §7[§aGalon§7] §fGalon Infirmier Capitaine Pompier
+item.GalonInfLtn.name= §7[§aGalon§7] §fGalon Infirmier Lieutenant Pompier
+item.GalonInfSsLt.name= §7[§aGalon§7] §fGalon Infirmier Sous-Lieutenant Pompier
+
+item.GalonJSP1.name=§7[§aGalon§7] §fGalon Jeune Sapeur-Pompier 1
+item.GalonJSP2.name=§7[§aGalon§7] §fGalon Jeune Sapeur-Pompier 2
+item.GalonJSP3.name=§7[§aGalon§7] §fGalon Jeune Sapeur-Pompier 3
+item.GalonJSP4.name=§7[§aGalon§7] §fGalon Jeune Sapeur-Pompier 4
+
+
+Galon Médecin Pompier
+
+item.GalonMdcAsp.name= §7[§aGalon§7] §fGalon Médecin Aspirant Pompier
+item.GalonMdcCln.name= §7[§aGalon§7] §fGalon Médecin Colonel Pompier
+item.GalonMdcCmd.name= §7[§aGalon§7] §fGalon Médecin Commandant Pompier
+item.GalonMdcCpt.name= §7[§aGalon§7] §fGalon Médecin Capitaine Pompier
+item.GalonMdcLtn.name= §7[§aGalon§7] §fGalon Médecin Lieutenant Pompier
+item.GalonMdcLtnCl.name= §7[§aGalon§7] §fGalon Médecin Lieutenant Colonel Pompier
+
+
+Galon Pharmacien
+
+item.GalonPhCl.name= §7[§aGalon§7] §fGalon Pharmacien Colonel
+item.GalonPhCmd.name= §7[§aGalon§7] §fGalon Pharmacien Commandant
+item.GalonPhCpt.name= §7[§aGalon§7] §fGalon Pharmacien Capitaine
+item.GalonPhLtnCl.name= §7[§aGalon§7] §fGalon Pharmacien Lieutenant Colonel
+
+
+Galons Vétérinaire
+
+item.GalonVtCl.name= §7[§aGalon§7] §fGalon Vétérinaire Colonel
+item.GalonVtCmd.name= §7[§aGalon§7] §fGalon Vétérianire Commandant
+item.GalonVtCpt.name= §7[§aGalon§7] §fGalon Vétérianire Capitaine
+item.GalonVtLtnCl.name= §7[§aGalon§7] §fGalon Vétérinaire Lieutenant Colonel
+
+
+
+Gilets
+
+item.GiletInfirmier.name= Gilet Infirmier Pompier
+item.GiletPharmacien.name= Gilet Pharmacien Pompier
+item.GiletVeterinaire.name= Gilet Vétérinaire Pompier
+item.GiletMedecin.name= Gilet Médecin Pompier
+
+Tenue
+
+item.TenuePompierF1Blanche.name= §7[§aPompier§7] §fTenue De Pompier F1 Blanche
+item.TenuePompierF1.name= §7[§aPompier§7] §fTenue De Pompier F1
+item.TenuePompierIntervention.name= §7[§aPompier§7] §fTenue D'Intervention de Pompier Rouge
+item.TenuePompierInterventionNoir.name= §7[§aPompier§7] §fTenue D'Intervention de Pompier Noir
+item.TenuePompierDragon.name= §7[§aPompier§7] §fTenue de Pilote Dragon
+item.TenuePompierVeterinaire.name= §7[§aPompier§7] §fTenue Pompier Rouge (Vétérinaire)
+
+
+Armes 
+
+item.exctincteur.name= Extincteur Version n°1
+item.exctincteurB.name= Extincteur Version n°2
+item.gazexctincteur.name= Recharge pour Extincteur
+
+
+item.BandanaCrips.name= §7[§9Crips§7] §9Bandana Crips
+item.ChemiseCrips.name= §7[§9Crips§7] §9Chemise Crips Bleu
+item.ChemiseCripsB.name= §7[§9Crips§7] §9Chemise Crips Blanche
+item.PantalonCrips.name= §7[§9Crips§7] §9Jean Crips 
+
+item.casqmine.name=§7[§9Mineur§7] §fCasque Mineur
+item.hautmine.name=§7[§9Mineur§7] §fHaut Mineur
+item.basmine.name=§7[§9Mineur§7] §fBas Mineur
+item.chaumine.name=§7[§9Mineur§7] §fChaussures Mineur
+
+item.grade_adjudant.name=§7[§2Galon§7] §fGrade Adjudant
+item.grade_adjudantchef.name=§7[§2Galon§7] §fGrade Adjudant Chef
+item.grade_aspirant.name=§7[§2Galon§7] §fGrade Aspirant
+item.grade_caporalchef.name=§7[§2Galon§7] §fGrade Caporal Chef
+item.grade_caporal.name=§7[§2Galon§7] §fGrade Caporal
+item.grade_caporalchef1eclasse.name=§7[§2Galon§7] §fGrade Caporal 1er Classe
+item.grade_sergent.name=§7[§2Galon§7] §fGrade Sergent
+item.grade_capitaine.name=§7[§2Galon§7] §fGrade Capitaine
+item.grade_colonel.name=§7[§2Galon§7] §fGrade Colonel
+item.grade_commandant.name=§7[§2Galon§7] §fGrade Commandant
+item.grade_generaldarmee.name=§7[§2Galon§7] §fGrade Général d'armée
+item.grade_generaldebrigade.name=§7[§2Galon§7] §fGrade Général de Brigade
+item.grade_generaldecorpdarmee.name=§7[§2Galon§7] §fGrade Général du corp d'armée
+item.grade_generaldedivision.name=§7[§2Galon§7] §fGrade Général de Division
+item.grade_lieutenant.name=§7[§2Galon§7] §fGrade Lieutenant
+item.grade_lieutenantcolonel.name=§7[§2Galon§7] §fGrade Lieutenant Colonel
+item.grade_sergent.name=§7[§2Galon§7] §fGrade Sergent
+item.grade_sergentchef.name=§7[§2Galon§7] §fGrade Sergent Chef
+item.grade_soldat.name=§7[§2Galon§7] §fGrade Pas de grade
+item.grade_soldat1eclasse.name=§7[§2Galon§7] §fGrade Soldat 1er Classe
+item.grade_souslieutenant.name=§7[§2Galon§7] §fGrade Sous-Lieutenant
+item.grade_major.name=§7[§2Galon§7] §fGrade Major
+
+item.armee_fr_casque_letigreroyal.name=§7[§2Militaire§7] §fCasque de l'armée Française (cheuveux épais)
+item.armee_fr_casque_multicam_letigreroyal.name=§7[§2Militaire§7] §fCasque multicam (cheuveux épais)
+item.armee_fr_casque_francais_letigreroyal.name=§7[§2Militaire§7] §fCasque centre-europe (cheuveux épais)
+item.armee_fr_casque_desert_letigreroyal.name=§7[§2Militaire§7] §fCasque desert (cheuveux épais)
+item.armee_fr_casque_belge_letigreroyal.name=§7[§2Militaire§7] §fCasque belge (cheuveux épais)
+item.armee_fr_casque2_letigreroyal.name=§7[§2Militaire§7] §fCasque de l'armée Française (cheuveux cours)
+item.armee_fr_casque2_multicam_letigreroyal.name=§7[§2Militaire§7] §fCasque multicam (cheuveux cours)
+item.armee_fr_casque2_francais_letigreroyal.name=§7[§2Militaire§7] §fCasque centre-europe (cheuveux cours)
+item.armee_fr_casque2_desert_letigreroyal.name=§7[§2Militaire§7] §fCasque desert (cheuveux cours)
+item.armee_fr_casque2_belge_letigreroyal.name=§7[§2Militaire§7] §fCasque belge (cheuveux cours)
+item.armee_fr_tenue_letigreroyal.name=§7[§2Militaire§7] §fTenue de l'armée Française
+item.armee_fr_tenue_multicam_letigreroyal.name=§7[§2Militaire§7] §fTenue multicam
+item.armee_fr_tenue_francais_letigreroyal.name=§7[§2Militaire§7] §fTenue centre-europe
+item.armee_fr_tenue_desert_letigreroyal.name=§7[§2Militaire§7] §fTenue desert
+item.armee_fr_tenue_belge_letigreroyal.name=§7[§2Militaire§7] §fTenue belge
+item.armee_fr_equipement_letigreroyal.name=§7[§2Militaire§7] §fEquipement de l'armée Française (sans sac)
+item.armee_fr_equipement2_letigreroyal.name=§7[§2Militaire§7] §fEquipement de l'armée Française (sans sac / sans gants)
+item.armee_fr_equipementetsac_letigreroyal.name=§7[§2Militaire§7] §fEquipement de l'armée Française (sac+gants)
+
+
+item.UniformeMarine.name=§7[§2Militaire§7] §fUniforme Marine
+item.UniformeArmeeDeTerre.name=§7[§2Militaire§7] §fUniforme Armee De Terre
+item.UniformeTerre.name=§7[§2Militaire§7] §fUniforme Armee de Terre (501RCC)
+item.UniformeRHC.name=§7[§2Militaire§7] §fUniforme Armee de Terre (3RHC)
+item.UniformeNoir.name=§7[§2Militaire§7] §fUniforme Noir (GN)
+item.UniformeLegion.name=§7[§2Militaire§7] §fUniforme Armee de Terre (2REP)
+item.UniformeG.name=§7[§2Militaire§7] §fUniforme Armee de Terre de Generaux
+item.UniformeAirForce.name=§7[§2Militaire§7] §fUniforme Air Force
+item.TenueMarine.name=§7[§2Militaire§7] §fTenue Marine
+item.TenueAirForce.name=§7[§2Militaire§7] §fTenue Air Force
+item.KepiSousOfficier.name=§7[§2Militaire§7] §fKepi Sous Officier
+item.KepiOfficier.name=§7[§2Militaire§7] §fKepi Officier
+item.Kepi5etoiles.name=§7[§2Militaire§7] §fKepi 5 etoiles
+item.Kepi4etoiles.name=§7[§2Militaire§7] §fKepi 4 etoiles
+item.Kepi3etoiles.name=§7[§2Militaire§7] §fKepi 3 etoiles
+item.Kepi2etoiles.name=§7[§2Militaire§7] §fKepi 2 etoiles
+item.CasquetteMarine5etoiles.name=§7[§2Militaire§7] §fCasquette Marine 5 etoiles
+item.CasquetteMarine4etoiles.name=§7[§2Militaire§7] §fCasquette Marine 4 etoiles
+item.CasquetteMarine3etoiles.name=§7[§2Militaire§7] §fCasquette Marine 3 etoiles
+item.CasquetteMarine2etoiles.name=§7[§2Militaire§7] §fCasquette Marine 2 etoiles
+item.CasquetteMarine1.name=§7[§2Militaire§7] §fCasquette Marine
+item.Calot.name=§7[§2Militaire§7] §fCalot
+item.Bachie.name=§7[§2Militaire§7] §fBachie
+
+item.brasjaun.name=§7[§2Militaire§7] §fBrassard Jaune
+item.commmaribas.name=§7[§2Militaire§7] §fBas Commando Marine
+item.commmarihaut.name=§7[§2Militaire§7] §fHaut Commando Marine
+item.commmaricasq.name=§7[§2Militaire§7] §fCasque Commando Marine
+
+item.chaucost.name=§7[§fCivil§7] §fChaussures Costard
+item.hautcostnoir.name=§7[§fCivil§7] §fHaut Costard noir
+item.hautcostnoirroug.name=§7[§fCivil§7] §fHaut Costard noir Cravate Rouge
+item.hautcostgris.name=§7[§fCivil§7] §fHaut Costard gris
+item.hautcostblan.name=§7[§fCivil§7] §fHaut Costard blanc
+item.hautcostbeig.name=§7[§fCivil§7] §fHaut Costard beige
+item.hautcostrose.name=§7[§fCivil§7] §fHaut Costard rose
+item.bascostnoir.name=§7[§fCivil§7] §fBas Costard noir
+item.bascostnoirroug.name=§7[§fCivil§7] §fBas Costard noir Cravate rouge
+item.bascostgris.name=§7[§fCivil§7] §fBas Costard gris
+item.bascostblan.name=§7[§fCivil§7] §fBas Costard blanc
+item.bascostbeig.name=§7[§fCivil§7] §fBas Costard beige
+item.bascostrose.name=§7[§fCivil§7] §fBas Costard rose
+
+item.berevertpara.name=§7[§2Militaire§7] §fBéret Parachutiste Vert
+item.bererougpara.name=§7[§2Militaire§7] §fBéret Parachutiste Rouge
+item.beretRCC.name=§7[§2Militaire§7] §fBéret 501e RCC
+item.beretREP.name=§7[§2Militaire§7] §fBéret 3e REP
+item.beretRHC.name=§7[§2Militaire§7] §fBéret 3e RHC
+item.berecommmari.name=§7[§2Militaire§7] §fBéret Commando Marine
+item.berefusimari.name=§7[§2Militaire§7] §fBéret Fusilier Marin
+item.unifcommmari.name=§7[§2Militaire§7] §fUniforme Commando Marine
+item.unifcamo.name=§7[§2Militaire§7] §fUniforme Camouflage
+item.2unifcamo.name=§7[§2Militaire§7] §fUniforme Camouflage Desert
+item.cachcoucommmari.name=§7[§2Militaire§7] §fCache-cou Commando Marine
+item.gilepareballcommmari.name=§7[§2Militaire§7] §fGilet pare-balles Commando Marine
+item.2gilepareballcommmari.name=§7[§2Militaire§7] §fGilet pare-balles Commando Marine (noir)
+item.beresas.name=§7[§2Militaire§7] §fBéret SAS
+
+item.RX7fdred.name=§7[§3Véhicule§7] §5Mazda RX7fdred fd3s
+item.RX7fdyel.name=§7[§3Véhicule§7] §5Mazda RX7fdyel fd3s
+item.RX7fdwhi.name=§7[§3Véhicule§7] §5Mazda RX7fdwhi fd3s
+item.RX7fdblack.name=§7[§3Véhicule§7] §5Mazda RX7fdblack fd3s
+item.RX3Sgrey.name=§7[§3Véhicule§7] §5Mazda RX3Sgrey Sedan
+item.RX3Syel.name=§7[§3Véhicule§7] §5Mazda RX3Syel Sedan
+item.RX3Sora.name=§7[§3Véhicule§7] §5Mazda RX3Sora Sedan
+item.RX3Sgreen.name=§7[§3Véhicule§7] §5Mazda RX3Sgreen Sedan
+item.RX3Sblue.name=§7[§3Véhicule§7] §5Mazda RX3Sblue Sedan
+item.RX3Sblack.name=§7[§3Véhicule§7] §5Mazda RX3Sblack Sedan
+item.WMLHB.name=§7[§3Véhicule§7] §fW MOTORS Lykan Hypersport blanc
+item.WMLHR.name=§7[§3Véhicule§7] §fW MOTORS Lykan Hypersport rouge
+item.WMLHN.name=§7[§3Véhicule§7] §fW MOTORS Lykan Hypersport noire
+item.WMLHOr.name=§7[§3Véhicule§7] §fW MOTORS Lykan Hypersport orange
+item.BMWM3E92CB.name=§7[§3Véhicule§7] §9BMW M3 E92CB Cabriolet
+item.BMWM3E92CW.name=§7[§3Véhicule§7] §9BMW M3 E92CW Cabriolet
+item.BMWM3E92CG.name=§7[§3Véhicule§7] §9BMW M3 E92CG Cabriolet
+item.MercoC250cGR.name=§7[§3Véhicule§7] §fMercedes Classe C250cGR coupé
+item.MercoC250cWH.name=§7[§3Véhicule§7] §fMercedes Classe C250cWH coupé
+item.MercoC250cBL.name=§7[§3Véhicule§7] §fMercedes Classe C250cBL coupé
+
+item.fgtbsblu.name=§7[§3Véhicule§7] §4Ferrari 488GTB blue spider
+item.fgtbblu.name=§7[§3Véhicule§7] §4Ferrari 488GTB blue
+item.fgtbsred.name=§7[§3Véhicule§7] §4Ferrari 488GTB red spider
+item.fgtbsgrey.name=§7[§3Véhicule§7] §4Ferrari 488GTB grey spider
+item.fgtbsyel.name=§7[§3Véhicule§7] §4Ferrari 488GTB yellow spider
+item.fgtbred.name=§7[§3Véhicule§7] §4Ferrari 488GTB red
+item.fgtbgyello.name=§7[§3Véhicule§7] §4Ferrari 488GTB yellow
+item.fgtbgrey.name=§7[§3Véhicule§7] §4Ferrari 488GTB grey
+item.F330P4117K.name=§7[§3Véhicule§7] §4Ferrari 330 P4
+item.F330P4118K.name=§7[§3Véhicule§7] §4Ferrari 330 P4 Spyder
+item.FERED.name=§7[§3Véhicule§7] §4Ferrari Enzo Red
+item.FEWHITE.name=§7[§3Véhicule§7] §4Ferrari Enzo White
+item.FEBLACK.name=§7[§3Véhicule§7] §4Ferrari Enzo Black
+item.FEYELL.name=§7[§3Véhicule§7] §4Ferrari Enzo Yellow
+item.ff40yellow.name=§7[§3Véhicule§7] §4Ferrari F40
+item.ff40blue.name=§7[§3Véhicule§7] §4Ferrari F40
+item.ff40red.name=§7[§3Véhicule§7] §4Ferrari F40
+item.ff40black.name=§7[§3Véhicule§7] §4Ferrari F40
+item.ff50sred.name=§7[§3Véhicule§7] §4Ferrari F50 Spyder
+item.ff50swhi.name=§7[§3Véhicule§7] §4Ferrari F50 Spyder
+item.ff50syel.name=§7[§3Véhicule§7] §4Ferrari F50 Spyder
+item.ff50red.name=§7[§3Véhicule§7] §4Ferrari F50
+item.ff50whi.name=§7[§3Véhicule§7] §4Ferrari F50
+item.ff50yel.name=§7[§3Véhicule§7] §4Ferrari F50
+item.FFXXYELL.name=§7[§3Véhicule§7] §4Ferrari FXX Evoluzione Yellow
+item.FFXXRLRED.name=§7[§3Véhicule§7] §4Ferrari FXX Evoluzione Red Road Legal
+item.FFXXRED.name=§7[§3Véhicule§7] §4Ferrari FXX Evoluzione Red
+item.FFXXREDAYEL.name=§7[§3Véhicule§7] §4Ferrari FXX Evoluzione Red and Yellow
+item.FFXXBLACK.name=§7[§3Véhicule§7] §4Ferrari FXX Evoluzione Black
+item.Ferrari458Italiacoupeblack.name=§7[§3Véhicule§7] §4Ferrari 458 Italia Black
+item.Ferrari458Italiacoupewhite.name=§7[§3Véhicule§7] §4Ferrari 458 Italia White
+item.Ferrari458Italiacoupered.name=§7[§3Véhicule§7] §4Ferrari 458 Italia Red
+item.Ferrari458ItaliaSpiderred.name=§7[§3Véhicule§7] §4Ferrari 458 Italia Spider Red
+item.Ferrari458ItaliaSpiderblack.name=§7[§3Véhicule§7] §4Ferrari 458 Italia Spider Black
+item.Ferrari458ItaliaSpiderwhite.name=§7[§3Véhicule§7] §4Ferrari 458 Italia Spider White
+item.fgtbpolice.name=§7[§bPolice§7] §4Ferrari 488GTB police
+
+item.ML570sOr.name=§7[§3Véhicule§7] §6McLaren 570s Orange
+item.ML570sGr.name=§7[§3Véhicule§7] §6McLaren 570s Green
+item.ML570sGrey.name=§7[§3Véhicule§7] §6McLaren 570s Grey
+item.ML570sBl.name=§7[§3Véhicule§7] §6McLaren 570s Black
+item.ML570sRe.name=§7[§3Véhicule§7] §6McLaren 570s Red
+item.ML570sWh.name=§7[§3Véhicule§7] §6McLaren 570s White
+item.ML570GTBl2.name=§7[§3Véhicule§7] §6McLaren 570GT Dark Blue
+item.ML570GTBl1.name=§7[§3Véhicule§7] §6McLaren 570GT Blue
+item.ML570GTWh.name=§7[§3Véhicule§7] §6McLaren 570GT White
+item.ML570GTGre.name=§7[§3Véhicule§7] §6McLaren 570GT Grey
+item.ML540cRe.name=§7[§3Véhicule§7] §6McLaren 540c Red
+item.ML540cBl.name=§7[§3Véhicule§7] §6McLaren 540c Blue
+item.ML540cGr.name=§7[§3Véhicule§7] §6McLaren 540c Green
+item.ML540cGrey.name=§7[§3Véhicule§7] §6McLaren 540c Grey
+item.ML650sGreen.name=§7[§3Véhicule§7] §6McLaren 650sGreen
+item.ML650sBlack.name=§7[§3Véhicule§7] §6McLaren 650sBlack
+item.ML650sRed.name=§7[§3Véhicule§7] §6McLaren 650sRed
+item.ML650sWhite.name=§7[§3Véhicule§7] §6McLaren 650sWhite
+item.ML650sOrange.name=§7[§3Véhicule§7] §6McLaren 650sOrange
+item.MLMP412COrange.name=§7[§3Véhicule§7] §6McLaren MP4-12C
+item.MLMP412CBlue.name=§7[§3Véhicule§7] §6McLaren MP4-12C
+item.MLMP412CRed.name=§7[§3Véhicule§7] §6McLaren MP4-12C
+item.MLMP412CWhite.name=§7[§3Véhicule§7] §6McLaren MP4-12C
+item.MLMP412CGrey.name=§7[§3Véhicule§7] §6McLaren MP4-12C
+item.MLMP412CBlack.name=§7[§3Véhicule§7] §6McLaren MP4-12C
+item.MLMP412CYellow.name=§7[§3Véhicule§7] §6McLaren MP4-12C
+item.MLMP412COrangeSpider.name=§7[§3Véhicule§7] §6McLaren MP4-12C Spider
+item.MLMP412CBlueSpider.name=§7[§3Véhicule§7] §6McLaren MP4-12C Spider
+item.MLMP412CRedSpider.name=§7[§3Véhicule§7] §6McLaren MP4-12C Spider
+item.MLMP412CWhiteSpider.name=§7[§3Véhicule§7] §6McLaren MP4-12C Spider
+item.MLMP412CGreySpider.name=§7[§3Véhicule§7] §6McLaren MP4-12C Spider
+item.MLMP412CBlackSpider.name=§7[§3Véhicule§7] §6McLaren MP4-12C Spider
+item.MLMP412CYellowSpider.name=§7[§3Véhicule§7] §6McLaren MP4-12C Spider
+item.ML650sGreenS.name=§7[§3Véhicule§7] §6McLaren 650sGreenS Spider
+item.ML650sBlackS.name=§7[§3Véhicule§7] §6McLaren 650sBlackS Spider
+item.ML650sRedS.name=§7[§3Véhicule§7] §6McLaren 650sRedS Spider
+item.ML650sWhiteS.name=§7[§3Véhicule§7] §6McLaren 650sWhiteS Spider
+item.ML650sOrangeS.name=§7[§3Véhicule§7] §6McLaren 650sOrangeS Spider
+
+item.P911CW.name=§7[§3Véhicule§7] §3Porsche 911 Carrera White
+item.P911CCBlue.name=§7[§3Véhicule§7] §3Porsche 911 Carrera Cabrio Blue
+item.P911CBlue.name=§7[§3Véhicule§7] §3Porsche 911 Carrera Blue
+item.P911CCB.name=§7[§3Véhicule§7] §3Porsche 911 Carrera Cabrio Black
+item.P911CB.name=§7[§3Véhicule§7] §3Porsche 911 Carrera Black
+item.P911CCG.name=§7[§3Véhicule§7] §3Porsche 911 Carrera Cabrio Grey
+item.P911CG.name=§7[§3Véhicule§7] §3Porsche 911 Carrera Grey
+item.P911CCR.name=§7[§3Véhicule§7] §3Porsche 911 Carrera Cabrio Red
+item.P911CR.name=§7[§3Véhicule§7] §3Porsche 911 Carrera Red
+item.P911C4SO.name=§7[§3Véhicule§7] §3Porsche 911 Carrera 4S White
+item.P911gt3rso.name=§7[§3Véhicule§7] §3Porsche 911 GT3 RS
+item.P911gt3rspur.name=§7[§3Véhicule§7] §3Porsche 911 GT3 RS
+item.P911gt3rsVE.name=§7[§3Véhicule§7] §3Porsche 911 GT3 RS
+item.P911gt3rsgris.name=§7[§3Véhicule§7]§3Porsche 911 GT3 RS
+item.P911gt3rsWI.name= §7[§3Véhicule§7] §3Porsche 911 GT3 RS
+item.P911RSR15.name=§7[§3Véhicule§7] §3Porsche 911 RSR
+item.P911RSR16.name=§7[§3Véhicule§7] §3Porsche 911 RSR
+item.P911RSR17.name=§7[§3Véhicule§7] §3Porsche 911 RSR
+item.P917G20.name=§7[§3Véhicule§7] §3Porsche 917 Gulf #20
+item.P917G20C.name=§7[§3Véhicule§7] §3Porsche 917 Gulf #20 crashed
+item.P917G21.name=§7[§3Véhicule§7] §3Porsche 917 Gulf #21
+item.P917LH.name=§7[§3Véhicule§7] §3Porsche 917 Gulf LH
+item.P917G22.name=§7[§3Véhicule§7] §3Porsche 917 Gulf #22
+item.P917sz.name=§7[§3Véhicule§7] §3Porsche 917 salzburg
+item.P918SGTOP.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Grey
+item.P918SGSPOILER.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Grey
+item.P918SGDOOR.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Grey
+item.P918SBlueTOP.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Blue
+item.P918SBlueSPOILER.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Blue
+item.P918SBlueDOOR.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Blue
+item.P918SRTOP.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Red
+item.P918SRSPOILER.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Red
+item.P918SRDOOR.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Red
+item.P918SWTOP.name=§7[§3Véhicule§7] §3Porsche 918 Spyder White
+item.P918SWSPOILER.name=§7[§3Véhicule§7] §3Porsche 918 Spyder White
+item.P918SWDOOR.name=§7[§3Véhicule§7] §3Porsche 918 Spyder White
+item.P918SBlackTOP.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Black
+item.P918SBlackSPOILER.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Black
+item.P918SBlackDOOR.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Black
+item.P918SWPWhiteTOP.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Weissach Package White
+item.P918SWPWhiteSPOILER.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Weissach Package White
+item.P918SWPWhiteDOOR.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Weissach Package White
+item.P918SWPBBlueTOP.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Weissach Package baby blue
+item.P918SWPBBlueSPOILER.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Weissach Package baby blue
+item.P918SWPBlueDOOR.name=§7[§3Véhicule§7] §3Porsche 918 Spyder Weissach Package baby blue
+item.P911CCW.name=§7[§3Véhicule§7] §3Porsche 911 Carrera Cabrio White
+
+item.FordGT3Blu.name=§7[§3Véhicule§7] §bFord GT3Blu mk3
+item.FordGT3BluS.name=§7[§3Véhicule§7] §bFord GT3BluS mk3
+item.FordGT3Yel.name=§7[§3Véhicule§7] §bFord GT3Yel mk3
+item.FordGT3YelS.name=§7[§3Véhicule§7] §bFord GT3YelS mk3
+item.FordGT3Black.name=§7[§3Véhicule§7] §bFord GT3Black mk3
+item.FordGT3BlackS.name=§7[§3Véhicule§7] §bFord GT3BlackS mk3
+item.FordGT3Red.name=§7[§3Véhicule§7] §bFord GT3Red mk3
+item.FordGT3Wh.name=§7[§3Véhicule§7] §bFord GT3Wh mk3
+item.FordGT3WhS.name=§7[§3Véhicule§7] §bFord GT3WhS mk3
+item.FordGT3Gr.name=§7[§3Véhicule§7] §bFord GT3Gr mk3
+item.FordGT3GrS.name=§7[§3Véhicule§7] §bFord GT3GrS mk3
+item.FordGT3RedS.name=§7[§3Véhicule§7] §bFord GT3RedS mk3
+
+item.gmcsycloneblack.name=GMC Syclone 1992
+
+item.LT70mkIISpyderblue.name=§7[§3Véhicule§7] §fLola T70 mk II Spyder
+item.LT70mkIIIbGTgreen.name=§7[§3Véhicule§7] §fLola T70 mk IIIb
+item.LT70mkIIIbGTyellow.name=§7[§3Véhicule§7] §fLola T70 mk IIIb GT
+
+item.BCBlC.name=§7[§3Véhicule§7] §6Bugatti Chiron 16.4
+item.BCMRKIKI.name=§7[§3Véhicule§7] §6Bugatti Chiron 16.4
+item.BCB.name=§7[§3Véhicule§7] §6Bugatti Chiron 16.4
+item.BCBAPEX.name=§7[§3Véhicule§7] §6Bugatti Chiron 16.4
+item.BCBC.name=§7[§3Véhicule§7] §6Bugatti Chiron 16.4
+item.BCGAB.name=§7[§3Véhicule§7] §6Bugatti Chiron 16.4
+item.BCGRAB.name=§7[§3Véhicule§7] §6Bugatti Chiron 16.4
+item.BCPAB.name=§7[§3Véhicule§7] §6Bugatti Chiron 16.4
+item.BCWAB.name=§7[§3Véhicule§7] §6Bugatti Chiron 16.4
+item.BCWAR.name=§7[§3Véhicule§7] §6Bugatti Chiron 16.4
+item.BCRAB.name=§7[§3Véhicule§7] §6Bugatti Chiron 16.4
+item.Veyronpolice.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 police
+item.BVGTB.name=§7[§3Véhicule§7] §6Bugatti Vision GranTurismo
+item.BVGTW.name=§7[§3Véhicule§7] §6Bugatti Vision GranTurismo
+item.BVGTTITA.name=§7[§3Véhicule§7] §6Bugatti Vision GranTurismo
+item.Veyronbag.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 grey
+item.Veyronbar.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 red
+item.Veyronbaw.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 white
+item.Veyronb.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 black
+item.Veyronwhigs.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 white GS
+item.Veyronblagst.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 black "trust"
+item.Veyronredgs.name=§7[§3Véhicule§7] §6Bugatti Veyron 16.4 red GS
+
+item.RX7fdred.name=§7[§3Véhicule§7] §5Mazda RX7 fd3s
+item.RX7fdyel.name=§7[§3Véhicule§7] §5Mazda RX7 fd3s
+item.RX7fdwhi.name=§7[§3Véhicule§7] §5Mazda RX7 fd3s
+item.RX7fdblack.name=§7[§3Véhicule§7] §5Mazda RX7 fd3s
+item.RX3grey.name=§7[§3Véhicule§7] §5Mazda RX-3
+item.RX3yel.name=§7[§3Véhicule§7] §5Mazda RX-3
+item.RX3ora.name=§7[§3Véhicule§7] §5Mazda RX-3
+item.RX3green.name=§7[§3Véhicule§7] §5Mazda RX-3
+item.RX3blue.name=§7[§3Véhicule§7] §5Mazda RX-3
+item.RX3black.name=§7[§3Véhicule§7] §5Mazda RX-3
+
+item.MX5NAred.name=§7[§3Véhicule§7] §5Mazda MX5 red
+item.MX5NAyel.name=§7[§3Véhicule§7] §5Mazda MX5 yel
+item.MX5NAgre.name=§7[§3Véhicule§7] §5Mazda MX5 gre
+item.MX5NAblack.name=§7[§3Véhicule§7] §5Mazda MX5 black
+item.RX7VFred.name=§7[§3Véhicule§7] §5Mazda RX7 Veilside Fortune red
+item.RX7VFora.name=§7[§3Véhicule§7] §5Mazda RX7 Veilside Fortune orange
+item.RX7VFgrey.name=§7[§3Véhicule§7] §5Mazda RX7 Veilside Fortune grey
+item.RX7VFgreen.name=§7[§3Véhicule§7] §5Mazda RX7 Veilside Fortune green
+item.RX7VFwhite.name=§7[§3Véhicule§7] §5Mazda RX7 Veilside Fortune white
+item.M787BW.name=§7[§3Véhicule§7] §5Mazda M787BW
+item.M787BB.name=§7[§3Véhicule§7] §5Mazda M787BB
+
+item.PGZCRB.name=§7[§3Véhicule§7] §1Pagani Zonda Cinque Roadster
+item.PGZF.name=§7[§3Véhicule§7] §1Pagani Zonda F
+item.PGZR.name=§7[§3Véhicule§7] §1Pagani Zonda R
+item.PGZHH.name=§7[§3Véhicule§7] §1Pagani Zonda HH
+item.PGHOR.name=§7[§3Véhicule§7] §1Pagani Huayra
+item.PGHGREY.name=§7[§3Véhicule§7] §1Pagani Huayra
+item.PGHGREEN.name=§7[§3Véhicule§7] §1Pagani Huayra
+item.PGHYELLOW.name=§7[§3Véhicule§7] §1Pagani Huayra
+item.PGHWHITE.name=§7[§3Véhicule§7] §1Pagani Huayra
+item.PGHBCWHITE.name=§7[§3Véhicule§7] §1Pagani Huayra BC
+item.PGHRWHITE.name=§7[§3Véhicule§7] §1Pagani Huayra Roadster
+item.PGHRRED.name=§7[§3Véhicule§7] §1Pagani Huayra Roadster
+item.PGHROR.name=§7[§3Véhicule§7] §1Pagani Huayra Roadster
+item.PGHRGREY.name=§7[§3Véhicule§7] §1Pagani Huayra Roadster
+item.PGHRGREEN.name=§7[§3Véhicule§7] §1Pagani Huayra Roadster
+item.PGHRYELLOW.name=§7[§3Véhicule§7] §1Pagani Huayra Roadster
+item.PGHRED.name=§7[§3Véhicule§7] §1Pagani Huayra
+item.PGZCO.name=§7[§3Véhicule§7] §1Pagani Zonda Cinque
+item.PGZCB.name=§7[§3Véhicule§7] §1Pagani Zonda Cinque
+item.PGZCUNO.name=§7[§3Véhicule§7] §1Pagani Zonda Cinque 
+item.PGZUno.name=§7[§3Véhicule§7] §1Pagani Zonda Uno
+
+item.st1.name=§7[§3Véhicule§7] §fZenvo ST1 orange
+item.st1grey.name=§7[§3Véhicule§7] §fZenvo ST1 grey
+item.st1green.name=§7[§3Véhicule§7] §fZenvo ST1 green
+item.st1white.name=§7[§3Véhicule§7] §fZenvo ST1 white
+
+item.cx75ora.name=§7[§3Véhicule§7] §8Jaguar C-X75 orange
+item.cx75gre.name=§7[§3Véhicule§7] §8Jaguar C-X75 grey
+item.cx75blu.name=§7[§3Véhicule§7] §8Jaguar C-X75 blue
+item.cx75black.name=§7[§3Véhicule§7] §8Jaguar C-X75 black
+item.cx75red.name=§7[§3Véhicule§7] §8Jaguar C-X75 red
+
+item.gaso.name=§7[§3Véhicule§7] §fGumpert apollo Sport orange
+item.gasb.name=§7[§3Véhicule§7] §fGumpert apollo Sport blue
+item.gasr.name=§7[§3Véhicule§7] §fGumpert apollo Sport red
+item.gasblack.name=§7[§3Véhicule§7] §fGumpert apollo Sport black
+
+item.CadillacCTScolony.name=§7[§3Véhicule§7] §dCadillac CTS colony
+
+item.mc12.name=§7[§3Véhicule§7] §fMaserati MC12
+item.mc12w.name=§7[§3Véhicule§7] §fMaserati MC12 White
+item.mc12bo.name=§7[§3Véhicule§7] §fMaserati MC12 Black and orange
+item.mc12blue.name=§7[§3Véhicule§7] §fMaserati MC12 Blue
+
+item.WMLHB.name=§7[§3Véhicule§7] §fW MOTORS Lykan Hypersport blanc
+item.WMLHR.name=§7[§3Véhicule§7] §fW MOTORS Lykan Hypersport rouge
+item.WMLHN.name=§7[§3Véhicule§7] §fW MOTORS Lykan Hypersport noire
+item.WMLHOr.name=§7[§3Véhicule§7] §fW MOTORS Lykan Hypersport orange
+item.LHtarkorg63.name=§7[§3Véhicule§7] §fW motors lykan hypersport tarkorg63
+
+item.hvgtvert.name=§7[§3Véhicule§7] §fHennessey Venom GT green
+item.hvgtgrise.name=§7[§3Véhicule§7] §fHennessey Venom GT grey
+item.hvgtjaune.name=§7[§3Véhicule§7] §fHennessey Venom GT yellow
+item.hvgtroadsterjaune.name=§7[§3Véhicule§7] §fHennessey Venom GT roadster yellow
+item.hvgtrouge.name=§7[§3Véhicule§7] §fHennessey Venom GT red
+item.hvgtnoire.name=§7[§3Véhicule§7] §fHennessey Venom GT black
+
+item.AsVcora.name=§7[§3Véhicule§7] §4Aston Martin Vulcan
+item.AsVcgreyandblu.name=§7[§3Véhicule§7] §4Aston Martin Vulcan
+item.AsVcgreyandred.name=§7[§3Véhicule§7] §4Aston Martin Vulcan
+item.AsVcgreen.name=§7[§3Véhicule§7] §4Aston Martin Vulcan
+item.AsVcwhite.name=§7[§3Véhicule§7] §4Aston Martin Vulcan
+item.AMVB.name=§7[§3Véhicule§7] §4Aston Martin V8 Vantage
+item.AMVR.name=§7[§3Véhicule§7] §4Aston Martin V8 Vantage
+item.AMVGrey.name=§7[§3Véhicule§7] §4Aston Martin V8 Vantage
+item.AMVGreen.name=§7[§3Véhicule§7] §4Aston Martin V8 Vantage
+item.AMVW.name=§7[§3Véhicule§7] §4Aston Martin V8 Vantage
+
+item.NissanGTRBLUE.name=§7[§3Véhicule§7] §7Nissan GT-R Blue
+item.NissanGTRWHITE.name=§7[§3Véhicule§7] §7Nissan GT-R White
+item.NissanGTRRED.name=§7[§3Véhicule§7] §7Nissan GT-R Red
+item.NissanGTRBLACK.name=§7[§3Véhicule§7] §7Nissan GT-R Black
+item.NissanGTRGREY.name=§7[§3Véhicule§7] §7Nissan GT-R Grey
+item.NissanSkylineHR34grey.name=§7[§3Véhicule§7] §7Nissan Skyline HR34
+item.NissanSkylineHR34blue.name=§7[§3Véhicule§7] §7Nissan Skyline HR34
+item.NissanSkylineHR34black.name=§7[§3Véhicule§7] §7Nissan Skyline HR34
+item.NissanSkylineHR34white.name=§7[§3Véhicule§7] §7Nissan Skyline HR34
+item.NissanSkylineR34red.name=§7[§3Véhicule§7] §7Nissan Skyline R34 GT-R
+item.NissanSkylineR34white.name=§7[§3Véhicule§7] §7Nissan Skyline R34 GT-R
+item.NissanSkylineR34grey.name=§7[§3Véhicule§7] §7Nissan Skyline R34 GT-R
+item.NissanSkylineR34blue.name=§7[§3Véhicule§7] §7Nissan Skyline R34 GT-R
+item.NissanSkylineR34black.name=§7[§3Véhicule§7] §7Nissan Skyline R34 GT-R
+item.NissanSileightyBLUE.name=§7[§3Véhicule§7] §7Nissan SilEighty
+
+item.tts0507.name=§7[§3Véhicule§7] Toyota TS050 Hybrid 07
+item.tts0508.name=§7[§3Véhicule§7] Toyota TS050 Hybrid 08
+item.tts0509.name=§7[§3Véhicule§7] Toyota TS050 Hybrid 09
+
+item.Ar18etQ14.name=§7[§3Véhicule§7] §9Audi R18 e-tron Quattro 14
+item.Ar18etQ15.name=§7[§3Véhicule§7] §9Audi R18 e-tron Quattro 15
+
+item.BMWM3E92GT4.name=§7[§3Véhicule§7] §9BMW M3 E92 GT4
+item.BMW525iE34Grey.name=§7[§3Véhicule§7] §9BMW 525i E34
+item.BMW525iE34Gitan.name=§7[§3Véhicule§7] §9BMW 525i E34 manouche
+item.BMW525iE34Black.name=§7[§3Véhicule§7] §9BMW 525i E34
+item.BMW525iE34White.name=§7[§3Véhicule§7] §9BMW 525i E34
+item.BMWM6F13Red.name=§7[§3Véhicule§7] §9BMW M6 F13Red
+item.BMWM6F13Whi.name=§7[§3Véhicule§7] §9BMW M6 F13Whi
+item.BMWM6F13Grey.name=§7[§3Véhicule§7] §9BMW M6 F13Grey
+item.BMWM6F13Bla.name=§7[§3Véhicule§7] §9BMW M6 F13Bla
+
+item.CC7RED.name=§7[§3Véhicule§7] §bCorvette C7 stingray Red
+item.CC7RED2.name=§7[§3Véhicule§7] §bCorvette C7 stingray Red2
+item.CC7YELLOW.name=§7[§3Véhicule§7] §bCorvette C7 stingray YELLOW
+item.CC7YELLOW2.name=§7[§3Véhicule§7] §bCorvette C7 stingray YELLOW2
+item.CC7WHITE.name=§7[§3Véhicule§7] §bCorvette C7 stingray WHITE
+item.CC7WHITE2.name=§7[§3Véhicule§7] §bCorvette C7 stingray WHITE2
+item.CC7GREY.name=§7[§3Véhicule§7] §bCorvette C7 stingray GREY
+item.CC7GREY2.name=§7[§3Véhicule§7] §bCorvette C7 stingray GREY2
+item.CC7BLUE.name=§7[§3Véhicule§7] §bCorvette C7 stingray BLUE
+item.CC7BLUE2.name=§7[§3Véhicule§7] §bCorvette C7 stingray BLUE2
+item.CC7BLACK.name=§7[§3Véhicule§7] §bCorvette C7 stingray BLACK
+item.CC7BLACK2.name=§7[§3Véhicule§7] §bCorvette C7 stingray BLACK2
+item.CCZL1y.name=§7[§3Véhicule§7] §6Chevrolet Camaro ZL1
+item.CTLTPolice.name= §7[§bPolice§7] §bChevrolet Police
+
+item.CadillacCTSgrey.name=§7[§3Véhicule§7] §dCadillac CTSgrey
+item.CadillacCTSwhite.name=§7[§3Véhicule§7] §dCadillac CTSwhite 
+item.CadillacCTSblack.name=§7[§3Véhicule§7] §dCadillac CTSblack 
+item.CadillacESCblack.name=§7[§3Véhicule§7] §dCadillac Escalade 2017
+
+item.RTIgreen.name=§7[§3Véhicule§7] §eRenault Twingo I Green
+item.RTIblue.name=§7[§3Véhicule§7] §eRenault Twingo I Blue
+item.RTIblack.name=§7[§3Véhicule§7] §eRenault Twingo I Black
+item.RTIwhite.name=§7[§3Véhicule§7] §eRenault Twingo I White
+
+item.44_20mmAircraftAmmo.name= Munitions 20mm pour Aérienne
+item.44_20mmAmmo.name= Munition de 20mm
+item.44_37APShell.name= Obus 37AP
+item.44_37mmAircraftAmmo.name= Munition de 37 mm Aérienne
+item.44_Torpedo.name= Torpille
+item.AIM9.name= Missile AIM 9 
+item.AltisOfLife_Bac.name= §7[§bPolice§7] §fSuburban Police National
+item.bike.name= §7[§3Véhicule§7] §9Vélo de coco
+item.Blinde_Noir_police.name= §7[§3Véhicule§7] §5Blinde Noir 
+item.btcivil_vehicle_unu_dg930mtc_2083_blackthorne.name= §7[§3Véhicule§7] §fBus Double étage
+item.btcivil_vehicle_unu_rj618lcc_2089_van_ford.name= §7[§3Véhicule§7] §fVan Ford Noir
+item.btcivil_vehicle_unu_rj618lcc_2089_van_ocean.name= §7[§3Véhicule§7] §fVan Ford Noir Ocean
+item.btcivil_vehicle_unu_rs702ltc_2095_apple_manilla.name= §7[§3Véhicule§7] §fCorvet de Coco
+item.camion.name= §7[§3Véhicule§7] §fCamion
+item.CamionCaissePB.name= §7[§3Véhicule§7] §fCamion avec des caisses
+item.Camion_Mercedes_Actros.name= §7[§3Véhicule§7] §fCamion Mercedes
+item.Chevry1957_noir.name= §7[§3Véhicule§7] §fChevry 1957 Noir
+item.brlmncpl.name= §7[§bPolice§7] §bBerlingo de la Police Municipale
+item.combi_volkswagen02.name= §7[§3Véhicule§7] §fVan Volkswagen02
+item.combi_volkswagen_Hippie.name= §7[§3Véhicule§7] §fVan Volkswagen Hippie
+item.Depanneuse.name= §7[§3Véhicule§7] §eDépanneuse 
+item.Grue.name= §7[§6Props§7] §eGrue 
+item.Noir.name= §7[§2Militaire§7] §2HMV 
+item.Hunter_Makarov.name= §7[§3Véhicule§7] §fHunter Russe
+item.jetmax.name= §7[§3Véhicule§7] §fRapid jet 
+item.kmz4310.name= §7[§3Véhicule§7] §fKamaz 4310
+
+item.aventySVBL2.name= §7[§3Véhicule§7] §eLamborghini Aventador Bleu
+item.aventySVGr.name= §7[§3Véhicule§7] §eLamborghini Aventador Verte
+item.aventySVRe.name= §7[§3Véhicule§7] §eLamborghini Aventador Rouge
+item.aventySVWh.name= §7[§3Véhicule§7] §eLamborghini Aventador Blanche
+item.aventySVYl.name= §7[§3Véhicule§7] §eLamborghini Aventador Jaune
+item.aventyLVCGV.name= §7[§3Véhicule§7] §eLamborghini Aventador Toit ouvrant Grise
+item.aventyLVCGW.name= §7[§3Véhicule§7] §eLamborghini Aventador LVCGW
+item.aventyLVCGR.name= §7[§3Véhicule§7] §eLamborghini Aventador LVCGR
+item.LVCGR.name= §7[§3Véhicule§7] §eLamborghini LVCGR
+
+item.MLP1BLACK.name= §7[§3Véhicule§7] §6McLaren 650s Noir
+item.MLP1ORANGE.name= §7[§3Véhicule§7] §6McLaren 650s Orange
+item.MLP1PURPLE.name= §7[§3Véhicule§7] §6McLaren 650s Violette
+item.MLP1RED.name= §7[§3Véhicule§7] §6McLaren 650s Rouge
+item.MLP1WHITE.name= §7[§3Véhicule§7] §6McLaren 650s Blanche
+item.MLP1YELLOW.name= §7[§3Véhicule§7] §6McLaren 650s Jaune
+item.Moke.name= §7[§3Véhicule§7] §fCadis de Golf
+
+item.Harley_Davidson_Road_King_Americaine.name= §7[§3Véhicule§7] §fHarley Davidson Patriot
+item.Harley_Davidson_Road_King_civil-blanc.name= §7[§3Véhicule§7] §fHarley Davidson Blanche
+item.Harley_Davidson_Road_King-jaune.name= §7[§3Véhicule§7] §fHarley Davidson Jaune
+item.Harley_Davidson_Road_King_civil-noir.name= §7[§3Véhicule§7] §fHarley Davidson Noir
+item.Harley_Davidson_Road_King_civil-rouge.name= §7[§3Véhicule§7] §fHarley Davidson Rouge1
+item.Harley_Davidson_Road_King_civil-bleu.name= §7[§3Véhicule§7] §fHarley Davidson Bleue1
+item.Harley_Davidson_Road_King-rouge.name= §7[§3Véhicule§7] §fHarley Davidson Rouge
+item.Harley_Davidson_Road_King-verte.name= §7[§3Véhicule§7] §fHarley Davidson Verte
+item.Harley_Davidson_Road_King-violet.name= §7[§3Véhicule§7] §fHarley Davidson Violette
+item.Harley_Davidson_Road_King_Lost.name= §7[§3Véhicule§7] §fHarley Davidson lost1
+
+item.Harley_Davidson-Noir_bleu_ml_girl.name= §7[§3Véhicule§7] §fHarley Davidson Bleue
+item.Harley_Davidson-Noir_Rouge.name= §7[§3Véhicule§7] §fHarley Davidson Rouge1
+item.moto_HELLS_TIGERS.name= §7[§3Véhicule§7] §fHarley Davidson Tigre de l'enfer
+item.Harley_Road_King_Police.name= §7[§bPolice§7] §fHarley Davidson Police
+item.moto_civile_blanc2_letigreroyal.name= §7[§3Véhicule§7] §fMoto Civile Blanc 
+item.moto_civile_noire_blanche_letigreroyal.name= §7[§3Véhicule§7] §fMoto Civile Noir/Blanche
+item.moto_civile_noir_or_letigreroyal.name= §7[§3Véhicule§7] §fMoto Civil Noir/or
+item.moto_civile_noir_rose_letigreroyal.name= §7[§3Véhicule§7] §fMoto Civil Rose/or
+item.Indian_chieftain_2015_Noir_Flammes.name= §7[§3Véhicule§7] §fIndian Chieftain 2015
+item.Road_King_Custom01.name= §7[§3Véhicule§7] §fRoad King Custom 1
+item.Road_King_lOST.name= §7[§3Véhicule§7] §fRoad King Lost
+item.Harley_Davidson_Softail_sin_S_Blanche.name= §7[§3Véhicule§7] §fHarley Davidson Softail Sin S Blanche
+item.Harley_Davidson_Softail_sin_S_Lost.name= §7[§3Véhicule§7] §fHarley Davidson Softail Sin S Lost
+item.Harley_Davidson_Softail_sin_S_militaire.name= §7[§3Véhicule§7] §fHarley Davidson Softail Sin S Militaire.name= Harley Davidson Softail Sin S Militaire
+
+item.patrol.name= §7[§bPolice§7] §fBateau de Patrouille 
+item.patrol2.name= §7[§bPolice§7] §fBateau de garde côte
+item.patrol3.name= §7[§aPompier§7] §fBateau de Pompier
+item.patrolm.name= §7[§2Militaire§7] §fBateau Militaire
+item.Peugeot206AE.name= §7[§3Véhicule§7] §fPeugeot de l'auto école
+item.Piaggio_black.name= §7[§3Véhicule§7] §fPiaggio Noir
+
+item.pvp_noir_letigreroyal.name= §7[§3Véhicule§7] §5Pvp Panhard Noir
+item.pvp_bri_letigreroyal.name= §7[§9BRI§7] §8Pvp Panhard BRI
+item.pvp_gd_letigreroyal.name= §7[§bGendarmerie§7] §bPvp Panhard Gendarmerie
+item.pvp_gign_letigreroyal.name= §7[§9GIGN§7] §9Pvp Panhard GIGN
+item.pvp_m_letigreroyal.name= §7[§2Militaire§7] §2Pvp Panhard Militaire
+item.pvp_raid_letigreroyal.name= §7[§3Véhicule§7] §1Pvp Panhard Raid
+item.pvp_un1_letigreroyal.name= §7[§3Véhicule§7] Pvp Panhard UN1
+item.pvp_un2_letigreroyal.name= §7[§3Véhicule§7] Pvp Panhard UN2
+
+
+item.Binoculars.name= §8Jumelles
+item.Bouclierduraid.name= §8Bouclier du Raid
+item.ColisRemote.name= §cManette Colis Explosif
+item.Shield.name= §8Bouclier1
+item.bouclier.name= §8Bouclier2
+item.Cochon.name= §cCadavre de Cochon
+item.Ocelot.name= §eCadavre d'Ocelot
+item.Poulet.name= §eCadavre de Poulet
+item.Sheep.name= §eCadavre de Mouton
+item.Tente.name= §7Tente
+
+item.Triangledepresignalisation.name= §7Triangle de pré-signalisation
+item.Baliseobstacle.name= §7Signalisation Obstacle
+item.Bande.name= §7Bande
+item.Flare.name= §cFlare
+item.Generateur.name= §7Signalisation Electricité
+item.Publicite4.name= §2Publicité Militaire
+item.Radar.name= §7Signalisation Radar1
+item.Radar50.name= §7Signalisation Radar2
+item.Route.name= §7Route Barrée
+item.Route2.name= §7Déviation
+
+
+item.betonniere.name= §7Bétonnière
+item.deadbody.name= §cCadavre
+item.Targed.name= Cible
+item.herse.name= §7Herse
+item.plot.name= §6Plot
+
+item.rgd5.name= §2Grenade RGD5
+item.smoke.name= §2Grenade Fumigène (très longue)
+item.stun.name= §2Grenade Fumigène
+item.Grenade40mmARA.name= §2Munition ARA LBD
+item.Grenade40mmGMSS.name= §2Munition GMSS LBD
+item.ADEN.name= ADEN
+item.ADENAmmo.name= Munition ADEN
+
+item.coco.perche.name= Perche avec Micro
+item.coco.Camera.name= Caméra
+
+item.radarmain.name= §bRadar Laser
+item.taser.name= §bTaser AOL
+item.taserammo.name= §bMunition Taser AOL
+
+item.FlareGun.name= §cPistolet à fusée
+item.FlareGunAmmo.name= §cMunition pour Pistolet à fusée
+item.Minie_Ammo.name= Minie Ammo
+
+item.gao.name= §7[§1DGSI§7] §1Tenue G.A.O
+item.CFS.name= §7[§9BRI§7] §9Tenue C.F.S
+item.CIA.name= §7[§1CIA§7] §1Tenue C.I.A
+
+item.brancard.name= §fBrancard
+
+item.honda_atv_2006_2_gendarmerie_letigreroyal.name= §7[§bGendarmerie§7] §bHonda ATV 2006 Gendarmerie
+item.honda_atv_2006_2_millitaire_letigreroyal.name= §7[§2Militaire§7] §2Honda ATV 2006 Militaire
+item.honda_atv_2006_2_pn_letigreroyal.name= §7[§bPolice§7] §bHonda ATV 2006 Police Nationale
+item.honda_atv_2006_2_pompier_letigreroyal.name= §7[§aPompier§7] §aHonda ATV 2006 Pompier
+item.honda_atv_2006_blanc_letigreroyal.name= §7[§3Véhicule§7] §fHonda ATV 2006 Blanc
+item.honda_atv_2006_2_jaune_letigreroyal.name= §7[§3Véhicule§7] §fHonda ATV 2006 Jaune
+item.honda_atv_2006_2_lime_letigreroyal.name= §7[§3Véhicule§7] §fHonda ATV 2006 Lime
+item.honda_atv_2006_2_noir_letigreroyal.name= §7[§3Véhicule§7] §fHonda ATV 2006 Noir
+item.honda_atv_2006_2_rose_letigreroyal.name= §7[§3Véhicule§7] §fHonda ATV 2006 Rose
+item.honda_atv_2006_2_vert_letigreroyal.name= §7[§3Véhicule§7] §fHonda ATV 2006 Vert
+
+item.renault_masterdir.name= §7[§3Véhicule§7] §eRenault Master Directeur
+
+item.skoda_karoq_samu_letigreroyal.name= §7[§aPompier§7] §fSkoda Karoq Samu
+item.skoda_karoq_gris_letigreroyal.name= §7[§3Véhicule§7] §fSkoda Karoq gris
+
+item.RenaultTwingoblack.name= §7[§3Véhicule§7] §eRenault Twingo Noire
+item.speedg.name= §7[§3Véhicule§7] §fYatch Vert
+item.speedb.name= §7[§3Véhicule§7] §fYatch Bleu
+item.speedr.name= §7[§3Véhicule§7] §fYatch Rouge
+item.honda_atv_2006_2_militaire_letigreroyal.name = §7[§2Militaire§7] §fHonda ATV Militaire
+item.honda_atv_2006_noir_letigreroyal.name= §7[§3Véhicule§7] §fHonda ATV Noir
+item.renault_master_rose_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Rose
+item.zodiac_bleu.name= §7[§3Véhicule§7] Zodiac Bleu
+item.honda_atv_blanc_letigreroyal.name= §7[§3Véhicule§7] §fHonda ATV Blanc
+item.GFS_Vodnik.name= §7[§3Véhicule§7] GFS Vodnik
+item.renault_master_gendarme3_letigreroyal.name= §7[§bGendarmerie§7] §eRenault Master Gendarme 3
+item.renault_gbc_180_10_letigreroyal.name= §7[§3Véhicule§7] §eRenault GBC 180
+item.zodiac_noir.name= §7[§3Véhicule§7] §fZodiac noir
+item.skoda_karoq_rouge_letigreroyal.name= §7[§3Véhicule§7] §fSkoda Karod Rouge
+item.renault_master_vert_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Vert
+item.skoda_karoq_violet_letigreroyal.name= §7[§3Véhicule§7] §fSkoda Karoq Violet
+item.honda_atv_2006_jaune_letigreroyal.name= §7[§3Véhicule§7] §fHonda ATV Jaune
+item.renault_master_pompiera_letigreroyal.name= §7[§aPompier§7] §eRenault Master Pompier
+item.UH72SC.name= §7[§6Hélicoptère§7] §2UH72C
+item.renault_master_gendarme_letigreroyal.name= §7[§bGendarmerie§7] §eRenault Master Gendarmerie
+item.zodiac_police_prefecture.name= §7[§bPolice§7] §fZodiac Police
+item.renault_gbc_180_8_letigreroyal.name= §7[§3Véhicule§7] §eRenault GBC 180
+item.renault_master_entreprise_2_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Entreprise 2
+item.Drone.name= §7[§3Véhicule§7] §fDrône
+item.renault_gbc_180_4_letigreroyal.name= §7[§3Véhicule§7] §eRenault GBC 180 4
+item.renault_master_blanc_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Blanc
+item.skoda_karoq_pb_gris_letigreroyal.name= §7[§3Véhicule§7] §fSkoda Karoq PB Gris
+item.renault_gbc_180_1_letigreroyal.name= §7[§3Véhicule§7] §eRenault GBC 180 1
+item.speedgr.name= §7[§3Véhicule§7] Yatch Noir/Vert
+item.renault_master_jaune_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Jaune
+item.renault_master_orange_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Orange
+item.skoda_karoq_pb_bleu_letigreroyal.name= §7[§3Véhicule§7] §fSkoda Karod PB Bleu
+item.renault_master_crs_letigreroyal.name= §7[§bCRS§7] §eRenault Master CRS
+item.zodiac_rouge.name= §7[§3Véhicule§7] §fZodiac Rouge
+item.Harley_Davidson-Noir_orange.name= §7[§3Véhicule§7] §fHarley Davidson Noir/Orange
+item.titus_GIGN_letigreroyal.name= §7[§9GIGN§7] §fTitus G.I.G.N
+item.skoda_karoq_pb_blanc_letigreroyal.name= §7[§3Véhicule§7] §fSkoda Karoq PB Blanc
+item.UH-72A-Gendarmerie.name= §7[§6Hélicoptère§7] §2UH-72A Gendarmerie
+item.skoda_karoq_pompier_letigreroyal.name= §7[§aPompier§7] §fSkoda Karoq Pompier
+item.honda_atv_2006_rose_letigreroyal.name= §7[§3Véhicule§7] §fHonda ATV Rose
+item.renault_master_pn1_letigreroyal.name= §7[§bPolice§7] §eRenault Master PN 1
+item.honda_atv_2006_lime_letigreroyal.name= §7[§3Véhicule§7] §fHonda ATV Lime
+item.skoda_karoq_pb_jaune_letigreroyal.name= §7[§3Véhicule§7] §fSkoda Karoq PB Jaune
+item.skoda_karoq_pb_vert_letigreroyal.name= §7[§3Véhicule§7] §fSkoda Karoq PB Vert
+item.renault_gbc_180_7_letigreroyal.name= §7[§3Véhicule§7] §eRenault GBC 180 7
+item.GFS_ZFB05.name= §7[§6Hélicoptère§7] §2GFS ZFB05
+item.zodiac_gendarmerie_maritime.name= §7[§bGendarmerie§7] §fZodiac Gendarmerie
+item.renault_gbc_180_9_letigreroyal.name= §7[§3Véhicule§7] §eRenault GBC 180 9
+item.skoda_karoq_blanc_letigreroyal.name= §7[§3Véhicule§7] §fSkoda Karoq Blanc
+item.honda_atv_2006_vert_letigreroyal.name= §7[§3Véhicule§7] §fHonda ATV Vert
+item.renault_gbc_180_3_letigreroyal.name= §7[§3Véhicule§7] §eRenault GBC 180 3
+item.zodiac_blanc.name= §7[§3Véhicule§7] §fZodiac Blanc
+item.renault_master_bleu_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Bleu
+item.skoda_karoq_taxi_blanc_letigreroyal.name= §7[§eTaxi§7] §fSkoda Karoq Taxi Blanc
+item.renault_master_gendarme2_letigreroyal.name= §7[§bGendarmerie§7] §eRenault Master Gendarme 2
+item.smzS1L_classic(RedBlack).name= §7[§3Véhicule§7] §fSMZS1L Classic (Rouge/Noir)
+item.renault_gbc_180_6_letigreroyal.name= §7[§3Véhicule§7] §eRenault GBC 180 6
+item.skoda_karoq_pb_rouge_letigreroyal.name= §7[§3Véhicule§7] §fSkoda Karoq PB Rouge
+item.renault_master_samu_letigreroyal.name= §7[§aPompier§7] §eRenault Master Samu
+item.renault_master_ap_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Prison
+item.renault_master_gris_letigreroyal.name= §7[§3Véhicule§7] §eRenault Master Gris
+item.GFS_Tigr.name= §7[§6Hélicoptère§7] §2GFS Tigre
+item.Harley_Davidson_Softail_sin_S_millitaire.name= §7[§2Militaire§7] §fHarley Davidson Softail sin S Militaire
+item.smzS3A_classic(WhiteDarkRed).name= §7[§3Véhicule§7] §fSMZS1L Classic (Blanc/Rouge)
+
+item.1shb.name= §fCasque Lourd Noir
+item.1shg.name= §fCasque Lourd Vert
+item.24th_STS.name= §fTenue du 24th STS
+item.Blackbird_Pilot.name= §fTenue Pilote Blackbird
+item.Biker.name= §fTenue Biker
+item.Bandeau.name= §fBandeau
+item.Baff.name= §fCache Cou
+item.BT6B45.name= §fArmure BT6B45 Vert
+item.BobGameBoyColor.name= §fBob GameBoy Color
+item.CCT.name= §fTenue CTT
+item.DEA_RRT.name= §fTenue DEA RRT
+item.CostardMafiaCR.name= §fCostard Mafia Cravate Rouge
+item.CostardMafiaCN.name= §fCostard Mafia Cravate Noir
+item.DEVGRU_B.name= §fTenue DEVGRU B
+item.DEVGRU_BLU.name= §fTenue DEVGRU_BLU
+item.DEVGRU_Cru.name= §fTenue DEVGRu Cru
+item.DEVGRU_GRE.name= §fTenue DEVGRU GRE
+
+item.DEVGRU_Gol.name= §fTenue DEVGRU Gol
+item.DEVGRU_Gree.name= §fDEVGRU Gree
+item.DEVGRU_R.name= §fDEVGRu R
+item.DEVGRU_S.name= §fDEVGRU S
+item.Delta_06.name= §fDelta 06
+item.Delta_17.name= §fDelta 17
+item.Delta_77.name= §fDelta 77
+item.DesertCamo.name= §fDesertCamo
+item.DivingBoots.name= §fTenue Diving
+item.DivingHead.name= §fTenue Diving
+item.DivingTrousers.name= §fTenue Diving
+item.DivingVest.name= §fTenue Diving
+item.FarmerHat.name= §fTenue Agriculteur
+item.FarmerPants.name= §fTenue Agriculteur
+item.FarmerShirt.name= §fTenue Agriculteur
+item.FishTShirt.name= §fTenue Pêcheur
+item.FishingHat.name= §fTenue Pêcheur
+item.FishingPants.name= §fTenue Pêcheur
+item.FishingShirt.name= §fTenue Pêcheur
+item.FlektarnCamo.name= §fCamo Flektarn
+item.Force_Recon.name= §fTenue Force Recon
+item.GalonInfSsLtn.name= §fGalon Infirmier Sous Lieutenant
+item.GangPb.name= §fTenue Parabellum
+item.GasMask.name= §fMasque à Gaz
+item.GorkaHaki.name= §fGorkaHaki
+item.KhimzaLight.name= §fKhimzaLight
+item.HoodieBlack.name= §fHoodieBlack
+item.HeroPantsdayz.name= §fHeroPantsdayz
+item.HamzatHelmet.name= §fCasque Hamzat
+item.HRT.name= §fTenue HRT
+item.MSRT.name= §fTenue MSRT
+item.MafiaChapeau.name= §fChapeau Mafia
+item.MafiaChapeauOreillette.name= §fChapeau Mafia avec Oreillette
+item.PantalonBeige.name= §fPantalon Beige
+item.PSU.name= §fTenue PSU
+item.OMON.name= §fTenue OMON
+item.PantalonBloodz.name= §fPantalon Bloodz
+item.PantalonJean.name= §fJean
+item.PantalonMafia.name= §fPantalon Mafia
+item.Parka.name= §fParka
+item.PoloRouge.name= §fPolo Rouge
+item.PoloGris.name= §fPolo Gris
+item.PoloBlanc.name= §fPolo Blanc
+item.RAIDcago.name= §fTenue RAID Cagoule
+item.RAIDcasq.name= §fTenue RAID Casque
+item.RAIDcomb.name= §fTenue RAID Combinaison
+item.RAIDprotbali.name= §fTenue RAID Pare-Bale
+item.RAIDrang.name= §fTenue RAID Rangers
+item.RCMPHat.name= §fChapeau
+item.RecruitBoots.name= §fBottes de Recrue
+item.Respirator.name= §fRespirateur
+item.SAD.name= §fTenue SAD
+item.SEALT1.name= §fTenue Seal 1
+item.SEALT2.name= §fTenue Seal 2
+item.SEALT4.name= §fTenue Seal 4
+item.SEALT6.name= §fTenue Seal 6
+item.SEALV.name= §fTenue Seal V
+item.SOWT.name= §fTenue SOWT
+item.Shinsengumi.name= §fShinsengumi
+item.SweetBrazzers.name= §fSweat Brazzer
+item.TACP.name= §fTenue TACP
+item.TankVest.name= §fTank Vest
+item.TenuFermier.name= §fTenue Fermier
+item.TenuPepeTheFrog.name= §fTenue Pepe The Frog
+item.TenuRisitas.name= §fTenue Risitas
+item.UZ11.name= §fArmure UZ11
+item.USAFMWPilot.name= §fTenue Pilot USAFMW
+item.TigerStripeCamo.name= §fCamo TigerStripeCamo
+item.UrbanCamo.name= §fCamo Urban
+item.achrailblackh.name= §fCasque AchrailBlackh
+item.achblue.name= §fCasque AchBlue
+item.Zabiv.name= §fZabiv
+item.WorkVest.name= §fWorkVest
+item.WoodlandCamo.name= §fCamo Woodland
+item.VesteBeige.name= §fVeste Beige
+item.altyn.name= §fAltyn
+item.brasRouge.name= §fBrassard Rouge
+item.brasBlanc.name= §fBrassard Blanc
+item.camoneige.name= §fCamo Neige
+item.calotg_pn01_letigreroyal.name= §7[§bPolice§7] §fGros Calot PN
+item.calot_pn01_letigreroyal.name= §7[§bPolice§7] §fCalot PN
+item.casquette_ceremonie_pn01__grade_letigreroyal.name= §7[§bPolice§7] §fCasquette Gradé Céremonie PN 
+item.casquette_ceremonie_pn01_letigreroyal.name= §7[§bPolice§7] §fCasquette Céremonie PN
+item.casquette_pn01_letigreroyal.name= §7[§bPolice§7] §fCasquette PN
+item.casquetteg_ceremonie_pn01__grade_letigreroyal.name= §7[§bPolice§7] §fGrosse Casquette Gradé Céremonie PN
+item.casquetteg_ceremonie_pn01_letigreroyal.name= §7[§bPolice§7] §fGrosse Casquette Céremonie PN
+item.casquetteg_pn01_letigreroyal.name= §7[§bPolice§7] §fGrosse Casquette PN
+item.chaussures.name= §fChaussures
+item.deutschAdluralCapDark.name= §fdeutschAdluralCapDark
+item.fermier.name= §fTenue Fermier
+item.eboueur.name= §fTenue Eboueur
+item.gendarmerieceremonie.name= §7[§bGendarmerie§7] §fTenue Céremonie Gendarme 
+item.ghilliesuit.name= §fTenue Ghillie
+item.gilet_pare_balle2_pn_letigreroyal.name= §7[§bPolice§7] §fGilet Pare-Balle PN 2
+item.gilet_pare_balle1_pn_letigreroyal.name= §7[§bPolice§7] §fGilet Pare-Balle PN 1
+item.gilet_pare_balle3_pn_letigreroyal.name= §7[§bPolice§7] §fGilet Pare-Balle PN 3
+item.gilet_pare_balle4_pn_letigreroyal.name= §7[§bPolice§7] §fGilet Pare-Balle PN 4
+item.gj_pn01_letigreroyal.name= §7[§bPolice§7] §fGilet-Jaune PN
+item.glasesblack1.name= §fLunettes Noir
+item.glasesdib.name= §fLunettes Grises
+item.maillotadidasbeige.name= §fMaillot Adidas Beige
+item.lhz2dtz.name= §fCasque Lourd avec Visière 2
+item.lhz2dt.name= §fCasque Lourd 2
+item.kivermz.name= §fCasque Vert avec Visière
+item.kivermn.name= §fCasque Vert
+item.kitz.name= §fCasque Kit Visière
+item.kit.name= §fCasque Kit
+item.medaillegendarmerie.name= §fMedaille Gendarmerie
+item.medaillemerite.name= §fMedaille Mérite
+item.militaryceremonie.name= §fTenue Céremonie Militaire
+item.peltor.name= §fCasque d'écoute
+item.paltoblack.name= §fGrosse Veste Rembourée
+item.pacapress.name= §fGilet Pare-Balle Presse
+item.pierce.name= §fLunettes
+item.pilotHelmet.name= §fCasque de Pilot
+item.pn_capitaine_gradege.name= §7[§bPolice§7] §bCapitaine GE
+item.pn_capitaine_grade.name= §7[§bPolice§7] §bCapitaine
+item.pn_brigadier_grade_ge.name= §7[§bPolice§7] §bBrigadier GE
+item.pn_brigadier_grade.name= §7[§bPolice§7] §bBrigadier
+item.pn_brigadier_chef_gradege.name= §7[§bPolice§7] §bBrigadier Chef GE
+item.pn_brigadier_chef_grade.name= §7[§bPolice§7] §bBriagdier Chef
+item.pn_adjoint_de_securite_gradege.name= §7[§bPolice§7] §bAdjoint GE
+item.pn_adjoint_de_securite_grade.name= §7[§bPolice§7] §bAdjoint
+item.pn_chevalier_merite_letigreroyal.name= §fChevalier du mérite
+item.pn_commandant_grade.name= §7[§bPolice§7] §bCommandant
+item.pn_commandant_gradege.name= §7[§bPolice§7] §bCommandant GE
+item.pn_commisaire_de_police_grade.name= §7[§bPolice§7] §bCommissaire de Police
+item.pn_commisaire_de_police_gradege.name= §7[§bPolice§7] §bCommissaire de Police GE
+item.pn_commisaire_divisionnaire_grade.name= §7[§bPolice§7] §bCommissaire Divisionnaire
+item.pn_commisaire_divisionnaire_gradege.name= §7[§bPolice§7] §bCommissaire Divisionnaire GE
+item.pn_commisaire_general_grade.name= §7[§bPolice§7] §bGénéral
+item.pn_commisaire_general_gradege.name= §7[§bPolice§7] §bGénéral GE
+item.pn_commisaire_principal_grade.name= §7[§bPolice§7] §bCommissaire Principale 
+item.pn_commisaire_principal_gradege.name= §7[§bPolice§7] §bCommissaire Principale GE
+item.pn_courage_devouement_letigreroyal.name= §fCourage et Dévouement
+item.pn_defense_nationale_letigreroyal.name= §fDéfense
+item.pn_eleve_lieutenant_grade.name= §7[§bPolice§7] §bElève Lieutenant
+item.pn_eleve_lieutenant_gradege.name= §7[§bPolice§7] §bElève Lieutenant GE
+item.pn_gardien_de_la_paix_grade.name= §7[§bPolice§7] §bGPX
+item.pn_gardien_de_la_paix_gradege.name= §7[§bPolice§7] §bGPX GE
+item.pn_gardien_de_la_paix_stagiaire_grade.name= §7[§bPolice§7] §bGPX Stagiaire
+item.pn_gardien_de_la_paix_stagiaire_gradege.name= §7[§bPolice§7] §bGPX Stagiaire GE
+item.pn_legion_honneur_letigreroyal.name= §fLegion d'honneur
+item.pn_lieutenant_grade.name= §7[§bPolice§7] §bLieutenant
+item.pn_lieutenant_gradege.name= §7[§bPolice§7] §bLieutenant GE
+item.pn_lieutenant_stagiaire_grade.name= §7[§bPolice§7] §bLieutenant Stagiaire
+item.pn_lieutenant_stagiaire_gradege.name= §7[§bPolice§7] §bLieutenant Stagiaire GE
+item.pn_major_grade.name= §7[§bPolice§7] §bMajor
+item.pn_major_gradege.name= §7[§bPolice§7] §bMajor GE
+item.pn_police_nationale_letigreroyal.name= §fMedaile PN
+item.pn_securite_interieure_letigreroyal.name= §fSécurité intérieur
+item.pn_sous_brigadier_grade.name= §7[§bPolice§7] §bSous-Brigadier
+item.pn_sous_brigadier_gradege.name= §7[§bPolice§7] §bSous-Brigadier GE
+
+item.pololacosteblanc.name= §7[§fCivil§7] §fPolo Lacoste Blanc
+item.pololacostenoir.name= §7[§fCivil§7] §fPolo Lacoste Noir
+item.pololacosterouge= §fPolo Lacoste Rouge
+
+item.s500.name= §7[§3Véhicule§7] §fMercedes S500
+item.HazmatHelmet.name= §fCasque Hazmat
+item.Traditional_Body.name= §fVeste Traditionnelle
+item.deutschAdmiralCapDark.name= §fCasquette Amiral Allemand
+item.usnAdmiralCap.name= §fCasquette Amiral US
+
+item.zh12mz.name= §fCasque zh12mz avec Visière
+item.zh12m.name= §fCasque zh12m
+item.vulkan5z.name= §fCasque Vulkan 5 avec Visière
+item.vulkan5.name= §fCasque Vulkan 5
+
+item.veste_pn01_letigreroyal.name= §7[§bPolice§7] §fVeste Cérémonie PN 1
+item.veste_ceremonie_pn_letigreroyal.name= §7[§bPolice§7] §fVeste Cérémonie PN 2
+
+item.useccap.name= §7[§fCivil§7] §fCasquette Noire 2
+item.sascap.name= §7[§fCivil§7] §fCasquette SAS
+item.scavcaptan.name= §7[§fCivil§7] §fCasquette Beige
+item.scavcapred.name= §7[§fCivil§7] §fCasquette Rouge
+item.scavcapod.name= §7[§fCivil§7] §fCasquette Verte
+item.scavcapblue.name= §7[§fCivil§7] §fCasquette Bleue
+item.scavcapblack.name= §7[§fCivil§7] §fCasquette Noire 1
+item.samu.name= §f[§aPompier§7] §fTenue Samu
+item.rosich.name= §fPare-balle Rosich
+item.rockwell.name= §7[§fCivil§7] §fPipe
+item.redutt5.name= §fPare-balle Vert
+item.redutm.name= §fPare-balle Vert
+item.protivogas.name= §fMasque à gaz
+item.pompiercmadj.name= §7[§aPompier§7] §fTenue Cérémonie Pompier
+
+item.gignprotnegoci.name= §7[§9GIGN§7] §fPare-Balle GIGN Négociateur
+item.kiverm.name= §fCasque Kiverm
+item.sweatnikenoir.name= §7[§fCivil§7] §fSweat Noir Nike
+
+item.trenchCoat.name= §7[§fCivil§7] §fHaut de forme
+item.tenuemagistrat.name= §fTenue Magistrat
+
+item.tenue_pn_polo_longue_letigreroyal.name= §7[§bPolice§7] §fPolo Long
+item.tenue_pn_polo_courte_letigreroyal.name= §7[§bPolice§7] §fPolo Court
+item.tenue_pn_chemise_longue_letigreroyal.name= §7[§bPolice§7] §fChemise Long
+item.tenue_pn_chemise_courte_letigreroyal.name= §7[§bPolice§7] §fChemise Court
+item.tenue_pn01_ceremonie_letigreroyal.name= §7[§bPolice§7] §fTenue de Cérémonie 1
+item.tenue_pn01_ceremonie_grade_letigreroyal.name= §7[§bPolice§7] §fTenue de Cérémonie Gradé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

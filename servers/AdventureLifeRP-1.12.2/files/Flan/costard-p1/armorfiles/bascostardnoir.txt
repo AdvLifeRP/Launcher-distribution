@@ -1,0 +1,9 @@
+Name bascostardnoir
+ShortName bascostnoir
+Icon bascostardnoir
+Colour 255 255 255
+Type Legs
+Model nowdek.bascostard
+Defence 0.10
+ArmourTexture costardnoir
+ModelScale 1.00

@@ -1,9 +1,0 @@
-Name Marseillebb
-ShortName Marseillebb
-Icon Marseillebb
-Colour 255 255 255
-Type Body
-Model JeanPierre.marseillebb
-Defence 0.00
-ArmourTexture skin_armor_Marseillebb
-ModelScale 1.00
