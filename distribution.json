@@ -372,6 +372,19 @@
           }
         },
         {
+          "id": "guichaguri.betterfps:betterfps:1.4.8@jar",
+          "name": "BetterFps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 155196,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionalon/BetterFps-1.4.8.jar",
+            "MD5": "d36f4d3c0f96e99a9a1ad2e8eeda1fc4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "epicsquid.blockcraftery:blockcraftery:1.2.0@jar",
           "name": "Blockcraftery",
           "type": "ForgeMod",
@@ -554,6 +567,19 @@
           "required": {
             "value": false,
             "def": false
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
+          "name": "OptiFine 1.12.2_HD_U_G5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2457427,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionalon/OptiFine-OptiFine-1.12.2_HD_U_G5.jar",
+            "MD5": "92a619d468d9576a531a7ca8908669e2"
+          },
+          "required": {
+            "value": false
           }
         },
         {
