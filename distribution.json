@@ -266,6 +266,20 @@
           ]
         },
         {
+          "id": "io.github.notstirred:mixincompat:1.0-SNAPSHOT@jar",
+          "name": "Mixin Compatibility",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 867296,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionaloff/___MixinCompat-0.8.jar",
+            "MD5": "91038ed983e0a9748923896520465c31"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "zone.rong.mixinbooter:MixinBooter:7.1@jar",
           "name": "_MixinBooter",
           "type": "ForgeMod",
@@ -273,6 +287,20 @@
             "size": 1064048,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionaloff/_MixinBooter-7.1.jar",
             "MD5": "155679fd173ce643b6c4d0a248c028c7"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "org.spongepowered.asm.launch:_mixinbootstrap:1.1.0@jar",
+          "name": "_MixinBootstrap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1119478,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionaloff/_MixinBootstrap-1.1.0.jar",
+            "MD5": "9df0dc628ebcd787270f487fbbf8157a"
           },
           "required": {
             "value": false,
@@ -38921,17 +38949,6 @@
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/mods/malisiscore-1.12.2-6.5.1.jar",
             "MD5": "ccc183a97d7b9688a49bf29b61343f49",
             "path": "mods/malisiscore-1.12.2-6.5.1.jar"
-          }
-        },
-        {
-          "id": "_MixinBootstrap-1.1.0.jar",
-          "name": "_MixinBootstrap-1.1.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1119478,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/mods/_MixinBootstrap-1.1.0.jar",
-            "MD5": "9df0dc628ebcd787270f487fbbf8157a",
-            "path": "mods/_MixinBootstrap-1.1.0.jar"
           }
         }
       ]
