@@ -38933,17 +38933,6 @@
             "MD5": "9df0dc628ebcd787270f487fbbf8157a",
             "path": "mods/_MixinBootstrap-1.1.0.jar"
           }
-        },
-        {
-          "id": "___MixinCompat-0.8.jar.disabled",
-          "name": "___MixinCompat-0.8.jar.disabled",
-          "type": "File",
-          "artifact": {
-            "size": 867296,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/mods/___MixinCompat-0.8.jar.disabled",
-            "MD5": "91038ed983e0a9748923896520465c31",
-            "path": "mods/___MixinCompat-0.8.jar.disabled"
-          }
         }
       ]
     }
