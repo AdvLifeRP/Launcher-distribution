@@ -1,0 +1,9 @@
+Name casquepompier
+ShortName casquepompier
+Icon casquepompier
+Colour 255 255 255
+Type Head
+Model PlumePack.casquepompier
+Defence 0.3
+ArmourTexture skin_armor_casquepompier
+ModelScale 1.00

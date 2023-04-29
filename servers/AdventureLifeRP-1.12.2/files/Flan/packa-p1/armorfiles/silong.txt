@@ -1,0 +1,9 @@
+Name silong
+ShortName silong
+Icon silong
+Colour 255 255 255
+Type Body
+Model PlumePack.silong
+Defence 0.0
+ArmourTexture skin_armor_si
+ModelScale 1.00
