@@ -266,6 +266,19 @@
           ]
         },
         {
+          "id": "io.github.notstirred:mixincompat:1.0-SNAPSHOT@jar",
+          "name": "Mixin Compatibility",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 867296,
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionalon/___MixinCompat-0.8___.jar",
+            "MD5": "91038ed983e0a9748923896520465c31"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "org.spongepowered.asm.launch:_mixinbootstrap:1.1.0@jar",
           "name": "_MixinBootstrap",
           "type": "ForgeMod",
@@ -273,19 +286,6 @@
             "size": 1119478,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionalon/_MixinBootstrap-1.1.0.jar",
             "MD5": "9df0dc628ebcd787270f487fbbf8157a"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "io.github.notstirred:mixincompat:1.0-SNAPSHOT@jar",
-          "name": "Mixin Compatibility",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 867296,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionalon/[___MixinCompat-0.8___].jar",
-            "MD5": "91038ed983e0a9748923896520465c31"
           },
           "required": {
             "value": false
