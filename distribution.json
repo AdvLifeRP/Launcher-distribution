@@ -16,9 +16,9 @@
       "address": "93.186.69.248:25501",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "908774399346360443",
+        "largeImageText": "AdventureLife",
+        "largeImageKey": "seal-circle"
       },
       "mainServer": true,
       "autoconnect": false,
@@ -430,20 +430,6 @@
           }
         },
         {
-          "id": "me.maxish0t:hotlib:0.0.1@jar",
-          "name": "HotLib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11751,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionaloff/HotLib-1.12.2.jar",
-            "MD5": "289c564e0382ddbdd5df573b402c5610"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "net.malisis.blocks:malisisblocks:1.12.2-6.1.0@jar",
           "name": "Malisis Blocks",
           "type": "ForgeMod",
@@ -489,12 +475,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 425127,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionaloff/Mysticallib-1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/required/Mysticallib-1.12.2.jar",
             "MD5": "34bbb00e2eae273e1935e419a8ec48b7"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
