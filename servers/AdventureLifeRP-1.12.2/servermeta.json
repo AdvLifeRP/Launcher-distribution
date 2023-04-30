@@ -20,7 +20,10 @@
     {
         "appliesTo": ["files"],
         "patterns": [
-          "config/**/*"
+          "config/**/*",
+          "options.txt",
+          "optionsof.txt",
+          "servers.dat"
         ]
     }
   ]
