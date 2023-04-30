@@ -1694,9 +1694,9 @@
           "name": "sounds.json",
           "type": "File",
           "artifact": {
-            "size": 648,
+            "size": 608,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/alcara_pack/assets/flansmod/sounds.json",
-            "MD5": "c2ade3b04d103f43d0fa8d1034f47d5d",
+            "MD5": "f6631c036265c8e31de2893a05ea6537",
             "path": "Flan/alcara_pack/assets/flansmod/sounds.json"
           }
         },
@@ -5269,9 +5269,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 3512,
+            "size": 3441,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/civil%20pack-p1/assets/flansmod/lang/en_us.lang",
-            "MD5": "839804f67873b8d6c0207f61e1ced8f1",
+            "MD5": "715877deee7cee54bf7aacca2cf5e260",
             "path": "Flan/civil pack-p1/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -8690,9 +8690,9 @@
           "name": "pack_info.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 103,
+            "size": 98,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/civil%20pack-p1/pack_info.mcmeta",
-            "MD5": "2127a163402ce61cafbc2ac33096b087",
+            "MD5": "3ff3ce746b4096eb8a9c62ca3964817d",
             "path": "Flan/civil pack-p1/pack_info.mcmeta"
           }
         },
@@ -9779,9 +9779,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 1176,
+            "size": 1138,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/coco%20civil%20pack/assets/flansmod/lang/en_us.lang",
-            "MD5": "638bac5257040a7f5fa975ad8c275970",
+            "MD5": "14703a11cbfb00991d754e39e1e1ede5",
             "path": "Flan/coco civil pack/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -9790,9 +9790,9 @@
           "name": "fr_fr.lang",
           "type": "File",
           "artifact": {
-            "size": 1179,
+            "size": 1140,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/coco%20civil%20pack/assets/flansmod/lang/fr_fr.lang",
-            "MD5": "9428fc07784b254dc33a0b2cdb480f7b",
+            "MD5": "6201d7bacc11aee4121498fddeedac6d",
             "path": "Flan/coco civil pack/assets/flansmod/lang/fr_fr.lang"
           }
         },
@@ -10923,9 +10923,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 197523,
+            "size": 194202,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/costard-p1/assets/flansmod/lang/en_us.lang",
-            "MD5": "3d1515f83b5495ea7e6d34a0c25bff04",
+            "MD5": "bd3b6b10fda147fcb3b3558b9b130d9c",
             "path": "Flan/costard-p1/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -10934,9 +10934,9 @@
           "name": "fr_fr.lang",
           "type": "File",
           "artifact": {
-            "size": 197523,
+            "size": 194202,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/costard-p1/assets/flansmod/lang/fr_fr.lang",
-            "MD5": "3d1515f83b5495ea7e6d34a0c25bff04",
+            "MD5": "bd3b6b10fda147fcb3b3558b9b130d9c",
             "path": "Flan/costard-p1/assets/flansmod/lang/fr_fr.lang"
           }
         },
@@ -11451,9 +11451,9 @@
           "name": "sounds.json",
           "type": "File",
           "artifact": {
-            "size": 2589,
+            "size": 2560,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/ferrari%20pack/assets/flansfma/sounds.json",
-            "MD5": "e618021110fa8257d0b71e5e227b2ccb",
+            "MD5": "9cd9f32808ecb14a2a0a2a26134ec7b8",
             "path": "Flan/ferrari pack/assets/flansfma/sounds.json"
           }
         },
@@ -11462,9 +11462,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 1129,
+            "size": 1100,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/ferrari%20pack/assets/flansmod/lang/en_us.lang",
-            "MD5": "5b7ac7c3a5f79f1f29649e6eb6acce19",
+            "MD5": "04907ba176f05785a735b99b94bd3846",
             "path": "Flan/ferrari pack/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -12287,9 +12287,9 @@
           "name": "sounds.json",
           "type": "File",
           "artifact": {
-            "size": 1478,
+            "size": 1393,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/ferrari%20pack/assets/flansmod/sounds.json",
-            "MD5": "55ff68406652edecc81b37a61cc6c012",
+            "MD5": "53861015fad9ebb60fcc5c66f75e7467",
             "path": "Flan/ferrari pack/assets/flansmod/sounds.json"
           }
         },
@@ -12364,9 +12364,9 @@
           "name": "pack.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 95,
+            "size": 90,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/ferrari%20pack/pack.mcmeta",
-            "MD5": "c7bf29ec8ca4abe03edad20ee1e8d03b",
+            "MD5": "384a488cd64405de7a5cc39395d25647",
             "path": "Flan/ferrari pack/pack.mcmeta"
           }
         },
@@ -12617,9 +12617,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 465,
+            "size": 452,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/ford%20pack/assets/flansmod/lang/en_us.lang",
-            "MD5": "2163ec7f10d9e000aadf09b44f78b2fb",
+            "MD5": "c46aab005679e9ce9c4f139fc6f8973b",
             "path": "Flan/ford pack/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -12980,9 +12980,9 @@
           "name": "pack.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 95,
+            "size": 90,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/ford%20pack/pack.mcmeta",
-            "MD5": "c7bf29ec8ca4abe03edad20ee1e8d03b",
+            "MD5": "384a488cd64405de7a5cc39395d25647",
             "path": "Flan/ford pack/pack.mcmeta"
           }
         },
@@ -13112,9 +13112,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 876,
+            "size": 855,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/french%20armed%20forces/assets/flansmod/lang/en_us.lang",
-            "MD5": "ed55de82e8340b9ee180710360689f22",
+            "MD5": "4c54ce89464cf2d153be9fe2ac3b29c8",
             "path": "Flan/french armed forces/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -13992,9 +13992,9 @@
           "name": "manifest.mf",
           "type": "File",
           "artifact": {
-            "size": 25,
+            "size": 23,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/french%20armed%20forces/meta-inf/manifest.mf",
-            "MD5": "92d04d6bd8a0235843240bba30d2f091",
+            "MD5": "82a98c96aa8b54d631f3ddb23372b4f5",
             "path": "Flan/french armed forces/meta-inf/manifest.mf"
           }
         },
@@ -14498,9 +14498,9 @@
           "name": "en_fr.lang",
           "type": "File",
           "artifact": {
-            "size": 7352,
+            "size": 7217,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/gign/assets/flansmod/lang/en_fr.lang",
-            "MD5": "8adb2b2bcfaeb7ed7fc51790077a0903",
+            "MD5": "690da88ab3a7b0f3258bd3cee47f89b4",
             "path": "Flan/gign/assets/flansmod/lang/en_fr.lang"
           }
         },
@@ -14509,9 +14509,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 7350,
+            "size": 7216,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/gign/assets/flansmod/lang/en_us.lang",
-            "MD5": "c6351d27bfea7ed01b352d60a202f3f5",
+            "MD5": "aafa5a8db14af7e0eb644a5d30be4390",
             "path": "Flan/gign/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -18073,9 +18073,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 2,
+            "size": 1,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/jp-p1/assets/flansmod/lang/en_us.lang",
-            "MD5": "81051bcc2cf1bedf378224b0a93e2877",
+            "MD5": "68b329da9893e34099c7d8ad5cb9c940",
             "path": "Flan/jp-p1/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -18469,9 +18469,9 @@
           "name": "desktop.ini",
           "type": "File",
           "artifact": {
-            "size": 126,
+            "size": 120,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/jp-p1/assets/flansmod/skins/desktop.ini",
-            "MD5": "9deb6e5c9c9949baeb54ef2d88a0c12c",
+            "MD5": "43ed8635eabd01647cea528746e7cb5a",
             "path": "Flan/jp-p1/assets/flansmod/skins/desktop.ini"
           }
         },
@@ -18788,9 +18788,9 @@
           "name": "desktop.ini",
           "type": "File",
           "artifact": {
-            "size": 38,
+            "size": 36,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/jp-p1/assets/flansmod/textures/items/desktop.ini",
-            "MD5": "d5d04d69e2ef8631910ddf7383000f93",
+            "MD5": "e8edeb02ab3c512e539aa7cc97c918b2",
             "path": "Flan/jp-p1/assets/flansmod/textures/items/desktop.ini"
           }
         },
@@ -19228,9 +19228,9 @@
           "name": "de_de.lang",
           "type": "File",
           "artifact": {
-            "size": 5623,
+            "size": 5522,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/minecraft-smp-parts-package-content-pack-1-12-2/assets/flansmod/lang/de_de.lang",
-            "MD5": "c8ea4b13019e198458609dc4086fa2ce",
+            "MD5": "231f94f4d31e1ce30d1a6ecd48a4bd16",
             "path": "Flan/minecraft-smp-parts-package-content-pack-1-12-2/assets/flansmod/lang/de_de.lang"
           }
         },
@@ -19239,9 +19239,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 5323,
+            "size": 5220,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/minecraft-smp-parts-package-content-pack-1-12-2/assets/flansmod/lang/en_us.lang",
-            "MD5": "9daa0377bf2a8ab3f6a51f9dd0b9401d",
+            "MD5": "04e97ef15f2f41603ae8ca36669e67f9",
             "path": "Flan/minecraft-smp-parts-package-content-pack-1-12-2/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -21516,9 +21516,9 @@
           "name": "manifest.mf",
           "type": "File",
           "artifact": {
-            "size": 25,
+            "size": 23,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/minecraft-smp-parts-package-content-pack-1-12-2/meta-inf/manifest.mf",
-            "MD5": "92d04d6bd8a0235843240bba30d2f091",
+            "MD5": "82a98c96aa8b54d631f3ddb23372b4f5",
             "path": "Flan/minecraft-smp-parts-package-content-pack-1-12-2/meta-inf/manifest.mf"
           }
         },
@@ -21527,9 +21527,9 @@
           "name": "pack.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 145,
+            "size": 140,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/minecraft-smp-parts-package-content-pack-1-12-2/pack.mcmeta",
-            "MD5": "f83d7e98d831fbd149875645c67820a6",
+            "MD5": "e262fdb0bb1f08456a9e1dbbf14f04eb",
             "path": "Flan/minecraft-smp-parts-package-content-pack-1-12-2/pack.mcmeta"
           }
         },
@@ -22737,9 +22737,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 226,
+            "size": 221,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack%20renault%20fpt/assets/flansmod/lang/en_us.lang",
-            "MD5": "8848bff5fa5f965a4d1738f7ed2a5bf8",
+            "MD5": "17a24ce853f46156ddee64b7a32d6e22",
             "path": "Flan/nowpack renault fpt/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -22770,9 +22770,9 @@
           "name": "dstrbl.json",
           "type": "File",
           "artifact": {
-            "size": 1332,
+            "size": 1257,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack%20renault%20fpt/assets/flansmod/models/item/dstrbl.json",
-            "MD5": "5b6b92370db3b7446302f5363c831ba6",
+            "MD5": "bc64999be11aa192ea0bc5b9f326806a",
             "path": "Flan/nowpack renault fpt/assets/flansmod/models/item/dstrbl.json"
           }
         },
@@ -22781,9 +22781,9 @@
           "name": "dstrblc.json",
           "type": "File",
           "artifact": {
-            "size": 1332,
+            "size": 1257,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack%20renault%20fpt/assets/flansmod/models/item/dstrblc.json",
-            "MD5": "5b6b92370db3b7446302f5363c831ba6",
+            "MD5": "bc64999be11aa192ea0bc5b9f326806a",
             "path": "Flan/nowpack renault fpt/assets/flansmod/models/item/dstrblc.json"
           }
         },
@@ -22792,9 +22792,9 @@
           "name": "dstrbnls.json",
           "type": "File",
           "artifact": {
-            "size": 1332,
+            "size": 1257,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack%20renault%20fpt/assets/flansmod/models/item/dstrbnls.json",
-            "MD5": "5b6b92370db3b7446302f5363c831ba6",
+            "MD5": "bc64999be11aa192ea0bc5b9f326806a",
             "path": "Flan/nowpack renault fpt/assets/flansmod/models/item/dstrbnls.json"
           }
         },
@@ -22803,9 +22803,9 @@
           "name": "dstrgdm.json",
           "type": "File",
           "artifact": {
-            "size": 1332,
+            "size": 1257,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack%20renault%20fpt/assets/flansmod/models/item/dstrgdm.json",
-            "MD5": "5b6b92370db3b7446302f5363c831ba6",
+            "MD5": "bc64999be11aa192ea0bc5b9f326806a",
             "path": "Flan/nowpack renault fpt/assets/flansmod/models/item/dstrgdm.json"
           }
         },
@@ -22814,9 +22814,9 @@
           "name": "dstrnr.json",
           "type": "File",
           "artifact": {
-            "size": 1332,
+            "size": 1257,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack%20renault%20fpt/assets/flansmod/models/item/dstrnr.json",
-            "MD5": "5b6b92370db3b7446302f5363c831ba6",
+            "MD5": "bc64999be11aa192ea0bc5b9f326806a",
             "path": "Flan/nowpack renault fpt/assets/flansmod/models/item/dstrnr.json"
           }
         },
@@ -22825,9 +22825,9 @@
           "name": "dstrorg.json",
           "type": "File",
           "artifact": {
-            "size": 1332,
+            "size": 1257,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack%20renault%20fpt/assets/flansmod/models/item/dstrorg.json",
-            "MD5": "5b6b92370db3b7446302f5363c831ba6",
+            "MD5": "bc64999be11aa192ea0bc5b9f326806a",
             "path": "Flan/nowpack renault fpt/assets/flansmod/models/item/dstrorg.json"
           }
         },
@@ -22836,9 +22836,9 @@
           "name": "dstrpm.json",
           "type": "File",
           "artifact": {
-            "size": 1332,
+            "size": 1257,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack%20renault%20fpt/assets/flansmod/models/item/dstrpm.json",
-            "MD5": "5b6b92370db3b7446302f5363c831ba6",
+            "MD5": "bc64999be11aa192ea0bc5b9f326806a",
             "path": "Flan/nowpack renault fpt/assets/flansmod/models/item/dstrpm.json"
           }
         },
@@ -22847,9 +22847,9 @@
           "name": "dstrrg.json",
           "type": "File",
           "artifact": {
-            "size": 1332,
+            "size": 1257,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack%20renault%20fpt/assets/flansmod/models/item/dstrrg.json",
-            "MD5": "5b6b92370db3b7446302f5363c831ba6",
+            "MD5": "bc64999be11aa192ea0bc5b9f326806a",
             "path": "Flan/nowpack renault fpt/assets/flansmod/models/item/dstrrg.json"
           }
         },
@@ -22858,9 +22858,9 @@
           "name": "fpt.json",
           "type": "File",
           "artifact": {
-            "size": 1330,
+            "size": 1255,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack%20renault%20fpt/assets/flansmod/models/item/fpt.json",
-            "MD5": "b165e57e4654a4b648dc275bb8880d20",
+            "MD5": "219ce4911dbe57ab60cf15ef46b7a816",
             "path": "Flan/nowpack renault fpt/assets/flansmod/models/item/fpt.json"
           }
         },
@@ -22979,9 +22979,9 @@
           "name": "sounds.json",
           "type": "File",
           "artifact": {
-            "size": 13268,
+            "size": 12547,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack%20renault%20fpt/assets/flansmod/sounds.json",
-            "MD5": "89fa26070d6733ce4ed902dc1ce46201",
+            "MD5": "4de3a8d7ff3591fec51dd270b6da6253",
             "path": "Flan/nowpack renault fpt/assets/flansmod/sounds.json"
           }
         },
@@ -23122,9 +23122,9 @@
           "name": "info pack.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 280,
+            "size": 275,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack%20renault%20fpt/info%20pack.mcmeta",
-            "MD5": "2349cb8bce0ea5aa69fb805dae6e2bfb",
+            "MD5": "aad14654e1782cc3d2cbf3e57ecf7972",
             "path": "Flan/nowpack renault fpt/info pack.mcmeta"
           }
         },
@@ -23144,9 +23144,9 @@
           "name": "pack.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 102,
+            "size": 97,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack%20renault%20fpt/pack.mcmeta",
-            "MD5": "656450e1f14200dadffb07b6ab457c11",
+            "MD5": "f6a6c2d76558e5ba2e8c212824c6cf2a",
             "path": "Flan/nowpack renault fpt/pack.mcmeta"
           }
         },
@@ -23243,9 +23243,9 @@
           "name": "kmz4310.json",
           "type": "File",
           "artifact": {
-            "size": 1328,
+            "size": 1253,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-kamaz/assets/flansmod/models/item/kmz4310.json",
-            "MD5": "99e2097fbab1e47281618a47291022c4",
+            "MD5": "e9751dd37095764f0d802337f72de5f2",
             "path": "Flan/nowpack-kamaz/assets/flansmod/models/item/kmz4310.json"
           }
         },
@@ -23298,9 +23298,9 @@
           "name": "info pack.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 280,
+            "size": 275,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-kamaz/info%20pack.mcmeta",
-            "MD5": "2349cb8bce0ea5aa69fb805dae6e2bfb",
+            "MD5": "aad14654e1782cc3d2cbf3e57ecf7972",
             "path": "Flan/nowpack-kamaz/info pack.mcmeta"
           }
         },
@@ -24057,9 +24057,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 844,
+            "size": 824,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/lang/en_us.lang",
-            "MD5": "f27ff666755e7fc02159ad898d9e0217",
+            "MD5": "daf4d585cd94f76357cca18e9c991210",
             "path": "Flan/nowpack-mili/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -24079,9 +24079,9 @@
           "name": "bereblan.json",
           "type": "File",
           "artifact": {
-            "size": 1333,
+            "size": 1258,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/bereblan.json",
-            "MD5": "ecc52d158d9ca234667a58b6c29fd71b",
+            "MD5": "b291e2c20f72fe423b206c25ca95313f",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/bereblan.json"
           }
         },
@@ -24090,9 +24090,9 @@
           "name": "berebleu.json",
           "type": "File",
           "artifact": {
-            "size": 1332,
+            "size": 1257,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/berebleu.json",
-            "MD5": "4ba9ff973164b7d7df982b5f9a36a80b",
+            "MD5": "316c9495b9a62a09900c3d44ed3d3d3b",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/berebleu.json"
           }
         },
@@ -24101,9 +24101,9 @@
           "name": "berecommmari.json",
           "type": "File",
           "artifact": {
-            "size": 1342,
+            "size": 1267,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/berecommmari.json",
-            "MD5": "c528d2584d318c3991ae3124b874200d",
+            "MD5": "4c49d37c2b9bd85c16668348109deef6",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/berecommmari.json"
           }
         },
@@ -24112,9 +24112,9 @@
           "name": "berefusimari.json",
           "type": "File",
           "artifact": {
-            "size": 1341,
+            "size": 1266,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/berefusimari.json",
-            "MD5": "5592106ee6785a8c16ff95702565cb06",
+            "MD5": "92756fd4dc124dc95c472b7e47ed11ff",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/berefusimari.json"
           }
         },
@@ -24123,9 +24123,9 @@
           "name": "beregris.json",
           "type": "File",
           "artifact": {
-            "size": 1332,
+            "size": 1257,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/beregris.json",
-            "MD5": "0111fedc29fdf610ac6d000486cc5c4b",
+            "MD5": "47c89bc814364d8beb16f60f24c56ea5",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/beregris.json"
           }
         },
@@ -24134,9 +24134,9 @@
           "name": "berejaun.json",
           "type": "File",
           "artifact": {
-            "size": 1333,
+            "size": 1258,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/berejaun.json",
-            "MD5": "9e14333838eff0c9e350ae894b565989",
+            "MD5": "d7827a621b151cb19e951d5077ff7210",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/berejaun.json"
           }
         },
@@ -24145,9 +24145,9 @@
           "name": "berenoir.json",
           "type": "File",
           "artifact": {
-            "size": 1332,
+            "size": 1257,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/berenoir.json",
-            "MD5": "f29b23ddb36869cc7b90115afc3575f3",
+            "MD5": "24ca29cdc041e3e4f9315d33fe5b2b62",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/berenoir.json"
           }
         },
@@ -24156,9 +24156,9 @@
           "name": "bereroug.json",
           "type": "File",
           "artifact": {
-            "size": 1333,
+            "size": 1258,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/bereroug.json",
-            "MD5": "c6700b6a82dc6dff403b8ba28ea026c2",
+            "MD5": "a93774b07ce65169c2db1138459eeab0",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/bereroug.json"
           }
         },
@@ -24167,9 +24167,9 @@
           "name": "bererougpara.json",
           "type": "File",
           "artifact": {
-            "size": 1345,
+            "size": 1270,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/bererougpara.json",
-            "MD5": "b652245202290a4b9fb1ba0f3e886714",
+            "MD5": "6861b0ab597ba34489b25e855c9e9de0",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/bererougpara.json"
           }
         },
@@ -24178,9 +24178,9 @@
           "name": "beresas.json",
           "type": "File",
           "artifact": {
-            "size": 1331,
+            "size": 1256,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/beresas.json",
-            "MD5": "1e3338ba06c2c928e3feca08080495b1",
+            "MD5": "a16d48c83122ee68ce5e53ad2bc672e6",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/beresas.json"
           }
         },
@@ -24189,9 +24189,9 @@
           "name": "berevert.json",
           "type": "File",
           "artifact": {
-            "size": 1332,
+            "size": 1257,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/berevert.json",
-            "MD5": "679210308b69ac51eedef525a8f58685",
+            "MD5": "e37067070adca12eaf12de129958353f",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/berevert.json"
           }
         },
@@ -24200,9 +24200,9 @@
           "name": "berevertpara.json",
           "type": "File",
           "artifact": {
-            "size": 1344,
+            "size": 1269,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/berevertpara.json",
-            "MD5": "aa3581b24d14fdebf7449c46ced9fb1b",
+            "MD5": "cdb10dc3b392864aaebc3d11d043fa0c",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/berevertpara.json"
           }
         },
@@ -24211,9 +24211,9 @@
           "name": "bereviol.json",
           "type": "File",
           "artifact": {
-            "size": 1334,
+            "size": 1259,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/bereviol.json",
-            "MD5": "6578f51bb58ab6a95937286652c7c1a5",
+            "MD5": "eb450914c6327c43ace55f9eddfe8549",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/bereviol.json"
           }
         },
@@ -24222,9 +24222,9 @@
           "name": "brasjaun.json",
           "type": "File",
           "artifact": {
-            "size": 1336,
+            "size": 1261,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/brasjaun.json",
-            "MD5": "3241d082058c9afb0a59f6feecc23908",
+            "MD5": "7258532fce40c42d9488213eb8a94d15",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/brasjaun.json"
           }
         },
@@ -24233,9 +24233,9 @@
           "name": "cachcoucommmari.json",
           "type": "File",
           "artifact": {
-            "size": 1345,
+            "size": 1270,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/cachcoucommmari.json",
-            "MD5": "d9c38775fcf6b5c5953ac3e01ac470f2",
+            "MD5": "680abfcd5cccd427f3898e22357f4af7",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/cachcoucommmari.json"
           }
         },
@@ -24244,9 +24244,9 @@
           "name": "commmaribas.json",
           "type": "File",
           "artifact": {
-            "size": 1340,
+            "size": 1265,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/commmaribas.json",
-            "MD5": "7e530078f189f8ddf12068ab03b551aa",
+            "MD5": "60f459af906d71775efa76c3e05f0bda",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/commmaribas.json"
           }
         },
@@ -24255,9 +24255,9 @@
           "name": "commmaricasq.json",
           "type": "File",
           "artifact": {
-            "size": 1343,
+            "size": 1268,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/commmaricasq.json",
-            "MD5": "179b08bc1a5d0320192af4f308ae339f",
+            "MD5": "53c759ea057111ad51c4d25bfbc90969",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/commmaricasq.json"
           }
         },
@@ -24266,9 +24266,9 @@
           "name": "commmarihaut.json",
           "type": "File",
           "artifact": {
-            "size": 1341,
+            "size": 1266,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/commmarihaut.json",
-            "MD5": "99c4de70164ec368a16ebe74e36387be",
+            "MD5": "dff5eb7f191cdaedb6e32326305ce107",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/commmarihaut.json"
           }
         },
@@ -24299,9 +24299,9 @@
           "name": "gilepareballcommmari.json",
           "type": "File",
           "artifact": {
-            "size": 1352,
+            "size": 1277,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/gilepareballcommmari.json",
-            "MD5": "e7ffd98ec75eb82e37e175ceb1e7c5b4",
+            "MD5": "bedccae10dc4235a46000f59f722ab21",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/gilepareballcommmari.json"
           }
         },
@@ -24321,9 +24321,9 @@
           "name": "unifcamo.json",
           "type": "File",
           "artifact": {
-            "size": 1345,
+            "size": 1270,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/unifcamo.json",
-            "MD5": "43712f65e6f5e3449dc52a14b3b1973f",
+            "MD5": "725abd40d000d93d88b6037d511a9652",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/unifcamo.json"
           }
         },
@@ -24332,9 +24332,9 @@
           "name": "unifcommmari.json",
           "type": "File",
           "artifact": {
-            "size": 1345,
+            "size": 1270,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/nowpack-mili/assets/flansmod/models/item/unifcommmari.json",
-            "MD5": "43712f65e6f5e3449dc52a14b3b1973f",
+            "MD5": "725abd40d000d93d88b6037d511a9652",
             "path": "Flan/nowpack-mili/assets/flansmod/models/item/unifcommmari.json"
           }
         },
@@ -24761,9 +24761,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 24932,
+            "size": 24541,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/lang/en_us.lang",
-            "MD5": "b27319d6e01bc4c0b41b9d39f1595cd7",
+            "MD5": "9445aa306ed3918b4130c3198d1b7704",
             "path": "Flan/pack-p1/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -24772,9 +24772,9 @@
           "name": "honda_atv_2006_2_gendarmerie_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_2_gendarmerie_letigreroyal.json",
-            "MD5": "1298748d681522ef03e95ebf56ce3622",
+            "MD5": "720fa1ef8bfd1206d338d6fd7f9146d0",
             "path": "Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_2_gendarmerie_letigreroyal.json"
           }
         },
@@ -24783,9 +24783,9 @@
           "name": "honda_atv_2006_blanc_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1372,
+            "size": 1297,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_blanc_letigreroyal.json",
-            "MD5": "bcca24f38985688592a13cf50adb59e3",
+            "MD5": "71f95f74283c4e28b2958a2886f21c8c",
             "path": "Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_blanc_letigreroyal.json"
           }
         },
@@ -24794,9 +24794,9 @@
           "name": "honda_atv_2006_bleu_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1371,
+            "size": 1296,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_bleu_letigreroyal.json",
-            "MD5": "78c51c6546267e1a4b6c09db42c2750a",
+            "MD5": "4ad7c8281b3c74e1b82e7a91dac6cb66",
             "path": "Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_bleu_letigreroyal.json"
           }
         },
@@ -24805,9 +24805,9 @@
           "name": "honda_atv_2006_jaune_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1372,
+            "size": 1297,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_jaune_letigreroyal.json",
-            "MD5": "f0a38e9f818bb4d74204ec3248df0b63",
+            "MD5": "58e17152fcc7dfaae1cbb4452c9f7b1a",
             "path": "Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_jaune_letigreroyal.json"
           }
         },
@@ -24816,9 +24816,9 @@
           "name": "honda_atv_2006_lime_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1371,
+            "size": 1296,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_lime_letigreroyal.json",
-            "MD5": "26ae2b1b329df58088e06b5ad0885b08",
+            "MD5": "d765683a9e6cf85c183a6afcbe8ce257",
             "path": "Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_lime_letigreroyal.json"
           }
         },
@@ -24827,9 +24827,9 @@
           "name": "honda_atv_2006_noir_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1371,
+            "size": 1296,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_noir_letigreroyal.json",
-            "MD5": "1177bdc2425d208448181badd2be3127",
+            "MD5": "c62e6fb3344908ccdf77c5724bb54318",
             "path": "Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_noir_letigreroyal.json"
           }
         },
@@ -24838,9 +24838,9 @@
           "name": "honda_atv_2006_rose_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1371,
+            "size": 1296,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_rose_letigreroyal.json",
-            "MD5": "03d0ed37367fcb1fa273f86e12ff7455",
+            "MD5": "320dc861c5520de5e78747d7cde52d99",
             "path": "Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_rose_letigreroyal.json"
           }
         },
@@ -24849,9 +24849,9 @@
           "name": "honda_atv_2006_rouge_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1372,
+            "size": 1297,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_rouge_letigreroyal.json",
-            "MD5": "b2d0ecfe559846a032d921bdcda1fffe",
+            "MD5": "971985dd38a3c26dc1f6299c0d18b3b7",
             "path": "Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_rouge_letigreroyal.json"
           }
         },
@@ -24860,9 +24860,9 @@
           "name": "honda_atv_2006_vert_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1371,
+            "size": 1296,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_vert_letigreroyal.json",
-            "MD5": "c616ff9b25649942ee3736d08e668d1a",
+            "MD5": "22744133101d6a5525f47849a4d665bd",
             "path": "Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_vert_letigreroyal.json"
           }
         },
@@ -24871,9 +24871,9 @@
           "name": "honda_atv_2006_violet_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1373,
+            "size": 1298,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_violet_letigreroyal.json",
-            "MD5": "3b9199bd86e126b7a72b31faf3f02d87",
+            "MD5": "3d6b72b67beafcd2d6b5e5b208885318",
             "path": "Flan/pack-p1/assets/flansmod/model/item/honda_atv_2006_violet_letigreroyal.json"
           }
         },
@@ -24882,9 +24882,9 @@
           "name": "renault_master_ap_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1369,
+            "size": 1294,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_ap_letigreroyal.json",
-            "MD5": "39b5d3fc0c37494f34e731b05038f87e",
+            "MD5": "66453aee6de7debc29e23ad08c10d312",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_ap_letigreroyal.json"
           }
         },
@@ -24893,9 +24893,9 @@
           "name": "renault_master_blanc_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1372,
+            "size": 1297,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_blanc_letigreroyal.json",
-            "MD5": "a6532e21f001971bac0e1e402ec39454",
+            "MD5": "5ad180f93500734f603c8b7730c7fada",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_blanc_letigreroyal.json"
           }
         },
@@ -24904,9 +24904,9 @@
           "name": "renault_master_bleu_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1371,
+            "size": 1296,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_bleu_letigreroyal.json",
-            "MD5": "fb52f0779637fe9abbfd5e8876211597",
+            "MD5": "f4e8057b398e319e4cfea524b7143910",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_bleu_letigreroyal.json"
           }
         },
@@ -24915,9 +24915,9 @@
           "name": "renault_master_crs_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1370,
+            "size": 1295,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_crs_letigreroyal.json",
-            "MD5": "0f141c59a034ebafc597403f39cb1a42",
+            "MD5": "06b718d70053df0d0db87811639473f4",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_crs_letigreroyal.json"
           }
         },
@@ -24926,9 +24926,9 @@
           "name": "renault_master_entreprise_10_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_10_letigreroyal.json",
-            "MD5": "5cb1bab54f191cb96a01c568f48285e7",
+            "MD5": "ae8fc3075d15dae397981d7efb2f03f4",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_10_letigreroyal.json"
           }
         },
@@ -24937,9 +24937,9 @@
           "name": "renault_master_entreprise_11_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_11_letigreroyal.json",
-            "MD5": "cc623de24be44ac383c0452d8d5720df",
+            "MD5": "7187178bc36550d49abb98a04b875cb9",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_11_letigreroyal.json"
           }
         },
@@ -24948,9 +24948,9 @@
           "name": "renault_master_entreprise_12_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_12_letigreroyal.json",
-            "MD5": "208569c7cde2474f905c6f2ff7654053",
+            "MD5": "b8e2d901f4c67956cdcc5d884ce31688",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_12_letigreroyal.json"
           }
         },
@@ -24959,9 +24959,9 @@
           "name": "renault_master_entreprise_13_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_13_letigreroyal.json",
-            "MD5": "419f34d1c570c845d887d53808a2a91f",
+            "MD5": "08ad7417e1afb785a871d026e585b0eb",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_13_letigreroyal.json"
           }
         },
@@ -24970,9 +24970,9 @@
           "name": "renault_master_entreprise_14_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_14_letigreroyal.json",
-            "MD5": "dfe7a82ed004d4bbc7cb6898b720b505",
+            "MD5": "bb47fa2ad7bd8771ac9925ff7a40b333",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_14_letigreroyal.json"
           }
         },
@@ -24981,9 +24981,9 @@
           "name": "renault_master_entreprise_15_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_15_letigreroyal.json",
-            "MD5": "29576afa5051dbf56608515d7f2f6355",
+            "MD5": "67b00507b85e5095e85f945baa9e4724",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_15_letigreroyal.json"
           }
         },
@@ -24992,9 +24992,9 @@
           "name": "renault_master_entreprise_16_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_16_letigreroyal.json",
-            "MD5": "8d6ef07fea9b088942edc18649ab65d0",
+            "MD5": "ebda27a8b0bd75c3f03717f315ff7766",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_16_letigreroyal.json"
           }
         },
@@ -25003,9 +25003,9 @@
           "name": "renault_master_entreprise_17_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_17_letigreroyal.json",
-            "MD5": "1c6765a559091acaeef0641f9a239f22",
+            "MD5": "6f753d33b05ec8954c6fcada8840e882",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_17_letigreroyal.json"
           }
         },
@@ -25014,9 +25014,9 @@
           "name": "renault_master_entreprise_18_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_18_letigreroyal.json",
-            "MD5": "754a1f45829cff43db417b804b2d8aae",
+            "MD5": "dc2100c0461950ca74d600dda7012ba8",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_18_letigreroyal.json"
           }
         },
@@ -25025,9 +25025,9 @@
           "name": "renault_master_entreprise_19_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_19_letigreroyal.json",
-            "MD5": "8e619bb582d3f0e80f1273da73116df1",
+            "MD5": "b9f2869102f812da14461bb3c3c4534f",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_19_letigreroyal.json"
           }
         },
@@ -25036,9 +25036,9 @@
           "name": "renault_master_entreprise_1_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1379,
+            "size": 1304,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_1_letigreroyal.json",
-            "MD5": "0fdd867f396e9d3b2697e8d7a9c5b5b4",
+            "MD5": "b1412b6bdb16253b185151929b492c22",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_1_letigreroyal.json"
           }
         },
@@ -25047,9 +25047,9 @@
           "name": "renault_master_entreprise_20_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_20_letigreroyal.json",
-            "MD5": "2bc1a96209c93fbf2e21b24a19efdb52",
+            "MD5": "e2e55741d4083f4da2a8c60bb970b212",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_20_letigreroyal.json"
           }
         },
@@ -25058,9 +25058,9 @@
           "name": "renault_master_entreprise_21_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_21_letigreroyal.json",
-            "MD5": "43686e55870f1651d033b4146350a24a",
+            "MD5": "9bd7cdfe0df0b33b88bd4986d392f50c",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_21_letigreroyal.json"
           }
         },
@@ -25069,9 +25069,9 @@
           "name": "renault_master_entreprise_22_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_22_letigreroyal.json",
-            "MD5": "c838ad14f6f7d723460ef24f43ec7f7b",
+            "MD5": "cd04f6b3d75a53942a2d3494132fc902",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_22_letigreroyal.json"
           }
         },
@@ -25080,9 +25080,9 @@
           "name": "renault_master_entreprise_23_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_23_letigreroyal.json",
-            "MD5": "4713e9f0f9b1982881bff8593ae2a2aa",
+            "MD5": "60618028b6ad35a6f00a4f62f9c9a01b",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_23_letigreroyal.json"
           }
         },
@@ -25091,9 +25091,9 @@
           "name": "renault_master_entreprise_24_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1380,
+            "size": 1305,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_24_letigreroyal.json",
-            "MD5": "d13edcb831d96406435d18d27e119d7f",
+            "MD5": "9b0842b34fef3c0e3f1ccfa7c89b9000",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_24_letigreroyal.json"
           }
         },
@@ -25102,9 +25102,9 @@
           "name": "renault_master_entreprise_2_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1379,
+            "size": 1304,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_2_letigreroyal.json",
-            "MD5": "815d50bfa6514d56f0fd1966c82bb165",
+            "MD5": "90b4c17650456db132f548ec3fbe7823",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_2_letigreroyal.json"
           }
         },
@@ -25113,9 +25113,9 @@
           "name": "renault_master_entreprise_4_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1379,
+            "size": 1304,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_4_letigreroyal.json",
-            "MD5": "cb707441b55736bad63c01b809a62110",
+            "MD5": "c2195c42ade9e5b064a7ceeded3a4177",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_4_letigreroyal.json"
           }
         },
@@ -25124,9 +25124,9 @@
           "name": "renault_master_entreprise_5_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1379,
+            "size": 1304,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_5_letigreroyal.json",
-            "MD5": "a9a909f5e1040bf289ff7450493bf7f1",
+            "MD5": "1407d502c6b74901f1658342f6a84a22",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_5_letigreroyal.json"
           }
         },
@@ -25135,9 +25135,9 @@
           "name": "renault_master_entreprise_6_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1379,
+            "size": 1304,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_6_letigreroyal.json",
-            "MD5": "fc8f783464bea21c84dc4409c430a5ca",
+            "MD5": "8e615eabbc8c6e235dc9b17773204ff4",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_6_letigreroyal.json"
           }
         },
@@ -25146,9 +25146,9 @@
           "name": "renault_master_entreprise_7_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1379,
+            "size": 1304,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_7_letigreroyal.json",
-            "MD5": "f5baccfbab37eefbed22624a830a5c43",
+            "MD5": "622aabc45667d78f5ac66d26d98f8eaa",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_7_letigreroyal.json"
           }
         },
@@ -25157,9 +25157,9 @@
           "name": "renault_master_entreprise_8_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1379,
+            "size": 1304,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_8_letigreroyal.json",
-            "MD5": "c5efbfca3e15f6321e99fd53d5d65aad",
+            "MD5": "d90a8d6cc9c2c5388b6f689ff6c9090d",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_8_letigreroyal.json"
           }
         },
@@ -25168,9 +25168,9 @@
           "name": "renault_master_entreprise_9_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1379,
+            "size": 1304,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_9_letigreroyal.json",
-            "MD5": "06a5ea9942adcf4788afbb74fe4ddc46",
+            "MD5": "cb4cf4d70a90d3a80d9ae0b784069676",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_entreprise_9_letigreroyal.json"
           }
         },
@@ -25179,9 +25179,9 @@
           "name": "renault_master_et_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1369,
+            "size": 1294,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_et_letigreroyal.json",
-            "MD5": "bd88d20bda1b9075786d43053e66ce34",
+            "MD5": "adf82edc29148a67f54f1194304679ca",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_et_letigreroyal.json"
           }
         },
@@ -25190,9 +25190,9 @@
           "name": "renault_master_gendarme2_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1376,
+            "size": 1301,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_gendarme2_letigreroyal.json",
-            "MD5": "c332ace4f4a22c2b4568d444e1cfc9f5",
+            "MD5": "0ee1bb4b24fa4d55cb39cea96d548ae5",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_gendarme2_letigreroyal.json"
           }
         },
@@ -25201,9 +25201,9 @@
           "name": "renault_master_gendarme3_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1376,
+            "size": 1301,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_gendarme3_letigreroyal.json",
-            "MD5": "a070c91a01000dc830ac593e70b1a1da",
+            "MD5": "7a3674256be8298aaec4bac28fe1bcb5",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_gendarme3_letigreroyal.json"
           }
         },
@@ -25212,9 +25212,9 @@
           "name": "renault_master_gendarme_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1375,
+            "size": 1300,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_gendarme_letigreroyal.json",
-            "MD5": "bcd179abd9a7238062f2d33aa8d0c6b9",
+            "MD5": "3efd7ed8b55b0928328cf3c8e96d8bd3",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_gendarme_letigreroyal.json"
           }
         },
@@ -25223,9 +25223,9 @@
           "name": "renault_master_gris_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1371,
+            "size": 1296,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_gris_letigreroyal.json",
-            "MD5": "cc1922af1698d71fddf61d4a12eb488b",
+            "MD5": "5f1bf0a80bdd8bf8ed39a5a2782859d9",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_gris_letigreroyal.json"
           }
         },
@@ -25234,9 +25234,9 @@
           "name": "renault_master_jaune_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1372,
+            "size": 1297,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_jaune_letigreroyal.json",
-            "MD5": "27499bf6fec056aa00c69c463f780fba",
+            "MD5": "6f4295fde0986eaffa9770ade30207e5",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_jaune_letigreroyal.json"
           }
         },
@@ -25245,9 +25245,9 @@
           "name": "renault_master_orange_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1373,
+            "size": 1298,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_orange_letigreroyal.json",
-            "MD5": "1799d133aead2b9a2310810af3fc9a38",
+            "MD5": "c302737046e6b3b390b1cb3a443a8231",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_orange_letigreroyal.json"
           }
         },
@@ -25256,9 +25256,9 @@
           "name": "renault_master_pn1_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1370,
+            "size": 1295,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_pn1_letigreroyal.json",
-            "MD5": "5af590127f81e2633915a53b8af45d70",
+            "MD5": "3546de9efc260948e74035acaca273c9",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_pn1_letigreroyal.json"
           }
         },
@@ -25267,9 +25267,9 @@
           "name": "renault_master_pompiera_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1375,
+            "size": 1300,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_pompiera_letigreroyal.json",
-            "MD5": "419c5548a327c0c665fbff563a5968ff",
+            "MD5": "30345e4fefd2ee4ab32f710bd0b6783f",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_pompiera_letigreroyal.json"
           }
         },
@@ -25278,9 +25278,9 @@
           "name": "renault_master_rose_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1371,
+            "size": 1296,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_rose_letigreroyal.json",
-            "MD5": "030b95efd7280b467fa1680158d49a53",
+            "MD5": "d6adf05f4c8fc08e0395ff62b5c93f6a",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_rose_letigreroyal.json"
           }
         },
@@ -25289,9 +25289,9 @@
           "name": "renault_master_rouge_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1372,
+            "size": 1297,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_rouge_letigreroyal.json",
-            "MD5": "9c8c81d239fb69a4e00b868b378cedfd",
+            "MD5": "bd9f84be9ab4c6fc7e9c7be0e7405b23",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_rouge_letigreroyal.json"
           }
         },
@@ -25300,9 +25300,9 @@
           "name": "renault_master_samu_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1371,
+            "size": 1296,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_samu_letigreroyal.json",
-            "MD5": "968ae67baaa9322c628ee16ae7c555b2",
+            "MD5": "11795de981cd634445c9ea8d3933e809",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_samu_letigreroyal.json"
           }
         },
@@ -25311,9 +25311,9 @@
           "name": "renault_master_vert_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1371,
+            "size": 1296,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/model/item/renault_master_vert_letigreroyal.json",
-            "MD5": "e7720f561363aa7dc0521959f848562c",
+            "MD5": "9db9711b7ad10d5dd0c33e2ec69f2560",
             "path": "Flan/pack-p1/assets/flansmod/model/item/renault_master_vert_letigreroyal.json"
           }
         },
@@ -25762,9 +25762,9 @@
           "name": "megane_rs_banalisee_bleu_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1159,
+            "size": 1083,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_banalisee_bleu_letigreroyal.json",
-            "MD5": "27293f0e3aa635d9bd586db0ce955ee7",
+            "MD5": "96938e3e4a72b8f3a0ada4a1b22ddd24",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_banalisee_bleu_letigreroyal.json"
           }
         },
@@ -25773,9 +25773,9 @@
           "name": "megane_rs_banalisee_grise_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1160,
+            "size": 1084,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_banalisee_grise_letigreroyal.json",
-            "MD5": "df9546e789af23c6ed252a057dccfdb3",
+            "MD5": "029592a0941c13f24357031824eb4bde",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_banalisee_grise_letigreroyal.json"
           }
         },
@@ -25784,9 +25784,9 @@
           "name": "megane_rs_banalisee_noire_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1160,
+            "size": 1084,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_banalisee_noire_letigreroyal.json",
-            "MD5": "8fdba031da78e9b76dcae97d37148399",
+            "MD5": "9b2cbc01878e72aaadb592066fc44075",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_banalisee_noire_letigreroyal.json"
           }
         },
@@ -25795,9 +25795,9 @@
           "name": "megane_rs_civil_blanc_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1156,
+            "size": 1080,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_blanc_letigreroyal.json",
-            "MD5": "eddff135ab3a32f7a5de6ef0f091d8a4",
+            "MD5": "7f9271103b02bb3976779079e69f19f1",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_blanc_letigreroyal.json"
           }
         },
@@ -25806,9 +25806,9 @@
           "name": "megane_rs_civil_bleu_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1155,
+            "size": 1079,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_bleu_letigreroyal.json",
-            "MD5": "0151add993dcdad060847e464d64cfa9",
+            "MD5": "10439b287ca2e2ef712dde6a661882ae",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_bleu_letigreroyal.json"
           }
         },
@@ -25817,9 +25817,9 @@
           "name": "megane_rs_civil_gris_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1155,
+            "size": 1079,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_gris_letigreroyal.json",
-            "MD5": "db39f44d0b9364298c9911a94eedc1d3",
+            "MD5": "c6ae719cdaa08228ec061ab8ef84e00a",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_gris_letigreroyal.json"
           }
         },
@@ -25828,9 +25828,9 @@
           "name": "megane_rs_civil_jaune_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1156,
+            "size": 1080,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_jaune_letigreroyal.json",
-            "MD5": "ad96229df597f0268d73e2915d50823b",
+            "MD5": "60f7aa2bf5cb00370f7398bb84025db4",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_jaune_letigreroyal.json"
           }
         },
@@ -25839,9 +25839,9 @@
           "name": "megane_rs_civil_noir_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1155,
+            "size": 1079,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_noir_letigreroyal.json",
-            "MD5": "139ce96860bc622d6149c37ded211d06",
+            "MD5": "9f44864cb23bde2b5bacad2855572add",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_noir_letigreroyal.json"
           }
         },
@@ -25850,9 +25850,9 @@
           "name": "megane_rs_civil_orange_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1157,
+            "size": 1081,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_orange_letigreroyal.json",
-            "MD5": "a4644640b26be26851118f079db00852",
+            "MD5": "c1b5ea30af0b051e744a5ad0b7db6ce6",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_orange_letigreroyal.json"
           }
         },
@@ -25861,9 +25861,9 @@
           "name": "megane_rs_civil_rose_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1155,
+            "size": 1079,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_rose_letigreroyal.json",
-            "MD5": "d92b5258e97c5aad6f309d88e7fc3512",
+            "MD5": "751811e3899841db442022f3cbf2a68a",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_rose_letigreroyal.json"
           }
         },
@@ -25872,9 +25872,9 @@
           "name": "megane_rs_civil_rouge_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1156,
+            "size": 1080,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_rouge_letigreroyal.json",
-            "MD5": "7ac184d879f44f045fabb7c3d2e78a57",
+            "MD5": "1a914b9639b367f32fac98ea5efc7aa0",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_rouge_letigreroyal.json"
           }
         },
@@ -25883,9 +25883,9 @@
           "name": "megane_rs_civil_verte_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1156,
+            "size": 1080,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_verte_letigreroyal.json",
-            "MD5": "d6706b04607211a5c7335411ec27df08",
+            "MD5": "50583b0388be79db5caa7a3c6e8bf0f0",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_verte_letigreroyal.json"
           }
         },
@@ -25894,9 +25894,9 @@
           "name": "megane_rs_civil_violet_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1157,
+            "size": 1081,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_violet_letigreroyal.json",
-            "MD5": "0c6e90673262c33f74a4487e82404b26",
+            "MD5": "e00e938bbc3dcf38162cb644c6d0eb16",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_civil_violet_letigreroyal.json"
           }
         },
@@ -25905,9 +25905,9 @@
           "name": "megane_rs_gendarmerie2_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1157,
+            "size": 1081,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_gendarmerie2_letigreroyal.json",
-            "MD5": "31a1a1189a635ce82d5baa30199fe3fe",
+            "MD5": "762b730b954b1df44e54ad16f8e6cfff",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_gendarmerie2_letigreroyal.json"
           }
         },
@@ -25916,9 +25916,9 @@
           "name": "megane_rs_gendarmerie_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1156,
+            "size": 1080,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_gendarmerie_letigreroyal.json",
-            "MD5": "8eabcd69dffd7620ecb6f1462c29ab95",
+            "MD5": "61ac63c331e194ef2f6974db7b112f17",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_gendarmerie_letigreroyal.json"
           }
         },
@@ -25927,9 +25927,9 @@
           "name": "megane_rs_pn2_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1148,
+            "size": 1072,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_pn2_letigreroyal.json",
-            "MD5": "4052abe043f3f4f542d866876532e824",
+            "MD5": "e4bccf67d72f14f30ae21199776a0b83",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_pn2_letigreroyal.json"
           }
         },
@@ -25938,9 +25938,9 @@
           "name": "megane_rs_pn_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1147,
+            "size": 1071,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_pn_letigreroyal.json",
-            "MD5": "bbaede8952ad56a8525afb3101ee10b4",
+            "MD5": "8f452c0bbb79c1d8d6753062c2cd55e6",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_pn_letigreroyal.json"
           }
         },
@@ -25949,9 +25949,9 @@
           "name": "megane_rs_pn_letigreroyal.txt.json",
           "type": "File",
           "artifact": {
-            "size": 1147,
+            "size": 1071,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/megane_rs_pn_letigreroyal.txt.json",
-            "MD5": "bbaede8952ad56a8525afb3101ee10b4",
+            "MD5": "8f452c0bbb79c1d8d6753062c2cd55e6",
             "path": "Flan/pack-p1/assets/flansmod/models/item/megane_rs_pn_letigreroyal.txt.json"
           }
         },
@@ -26400,9 +26400,9 @@
           "name": "skoda_karoq_blanc_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 558,
+            "size": 557,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_blanc_letigreroyal.json",
-            "MD5": "d2a0d309a911fc01d75d55d7a67cabe5",
+            "MD5": "b4f847a3a8e5eb7207bd29e21bf74203",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_blanc_letigreroyal.json"
           }
         },
@@ -26411,9 +26411,9 @@
           "name": "skoda_karoq_bleu_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 557,
+            "size": 556,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_bleu_letigreroyal.json",
-            "MD5": "32631f48e8daf0cfaedbfc28a7cfd77d",
+            "MD5": "69d55008d4d9045dcc81974e2ac29dad",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_bleu_letigreroyal.json"
           }
         },
@@ -26422,9 +26422,9 @@
           "name": "skoda_karoq_bri_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 553,
+            "size": 552,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_bri_letigreroyal.json",
-            "MD5": "7b271e46bd5cd5b2be8a70aa426cea40",
+            "MD5": "5e2f3f005b7606a656ad7be1d7a01e11",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_bri_letigreroyal.json"
           }
         },
@@ -26433,9 +26433,9 @@
           "name": "skoda_karoq_cyan_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 557,
+            "size": 556,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_cyan_letigreroyal.json",
-            "MD5": "c36bab8d9befb086dd16840e62a0ee3b",
+            "MD5": "df2b697d7f59e5fe1e606d1390262089",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_cyan_letigreroyal.json"
           }
         },
@@ -26444,9 +26444,9 @@
           "name": "skoda_karoq_douane_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 556,
+            "size": 555,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_douane_letigreroyal.json",
-            "MD5": "2906db2a88b93f105a435e2a178c46e5",
+            "MD5": "abab004079d5cb1a44d119a3277aa1a9",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_douane_letigreroyal.json"
           }
         },
@@ -26455,9 +26455,9 @@
           "name": "skoda_karoq_gd_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 552,
+            "size": 551,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_gd_letigreroyal.json",
-            "MD5": "ffa58a0feb0324b49d0092f556b98bf5",
+            "MD5": "47084c58c294ce7dcbf2a34f81f94614",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_gd_letigreroyal.json"
           }
         },
@@ -26466,9 +26466,9 @@
           "name": "skoda_karoq_gris_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 557,
+            "size": 556,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_gris_letigreroyal.json",
-            "MD5": "7715c8f7aebc3177a7d1692a03ab24d2",
+            "MD5": "00c7067c1599d36ae0975ddd6f85e65e",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_gris_letigreroyal.json"
           }
         },
@@ -26477,9 +26477,9 @@
           "name": "skoda_karoq_jaune_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 558,
+            "size": 557,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_jaune_letigreroyal.json",
-            "MD5": "2a7896d05f0a6a8cba2f96b1c86584a0",
+            "MD5": "c732055bcd2f329b172c2695d4cf0948",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_jaune_letigreroyal.json"
           }
         },
@@ -26488,9 +26488,9 @@
           "name": "skoda_karoq_ng2_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 552,
+            "size": 551,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_ng2_letigreroyal.json",
-            "MD5": "03c7c320adf47483204246b378de96f7",
+            "MD5": "5c24008cac2af8ad8a070e8f2700481a",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_ng2_letigreroyal.json"
           }
         },
@@ -26499,9 +26499,9 @@
           "name": "skoda_karoq_ng_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 552,
+            "size": 551,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_ng_letigreroyal.json",
-            "MD5": "03c7c320adf47483204246b378de96f7",
+            "MD5": "5c24008cac2af8ad8a070e8f2700481a",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_ng_letigreroyal.json"
           }
         },
@@ -26510,9 +26510,9 @@
           "name": "skoda_karoq_noir_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 557,
+            "size": 556,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_noir_letigreroyal.json",
-            "MD5": "2ac53b1d9cc07600feec91c1ad0ed8e7",
+            "MD5": "19b9754cfee0b6949d48b2f04c3f6625",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_noir_letigreroyal.json"
           }
         },
@@ -26521,9 +26521,9 @@
           "name": "skoda_karoq_orange_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 559,
+            "size": 558,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_orange_letigreroyal.json",
-            "MD5": "0e1c87d2692bcc347f6ab2310edecf50",
+            "MD5": "cccdcda93d5828b9c1dbe39883649d74",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_orange_letigreroyal.json"
           }
         },
@@ -26532,9 +26532,9 @@
           "name": "skoda_karoq_pb_blanc_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 558,
+            "size": 557,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_blanc_letigreroyal.json",
-            "MD5": "d2a0d309a911fc01d75d55d7a67cabe5",
+            "MD5": "b4f847a3a8e5eb7207bd29e21bf74203",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_blanc_letigreroyal.json"
           }
         },
@@ -26543,9 +26543,9 @@
           "name": "skoda_karoq_pb_bleu_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 557,
+            "size": 556,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_bleu_letigreroyal.json",
-            "MD5": "32631f48e8daf0cfaedbfc28a7cfd77d",
+            "MD5": "69d55008d4d9045dcc81974e2ac29dad",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_bleu_letigreroyal.json"
           }
         },
@@ -26554,9 +26554,9 @@
           "name": "skoda_karoq_pb_cyan_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 557,
+            "size": 556,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_cyan_letigreroyal.json",
-            "MD5": "c36bab8d9befb086dd16840e62a0ee3b",
+            "MD5": "df2b697d7f59e5fe1e606d1390262089",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_cyan_letigreroyal.json"
           }
         },
@@ -26565,9 +26565,9 @@
           "name": "skoda_karoq_pb_gris_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 557,
+            "size": 556,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_gris_letigreroyal.json",
-            "MD5": "7715c8f7aebc3177a7d1692a03ab24d2",
+            "MD5": "00c7067c1599d36ae0975ddd6f85e65e",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_gris_letigreroyal.json"
           }
         },
@@ -26576,9 +26576,9 @@
           "name": "skoda_karoq_pb_jaune_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 558,
+            "size": 557,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_jaune_letigreroyal.json",
-            "MD5": "2a7896d05f0a6a8cba2f96b1c86584a0",
+            "MD5": "c732055bcd2f329b172c2695d4cf0948",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_jaune_letigreroyal.json"
           }
         },
@@ -26587,9 +26587,9 @@
           "name": "skoda_karoq_pb_noir_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 557,
+            "size": 556,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_noir_letigreroyal.json",
-            "MD5": "2ac53b1d9cc07600feec91c1ad0ed8e7",
+            "MD5": "19b9754cfee0b6949d48b2f04c3f6625",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_noir_letigreroyal.json"
           }
         },
@@ -26598,9 +26598,9 @@
           "name": "skoda_karoq_pb_orange_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 559,
+            "size": 558,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_orange_letigreroyal.json",
-            "MD5": "0e1c87d2692bcc347f6ab2310edecf50",
+            "MD5": "cccdcda93d5828b9c1dbe39883649d74",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_orange_letigreroyal.json"
           }
         },
@@ -26609,9 +26609,9 @@
           "name": "skoda_karoq_pb_rose_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 557,
+            "size": 556,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_rose_letigreroyal.json",
-            "MD5": "b9c13a01340a9fc6f13f99e2d3eb9b5f",
+            "MD5": "6fbd3e5cebfd297f282de246462decda",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_rose_letigreroyal.json"
           }
         },
@@ -26620,9 +26620,9 @@
           "name": "skoda_karoq_pb_rouge_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 558,
+            "size": 557,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_rouge_letigreroyal.json",
-            "MD5": "522cd87f192211f3d582d272def2ce58",
+            "MD5": "a53c59b6f3c45bf859b57497cf3c113e",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_rouge_letigreroyal.json"
           }
         },
@@ -26631,9 +26631,9 @@
           "name": "skoda_karoq_pb_vert_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 557,
+            "size": 556,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_vert_letigreroyal.json",
-            "MD5": "fa95480caddc71c19c7d47ee5ffb93d1",
+            "MD5": "6d0537a5a1753c55448378ed4ff2ef10",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_vert_letigreroyal.json"
           }
         },
@@ -26642,9 +26642,9 @@
           "name": "skoda_karoq_pb_violet_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 559,
+            "size": 558,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_violet_letigreroyal.json",
-            "MD5": "9c72e4b7064eeda62ff2c6df9dba44bf",
+            "MD5": "a4de59af369d81fb4b17d6251394aa3d",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pb_violet_letigreroyal.json"
           }
         },
@@ -26653,9 +26653,9 @@
           "name": "skoda_karoq_pn_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 552,
+            "size": 551,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pn_letigreroyal.json",
-            "MD5": "f231f2dd1287da8d78361676f5937d49",
+            "MD5": "7903e1fea92d12c53436ba39b5b87ffb",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pn_letigreroyal.json"
           }
         },
@@ -26664,9 +26664,9 @@
           "name": "skoda_karoq_pompier_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 557,
+            "size": 556,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pompier_letigreroyal.json",
-            "MD5": "36b34dd38fa6b4523700db8faac0c6ff",
+            "MD5": "c2e07ad63adcd3350a5e3565e1a5aad7",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_pompier_letigreroyal.json"
           }
         },
@@ -26675,9 +26675,9 @@
           "name": "skoda_karoq_rose_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 557,
+            "size": 556,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_rose_letigreroyal.json",
-            "MD5": "b9c13a01340a9fc6f13f99e2d3eb9b5f",
+            "MD5": "6fbd3e5cebfd297f282de246462decda",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_rose_letigreroyal.json"
           }
         },
@@ -26686,9 +26686,9 @@
           "name": "skoda_karoq_rouge_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 558,
+            "size": 557,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_rouge_letigreroyal.json",
-            "MD5": "522cd87f192211f3d582d272def2ce58",
+            "MD5": "a53c59b6f3c45bf859b57497cf3c113e",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_rouge_letigreroyal.json"
           }
         },
@@ -26697,9 +26697,9 @@
           "name": "skoda_karoq_samu_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 554,
+            "size": 553,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_samu_letigreroyal.json",
-            "MD5": "2d03a4997855c4c8c9052c123aa542da",
+            "MD5": "70f2d378600ed208a0e3593031dda735",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_samu_letigreroyal.json"
           }
         },
@@ -26708,9 +26708,9 @@
           "name": "skoda_karoq_taxi_blanc_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 560,
+            "size": 559,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_taxi_blanc_letigreroyal.json",
-            "MD5": "2e722d58ae333f5c1742158b10a9cbf7",
+            "MD5": "59acd3bf25fa80955508e31ee89d61e6",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_taxi_blanc_letigreroyal.json"
           }
         },
@@ -26719,9 +26719,9 @@
           "name": "skoda_karoq_taxi_gris_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1156,
+            "size": 1080,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_taxi_gris_letigreroyal.json",
-            "MD5": "d1842ebf19416ea75d537626ef25b860",
+            "MD5": "952dbf3f65d581a81232e349633a7057",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_taxi_gris_letigreroyal.json"
           }
         },
@@ -26730,9 +26730,9 @@
           "name": "skoda_karoq_taxi_noir_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1156,
+            "size": 1080,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_taxi_noir_letigreroyal.json",
-            "MD5": "052f3aae9b44d2a98f0a32e54bd0fbe9",
+            "MD5": "4fc702831c978021109b5d471bf15267",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_taxi_noir_letigreroyal.json"
           }
         },
@@ -26741,9 +26741,9 @@
           "name": "skoda_karoq_vert_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 557,
+            "size": 556,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_vert_letigreroyal.json",
-            "MD5": "fa95480caddc71c19c7d47ee5ffb93d1",
+            "MD5": "6d0537a5a1753c55448378ed4ff2ef10",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_vert_letigreroyal.json"
           }
         },
@@ -26752,9 +26752,9 @@
           "name": "skoda_karoq_violet_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 559,
+            "size": 558,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_violet_letigreroyal.json",
-            "MD5": "9c72e4b7064eeda62ff2c6df9dba44bf",
+            "MD5": "a4de59af369d81fb4b17d6251394aa3d",
             "path": "Flan/pack-p1/assets/flansmod/models/item/skoda_karoq_violet_letigreroyal.json"
           }
         },
@@ -28204,9 +28204,9 @@
           "name": "sounds.json",
           "type": "File",
           "artifact": {
-            "size": 5564,
+            "size": 5269,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/assets/flansmod/sounds.json",
-            "MD5": "e8a61f5566431d1303cadb6f8ef78656",
+            "MD5": "6cc157ec2a004aca34fe1a90753659ec",
             "path": "Flan/pack-p1/assets/flansmod/sounds.json"
           }
         },
@@ -29634,9 +29634,9 @@
           "name": "pack.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 109,
+            "size": 104,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pack-p1/pack.mcmeta",
-            "MD5": "a5551f448892e40bb633431b3dac844d",
+            "MD5": "de9f5806ce025d4cbd4e6b3deb2c7464",
             "path": "Flan/pack-p1/pack.mcmeta"
           }
         },
@@ -31075,9 +31075,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 499,
+            "size": 490,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/packa-p1/assets/flansmod/lang/en_us.lang",
-            "MD5": "07a1c1146f85655284f720c1e821b260",
+            "MD5": "76209297688916a345de0a53a361156b",
             "path": "Flan/packa-p1/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -31460,9 +31460,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 82,
+            "size": 80,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/packb/assets/flansmod/lang/en_us.lang",
-            "MD5": "92ff8408fe38c4be3e5aba806d21fff7",
+            "MD5": "e09cb5d9f51abcb29099049e9ed2b140",
             "path": "Flan/packb/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -31471,9 +31471,9 @@
           "name": "fr_fr.lang",
           "type": "File",
           "artifact": {
-            "size": 95,
+            "size": 93,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/packb/assets/flansmod/lang/fr_fr.lang",
-            "MD5": "38b8081a2c49d73008d995346b5459a8",
+            "MD5": "1df45c08a2215db8182f84155589b13d",
             "path": "Flan/packb/assets/flansmod/lang/fr_fr.lang"
           }
         },
@@ -33088,9 +33088,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 2660,
+            "size": 2621,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/plume%20pack%20gendarmerie/assets/flansmod/lang/en_us.lang",
-            "MD5": "befab78e7aae564c69b09b750728e310",
+            "MD5": "94dfc731815161e3589614f9b3c197e5",
             "path": "Flan/plume pack gendarmerie/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -34309,9 +34309,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 445,
+            "size": 436,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pvp/assets/flansmod/lang/en_us.lang",
-            "MD5": "3404efa09acb9daf17e7e9616a11b3e5",
+            "MD5": "526c2f3f2addc1b65cfb0b4784b4ece4",
             "path": "Flan/pvp/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -34474,9 +34474,9 @@
           "name": "pvp_bri_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1142,
+            "size": 1066,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pvp/assets/flansmod/models/item/pvp_bri_letigreroyal.json",
-            "MD5": "e685c2a86746606944ff0444a6108326",
+            "MD5": "bb3dd516256f2f36e1f04c8140942b42",
             "path": "Flan/pvp/assets/flansmod/models/item/pvp_bri_letigreroyal.json"
           }
         },
@@ -34485,9 +34485,9 @@
           "name": "pvp_gd_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1141,
+            "size": 1065,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pvp/assets/flansmod/models/item/pvp_gd_letigreroyal.json",
-            "MD5": "5d59890f589171d82dd5911e3916e876",
+            "MD5": "6dc0f4747f94c5e68e91a5cf9127f7b5",
             "path": "Flan/pvp/assets/flansmod/models/item/pvp_gd_letigreroyal.json"
           }
         },
@@ -34496,9 +34496,9 @@
           "name": "pvp_gign_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1143,
+            "size": 1067,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pvp/assets/flansmod/models/item/pvp_gign_letigreroyal.json",
-            "MD5": "6cc0c6072a6a9a614f25aeb4c96a99a4",
+            "MD5": "0524c9dc5adeb4d760e5f7daa16133e9",
             "path": "Flan/pvp/assets/flansmod/models/item/pvp_gign_letigreroyal.json"
           }
         },
@@ -34507,9 +34507,9 @@
           "name": "pvp_m_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1140,
+            "size": 1064,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pvp/assets/flansmod/models/item/pvp_m_letigreroyal.json",
-            "MD5": "782d4933182ed2c9be4d5a6a1904e375",
+            "MD5": "e2929d8aec324adc38a6eb34ea717407",
             "path": "Flan/pvp/assets/flansmod/models/item/pvp_m_letigreroyal.json"
           }
         },
@@ -34518,9 +34518,9 @@
           "name": "pvp_noir_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1143,
+            "size": 1067,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pvp/assets/flansmod/models/item/pvp_noir_letigreroyal.json",
-            "MD5": "154e20ab1f43d8a24f749258efff4d1d",
+            "MD5": "e390df28769cc53f07467e6dbf201d86",
             "path": "Flan/pvp/assets/flansmod/models/item/pvp_noir_letigreroyal.json"
           }
         },
@@ -34529,9 +34529,9 @@
           "name": "pvp_raid_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1143,
+            "size": 1067,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pvp/assets/flansmod/models/item/pvp_raid_letigreroyal.json",
-            "MD5": "f72927a04c4efe5c6b61f5e4746bf108",
+            "MD5": "7a4cc451f1ca7532b0648f512b500c03",
             "path": "Flan/pvp/assets/flansmod/models/item/pvp_raid_letigreroyal.json"
           }
         },
@@ -34540,9 +34540,9 @@
           "name": "pvp_un1_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1142,
+            "size": 1066,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pvp/assets/flansmod/models/item/pvp_un1_letigreroyal.json",
-            "MD5": "569a1a4cb7d957d7c37433a48abe5532",
+            "MD5": "798b4d198570f4538d53c88cd01fb459",
             "path": "Flan/pvp/assets/flansmod/models/item/pvp_un1_letigreroyal.json"
           }
         },
@@ -34551,9 +34551,9 @@
           "name": "pvp_un2_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1142,
+            "size": 1066,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pvp/assets/flansmod/models/item/pvp_un2_letigreroyal.json",
-            "MD5": "c5d386306753ba44f4e4548669bfebb4",
+            "MD5": "2d6e43f17fdf69aecd3ba5fb87fabb86",
             "path": "Flan/pvp/assets/flansmod/models/item/pvp_un2_letigreroyal.json"
           }
         },
@@ -35310,9 +35310,9 @@
           "name": "sounds.json",
           "type": "File",
           "artifact": {
-            "size": 5564,
+            "size": 5269,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pvp/assets/flansmod/sounds.json",
-            "MD5": "e8a61f5566431d1303cadb6f8ef78656",
+            "MD5": "6cc157ec2a004aca34fe1a90753659ec",
             "path": "Flan/pvp/assets/flansmod/sounds.json"
           }
         },
@@ -35497,9 +35497,9 @@
           "name": "pack_info.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 100,
+            "size": 95,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/pvp/pack_info.mcmeta",
-            "MD5": "b65cabefa40a18dc9e8be7bbd29adf23",
+            "MD5": "ac565b48dc4bf50ef26762b2e5524105",
             "path": "Flan/pvp/pack_info.mcmeta"
           }
         },
@@ -35596,9 +35596,9 @@
           "name": "en_us.lang",
           "type": "File",
           "artifact": {
-            "size": 44763,
+            "size": 43757,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/renault%20gbc-p1/assets/flansmod/lang/en_us.lang",
-            "MD5": "1b8f04f322cf57c7227c34c5ed9ae998",
+            "MD5": "8c632cddb47a85d4e7e5ae41e891a9e1",
             "path": "Flan/renault gbc-p1/assets/flansmod/lang/en_us.lang"
           }
         },
@@ -35607,9 +35607,9 @@
           "name": "renault_master_crs_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1370,
+            "size": 1295,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/renault%20gbc-p1/assets/flansmod/model/item/renault_master_crs_letigreroyal.json",
-            "MD5": "0f141c59a034ebafc597403f39cb1a42",
+            "MD5": "06b718d70053df0d0db87811639473f4",
             "path": "Flan/renault gbc-p1/assets/flansmod/model/item/renault_master_crs_letigreroyal.json"
           }
         },
@@ -35618,9 +35618,9 @@
           "name": "renault_master_et_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1369,
+            "size": 1294,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/renault%20gbc-p1/assets/flansmod/model/item/renault_master_et_letigreroyal.json",
-            "MD5": "bd88d20bda1b9075786d43053e66ce34",
+            "MD5": "adf82edc29148a67f54f1194304679ca",
             "path": "Flan/renault gbc-p1/assets/flansmod/model/item/renault_master_et_letigreroyal.json"
           }
         },
@@ -35629,9 +35629,9 @@
           "name": "renault_master_gendarme2_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1376,
+            "size": 1301,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/renault%20gbc-p1/assets/flansmod/model/item/renault_master_gendarme2_letigreroyal.json",
-            "MD5": "c332ace4f4a22c2b4568d444e1cfc9f5",
+            "MD5": "0ee1bb4b24fa4d55cb39cea96d548ae5",
             "path": "Flan/renault gbc-p1/assets/flansmod/model/item/renault_master_gendarme2_letigreroyal.json"
           }
         },
@@ -35640,9 +35640,9 @@
           "name": "renault_master_gendarme3_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1376,
+            "size": 1301,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/renault%20gbc-p1/assets/flansmod/model/item/renault_master_gendarme3_letigreroyal.json",
-            "MD5": "a070c91a01000dc830ac593e70b1a1da",
+            "MD5": "7a3674256be8298aaec4bac28fe1bcb5",
             "path": "Flan/renault gbc-p1/assets/flansmod/model/item/renault_master_gendarme3_letigreroyal.json"
           }
         },
@@ -35651,9 +35651,9 @@
           "name": "renault_master_gendarme_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1375,
+            "size": 1300,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/renault%20gbc-p1/assets/flansmod/model/item/renault_master_gendarme_letigreroyal.json",
-            "MD5": "bcd179abd9a7238062f2d33aa8d0c6b9",
+            "MD5": "3efd7ed8b55b0928328cf3c8e96d8bd3",
             "path": "Flan/renault gbc-p1/assets/flansmod/model/item/renault_master_gendarme_letigreroyal.json"
           }
         },
@@ -35662,9 +35662,9 @@
           "name": "renault_master_pn1_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1370,
+            "size": 1295,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/renault%20gbc-p1/assets/flansmod/model/item/renault_master_pn1_letigreroyal.json",
-            "MD5": "5af590127f81e2633915a53b8af45d70",
+            "MD5": "3546de9efc260948e74035acaca273c9",
             "path": "Flan/renault gbc-p1/assets/flansmod/model/item/renault_master_pn1_letigreroyal.json"
           }
         },
@@ -35673,9 +35673,9 @@
           "name": "renault_master_pompiera_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1375,
+            "size": 1300,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/renault%20gbc-p1/assets/flansmod/model/item/renault_master_pompiera_letigreroyal.json",
-            "MD5": "419c5548a327c0c665fbff563a5968ff",
+            "MD5": "30345e4fefd2ee4ab32f710bd0b6783f",
             "path": "Flan/renault gbc-p1/assets/flansmod/model/item/renault_master_pompiera_letigreroyal.json"
           }
         },
@@ -35684,9 +35684,9 @@
           "name": "renault_master_samu_letigreroyal.json",
           "type": "File",
           "artifact": {
-            "size": 1371,
+            "size": 1296,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/renault%20gbc-p1/assets/flansmod/model/item/renault_master_samu_letigreroyal.json",
-            "MD5": "968ae67baaa9322c628ee16ae7c555b2",
+            "MD5": "11795de981cd634445c9ea8d3933e809",
             "path": "Flan/renault gbc-p1/assets/flansmod/model/item/renault_master_samu_letigreroyal.json"
           }
         },
@@ -38170,9 +38170,9 @@
           "name": "sounds.json",
           "type": "File",
           "artifact": {
-            "size": 84,
+            "size": 79,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/renault%20gbc-p1/assets/flansmod/sounds.json",
-            "MD5": "9312215bf6270fe55e9f8e34688d1561",
+            "MD5": "701387129caab58b383b91dac89b9ed5",
             "path": "Flan/renault gbc-p1/assets/flansmod/sounds.json"
           }
         },
@@ -38665,9 +38665,9 @@
           "name": "pack.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 109,
+            "size": 104,
             "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/files/Flan/renault%20gbc-p1/pack.mcmeta",
-            "MD5": "a5551f448892e40bb633431b3dac844d",
+            "MD5": "de9f5806ce025d4cbd4e6b3deb2c7464",
             "path": "Flan/renault gbc-p1/pack.mcmeta"
           }
         },
