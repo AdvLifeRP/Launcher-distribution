@@ -435,8 +435,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11751,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/required/HotLib-1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionaloff/HotLib-1.12.2.jar",
             "MD5": "289c564e0382ddbdd5df573b402c5610"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -485,8 +489,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 425127,
-            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/required/Mysticallib-1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/Delusoire/AdvLifeLauncher-distro/main/servers/AdventureLifeRP-1.12.2/forgemods/optionaloff/Mysticallib-1.12.2.jar",
             "MD5": "34bbb00e2eae273e1935e419a8ec48b7"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
