@@ -1,0 +1,9 @@
+Name firstarmor
+ShortName firstarmor
+Icon firstarmor
+Colour 255 255 255
+Type Body
+Model mainpack.firstarmor
+Defence 0.30
+ArmourTexture skin_armor_firstarmor
+ModelScale 1.00
