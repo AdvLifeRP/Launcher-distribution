@@ -460,6 +460,26 @@
           }
         },
         {
+          "id": "com.modularmods:mcgltf:1.12.2-Forge-2.0.3.0@jar",
+          "name": "MCglTF",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 558870,
+            "url": "https://raw.githubusercontent.com/AdvLifeRP/Launcher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/MCglTF-1.12.2-Forge-2.0.3.0.jar",
+            "MD5": "11df7853ab718b7d63cc9c93475552f4"
+          }
+        },
+        {
+          "id": "mchhui.modularmovements:modularmovements:1.2.0f@jar",
+          "name": "ModularMovements",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 52281,
+            "url": "https://raw.githubusercontent.com/AdvLifeRP/Launcher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/modularmovements-1.2.0f.jar",
+            "MD5": "a881d8aa377fbc7594c8af56654df962"
+          }
+        },
+        {
           "id": "fr.nathanael2611.modularvoicechat:modularvc:1.1.1@jar",
           "name": "ModularVoiceChat",
           "type": "ForgeMod",
@@ -467,6 +487,16 @@
             "size": 2807958,
             "url": "https://raw.githubusercontent.com/AdvLifeRP/Launcher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/ModularVoiceChat-1.12.2.jar",
             "MD5": "63cd7dc41f8adc1112de2c377433c5aa"
+          }
+        },
+        {
+          "id": "com.modularwarfare:modularwarfare:2.4.2f@jar",
+          "name": "ModularWarfare",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77167187,
+            "url": "https://raw.githubusercontent.com/AdvLifeRP/Launcher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/modularwarfare-2.4.2f.jar",
+            "MD5": "e9fa42e10a052f385f39731dac7f1fa3"
           }
         },
         {
