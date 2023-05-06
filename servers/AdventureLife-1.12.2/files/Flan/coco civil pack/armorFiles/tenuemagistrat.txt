@@ -1,8 +1,0 @@
-Name tenuemagistrat
-ShortName tenuemagistrat
-Colour 255 255 255
-Type Chest
-Defence 0.7
-ArmourTexture tenuemagistrat
-Model coco.tenuemagistrat
-Icon tenuemagistrat

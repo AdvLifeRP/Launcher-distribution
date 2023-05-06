@@ -1,8 +1,0 @@
-Name PullMarron
-ShortName PullMarron
-Colour 255 255 255
-Type Chest 
-Defence 0.3
-ArmourTexture Skin_Armor_PullMarron
-Model coco.pull
-Icon PullMarron

@@ -1,9 +1,0 @@
-Name Bandeau
-ShortName Bandeau
-Colour 255 255 255
-Type Head
-Defence 0.2
-ArmourTexture Skin_Armor_Bandeau
-Model coco.Bandeau
-Icon Bandeau
-Overlay Bandeau

@@ -1,9 +1,0 @@
-Name ppgendarmeriepololongnoir
-ShortName ppgendarmeriepololongnoir
-ModelScale 1
-Icon ppgendarmeriepololongnoir
-Type Body
-Model PlumePack.ppgendarmeriepololong
-ArmorTexture skin_armor_ppgendarmeriepolonoir
-Defence 0.30
-SmokeProtection false

@@ -1,9 +1,0 @@
-Name ppgendarmeriedcapitaine
-ShortName ppgendarmeriedcapitaine
-ModelScale 1
-Icon ppgendarmeriedcapitaine
-Type Boots
-Model PlumePack.ppgendarmeriecapitaine
-ArmorTexture skin_armor_ppgendarmeriedept
-Defence 0.0
-SmokeProtection false

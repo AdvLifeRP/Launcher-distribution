@@ -1,8 +1,0 @@
-Name chemiserose
-ShortName chemiserose
-Colour 255 255 255
-Type Chest 
-Defence 0.3 
-ArmourTexture Skin_Armor_chemiserose
-Model coco.chemiseblanche
-Icon chemiserose

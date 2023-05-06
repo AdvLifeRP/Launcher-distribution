@@ -1,9 +1,0 @@
-Name ppgendarmeriedadjudant
-ShortName ppgendarmeriedadjudant
-ModelScale 1
-Icon ppgendarmeriedadjudant
-Type Boots
-Model PlumePack.ppgendarmerieadjudant
-ArmorTexture skin_armor_ppgendarmeriemob
-Defence 0.0
-SmokeProtection false

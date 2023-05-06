@@ -1,9 +1,0 @@
-Name ppgendarmerievestedmajor
-ShortName ppgendarmerievestedmajor
-ModelScale 1
-Icon ppgendarmerievestedmajor
-Type Boots
-Model PlumePack.ppgendarmerievestemajor
-ArmorTexture skin_armor_gradevestedp
-Defence 0.0
-SmokeProtection false

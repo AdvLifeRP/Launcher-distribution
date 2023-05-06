@@ -11,12 +11,12 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:1
+difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:[]
-incompatibleResourcePacks:[]
+resourcePacks:["Greenfield.1.17.zip"]
+incompatibleResourcePacks:["Greenfield.1.17.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -94,13 +94,13 @@ key_Quest Log:0
 key_key.fart.desc:0
 key_mvc.config.pushtotalk:47
 key_mvc.config.openconfig:0
-key_key.z-voice-range.voicerange:48
+key_key.z-voice-range.voicerange:35
 key_key.pitchDown.desc:0
 key_key.vehicleMenu.desc:25
 key_key.dropBomb.desc:0
 key_key.fireVehicleGuns.desc:0
 key_key.switchControlMode.desc:0
-key_key.reload.desc:19
+key_key.reload.desc:0
 key_key.teamsMenu.desc:0
 key_key.teamsScores.desc:0
 key_key.rollLeft.desc:0
@@ -109,10 +109,27 @@ key_key.toggleLandingGear.desc:0
 key_key.toggleDoors.desc:0
 key_key.switchMovementMode.desc:0
 key_key.lookAtGun.desc:0
-key_key.debug.desc:68
+key_key.debug.desc:0
 key_key.reloadModels.desc:0
 key_key.primaryVehicleInteract.desc:0
 key_key.secondaryVehicleInteract.desc:0
+key_Sit/Sliding:46
+key_Crawling:29
+key_Left Probe:30
+key_Right Probe:18
+key_Reload Gun:19
+key_Reload Client:67
+key_Fire Mode:48
+key_Inspect:49
+key_Unload Key:22
+key_Attachment Mode:50
+key_Flashlight:0
+key_Open Inventory:0
+key_Left (Attach mode):203
+key_Right (Attach mode):205
+key_Up (Attach mode):200
+key_Down (Attach mode):208
+key_Debug Mode:68
 key_key.securitycraft.cameraZoomIn:0
 key_key.securitycraft.cameraZoomOut:0
 key_key.securitycraft.cameraEmitRedstone:0

@@ -1,9 +1,0 @@
-Name ppgendarmeriedmarechaldeslogischef
-ShortName ppgendarmeriedmarechaldeslogischef
-ModelScale 1
-Icon ppgendarmeriedmarechaldeslogis
-Type Boots
-Model PlumePack.ppgendarmeriemarechaldeslogischef
-ArmorTexture skin_armor_ppgendarmeriedept
-Defence 0.0
-SmokeProtection false

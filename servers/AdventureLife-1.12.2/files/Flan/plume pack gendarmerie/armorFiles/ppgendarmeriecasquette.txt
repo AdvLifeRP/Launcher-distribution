@@ -1,9 +1,0 @@
-Name ppgendarmeriecasquette
-ShortName ppgendarmeriecasquette
-ModelScale 1
-Icon ppgendarmeriecasquette
-Type Head
-Model PlumePack.ppgendarmeriecasquette
-ArmorTexture skin_armor_ppgendarmeriecasquette
-Defence 0.30
-SmokeProtection false

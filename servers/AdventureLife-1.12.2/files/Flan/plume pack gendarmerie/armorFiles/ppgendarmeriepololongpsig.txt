@@ -1,9 +1,0 @@
-Name ppgendarmeriepololongpsig
-ShortName ppgendarmeriepololongpsig
-ModelScale 1
-Icon ppgendarmeriepololongpsig
-Type Body
-Model PlumePack.ppgendarmeriepololong
-ArmorTexture skin_armor_ppgendarmeriepolopsig
-Defence 0.30
-SmokeProtection false

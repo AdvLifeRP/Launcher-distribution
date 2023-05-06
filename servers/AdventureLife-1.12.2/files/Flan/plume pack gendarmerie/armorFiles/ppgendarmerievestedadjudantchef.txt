@@ -1,9 +1,0 @@
-Name ppgendarmerievestedadjudantchef
-ShortName ppgendarmerievestedadjudantchef
-ModelScale 1
-Icon ppgendarmerievestedadjudantchef
-Type Boots
-Model PlumePack.ppgendarmerievesteadjudant
-ArmorTexture skin_armor_gradevestembdp
-Defence 0.0
-SmokeProtection false

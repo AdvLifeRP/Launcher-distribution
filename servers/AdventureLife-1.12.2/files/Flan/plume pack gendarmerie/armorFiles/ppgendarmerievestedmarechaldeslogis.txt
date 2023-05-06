@@ -1,9 +1,0 @@
-Name ppgendarmerievestedmarechaldeslogis
-ShortName ppgendarmerievestedmarechaldeslogis
-ModelScale 1
-Icon ppgendarmerievestedmarechaldeslogis
-Type Boots
-Model PlumePack.ppgendarmerievestemarechaldeslogis
-ArmorTexture skin_armor_gradevestedp
-Defence 0.0
-SmokeProtection false

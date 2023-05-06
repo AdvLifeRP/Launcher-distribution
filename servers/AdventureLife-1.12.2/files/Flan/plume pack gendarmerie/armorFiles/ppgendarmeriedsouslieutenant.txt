@@ -1,9 +1,0 @@
-Name ppgendarmeriedsouslieutenant
-ShortName ppgendarmeriedsouslieutenant
-ModelScale 1
-Icon ppgendarmeriedsouslieutenant
-Type Boots
-Model PlumePack.ppgendarmeriesouslieutenant
-ArmorTexture skin_armor_ppgendarmeriedept
-Defence 0.0
-SmokeProtection false

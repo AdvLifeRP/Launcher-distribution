@@ -1,9 +1,0 @@
-Name ppgendarmerievestepsig
-ShortName ppgendarmerievestepsig
-ModelScale 1
-Icon ppgendarmerievestepsig
-Type Body
-Model PlumePack.ppgendarmerieveste
-ArmorTexture skin_armor_ppgendarmerievestepsig
-Defence 0.0
-SmokeProtection false

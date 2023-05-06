@@ -1,8 +1,0 @@
-Name PantalonBeige
-ShortName PantalonBeige
-Colour 255 255 255
-Type Pants
-Defence 0.1
-ArmourTexture CocoPantalonBeige
-Model coco.pantalon
-Icon PantalonBeige

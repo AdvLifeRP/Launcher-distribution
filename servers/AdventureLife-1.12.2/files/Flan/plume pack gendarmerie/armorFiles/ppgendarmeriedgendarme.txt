@@ -1,9 +1,0 @@
-Name ppgendarmeriedgendarme
-ShortName ppgendarmeriedgendarme
-ModelScale 1
-Icon ppgendarmeriedgendarme
-Type Boots
-Model PlumePack.ppgendarmeriegendarme
-ArmorTexture skin_armor_ppgendarmeriedept
-Defence 0.0
-SmokeProtection false
