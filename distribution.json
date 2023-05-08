@@ -390,13 +390,13 @@
           }
         },
         {
-          "id": "com.flansmod.apocalypse:flansmod:5.10.2@jar",
+          "id": "com.flansmod:flansmod:5.10.3@jar",
           "name": "Flan's Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2847321,
-            "url": "https://raw.githubusercontent.com/AdvLifeRP/Launcher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/Flans%20Mod-1.12.2-5.10.2.jar",
-            "MD5": "898248f32ca392b66ff2cb822339e88a"
+            "size": 2261781,
+            "url": "https://raw.githubusercontent.com/AdvLifeRP/Launcher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/Flans%20Mod-1.12.2-5.10.3.jar",
+            "MD5": "94ddbb5b22ac6377b4f5d96dfb640751"
           }
         },
         {
@@ -26922,6 +26922,28 @@
             "url": "https://raw.githubusercontent.com/AdvLifeRP/Launcher-distro/main/servers/AdventureLife-1.12.2/files/mods/malisiscore-1.12.2-6.5.1.jar",
             "MD5": "ccc183a97d7b9688a49bf29b61343f49",
             "path": "mods/malisiscore-1.12.2-6.5.1.jar"
+          }
+        },
+        {
+          "id": "animated-2.4.2f-contentpack.zip",
+          "name": "animated-2.4.2f-contentpack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 47556630,
+            "url": "https://raw.githubusercontent.com/AdvLifeRP/Launcher-distro/main/servers/AdventureLife-1.12.2/files/ModularWarfare/animated-2.4.2f-contentpack.zip",
+            "MD5": "5d7b69a8975996aee6fb6fc5338960f3",
+            "path": "ModularWarfare/animated-2.4.2f-contentpack.zip"
+          }
+        },
+        {
+          "id": "prototype-2.4.2f-contentpack.zip",
+          "name": "prototype-2.4.2f-contentpack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 16174399,
+            "url": "https://raw.githubusercontent.com/AdvLifeRP/Launcher-distro/main/servers/AdventureLife-1.12.2/files/ModularWarfare/prototype-2.4.2f-contentpack.zip",
+            "MD5": "01a86a540dd9d1ef1f2bea65c390b88b",
+            "path": "ModularWarfare/prototype-2.4.2f-contentpack.zip"
           }
         },
         {
