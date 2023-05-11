@@ -390,13 +390,13 @@
           }
         },
         {
-          "id": "com.flansmod:flansmod:5.10.3@jar",
+          "id": "com.flansmod.apocalypse:flansmod:5.10.3@jar",
           "name": "Flan's Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2261781,
+            "size": 2825088,
             "url": "https://raw.githubusercontent.com/AdvLifeRP/Launcher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/Flans%20Mod-1.12.2-5.10.3.jar",
-            "MD5": "94ddbb5b22ac6377b4f5d96dfb640751"
+            "MD5": "4b99d74f981162c67816881959be3634"
           }
         },
         {
