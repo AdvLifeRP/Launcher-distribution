@@ -394,9 +394,9 @@
           "name": "Flan's Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2825088,
+            "size": 2848442,
             "url": "https://raw.githubusercontent.com/AdvLifeRP/Launcher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/Flans%20Mod-1.12.2-5.10.3.jar",
-            "MD5": "4b99d74f981162c67816881959be3634"
+            "MD5": "1cb72ac2d81a3fb2f3bcee030d60579c"
           }
         },
         {
