@@ -306,19 +306,6 @@
           }
         },
         {
-          "id": "net.kewane:drawmyliferoutes:1.0.0@jar",
-          "name": "DrawMyLife - Routes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 451041,
-            "url": "https://raw.githubusercontent.com/AdvLifeRP/Launcher-distro/main/servers/AdventureLife-1.12.2/forgemods/optionalon/AdventureLifeRP-Routes.jar",
-            "MD5": "a69bb71b8cfb1b6887cdf912911689e5"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "net.sterwim.advtlife:adventurelife:1.0.0@jar",
           "name": "AdventureLifeRP",
           "type": "ForgeMod",
@@ -594,19 +581,6 @@
             "size": 4072608,
             "url": "https://raw.githubusercontent.com/AdvLifeRP/Launcher-distro/main/servers/AdventureLife-1.12.2/forgemods/required/rojiuramod-1.12.2_0.1.4.a.jar",
             "MD5": "5a2c5da4645273d8677ccd5109796d81"
-          }
-        },
-        {
-          "id": "com.bear.rojiura:rojiuramod:1.12.2_0.1.4.a@jar",
-          "name": "Rojiura Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4072608,
-            "url": "https://raw.githubusercontent.com/AdvLifeRP/Launcher-distro/main/servers/AdventureLife-1.12.2/forgemods/optionalon/rojiuramod-1.12.2_0.1.4.a.jar",
-            "MD5": "5a2c5da4645273d8677ccd5109796d81"
-          },
-          "required": {
-            "value": false
           }
         },
         {
